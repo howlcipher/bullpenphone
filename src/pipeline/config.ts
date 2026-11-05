@@ -4,7 +4,7 @@ import { parse } from 'yaml';
 import * as z from 'zod/mini';
 import { isHttpsUrl } from '../core/schemas';
 
-const root = process.env.HOTSTOVE_ROOT ?? process.cwd();
+const root = process.env.BULLPENPHONE_ROOT ?? process.cwd();
 const load = (name: string): unknown => parse(readFileSync(resolve(root, 'config', name), 'utf8'));
 
 const feedSchema = z.object({

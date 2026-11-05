@@ -16,7 +16,8 @@ interface Props {
   showMoves?: boolean;
 }
 
-const KEY = 'hotstove.followed';
+const KEY = 'bullpenphone.followed';
+const PAGE_SIZE = 40;
 const readFollowed = (): string[] => {
   try {
     const parsed: unknown = JSON.parse(localStorage.getItem(KEY) ?? '[]');
@@ -56,6 +57,7 @@ export default function Board({ initial, generatedAt, base, rawUrl, pagesUrl, te
   const [status, setStatus] = useState('all');
   const [transactions, setTransactions] = useState<MlbTransaction[]>([]);
   const [officialState, setOfficialState] = useState<'loading' | 'ok' | 'failed'>('loading');
+  const [limit, setLimit] = useState(PAGE_SIZE);
 
   useEffect(() => {
     setFollowed(readFollowed());
@@ -100,6 +102,9 @@ export default function Board({ initial, generatedAt, base, rawUrl, pagesUrl, te
     return true;
   });
 
+  const shown = visible.slice(0, limit);
+  useEffect(() => setLimit(PAGE_SIZE), [followed, type, status]);
+
   const toggle = (abbr: string) => {
     const next = followed.includes(abbr) ? followed.filter((value) => value !== abbr) : [...followed, abbr];
     setFollowed(next);
@@ -142,14 +147,21 @@ export default function Board({ initial, generatedAt, base, rawUrl, pagesUrl, te
         </label>
       </div>
       <p class="meta" aria-live="polite">
-        <span>{visible.length} {visible.length === 1 ? 'thread' : 'threads'}</span>
+        <span>{shown.length < visible.length ? `Showing ${shown.length} of ${visible.length} threads` : `${visible.length} ${visible.length === 1 ? 'thread' : 'threads'}`}</span>
         <span>Updated <time dateTime={updated}>{new Date(updated).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZone: 'UTC' })} UTC</time></span>
         {officialState === 'failed' ? <span>Official badges unavailable right now</span> : null}
       </p>
       {visible.length ? (
-        <ul class="card-list">
-          {visible.map((thread) => <ThreadCard thread={thread} now={now} base={base} official={official.get(thread.id)} key={thread.id} />)}
-        </ul>
+        <>
+          <ul class="card-list">
+            {shown.map((thread) => <ThreadCard thread={thread} now={now} base={base} official={official.get(thread.id)} key={thread.id} />)}
+          </ul>
+          {shown.length < visible.length ? (
+            <button type="button" class="show-more" onClick={() => setLimit(limit + PAGE_SIZE)}>
+              Show {Math.min(PAGE_SIZE, visible.length - shown.length)} more
+            </button>
+          ) : null}
+        </>
       ) : (
         <p class="empty">Nothing matches these filters yet. During quiet stretches, or if a work stoppage freezes moves, this board can stay empty for a while.</p>
       )}

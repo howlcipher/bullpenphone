@@ -33,8 +33,11 @@ export default function LivePosts({ reporters }: { reporters: Reporter[] }) {
   const [posts, setPosts] = useState<Post[]>([]);
   const [state, setState] = useState<'loading' | 'ok' | 'failed'>('loading');
   const [now, setNow] = useState(0);
+  // Collapsed on phones so it doesn't push the board down; open beside the board on desktop.
+  const [open, setOpen] = useState(false);
 
   useEffect(() => {
+    setOpen(window.matchMedia('(min-width: 900px)').matches);
     let active = true;
     const refresh = async () => {
       const at = Date.now();
@@ -58,9 +61,12 @@ export default function LivePosts({ reporters }: { reporters: Reporter[] }) {
 
   if (state === 'failed' || reporters.length === 0) return null;
   return (
-    <section class="panel" aria-labelledby="live-heading">
-      <h2 id="live-heading">Newest from reporters</h2>
-      <p class="note">Recent Bluesky posts that look market-related, filtered automatically. Not yet checked or grouped.</p>
+    <details class="panel live" open={open} onToggle={(event) => setOpen(event.currentTarget.open)}>
+      <summary>
+        <span class="live-title">From the bullpen</span>
+        {posts.length ? <span class="count"> {posts.length} new</span> : null}
+      </summary>
+      <p class="note">Recent reporter posts on Bluesky that look market-related, filtered automatically. Not yet checked or grouped.</p>
       {state === 'loading' ? <p class="note">Loading…</p> : null}
       {state === 'ok' && posts.length === 0 ? <p class="note">No market posts in the last three days.</p> : null}
       <ul aria-live="polite">
@@ -71,6 +77,6 @@ export default function LivePosts({ reporters }: { reporters: Reporter[] }) {
           </li>
         ))}
       </ul>
-    </section>
+    </details>
   );
 }

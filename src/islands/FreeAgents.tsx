@@ -21,6 +21,7 @@ export default function FreeAgents({ base, threadIds }: { base: string; threadId
   const [query, setQuery] = useState('');
   const [position, setPosition] = useState('all');
   const [sort, setSort] = useState<SortKey>('name');
+  const [limit, setLimit] = useState(50);
 
   useEffect(() => {
     const season = offseasonYear(new Date());
@@ -59,7 +60,14 @@ export default function FreeAgents({ base, threadIds }: { base: string; threadId
     <div>
       <div class="controls">
         <label class="field">Find a player
-          <input type="search" value={query} onInput={(event) => setQuery(event.currentTarget.value)} />
+          <input type="search" value={query} onInput={(event) => { setQuery(event.currentTarget.value); setLimit(50); }} />
+        </label>
+        <label class="field">Sort by
+          <select value={sort} onChange={(event) => setSort(event.currentTarget.value as SortKey)}>
+            <option value="name">Name</option>
+            <option value="position">Position</option>
+            <option value="from">Last club</option>
+          </select>
         </label>
         <label class="field">Position
           <select value={position} onChange={(event) => setPosition(event.currentTarget.value)}>
@@ -68,34 +76,35 @@ export default function FreeAgents({ base, threadIds }: { base: string; threadId
           </select>
         </label>
       </div>
-      <p class="meta" aria-live="polite">{shown.length} players</p>
-      <div class="table-wrap" tabIndex={0} role="region" aria-label="Free agents">
-        <table>
-          <thead>
-            <tr>
-              <th scope="col" aria-sort={sort === 'name' ? 'ascending' : 'none'}><button type="button" onClick={() => setSort('name')}>Player</button></th>
-              <th scope="col" aria-sort={sort === 'position' ? 'ascending' : 'none'}><button type="button" onClick={() => setSort('position')}>Pos</button></th>
-              <th scope="col" aria-sort={sort === 'from' ? 'ascending' : 'none'}><button type="button" onClick={() => setSort('from')}>Last club</button></th>
-              <th scope="col">Signed with</th>
-              <th scope="col">Rumors</th>
+      <p class="meta" aria-live="polite">{shown.length} {shown.length === 1 ? 'player' : 'players'}</p>
+      <div class="table-wrap">
+        <table class="stack-table" role="table" aria-label="Free agents">
+          <thead role="rowgroup">
+            <tr role="row">
+              <th scope="col" role="columnheader">Player</th>
+              <th scope="col" role="columnheader">Pos</th>
+              <th scope="col" role="columnheader">Last club</th>
+              <th scope="col" role="columnheader">Signed with</th>
+              <th scope="col" role="columnheader">Rumors</th>
             </tr>
           </thead>
-          <tbody>
-            {shown.map((row) => {
+          <tbody role="rowgroup">
+            {shown.slice(0, limit).map((row) => {
               const thread = threadIds[String(row.id)];
               return (
-                <tr key={row.id}>
-                  <td>{row.name}</td>
-                  <td>{row.position}</td>
-                  <td>{row.from}</td>
-                  <td>{row.signedWith}</td>
-                  <td>{thread ? <a href={`${base}t/${thread}/`}>View thread</a> : ''}</td>
+                <tr role="row" key={row.id}>
+                  <td role="cell" class="stack-title">{row.name}</td>
+                  <td role="cell" data-label="Pos">{row.position}</td>
+                  <td role="cell" data-label="Last club">{row.from}</td>
+                  <td role="cell" data-label="Signed with" class={row.signedWith ? '' : 'stack-empty'}>{row.signedWith}</td>
+                  <td role="cell" data-label="Rumors" class={thread ? '' : 'stack-empty'}>{thread ? <a class="tap-link" href={`${base}t/${thread}/`}>View thread</a> : ''}</td>
                 </tr>
               );
             })}
           </tbody>
         </table>
       </div>
+      {limit < shown.length ? <button type="button" class="show-more" onClick={() => setLimit(limit + 50)}>Show {Math.min(50, shown.length - limit)} more</button> : null}
     </div>
   );
 }

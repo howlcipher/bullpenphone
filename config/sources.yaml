@@ -1,6 +1,6 @@
 # `reviewed: true` means the source's terms were read and allow this use.
 # Unreviewed sources are ignored in published builds and only run locally with
-# HOTSTOVE_INCLUDE_UNREVIEWED=1, for the private benchmark.
+# BULLPENPHONE_INCLUDE_UNREVIEWED=1, for the private benchmark.
 feeds:
   - { id: espn, name: ESPN, url: "https://www.espn.com/espn/rss/mlb/news", reviewed: true, notes: "RSS terms allow unedited, linked, credited display with no ads." }
   - { id: mlbcom, name: MLB.com, url: "https://www.mlb.com/feeds/news/rss.xml", reviewed: false, notes: "Terms could not be retrieved automatically." }

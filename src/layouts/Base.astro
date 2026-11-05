@@ -2,9 +2,9 @@
 import '../styles/global.css';
 import { notice } from '../lib/data';
 interface Props { title: string; description?: string; feed?: string }
-const { title, description = 'Automated MLB rumor tracker: one page per story, with a clear status and links to the original reports.', feed } = Astro.props;
+const { title, description = 'Automated MLB tracker of trades, free agents and front office moves: one page per story, with links to the original reports.', feed } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
-const full = title === 'Hot Stove' ? title : `${title} | Hot Stove`;
+const full = title === 'Bullpen Phone' ? title : `${title} | Bullpen Phone`;
 const nav = [['', 'Board'], ['teams/', 'Teams'], ['deals/', 'Deals'], ['free-agents/', 'Free agents'], ['search/', 'Search'], ['about/', 'About']];
 const path = Astro.url.pathname.replace(/\/?$/, '/');
 ---
@@ -20,15 +20,16 @@ const path = Astro.url.pathname.replace(/\/?$/, '/');
     <meta name="theme-color" content="#16130f" media="(prefers-color-scheme: dark)" />
     <meta name="referrer" content="strict-origin-when-cross-origin" />
     <link rel="icon" href={`${base}icon.svg`} type="image/svg+xml" />
+    <link rel="apple-touch-icon" href={`${base}icon-180.png`} />
     <link rel="manifest" href={`${base}manifest.webmanifest`} />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
-    <link rel="alternate" type="application/atom+xml" title="Hot Stove: all threads" href={feed ?? `${base}feeds/all.xml`} />
+    <link rel="alternate" type="application/atom+xml" title="Bullpen Phone: all threads" href={feed ?? `${base}feeds/all.xml`} />
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>
     <header class="masthead">
       <div class="wrap masthead-row">
-        <a class="brand" href={base}><img src={`${base}icon.svg`} alt="" width="26" height="26" />Hot Stove</a>
+        <a class="brand" href={base}><img src={`${base}icon.svg`} alt="" width="26" height="26" />Bullpen Phone</a>
         <nav aria-label="Main">
           <ul>
             {nav.map(([href, label]) => {
@@ -45,7 +46,7 @@ const path = Astro.url.pathname.replace(/\/?$/, '/');
     <footer class="footer">
       <div class="wrap">
         <p><strong>Automated and unofficial.</strong> Software groups these reports and can get them wrong. Always check the original. Not affiliated with Major League Baseball, its clubs, or any outlet listed here.</p>
-        <p><a href={`${base}about/`}>Sources and method</a> · <a href="https://github.com/howlcipher/hotstove/issues/new">Report a correction</a> · <a href={`${base}feeds/all.xml`}>Atom feed</a></p>
+        <p><a href={`${base}about/`}>Sources and method</a> · <a href="https://github.com/howlcipher/bullpenphone/issues/new">Report a correction</a> · <a href={`${base}feeds/all.xml`}>Atom feed</a></p>
       </div>
     </footer>
   </body>

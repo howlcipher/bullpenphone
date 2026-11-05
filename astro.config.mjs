@@ -4,7 +4,7 @@ import { defineConfig } from 'astro/config';
 
 export default defineConfig({
   site: 'https://howlcipher.github.io',
-  base: '/hotstove',
+  base: '/bullpenphone',
   output: 'static',
   trailingSlash: 'ignore',
   integrations: [preact(), sitemap()],

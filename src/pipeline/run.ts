@@ -8,7 +8,7 @@ import { loadPlayers } from './players';
 import { applyOverrides, buildLatest, mergeEntries, shouldPublish } from './threads';
 
 const dataDir = resolve(process.env.DATA_DIR ?? '.data');
-const includeUnreviewed = process.env.HOTSTOVE_INCLUDE_UNREVIEWED === '1';
+const includeUnreviewed = process.env.BULLPENPHONE_INCLUDE_UNREVIEWED === '1';
 
 function loadState(now: string): State {
   const path = join(dataDir, 'state.json');

@@ -1,5 +1,5 @@
 name: Update
-# Scheduled runs do nothing until the repo variable HOTSTOVE_LIVE is "true". See docs/LAUNCH.md.
+# Scheduled runs do nothing until the repo variable BULLPENPHONE_LIVE is "true". See docs/LAUNCH.md.
 on:
   schedule:
     - cron: "7,17,27,37,47,57 * * * *"
@@ -9,7 +9,7 @@ permissions:
 concurrency: { group: update, cancel-in-progress: false }
 jobs:
   ingest:
-    if: github.event_name == 'workflow_dispatch' || vars.HOTSTOVE_LIVE == 'true'
+    if: github.event_name == 'workflow_dispatch' || vars.BULLPENPHONE_LIVE == 'true'
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     permissions:
@@ -40,7 +40,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
   deploy:
     needs: ingest
-    if: needs.ingest.outputs.changed == 'true' && vars.HOTSTOVE_LIVE == 'true'
+    if: needs.ingest.outputs.changed == 'true' && vars.BULLPENPHONE_LIVE == 'true'
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     permissions:

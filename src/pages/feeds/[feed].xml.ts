@@ -13,7 +13,7 @@ export const GET: APIRoute = ({ params, site }) => {
   const siteUrl = new URL(import.meta.env.BASE_URL.replace(/\/?$/, '/'), site).toString();
   const threads = team ? latest.threads.filter((thread) => thread.teams.includes(team.abbr)) : latest.threads;
   const body = atomFeed({
-    title: team ? `Hot Stove: ${team.name}` : 'Hot Stove: all threads',
+    title: team ? `Bullpen Phone: ${team.name}` : 'Bullpen Phone: all threads',
     selfUrl: `${siteUrl}feeds/${key}.xml`,
     siteUrl,
     updated: latest.generatedAt,

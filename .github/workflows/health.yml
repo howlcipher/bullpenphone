@@ -10,7 +10,7 @@ permissions:
   actions: write
 jobs:
   check:
-    if: github.event_name == 'workflow_dispatch' || vars.HOTSTOVE_LIVE == 'true'
+    if: github.event_name == 'workflow_dispatch' || vars.BULLPENPHONE_LIVE == 'true'
     runs-on: ubuntu-24.04
     timeout-minutes: 5
     steps:

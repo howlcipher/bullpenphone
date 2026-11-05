@@ -5,7 +5,7 @@ import { loadFeeds, loadNotice, loadOverrides, loadReporters, publishableFeeds, 
 import { applyOverrides, buildLatest } from '../pipeline/threads';
 
 const dataDir = resolve(process.env.DATA_DIR ?? '.data');
-const includeUnreviewed = process.env.HOTSTOVE_INCLUDE_UNREVIEWED === '1';
+const includeUnreviewed = process.env.BULLPENPHONE_INCLUDE_UNREVIEWED === '1';
 
 function read() {
   const path = join(dataDir, 'state.json');
@@ -21,4 +21,4 @@ export const feeds = publishableFeeds(loadFeeds(), includeUnreviewed);
 export const reporters = publishableReporters(loadReporters(), includeUnreviewed);
 export const health = (id: string): SourceHealth | undefined => state.health[id];
 export const threadMap = new Map(threads.map((thread) => [thread.id, thread]));
-export const RAW_LATEST_URL = 'https://raw.githubusercontent.com/howlcipher/hotstove/data/latest.json';
+export const RAW_LATEST_URL = 'https://raw.githubusercontent.com/howlcipher/bullpenphone/data/latest.json';

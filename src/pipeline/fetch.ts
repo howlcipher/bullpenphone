@@ -3,7 +3,7 @@ import { isHttpsUrl, type SourceHealth } from '../core/schemas';
 import type { Feed, Reporter } from './config';
 import { isAllowedByRobots } from './robots';
 
-const USER_AGENT = 'hotstove-bot/0.1 (+https://github.com/howlcipher/hotstove)';
+const USER_AGENT = 'bullpenphone-bot/0.1 (+https://github.com/howlcipher/bullpenphone)';
 const TIMEOUT_MS = 20_000;
 const MAX_BYTES = 8_000_000;
 

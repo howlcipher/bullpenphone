@@ -16,14 +16,14 @@ describe('guardrails', () => {
     expect(itemSchema.safeParse({ ...item, url: 'http://a.com' }).success).toBe(false);
   });
   it('flags MLB responses and article text in built output', () => {
-    const dir = mkdtempSync(join(tmpdir(), 'hotstove-'));
+    const dir = mkdtempSync(join(tmpdir(), 'bullpenphone-'));
     writeFileSync(join(dir, 'ok.json'), '{"threads":[]}');
     expect(scan(dir)).toEqual([]);
     writeFileSync(join(dir, 'bad.json'), '{"copyright":"Copyright 2026 MLB Advanced Media, L.P.  Use of any content","transactions":[{"id":1}]}');
     expect(scan(dir).length).toBeGreaterThan(0);
   });
   it('reports a missing folder instead of skipping it', () => {
-    expect(missingPaths(['/no/such/hotstove/path'])).toEqual(['/no/such/hotstove/path']);
+    expect(missingPaths(['/no/such/bullpenphone/path'])).toEqual(['/no/such/bullpenphone/path']);
     expect(missingPaths([tmpdir()])).toEqual([]);
   });
   it('escapes XML', () => {

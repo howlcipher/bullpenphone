@@ -1,5 +1,5 @@
 // Private benchmark against MLBTR's feed, run on your own machine. Never publish its output.
-// Run once per interval during the 7-day test, after `HOTSTOVE_INCLUDE_UNREVIEWED=1 npm run ingest`:
+// Run once per interval during the 7-day test, after `BULLPENPHONE_INCLUDE_UNREVIEWED=1 npm run ingest`:
 //   npm run benchmark            record the current snapshot
 //   npm run benchmark -- report  print the results
 // Stores only titles, links and times of MLBTR posts, in private/benchmark.json.
@@ -26,7 +26,7 @@ function kindOf(title: string, type: string | null): string {
 }
 
 async function record(): Promise<void> {
-  const response = await fetch('https://www.mlbtraderumors.com/feed', { headers: { 'user-agent': 'hotstove-bot/0.1 (+https://github.com/howlcipher/hotstove)' } });
+  const response = await fetch('https://www.mlbtraderumors.com/feed', { headers: { 'user-agent': 'bullpenphone-bot/0.1 (+https://github.com/howlcipher/bullpenphone)' } });
   const state = stateSchema.parse(JSON.parse(readFileSync(`${dataDir}/state.json`, 'utf8')));
   for (const item of parseFeed(await response.text()).items) {
     if (!item.url || !item.title || store[item.url]) continue;

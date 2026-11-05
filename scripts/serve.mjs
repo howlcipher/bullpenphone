@@ -5,7 +5,7 @@ import { extname, join, normalize, resolve, sep } from 'node:path';
 
 const root = resolve(process.argv[2] ?? 'dist');
 const port = Number(process.argv[3] ?? 4321);
-const prefix = '/hotstove';
+const prefix = '/bullpenphone';
 const TYPES = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript', '.mjs': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.xml': 'application/xml', '.svg': 'image/svg+xml', '.webmanifest': 'application/manifest+json', '.wasm': 'application/wasm', '.txt': 'text/plain' };
 
 createServer((request, response) => {

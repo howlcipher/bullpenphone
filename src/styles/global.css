@@ -62,8 +62,9 @@ main { padding-block: 24px 48px; min-height: 60vh; }
 .lede { color: var(--muted); margin-top: 0; }
 .footer { border-top: 1px solid var(--line); color: var(--muted); padding-block: 20px; font-size: .9rem; }
 .footer p { margin: 0 0 6px; max-width: 80ch; }
-.layout { display: grid; gap: 28px; }
-@media (min-width: 900px) { .layout { grid-template-columns: minmax(0, 1fr) 320px; align-items: start; } .rail { position: sticky; top: 16px; } }
+.layout { display: grid; gap: 12px 28px; }
+.layout > * { min-width: 0; }
+@media (min-width: 900px) { .layout { grid-template-columns: minmax(0, 1fr) 320px; align-items: start; } .rail { order: 2; } }
 .controls { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: end; padding: 12px 0; border-block: 1px solid var(--line); margin-bottom: 8px; }
 .field { display: grid; gap: 3px; font-size: .85rem; color: var(--muted); }
 select, input[type="search"] { font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--muted); border-radius: 4px; min-height: 44px; padding: 6px 10px; max-width: 100%; }
@@ -110,6 +111,45 @@ td.wrap-cell { white-space: normal; min-width: 240px; }
 th { color: var(--muted); font-weight: 600; font-size: .82rem; }
 th button { background: none; border: 0; color: inherit; font-weight: 600; cursor: pointer; padding: 6px 0; text-decoration: underline; }
 .sources th, .sources td { white-space: normal; }
+.live { margin-bottom: 0; padding: 0 14px; }
+.live summary { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; min-height: 48px; cursor: pointer; list-style-position: inside; }
+.live summary::before { content: "\25B8"; color: var(--accent); }
+.live[open] summary::before { content: "\25BE"; }
+.live summary::-webkit-details-marker { display: none; }
+.live-title { font: 700 1.05rem var(--serif); }
+.live[open] { padding-bottom: 8px; }
+.show-more { display: block; width: 100%; min-height: 48px; margin-top: 16px; background: var(--surface); color: var(--ink); border: 1px solid var(--muted); border-radius: 4px; cursor: pointer; font-weight: 600; }
+.show-more:hover { border-color: var(--ink); }
+.tap-link { display: inline-block; }
+@media (max-width: 899px) {
+  .masthead nav a { display: inline-flex; align-items: center; min-height: 44px; padding-inline: 4px; }
+  .masthead-row { padding-block: 8px 0; }
+  .subject { display: inline-block; padding-block: 6px; line-height: 1.3; }
+  .headline { padding-block: 4px; }
+  .team-chip { display: inline-flex; align-items: center; min-height: 32px; padding-inline: 9px; font-size: .8rem; }
+  .meta { row-gap: 6px; align-items: center; }
+  .follow-grid label { min-height: 44px; }
+  .follow-grid input { width: 20px; height: 20px; }
+  .field { flex: 1 1 130px; }
+  .field select, .field input { width: 100%; }
+  .follow { flex: 1 1 100%; }
+  .follow summary { width: 100%; }
+  .footer a, .lede a { display: inline-block; padding-block: 8px; }
+  .linklike { min-height: 44px; }
+  .tap-link { padding-block: 8px; }
+  .panel li a { display: block; padding-block: 2px; }
+  input, select, button { font-size: 16px; }
+}
+@media (max-width: 639px) {
+  .stack-table, .stack-table tbody, .stack-table tr, .stack-table td { display: block; width: 100%; }
+  .stack-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .stack-table tr { padding: 12px 0; border-bottom: 1px solid var(--line); }
+  .stack-table td { border: 0; padding: 2px 0; white-space: normal; min-width: 0; }
+  .stack-table td[data-label] { display: flex; gap: 10px; align-items: center; }
+  .stack-table td[data-label]::before { content: attr(data-label); color: var(--muted); font-size: .85rem; min-width: 84px; }
+  .stack-table .stack-title { font: 700 1.05rem var(--serif); }
+  .stack-table td.stack-empty { display: none; }
+}
 mark { background: var(--s-talks-bg); color: var(--s-talks); }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }

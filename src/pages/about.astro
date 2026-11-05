@@ -7,9 +7,9 @@ const rows = [
   ...reporters.map((reporter) => ({ id: `bsky-${reporter.handle}`, name: reporter.name, kind: 'Bluesky' })),
 ];
 ---
-<Base title="About" description="How Hot Stove works, its sources and its limits.">
+<Base title="About" description="How Bullpen Phone works, its sources and its limits.">
   <h1>About</h1>
-  <p class="lede">Hot Stove is a free, non-commercial, automated tracker of MLB rumors. It has no reporters and breaks no news. All credit belongs to the journalists and outlets it links to.</p>
+  <p class="lede">Bullpen Phone is a free, non-commercial, automated tracker of MLB trades, free agents and front office moves. It has no reporters and breaks no news. All credit belongs to the journalists and outlets it links to.</p>
   <h2>How it works</h2>
   <p>About every 10 minutes, software reads the sources below, recognizes players and clubs in each headline, and groups reports into threads. Timing depends on GitHub's scheduler, so stories usually appear 15 to 20 minutes after a source publishes them, and sometimes later. This isn't the fastest place for breaking news.</p>
   <h2>What a status means</h2>
@@ -48,5 +48,5 @@ const rows = [
     <li>Your followed teams stay in your browser. This site has no accounts, ads or analytics. Live panels contact MLB, Bluesky and GitHub directly, which can see your IP address.</li>
   </ul>
   <h2>Corrections and removal</h2>
-  <p>Found a mistake, or want your content removed? <a href="https://github.com/howlcipher/hotstove/issues/new">Open a GitHub issue</a>.</p>
+  <p>Found a mistake, or want your content removed? <a href="https://github.com/howlcipher/bullpenphone/issues/new">Open a GitHub issue</a>.</p>
 </Base>

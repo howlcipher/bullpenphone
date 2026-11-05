@@ -22,7 +22,7 @@ jobs:
       - run: npm ci --ignore-scripts
       - run: npx vitest run
       - run: npx astro check
-      - run: npx playwright install --with-deps chromium
+      - run: npx playwright install --with-deps chromium webkit
       - run: npm run test:e2e
   build-gate:
     if: github.event_name == 'workflow_dispatch' && inputs.build_gate

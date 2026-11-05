@@ -26,7 +26,7 @@ Accounts with `identity: pending` in `config/reporters.yaml` don't have a platfo
 On your own machine, periodically:
 
 ```bash
-HOTSTOVE_INCLUDE_UNREVIEWED=1 npm run ingest && npm run benchmark
+BULLPENPHONE_INCLUDE_UNREVIEWED=1 npm run ingest && npm run benchmark
 ```
 
 Then run `npm run benchmark -- report` and hand-check a sample. Output goes to `private/`, which is gitignored. Never publish it.
@@ -39,12 +39,13 @@ See [EVAL.md](EVAL.md). Both gated labels are off, so reported deals show as `Un
 
 1. Make the repository public.
 2. Set **Settings > Pages > Source** to **GitHub Actions**.
-3. Set the repository variable `HOTSTOVE_LIVE` to `true`.
+3. Set the repository variable `BULLPENPHONE_LIVE` to `true`.
 4. Run the **Update** workflow manually, then confirm:
    - The live URL updates, with valid Atom feeds.
    - The `data` commit shows as **Verified**. The workflow log prints the signature. If it isn't, switch to a GitHub App token.
    - The browser loads `latest.json` from the `data` branch, which needs a public repo.
-5. Check real scheduled delays in the Actions history over the following days.
+5. Open the live site on a real iPhone and a real Android phone, including **Add to Home Screen**.
+6. Check real scheduled delays in the Actions history over the following days.
 
 ## After launch
 

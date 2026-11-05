@@ -1,7 +1,7 @@
 import AxeBuilder from '@axe-core/playwright';
 import { expect, test, type Page } from '@playwright/test';
 
-const BASE = '/hotstove/';
+const BASE = '/bullpenphone/';
 const transactions = {
   copyright: 'mock',
   transactions: [
@@ -45,11 +45,12 @@ test('board renders threads, official badge and live posts', async ({ page }) =>
   const problems = collectProblems(page);
   await mockLive(page);
   await page.goto(BASE);
-  await expect(page.getByRole('heading', { level: 1 })).toContainText('rumor board');
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('getting the call');
   const signed = page.locator('[data-thread="player-2"]');
   await expect(signed.locator('.status-official')).toHaveText('Official');
   await expect(page.locator('[data-thread="player-3"] .status-interest')).toHaveText('Interest');
-  await expect(page.getByRole('heading', { name: 'Newest from reporters' })).toBeVisible();
+  await expect(page.getByText('From the bullpen')).toBeVisible();
+  await expect(page.locator('.live .count')).toHaveText(/\d+ new/);
   expect(problems).toEqual([]);
 });
 
@@ -154,5 +155,94 @@ for (const colorScheme of ['light', 'dark'] as const) test(`fits the screen and 
     expect(overflow, `${path} overflows`).toBeLessThanOrEqual(0);
     const results = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa']).analyze();
     expect(results.violations.map((v) => `${path}: ${v.id}: ${v.nodes[0]?.target}`)).toEqual([]);
+  }
+});
+
+const isPhone = (page: Page): boolean => (page.viewportSize()?.width ?? 1280) < 900;
+
+test('reporter panel sits above the board and collapses on phones, and opens beside it on desktop', async ({ page }) => {
+  await mockLive(page);
+  await page.goto(BASE);
+  const panel = page.locator('details.live');
+  await expect(panel.locator('.count')).toHaveText(/\d+ new/);
+  const phone = isPhone(page);
+  await expect.poll(() => panel.evaluate((el) => (el as HTMLDetailsElement).open)).toBe(!phone);
+  const panelBox = await panel.boundingBox();
+  const boardBox = await page.locator('.controls').boundingBox();
+  if (phone) {
+    expect(panelBox!.y).toBeLessThan(boardBox!.y);
+    await panel.locator('summary').click();
+    await expect(panel.getByRole('link', { name: /Mets in talks/ }).first()).toBeVisible();
+  } else {
+    expect(panelBox!.x).toBeGreaterThan(boardBox!.x + boardBox!.width - 1);
+  }
+});
+
+test('long boards page with show more, and filters reset paging', async ({ page }) => {
+  const many = Array.from({ length: 95 }, (_, n) => ({
+    id: `player-${1000 + n}`, type: 'player', subject: `Many Player ${n}`, mlbamId: 1000 + n, teams: ['NYM'], status: 'Interest',
+    firstSeenAt: '2026-12-01T00:00:00.000Z', lastActivityAt: '2026-12-01T00:00:00.000Z', itemCount: 1, sourceCount: 1,
+    top: { title: `Report ${n}`, url: `https://example.com/m${n}`, sourceName: 'ESPN', at: '2026-12-01T00:00:00.000Z' },
+  }));
+  await mockLive(page);
+  await page.unroute('https://raw.githubusercontent.com/**');
+  await page.route('https://raw.githubusercontent.com/**', (route) => route.fulfill({ json: { version: 1, generatedAt: '2030-01-01T00:00:00.000Z', threads: many }, headers: { 'access-control-allow-origin': '*' } }));
+  await page.goto(BASE);
+  await expect(page.locator('.card')).toHaveCount(40);
+  await expect(page.getByText('Showing 40 of 95 threads')).toBeVisible();
+  await page.getByRole('button', { name: 'Show 40 more' }).click();
+  await expect(page.locator('.card')).toHaveCount(80);
+  await page.getByRole('button', { name: 'Show 15 more' }).click();
+  await expect(page.locator('.card')).toHaveCount(95);
+  await expect(page.locator('.show-more')).toHaveCount(0);
+  await page.getByLabel('Status').selectOption('Talks');
+  await page.getByLabel('Status').selectOption('all');
+  await expect(page.locator('.card')).toHaveCount(40);
+});
+
+test('tables fit a phone with every field reachable', async ({ page }) => {
+  await mockLive(page);
+  await page.goto(`${BASE}free-agents/`);
+  const link = page.getByRole('link', { name: 'View thread' });
+  await expect(link).toBeVisible();
+  await page.goto(`${BASE}deals/`);
+  await expect(page.getByRole('link', { name: 'ESPN' })).toBeVisible();
+  for (const path of ['free-agents/', 'deals/']) {
+    await page.goto(`${BASE}${path}`);
+    await page.waitForLoadState('networkidle');
+    const overflow = await page.locator('.table-wrap').evaluate((el) => el.scrollWidth - el.clientWidth);
+    if (isPhone(page) && (page.viewportSize()?.width ?? 0) < 640) expect(overflow, path).toBeLessThanOrEqual(0);
+  }
+  await page.goto(`${BASE}free-agents/`);
+  if ((page.viewportSize()?.width ?? 1280) < 640) {
+    await expect(page.locator('tbody tr').filter({ hasText: 'José Ramírez' }).locator('td[data-label="Signed with"]')).toBeHidden();
+    await expect(page.locator('tbody tr').filter({ hasText: 'José Ramírez' }).locator('td[data-label="Rumors"]')).toBeHidden();
+  }
+  await page.getByLabel('Sort by').selectOption('from');
+  await expect(page.locator('tbody tr').first()).toContainText('José Ramírez');
+});
+
+test('touch targets are large enough on phones', async ({ page }) => {
+  test.skip(!isPhone(page), 'phone layout only');
+  await mockLive(page);
+  const rules: Array<[string, number]> = [
+    ['.masthead nav a', 44], ['.controls select', 44], ['.follow summary', 44], ['.live summary', 44],
+    ['.team-chip', 32], ['.subject', 32], ['.headline', 32],
+  ];
+  await page.goto(BASE);
+  await page.locator('details.follow summary').click();
+  await page.waitForLoadState('networkidle');
+  for (const [selector, minimum] of [...rules, ['.follow-grid label', 44] as [string, number]]) {
+    const heights = await page.locator(selector).evaluateAll((els) => els.map((el) => el.getBoundingClientRect().height).filter((h) => h > 0));
+    expect(heights.length, selector).toBeGreaterThan(0);
+    expect(Math.min(...heights), selector).toBeGreaterThanOrEqual(minimum);
+  }
+});
+
+test('home screen icons and manifest are available', async ({ request }) => {
+  const manifest = await (await request.get(`${BASE}manifest.webmanifest`)).json();
+  expect(manifest.name).toBe('Bullpen Phone');
+  for (const file of ['icon.svg', 'icon-180.png', 'icon-192.png', 'icon-512.png']) {
+    expect((await request.get(`${BASE}${file}`)).ok(), file).toBe(true);
   }
 });

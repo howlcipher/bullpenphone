@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Renamed the project to Bullpen Phone, because "Hot Stove" is also an MLB Network show.
+- Phones: a collapsible reporter panel above the board, larger touch targets, card layouts for tables, "show more" paging, and iOS home screen icons.
+- Tests: added small-phone and iPhone (WebKit) profiles, plus touch target checks.
+
 - Initial pipeline: reviewed feeds and verified Bluesky accounts, rule-based extraction, threads, and a `data` branch.
 - Static site: board, team pages, threads, reported deals, free agents, search, about, and Atom feeds.
 - Browser layer: Official badges and the free agent list from MLB, and newest reporter posts from Bluesky.

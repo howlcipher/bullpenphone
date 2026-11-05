@@ -1,5 +1,5 @@
 {
-  "name": "hotstove",
+  "name": "bullpenphone",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -17,7 +17,8 @@
     "benchmark": "tsx scripts/benchmark.ts",
     "synth": "tsx scripts/synth-data.ts",
     "build:fixture": "DATA_DIR=tests/fixtures/site astro build --outDir dist-fixture && pagefind --site dist-fixture",
-    "check:types": "astro check"
+    "check:types": "astro check",
+    "test:e2e:chromium": "npm run build:fixture && playwright test --project=phone --project=small-phone --project=desktop"
   },
   "dependencies": {
     "@astrojs/preact": "6.1.1",
@@ -37,6 +38,6 @@
     "typescript": "6.0.3",
     "vitest": "4.1.12"
   },
-  "homepage": "https://howlcipher.github.io/hotstove/",
+  "homepage": "https://howlcipher.github.io/bullpenphone/",
   "license": "MIT"
 }
