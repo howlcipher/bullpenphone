@@ -17,7 +17,7 @@ const feedSchema = z.object({
   team: z.optional(z.string()),
   notes: z.optional(z.string()),
 });
-const reporterSchema = z.object({ handle: z.string(), name: z.string(), identity: z.enum(['verified', 'corroborated', 'pending']) });
+const reporterSchema = z.object({ handle: z.string(), name: z.string(), identity: z.enum(['verified', 'corroborated', 'pending']), team: z.optional(z.string()) });
 const overridesSchema = z.object({
   threads: z.record(z.string(), z.object({ status: z.optional(z.string()), hidden: z.optional(z.boolean()) })),
   items: z.object({ hide: z.array(z.string()) }),

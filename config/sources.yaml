@@ -69,4 +69,11 @@ feeds:
   - { id: sbn-lad, name: "True Blue LA", url: "https://www.truebluela.com/rss/index.xml", reviewed: true, kind: fansite, team: LAD }
   - { id: sbn-sd, name: "Gaslamp Ball", url: "https://www.gaslampball.com/rss/index.xml", reviewed: true, kind: fansite, team: SD }
   - { id: sbn-sf, name: "McCovey Chronicles", url: "https://www.mccoveychronicles.com/rss/index.xml", reviewed: true, kind: fansite, team: SF }
-# Not listed: Halos Heaven (LAA) and Fish Stripes (MIA), whose sites weren't responding on 2026-11-05.
+  - id: fishonfirst
+    name: "Fish On First"
+    url: "https://fishonfirst.com/news-rumors/miami-marlins/?d=21&rss=1"
+    reviewed: true
+    kind: fansite
+    team: MIA
+    notes: "Independent Marlins site from the former Fish Stripes staff. Offers a public feed, but its posted terms don't address feed use, so this is less certain than Yahoo or Penske. Headlines only; remove on request."
+# Not listed: Halos Heaven (LAA), whose site wasn't responding on 2026-11-05. Jeff Fletcher covers the Angels.

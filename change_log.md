@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Every club now has a team-specific source, enforced by a test. Added Fish On First for the Marlins and 11 more beat writers, including Jeff Fletcher for the Angels.
+
 - Sources: added 28 SB Nation team sites as labeled fan sites that can't change a status, and 19 more Bluesky reporters.
 - Added an Official moves panel to the home page, with a minor league toggle.
 - Rules: drop show promos and vague roundups, stop calling predictions Linked, and use full club names on threads.

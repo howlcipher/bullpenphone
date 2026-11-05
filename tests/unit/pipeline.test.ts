@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { buildPlayerIndex } from '../../src/core/extract';
 import { emptyState, stateSchema } from '../../src/core/schemas';
 import { loadFeeds, loadReporters, publishableFeeds, publishableReporters } from '../../src/pipeline/config';
-import { TEAM_BY_ABBR } from '../../src/core/teams';
+import { TEAM_BY_ABBR, TEAMS } from '../../src/core/teams';
 import { canonicalUrl, fetchFeed, parseBlueskyFeed, parseFeedEntries, type RawEntry } from '../../src/pipeline/fetch';
 import { parseRegister } from '../../src/pipeline/players';
 import { isAllowedByRobots } from '../../src/pipeline/robots';
@@ -102,6 +102,13 @@ describe('shipped source config', () => {
     const ids = publishableFeeds(loadFeeds(), true).map((f) => f.id);
     for (const id of ['espn', 'athletic', 'mlbcom', 'nypost', 'cbs']) expect(ids).not.toContain(id);
     expect(ids).toContain('yahoo');
+  });
+  it('gives every club at least one team-specific source in published builds', () => {
+    const covered = new Set([
+      ...publishableFeeds(loadFeeds(), false).map((f) => f.team),
+      ...publishableReporters(loadReporters(), false).map((r) => r.team),
+    ]);
+    expect(TEAMS.filter((team) => !covered.has(team.abbr)).map((team) => team.abbr)).toEqual([]);
   });
   it('has at most one team site per club, tied to a real club', () => {
     const teams = publishableFeeds(loadFeeds(), false).filter((f) => f.kind === 'fansite').map((f) => f.team);
