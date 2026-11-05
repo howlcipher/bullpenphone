@@ -104,6 +104,21 @@
      "teams": [
       "LAD"
      ]
+    },
+    {
+     "id": "r1",
+     "title": "Sources: Dodgers checking in on Other Player",
+     "url": "https://bsky.app/profile/reporter.bsky.social/post/abc123",
+     "sourceId": "bsky-reporter",
+     "sourceName": "Fixture Reporter",
+     "sourceKind": "reporter",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T12:00:00.000Z",
+     "role": "primary",
+     "status": "Interest",
+     "teams": [
+      "LAD"
+     ]
     }
    ]
   },

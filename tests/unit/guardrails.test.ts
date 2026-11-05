@@ -1,4 +1,4 @@
-import { mkdtempSync, writeFileSync } from 'node:fs';
+import { mkdirSync, mkdtempSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
@@ -21,6 +21,17 @@ describe('guardrails', () => {
     expect(scan(dir)).toEqual([]);
     writeFileSync(join(dir, 'bad.json'), '{"copyright":"Copyright 2026 MLB Advanced Media, L.P.  Use of any content","transactions":[{"id":1}]}');
     expect(scan(dir).length).toBeGreaterThan(0);
+  });
+  it('flags other sources in API data by origin, not by words in a post', () => {
+    const dir = mkdtempSync(join(tmpdir(), 'bullpenphone-'));
+    mkdirSync(join(dir, 'api', 'v1'), { recursive: true });
+    const post = 'https://bsky.app/profile/a.bsky.social/post/1';
+    writeFileSync(join(dir, 'api', 'v1', 'threads.json'), JSON.stringify({ data: [{ reports: [{ url: post, text: 'Told Yahoo Sports the deal is done' }] }] }));
+    expect(scan(dir)).toEqual([]);
+    writeFileSync(join(dir, 'api', 'v1', 'threads.json'), JSON.stringify({ data: [{ reports: [{ url: 'https://sports.yahoo.com/a' }] }] }));
+    expect(scan(dir).join()).toMatch(/non-reporter link/);
+    writeFileSync(join(dir, 'api', 'v1', 'threads.json'), JSON.stringify({ data: [{ reports: [{ url: post, sourceName: 'X' }] }] }));
+    expect(scan(dir).join()).toMatch(/unexpected field/);
   });
   it('reports a missing folder instead of skipping it', () => {
     expect(missingPaths(['/no/such/bullpenphone/path'])).toEqual(['/no/such/bullpenphone/path']);

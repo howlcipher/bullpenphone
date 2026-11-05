@@ -65,3 +65,4 @@ Nothing here may cost money or break a site's terms. No paid APIs, scraping or b
 - **Scheduled runs:** none had fired as of 2026-11-05. Other new public repos report the same since 2026-11-02, with first runs hours late. The free fallback is a scheduling service calling the `workflow_dispatch` API with a fine-grained token.
 - **Bluesky developer guidelines:** couldn't be loaded for review. The Terms of Service showed no conflict.
 - **MLB Stats API:** each visitor's browser makes small, non-commercial requests, but MLB's terms don't explicitly address a public site.
+- **AI crawlers:** `robots.txt` only works at a domain root, so the one here has no effect. Pages carry a `noai` tag and `llms.txt` asks tools to use the API, but neither can force a crawler to comply.

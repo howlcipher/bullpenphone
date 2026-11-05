@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Added a free, read-only JSON API, OpenAPI spec and `llms.txt`, limited to Bluesky reporter posts, with a build guard.
+- Asked AI crawlers not to use site pages, which hold sources not licensed for AI use.
+
 - Added link previews for Discord, iMessage and other apps, with a 1990s-style share image.
 
 - New 1990s baseball design: jersey-script wordmark and sleeve stripes, status stamps, club-color pennants, a scoreboard for reporter posts, and self-hosted open-licensed fonts.

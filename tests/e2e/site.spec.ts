@@ -161,7 +161,7 @@ test('feeds are valid XML, and team feeds only hold that team', async ({ request
 for (const colorScheme of ['light', 'dark'] as const) test(`fits the screen and has no accessibility violations (${colorScheme})`, async ({ page }) => {
   await page.emulateMedia({ colorScheme });
   await mockLive(page);
-  for (const path of ['', 'teams/', 'team/nyy/', 't/player-2/', 'deals/', 'free-agents/', 'search/', 'about/']) {
+  for (const path of ['', 'teams/', 'team/nyy/', 't/player-2/', 'deals/', 'free-agents/', 'search/', 'about/', 'api/']) {
     await page.goto(`${BASE}${path}`);
     await page.waitForLoadState('networkidle');
     const overflow = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
@@ -324,4 +324,26 @@ test('shared links get a title, description and a real image', async ({ page, re
   expect(bytes.readUInt32BE(20)).toBe(630);
   await page.goto(BASE);
   expect(await tag('og:title')).toContain('getting the call');
+});
+
+test('API serves reporter posts only, with a usable spec and guide', async ({ request }) => {
+  const list = await (await request.get(`${BASE}api/v1/threads.json`)).json();
+  expect(list.meta.usage).toMatch(/credit the reporter/);
+  expect(list.data.map((t: { id: string }) => t.id)).toEqual(['player-3']);
+  expect(list.data[0].reports.map((r: { reporter: string }) => r.reporter)).toEqual(['Fixture Reporter']);
+  const body = JSON.stringify(list);
+  expect(body).not.toContain('Signed Example');
+  expect(body).not.toContain('example.com/a4');
+  const one = await request.get(`${BASE}api/v1/threads/player-3.json`);
+  expect((await one.json()).data.subject).toBe('Other Player');
+  expect((await request.get(`${BASE}api/v1/threads/player-2.json`)).status()).toBe(404);
+  const team = await (await request.get(`${BASE}api/v1/teams/lad.json`)).json();
+  expect(team.data.threads).toHaveLength(1);
+  const empty = await (await request.get(`${BASE}api/v1/teams/nyy.json`)).json();
+  expect(empty.data.threads).toEqual([]);
+  const spec = await (await request.get(`${BASE}api/v1/openapi.json`)).json();
+  expect(spec.openapi).toBe('3.0.3');
+  expect(Object.keys(spec.paths)).toContain('/threads/{id}.json');
+  const guide = await (await request.get(`${BASE}llms.txt`)).text();
+  expect(guide).toContain('/api/v1/openapi.json');
 });

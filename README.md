@@ -21,6 +21,10 @@ In the visitor's browser
 
 TypeScript throughout, because the matching rules must also run in the browser. Astro builds static pages, Preact powers small interactive islands, Pagefind provides serverless search, and Zod guards every data boundary. Tests use Vitest, Playwright and axe.
 
+## API
+
+A free, read-only JSON API lives at `/api/v1/`, with an OpenAPI spec and `/llms.txt` for AI tools. It holds Bluesky reporter posts only, because the terms of the other sources don't allow this use. `scripts/check-output.ts` fails the build if anything else appears.
+
 ## Develop
 
 Requires the Node version in `.nvmrc`.

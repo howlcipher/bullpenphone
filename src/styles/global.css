@@ -240,6 +240,9 @@ tbody tr:nth-child(even) td { background: var(--stripe); }
 td.wrap-cell { white-space: normal; min-width: 240px; }
 th { font: 700 .95rem var(--display); text-transform: uppercase; letter-spacing: .06em; }
 .sources th, .sources td { white-space: normal; }
+pre.code { background: var(--board); color: var(--board-ink); padding: 14px; overflow-x: auto; font: 400 .9rem/1.45 var(--agate); margin: 0 0 18px; white-space: pre-wrap; overflow-wrap: anywhere; }
+pre.code:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+code { font-family: var(--agate); }
 mark { background: var(--gold); color: #14213d; }
 
 .footer { background: var(--navy); color: var(--on-navy-muted); padding-block: 22px; font-size: .95rem; border-top: 4px double var(--gold); }

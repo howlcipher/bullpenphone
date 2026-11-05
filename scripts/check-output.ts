@@ -8,6 +8,26 @@ const FORBIDDEN: Array<[RegExp, string]> = [
   [/"scanText"/, 'article text field'],
   [/SECRET ARTICLE BODY/, 'article body sentinel'],
 ];
+// The public API is limited to Bluesky reporter posts. See src/lib/api.ts. This checks where
+// each report comes from, not its text, because a reporter can mention any outlet by name.
+const isApiData = (path: string): boolean => /[/\\]api[/\\]v1[/\\](threads|teams)/.test(path);
+
+export function apiProblems(body: string): string[] {
+  const problems: string[] = [];
+  const visit = (value: unknown): void => {
+    if (Array.isArray(value)) value.forEach(visit);
+    else if (value && typeof value === 'object') {
+      for (const [key, entry] of Object.entries(value)) {
+        if (/^source/.test(key)) problems.push(`unexpected field ${key}`);
+        if (key === 'url' && !String(entry).startsWith('https://bsky.app/profile/')) problems.push(`non-reporter link ${String(entry)}`);
+        visit(entry);
+      }
+    }
+  };
+  visit(JSON.parse(body));
+  return problems;
+}
+
 const TEXT = new Set(['.html', '.json', '.xml', '.js', '.txt']);
 
 export const missingPaths = (paths: string[]): string[] => paths.filter((path) => !existsSync(path));
@@ -22,6 +42,7 @@ export function scan(dir: string): string[] {
       else if (TEXT.has(extname(name))) {
         const body = readFileSync(full, 'utf8');
         for (const [pattern, label] of FORBIDDEN) if (pattern.test(body)) problems.push(`${full}: ${label}`);
+        if (isApiData(full)) for (const problem of apiProblems(body)) problems.push(`${full}: ${problem}`);
       }
     }
   };
