@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Gave the deploy job longer than the deploy step's own limit, after a job timeout cancelled a deployment.
+
 - A manual Update run always deploys, so site code changes can ship without new data.
 
 - Sources: launch with Yahoo and verified Bluesky reporters. ESPN is off, and NYT/The Athletic, MLB.com, NY Post and CBS are excluded from every run after a terms review.

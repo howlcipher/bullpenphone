@@ -43,7 +43,8 @@ jobs:
     # A manual run always deploys, so site code changes can ship without new data.
     if: vars.BULLPENPHONE_LIVE == 'true' && (needs.ingest.outputs.changed == 'true' || github.event_name == 'workflow_dispatch')
     runs-on: ubuntu-24.04
-    timeout-minutes: 10
+    # Longer than the deploy step's own 10-minute limit, so it can finish or fail by itself.
+    timeout-minutes: 15
     permissions:
       contents: read
       pages: write
