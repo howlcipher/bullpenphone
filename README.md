@@ -9,7 +9,7 @@ Who's getting the call? A free, non-commercial, automated tracker of MLB trades,
 ```text
 Every ~10 min (GitHub Action)
   fetch reviewed feeds and Bluesky -> extract player, team, status -> merge threads
-    -> commit to `data` branch if changed -> build static site -> deploy to Pages
+    -> commit to `data` branch if changed -> build static site -> publish to `gh-pages`
 
 In the visitor's browser
   latest.json from the `data` branch, falling back to Pages

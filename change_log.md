@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Publish from a `gh-pages` branch using verified commits, after GitHub's Actions-based Pages deployment hung twice at `updating_pages`.
+
 - Gave the deploy job longer than the deploy step's own limit, after a job timeout cancelled a deployment.
 
 - A manual Update run always deploys, so site code changes can ship without new data.

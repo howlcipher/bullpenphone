@@ -38,7 +38,7 @@ See [EVAL.md](EVAL.md). Both gated labels are off, so reported deals show as `Un
 ## 5. Go live
 
 1. Make the repository public.
-2. Set **Settings > Pages > Source** to **GitHub Actions**.
+2. Set **Settings > Pages** to deploy from the `gh-pages` branch, root folder, after its first publish.
 3. Set the repository variable `BULLPENPHONE_LIVE` to `true`.
 4. Run the **Update** workflow manually, then confirm:
    - The live URL updates, with valid Atom feeds.
