@@ -68,4 +68,8 @@ if (plan.add.length === 0 && plan.remove.length === 0) {
   if (body.errors) throw new Error(JSON.stringify(body.errors));
   const commit = body.data?.createCommitOnBranch?.commit;
   console.log(`published ${commit?.oid}: ${plan.add.length} changed, ${plan.remove.length} removed, signature ${JSON.stringify(commit?.signature ?? null)}`);
+  // Commits made with the workflow token may not start a Pages build, so ask for one.
+  const build = await api(`/repos/${repo}/pages/builds`, { method: 'POST' });
+  if (!build.ok) throw new Error(`published, but could not request a Pages build: ${build.status}`);
+  console.log('requested Pages build');
 }

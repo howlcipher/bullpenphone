@@ -2,7 +2,7 @@
 
 Who's getting the call? A free, non-commercial, automated tracker of MLB trades, free agents and front office moves. It runs entirely on GitHub Actions and GitHub Pages, with one thread per story, a visible status, and links to the original reporting. It isn't affiliated with MLB, its clubs, or any outlet it links to.
 
-**Status: soft launch.** See [docs/LAUNCH.md](docs/LAUNCH.md) for sources and launch steps, and [docs/EVAL.md](docs/EVAL.md) for measured accuracy.
+**Live at <https://howlcipher.github.io/bullpenphone/> as a soft launch.** See [docs/LAUNCH.md](docs/LAUNCH.md) for sources and launch steps, and [docs/EVAL.md](docs/EVAL.md) for measured accuracy.
 
 ## How it works
 
