@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T16:42:48.266Z",
+ "updatedAt": "2026-11-05T19:25:38.234Z",
  "threads": {
   "league-labor": {
    "id": "league-labor",
@@ -11,8 +11,38 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T16:42:48.266Z",
-   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
    "items": [
+    {
+     "id": "f9d8d7f4bb0a38f8",
+     "title": "Braves release third quarter 2026 financial reports ahead of potential lockout",
+     "url": "https://sports.yahoo.com/articles/braves-release-third-quarter-2026-180000389.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T18:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "e819f8847fcb9cd3",
+     "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
+     "url": "https://sports.yahoo.com/articles/mlb-lockout-tracker-cba-talks-070000118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "dfaadc0641a962ce",
      "title": "When is 45 days not 45 days? Japanese players, posted as MLB lockout looms, face tight signing deadline. Unlocked and free to read. www.nytimes.com/athletic/774...",
@@ -23,9 +53,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-02T13:06:19.449Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -50,9 +80,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-02T13:06:19.449Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -77,9 +107,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-02T13:06:19.449Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -92,8 +122,36 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T16:42:48.266Z",
-   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
    "items": [
+    {
+     "id": "c1cf71463391824f",
+     "title": "View From The Other Offseason – Tyler Young of Camden Chat",
+     "url": "https://sports.yahoo.com/articles/view-other-offseason-tyler-young-170126598.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:01:26.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "8ab0a0e79175b8ad",
+     "title": "Thursday BP: Former Giants in free agency",
+     "url": "https://sports.yahoo.com/articles/thursday-bp-former-giants-free-130000986.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "539d543f26095a7d",
      "title": "The 2026-27 Hot Stove tracker is available over at Baseball Savant, a fun way to see who's out there and what they did --> baseballsavant.mlb.com/leaderboard/...",
@@ -104,9 +162,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-03T16:32:51.878Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "0678aa1d454de520",
@@ -118,9 +176,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "87178b16ee3b96db",
@@ -132,9 +190,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T14:58:22.692Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "43ca56239818e497",
@@ -146,11 +204,11 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-10-30T18:28:10.315Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "53d438461678170d",
@@ -162,11 +220,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-10-29T15:14:25.542Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -193,11 +251,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-04T01:48:13.140Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8e3a8ede246fab5b",
@@ -209,11 +267,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-10-24T14:16:08.382Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -240,12 +298,12 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-04T01:36:58.781Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM",
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -258,8 +316,38 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T16:42:48.266Z",
-   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
    "items": [
+    {
+     "id": "458748e51c919f9e",
+     "title": "Mets Morning News: Mets hire former catcher A.J. Ellis as strategy coordinator",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-mets-hire-133000476.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:30:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "8ab0a0e79175b8ad",
+     "title": "Thursday BP: Former Giants in free agency",
+     "url": "https://sports.yahoo.com/articles/thursday-bp-former-giants-free-130000986.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3a9252569e7bc721",
      "title": "If Skubal derby comes down to big-monied Mets and Dodgers, Mets would need to overcome these LA-favoring factors nypost.com/2026/11/03/s...",
@@ -270,12 +358,12 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-04T01:36:58.781Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM",
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -302,11 +390,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-10-30T12:03:05.419Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "TB"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -333,11 +421,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-10-29T23:39:52.195Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -362,9 +450,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -389,9 +477,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -416,9 +504,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -443,9 +531,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -472,11 +560,11 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:12:24.892Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -489,8 +577,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T16:42:48.266Z",
-   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
    "items": [
+    {
+     "id": "349b64858dc75de8",
+     "title": "Pirates predicted to sign former All-Star Ty France",
+     "url": "https://sports.yahoo.com/articles/pirates-predicted-sign-former-star-174220291.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:42:20.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PIT"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4ed3fc7d8d63da83",
      "title": "Wrote about Brandon Lowe, who had the biggest year-to-year defensive improvement from an IF or OF in Statcast history -- one backed by more than one metric. Just like we always say: Players leave TB and get better, wait, I'm workshopping that.. --> www.mlb.com/pirates/news...",
@@ -501,11 +604,11 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:12:24.892Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -530,11 +633,11 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:12:24.892Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -559,10 +662,2776 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:12:24.892Z",
      "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "role": "mention",
+     "status": null,
+     "teams": [
+      "PIT"
+     ]
+    }
+   ]
+  },
+  "player-682769": {
+   "id": "player-682769",
+   "type": "player",
+   "subject": "Eiberson Castellano",
+   "mlbamId": 682769,
+   "teams": [],
+   "status": "Unclassified",
+   "statusAt": "2026-11-05T19:25:38.234Z",
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "5715ac2dee1e5a03",
+     "title": "After minor league honors and a lone MLB appearance, Eiberson Castellano is off to free agency",
+     "url": "https://sports.yahoo.com/articles/minor-league-honors-lone-mlb-190000797.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T19:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "player-687060": {
+   "id": "player-687060",
+   "type": "player",
+   "subject": "Blake Adams",
+   "mlbamId": 687060,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "5715ac2dee1e5a03",
+     "title": "After minor league honors and a lone MLB appearance, Eiberson Castellano is off to free agency",
+     "url": "https://sports.yahoo.com/articles/minor-league-honors-lone-mlb-190000797.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T19:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-677060": {
+   "id": "player-677060",
+   "type": "player",
+   "subject": "Chad Stevens",
+   "mlbamId": 677060,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "5715ac2dee1e5a03",
+     "title": "After minor league honors and a lone MLB appearance, Eiberson Castellano is off to free agency",
+     "url": "https://sports.yahoo.com/articles/minor-league-honors-lone-mlb-190000797.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T19:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-669298": {
+   "id": "player-669298",
+   "type": "player",
+   "subject": "TJ Shook",
+   "mlbamId": 669298,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "5715ac2dee1e5a03",
+     "title": "After minor league honors and a lone MLB appearance, Eiberson Castellano is off to free agency",
+     "url": "https://sports.yahoo.com/articles/minor-league-honors-lone-mlb-190000797.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T19:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-643289": {
+   "id": "player-643289",
+   "type": "player",
+   "subject": "Mauricio Dubón",
+   "mlbamId": 643289,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "f9d8d7f4bb0a38f8",
+     "title": "Braves release third quarter 2026 financial reports ahead of potential lockout",
+     "url": "https://sports.yahoo.com/articles/braves-release-third-quarter-2026-180000389.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T18:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "8ab0a0e79175b8ad",
+     "title": "Thursday BP: Former Giants in free agency",
+     "url": "https://sports.yahoo.com/articles/thursday-bp-former-giants-free-130000986.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-673490": {
+   "id": "player-673490",
+   "type": "player",
+   "subject": "Ha-Seong Kim",
+   "mlbamId": 673490,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "f9d8d7f4bb0a38f8",
+     "title": "Braves release third quarter 2026 financial reports ahead of potential lockout",
+     "url": "https://sports.yahoo.com/articles/braves-release-third-quarter-2026-180000389.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T18:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-607481": {
+   "id": "player-607481",
+   "type": "player",
+   "subject": "Aaron Bummer",
+   "mlbamId": 607481,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "f9d8d7f4bb0a38f8",
+     "title": "Braves release third quarter 2026 financial reports ahead of potential lockout",
+     "url": "https://sports.yahoo.com/articles/braves-release-third-quarter-2026-180000389.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T18:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-573262": {
+   "id": "player-573262",
+   "type": "player",
+   "subject": "Mike Yastrzemski",
+   "mlbamId": 573262,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "f9d8d7f4bb0a38f8",
+     "title": "Braves release third quarter 2026 financial reports ahead of potential lockout",
+     "url": "https://sports.yahoo.com/articles/braves-release-third-quarter-2026-180000389.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T18:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-606303": {
+   "id": "player-606303",
+   "type": "player",
+   "subject": "Joel Payamps",
+   "mlbamId": 606303,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "f9d8d7f4bb0a38f8",
+     "title": "Braves release third quarter 2026 financial reports ahead of potential lockout",
+     "url": "https://sports.yahoo.com/articles/braves-release-third-quarter-2026-180000389.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T18:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-664034": {
+   "id": "player-664034",
+   "type": "player",
+   "subject": "Ty France",
+   "mlbamId": 664034,
+   "teams": [
+    "PIT"
+   ],
+   "status": "Linked",
+   "statusAt": "2026-11-05T19:25:38.234Z",
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "349b64858dc75de8",
+     "title": "Pirates predicted to sign former All-Star Ty France",
+     "url": "https://sports.yahoo.com/articles/pirates-predicted-sign-former-star-174220291.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:42:20.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PIT"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    }
+   ]
+  },
+  "player-542303": {
+   "id": "player-542303",
+   "type": "player",
+   "subject": "Marcell Ozuna",
+   "mlbamId": 542303,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "349b64858dc75de8",
+     "title": "Pirates predicted to sign former All-Star Ty France",
+     "url": "https://sports.yahoo.com/articles/pirates-predicted-sign-former-star-174220291.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:42:20.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
      "teams": [
       "PIT"
      ],
      "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-624413": {
+   "id": "player-624413",
+   "type": "player",
+   "subject": "Pete Alonso",
+   "mlbamId": 624413,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c1cf71463391824f",
+     "title": "View From The Other Offseason – Tyler Young of Camden Chat",
+     "url": "https://sports.yahoo.com/articles/view-other-offseason-tyler-young-170126598.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:01:26.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "458748e51c919f9e",
+     "title": "Mets Morning News: Mets hire former catcher A.J. Ellis as strategy coordinator",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-mets-hire-133000476.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:30:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-681297": {
+   "id": "player-681297",
+   "type": "player",
+   "subject": "Colton Cowser",
+   "mlbamId": 681297,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c1cf71463391824f",
+     "title": "View From The Other Offseason – Tyler Young of Camden Chat",
+     "url": "https://sports.yahoo.com/articles/view-other-offseason-tyler-young-170126598.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:01:26.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-691723": {
+   "id": "player-691723",
+   "type": "player",
+   "subject": "Coby Mayo",
+   "mlbamId": 691723,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c1cf71463391824f",
+     "title": "View From The Other Offseason – Tyler Young of Camden Chat",
+     "url": "https://sports.yahoo.com/articles/view-other-offseason-tyler-young-170126598.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:01:26.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-702616": {
+   "id": "player-702616",
+   "type": "player",
+   "subject": "Jackson Holliday",
+   "mlbamId": 702616,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c1cf71463391824f",
+     "title": "View From The Other Offseason – Tyler Young of Camden Chat",
+     "url": "https://sports.yahoo.com/articles/view-other-offseason-tyler-young-170126598.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:01:26.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-669432": {
+   "id": "player-669432",
+   "type": "player",
+   "subject": "Trevor Rogers",
+   "mlbamId": 669432,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c1cf71463391824f",
+     "title": "View From The Other Offseason – Tyler Young of Camden Chat",
+     "url": "https://sports.yahoo.com/articles/view-other-offseason-tyler-young-170126598.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:01:26.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "be48bb5e5a12080c",
+     "title": "Orioles news: Rotation needs, possible solutions",
+     "url": "https://sports.yahoo.com/articles/orioles-news-rotation-needs-possible-120000615.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-672282": {
+   "id": "player-672282",
+   "type": "player",
+   "subject": "Reid Detmers",
+   "mlbamId": 672282,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c1cf71463391824f",
+     "title": "View From The Other Offseason – Tyler Young of Camden Chat",
+     "url": "https://sports.yahoo.com/articles/view-other-offseason-tyler-young-170126598.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:01:26.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-683002": {
+   "id": "player-683002",
+   "type": "player",
+   "subject": "Gunnar Henderson",
+   "mlbamId": 683002,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c1cf71463391824f",
+     "title": "View From The Other Offseason – Tyler Young of Camden Chat",
+     "url": "https://sports.yahoo.com/articles/view-other-offseason-tyler-young-170126598.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:01:26.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-676059": {
+   "id": "player-676059",
+   "type": "player",
+   "subject": "Jordan Westburg",
+   "mlbamId": 676059,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c1cf71463391824f",
+     "title": "View From The Other Offseason – Tyler Young of Camden Chat",
+     "url": "https://sports.yahoo.com/articles/view-other-offseason-tyler-young-170126598.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T17:01:26.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "team-phi": {
+   "id": "team-phi",
+   "type": "team",
+   "subject": "PHI roster moves and needs",
+   "mlbamId": null,
+   "teams": [
+    "PHI"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "d6e582bd6a2b0278",
+     "title": "Left-handed relievers the Phillies could target in free agency",
+     "url": "https://sports.yahoo.com/articles/left-handed-relievers-phillies-could-162305919.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:23:05.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "4d6fb202aaf58933",
+     "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+     "url": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "ac1fce99b2dc72ba",
+     "title": "Phillies News: Dave Dombrowski, Cristopher Sánchez, Albert Pujols",
+     "url": "https://sports.yahoo.com/articles/phillies-news-dave-dombrowski-cristopher-120000622.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-670970": {
+   "id": "player-670970",
+   "type": "player",
+   "subject": "Adrián Morejón",
+   "mlbamId": 670970,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "d6e582bd6a2b0278",
+     "title": "Left-handed relievers the Phillies could target in free agency",
+     "url": "https://sports.yahoo.com/articles/left-handed-relievers-phillies-could-162305919.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:23:05.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-621381": {
+   "id": "player-621381",
+   "type": "player",
+   "subject": "Matt Strahm",
+   "mlbamId": 621381,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "d6e582bd6a2b0278",
+     "title": "Left-handed relievers the Phillies could target in free agency",
+     "url": "https://sports.yahoo.com/articles/left-handed-relievers-phillies-could-162305919.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:23:05.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-680742": {
+   "id": "player-680742",
+   "type": "player",
+   "subject": "Jonathan Bowlan",
+   "mlbamId": 680742,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "d6e582bd6a2b0278",
+     "title": "Left-handed relievers the Phillies could target in free agency",
+     "url": "https://sports.yahoo.com/articles/left-handed-relievers-phillies-could-162305919.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:23:05.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-606192": {
+   "id": "player-606192",
+   "type": "player",
+   "subject": "Teoscar Hernández",
+   "mlbamId": 606192,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "d6e582bd6a2b0278",
+     "title": "Left-handed relievers the Phillies could target in free agency",
+     "url": "https://sports.yahoo.com/articles/left-handed-relievers-phillies-could-162305919.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:23:05.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-621237": {
+   "id": "player-621237",
+   "type": "player",
+   "subject": "José Alvarado",
+   "mlbamId": 621237,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "d6e582bd6a2b0278",
+     "title": "Left-handed relievers the Phillies could target in free agency",
+     "url": "https://sports.yahoo.com/articles/left-handed-relievers-phillies-could-162305919.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:23:05.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-621383": {
+   "id": "player-621383",
+   "type": "player",
+   "subject": "Tanner Banks",
+   "mlbamId": 621383,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "d6e582bd6a2b0278",
+     "title": "Left-handed relievers the Phillies could target in free agency",
+     "url": "https://sports.yahoo.com/articles/left-handed-relievers-phillies-could-162305919.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:23:05.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-641835": {
+   "id": "player-641835",
+   "type": "player",
+   "subject": "Tim Mayza",
+   "mlbamId": 641835,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "d6e582bd6a2b0278",
+     "title": "Left-handed relievers the Phillies could target in free agency",
+     "url": "https://sports.yahoo.com/articles/left-handed-relievers-phillies-could-162305919.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:23:05.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-679775": {
+   "id": "player-679775",
+   "type": "player",
+   "subject": "Kyle Backhus",
+   "mlbamId": 679775,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "d6e582bd6a2b0278",
+     "title": "Left-handed relievers the Phillies could target in free agency",
+     "url": "https://sports.yahoo.com/articles/left-handed-relievers-phillies-could-162305919.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:23:05.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "team-bos": {
+   "id": "team-bos",
+   "type": "team",
+   "subject": "BOS roster moves and needs",
+   "mlbamId": null,
+   "teams": [
+    "BOS"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c33f8043c24de1c1",
+     "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
+     "url": "https://sports.yahoo.com/articles/why-red-sox-connected-many-162137592.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:21:37.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-682829": {
+   "id": "player-682829",
+   "type": "player",
+   "subject": "Elly De La Cruz",
+   "mlbamId": 682829,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c33f8043c24de1c1",
+     "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
+     "url": "https://sports.yahoo.com/articles/why-red-sox-connected-many-162137592.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:21:37.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "9e9b53c9748a46a4",
+     "title": "Kansas City Royals news: Michael Massey was a huge success in 2026",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-michael-130000479.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-682928": {
+   "id": "player-682928",
+   "type": "player",
+   "subject": "CJ Abrams",
+   "mlbamId": 682928,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c33f8043c24de1c1",
+     "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
+     "url": "https://sports.yahoo.com/articles/why-red-sox-connected-many-162137592.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:21:37.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-672640": {
+   "id": "player-672640",
+   "type": "player",
+   "subject": "Otto Lopez",
+   "mlbamId": 672640,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c33f8043c24de1c1",
+     "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
+     "url": "https://sports.yahoo.com/articles/why-red-sox-connected-many-162137592.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:21:37.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-689414": {
+   "id": "player-689414",
+   "type": "player",
+   "subject": "Liam Hicks",
+   "mlbamId": 689414,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c33f8043c24de1c1",
+     "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
+     "url": "https://sports.yahoo.com/articles/why-red-sox-connected-many-162137592.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:21:37.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-668939": {
+   "id": "player-668939",
+   "type": "player",
+   "subject": "Adley Rutschman",
+   "mlbamId": 668939,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c33f8043c24de1c1",
+     "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
+     "url": "https://sports.yahoo.com/articles/why-red-sox-connected-many-162137592.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:21:37.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-808265": {
+   "id": "player-808265",
+   "type": "player",
+   "subject": "Franklin Arias",
+   "mlbamId": 808265,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c33f8043c24de1c1",
+     "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
+     "url": "https://sports.yahoo.com/articles/why-red-sox-connected-many-162137592.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:21:37.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-596115": {
+   "id": "player-596115",
+   "type": "player",
+   "subject": "Trevor Story",
+   "mlbamId": 596115,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c33f8043c24de1c1",
+     "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
+     "url": "https://sports.yahoo.com/articles/why-red-sox-connected-many-162137592.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:21:37.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-655316": {
+   "id": "player-655316",
+   "type": "player",
+   "subject": "Andruw Monasterio",
+   "mlbamId": 655316,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "c33f8043c24de1c1",
+     "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
+     "url": "https://sports.yahoo.com/articles/why-red-sox-connected-many-162137592.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:21:37.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-642547": {
+   "id": "player-642547",
+   "type": "player",
+   "subject": "Freddy Peralta",
+   "mlbamId": 642547,
+   "teams": [
+    "CHC"
+   ],
+   "status": "Linked",
+   "statusAt": "2026-11-05T19:25:38.234Z",
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "9782a1eac1aa9b5f",
+     "title": "Cubs free agent target: Freddy Peralta",
+     "url": "https://sports.yahoo.com/articles/cubs-free-agent-target-freddy-160000773.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T16:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    }
+   ]
+  },
+  "team-cle": {
+   "id": "team-cle",
+   "type": "team",
+   "subject": "CLE roster moves and needs",
+   "mlbamId": null,
+   "teams": [
+    "CLE"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "eb6901c44a8c80ea",
+     "title": "Guardians News: Not Much Going On",
+     "url": "https://sports.yahoo.com/articles/guardians-news-not-much-going-154758187.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T15:47:58.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-661403": {
+   "id": "player-661403",
+   "type": "player",
+   "subject": "Emmanuel Clase",
+   "mlbamId": 661403,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "eb6901c44a8c80ea",
+     "title": "Guardians News: Not Much Going On",
+     "url": "https://sports.yahoo.com/articles/guardians-news-not-much-going-154758187.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T15:47:58.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "458748e51c919f9e",
+     "title": "Mets Morning News: Mets hire former catcher A.J. Ellis as strategy coordinator",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-mets-hire-133000476.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:30:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "team-sea": {
+   "id": "team-sea",
+   "type": "team",
+   "subject": "SEA roster moves and needs",
+   "mlbamId": null,
+   "teams": [
+    "SEA"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "8a23942ee1db977d",
+     "title": "Mariners News: Jason Kanzler, Cam Castro, and Albert Pujols",
+     "url": "https://sports.yahoo.com/articles/mariners-news-jason-kanzler-cam-150000864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T15:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-405395": {
+   "id": "player-405395",
+   "type": "player",
+   "subject": "Albert Pujols",
+   "mlbamId": 405395,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "8a23942ee1db977d",
+     "title": "Mariners News: Jason Kanzler, Cam Castro, and Albert Pujols",
+     "url": "https://sports.yahoo.com/articles/mariners-news-jason-kanzler-cam-150000864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T15:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "458748e51c919f9e",
+     "title": "Mets Morning News: Mets hire former catcher A.J. Ellis as strategy coordinator",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-mets-hire-133000476.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:30:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "ac1fce99b2dc72ba",
+     "title": "Phillies News: Dave Dombrowski, Cristopher Sánchez, Albert Pujols",
+     "url": "https://sports.yahoo.com/articles/phillies-news-dave-dombrowski-cristopher-120000622.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-701785": {
+   "id": "player-701785",
+   "type": "player",
+   "subject": "Kaelen Culpepper",
+   "mlbamId": 701785,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "8a23942ee1db977d",
+     "title": "Mariners News: Jason Kanzler, Cam Castro, and Albert Pujols",
+     "url": "https://sports.yahoo.com/articles/mariners-news-jason-kanzler-cam-150000864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T15:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-809004": {
+   "id": "player-809004",
+   "type": "player",
+   "subject": "Jyun Yue Tseng",
+   "mlbamId": 809004,
+   "teams": [
+    "NYM"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-05T19:25:38.234Z",
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "f59327965f919b91",
+     "title": "Mets International Free Agent Profile: Jyun-Yue Tseng",
+     "url": "https://sports.yahoo.com/articles/mets-international-free-agent-profile-150000241.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T15:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "player-592663": {
+   "id": "player-592663",
+   "type": "player",
+   "subject": "J. T. Realmuto",
+   "mlbamId": 592663,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "4d6fb202aaf58933",
+     "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+     "url": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "e819f8847fcb9cd3",
+     "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
+     "url": "https://sports.yahoo.com/articles/mlb-lockout-tracker-cba-talks-070000118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-665561": {
+   "id": "player-665561",
+   "type": "player",
+   "subject": "Rafael Marchán",
+   "mlbamId": 665561,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "4d6fb202aaf58933",
+     "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+     "url": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-596117": {
+   "id": "player-596117",
+   "type": "player",
+   "subject": "Garrett Stubbs",
+   "mlbamId": 596117,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "4d6fb202aaf58933",
+     "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+     "url": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "e894310cc702867b",
+     "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
+     "url": "https://sports.yahoo.com/articles/phillies-dont-extend-qualifying-offer-171853110.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-543510": {
+   "id": "player-543510",
+   "type": "player",
+   "subject": "James McCann",
+   "mlbamId": 543510,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "4d6fb202aaf58933",
+     "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+     "url": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-650333": {
+   "id": "player-650333",
+   "type": "player",
+   "subject": "Luis Arráez",
+   "mlbamId": 650333,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "4d6fb202aaf58933",
+     "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+     "url": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "8ab0a0e79175b8ad",
+     "title": "Thursday BP: Former Giants in free agency",
+     "url": "https://sports.yahoo.com/articles/thursday-bp-former-giants-free-130000986.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-624641": {
+   "id": "player-624641",
+   "type": "player",
+   "subject": "Edmundo Sosa",
+   "mlbamId": 624641,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "4d6fb202aaf58933",
+     "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+     "url": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-681082": {
+   "id": "player-681082",
+   "type": "player",
+   "subject": "Bryson Stott",
+   "mlbamId": 681082,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "4d6fb202aaf58933",
+     "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+     "url": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "e894310cc702867b",
+     "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
+     "url": "https://sports.yahoo.com/articles/phillies-dont-extend-qualifying-offer-171853110.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-607208": {
+   "id": "player-607208",
+   "type": "player",
+   "subject": "Trea Turner",
+   "mlbamId": 607208,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "4d6fb202aaf58933",
+     "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+     "url": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "e819f8847fcb9cd3",
+     "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
+     "url": "https://sports.yahoo.com/articles/mlb-lockout-tracker-cba-talks-070000118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-664761": {
+   "id": "player-664761",
+   "type": "player",
+   "subject": "Alec Bohm",
+   "mlbamId": 664761,
+   "teams": [
+    "PHI"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-05T19:25:38.234Z",
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e894310cc702867b",
+     "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
+     "url": "https://sports.yahoo.com/articles/phillies-dont-extend-qualifying-offer-171853110.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "player-547180": {
+   "id": "player-547180",
+   "type": "player",
+   "subject": "Bryce Harper",
+   "mlbamId": 547180,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e894310cc702867b",
+     "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
+     "url": "https://sports.yahoo.com/articles/phillies-dont-extend-qualifying-offer-171853110.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "e819f8847fcb9cd3",
+     "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
+     "url": "https://sports.yahoo.com/articles/mlb-lockout-tracker-cba-talks-070000118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-805795": {
+   "id": "player-805795",
+   "type": "player",
+   "subject": "Aidan Miller",
+   "mlbamId": 805795,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e894310cc702867b",
+     "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
+     "url": "https://sports.yahoo.com/articles/phillies-dont-extend-qualifying-offer-171853110.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-695391": {
+   "id": "player-695391",
+   "type": "player",
+   "subject": "Brett Harris",
+   "mlbamId": 695391,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e894310cc702867b",
+     "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
+     "url": "https://sports.yahoo.com/articles/phillies-dont-extend-qualifying-offer-171853110.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-694376": {
+   "id": "player-694376",
+   "type": "player",
+   "subject": "Shay Whitcomb",
+   "mlbamId": 694376,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e894310cc702867b",
+     "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
+     "url": "https://sports.yahoo.com/articles/phillies-dont-extend-qualifying-offer-171853110.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-641745": {
+   "id": "player-641745",
+   "type": "player",
+   "subject": "Brad Keller",
+   "mlbamId": 641745,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e894310cc702867b",
+     "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
+     "url": "https://sports.yahoo.com/articles/phillies-dont-extend-qualifying-offer-171853110.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-668873": {
+   "id": "player-668873",
+   "type": "player",
+   "subject": "Caleb Kilian",
+   "mlbamId": 668873,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e894310cc702867b",
+     "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
+     "url": "https://sports.yahoo.com/articles/phillies-dont-extend-qualifying-offer-171853110.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-656941": {
+   "id": "player-656941",
+   "type": "player",
+   "subject": "Kyle Schwarber",
+   "mlbamId": 656941,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e819f8847fcb9cd3",
+     "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
+     "url": "https://sports.yahoo.com/articles/mlb-lockout-tracker-cba-talks-070000118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-605400": {
+   "id": "player-605400",
+   "type": "player",
+   "subject": "Aaron Nola",
+   "mlbamId": 605400,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e819f8847fcb9cd3",
+     "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
+     "url": "https://sports.yahoo.com/articles/mlb-lockout-tracker-cba-talks-070000118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666200": {
+   "id": "player-666200",
+   "type": "player",
+   "subject": "Jesús Luzardo",
+   "mlbamId": 666200,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e819f8847fcb9cd3",
+     "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
+     "url": "https://sports.yahoo.com/articles/mlb-lockout-tracker-cba-talks-070000118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-650911": {
+   "id": "player-650911",
+   "type": "player",
+   "subject": "Cristopher Sánchez",
+   "mlbamId": 650911,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e819f8847fcb9cd3",
+     "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
+     "url": "https://sports.yahoo.com/articles/mlb-lockout-tracker-cba-talks-070000118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "ac1fce99b2dc72ba",
+     "title": "Phillies News: Dave Dombrowski, Cristopher Sánchez, Albert Pujols",
+     "url": "https://sports.yahoo.com/articles/phillies-news-dave-dombrowski-cristopher-120000622.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-554430": {
+   "id": "player-554430",
+   "type": "player",
+   "subject": "Zack Wheeler",
+   "mlbamId": 554430,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "e819f8847fcb9cd3",
+     "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
+     "url": "https://sports.yahoo.com/articles/mlb-lockout-tracker-cba-talks-070000118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T14:14:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "staff-nym": {
+   "id": "staff-nym",
+   "type": "staff",
+   "subject": "NYM staff and front office",
+   "mlbamId": null,
+   "teams": [
+    "NYM"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "458748e51c919f9e",
+     "title": "Mets Morning News: Mets hire former catcher A.J. Ellis as strategy coordinator",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-mets-hire-133000476.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:30:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-684007": {
+   "id": "player-684007",
+   "type": "player",
+   "subject": "Shota Imanaga",
+   "mlbamId": 684007,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "458748e51c919f9e",
+     "title": "Mets Morning News: Mets hire former catcher A.J. Ellis as strategy coordinator",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-mets-hire-133000476.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:30:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-687849": {
+   "id": "player-687849",
+   "type": "player",
+   "subject": "Zak Kent",
+   "mlbamId": 687849,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "458748e51c919f9e",
+     "title": "Mets Morning News: Mets hire former catcher A.J. Ellis as strategy coordinator",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-mets-hire-133000476.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:30:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-665489": {
+   "id": "player-665489",
+   "type": "player",
+   "subject": "Vladimir Guerrero",
+   "mlbamId": 665489,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "458748e51c919f9e",
+     "title": "Mets Morning News: Mets hire former catcher A.J. Ellis as strategy coordinator",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-mets-hire-133000476.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:30:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-592332": {
+   "id": "player-592332",
+   "type": "player",
+   "subject": "Kevin Gausman",
+   "mlbamId": 592332,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "8ab0a0e79175b8ad",
+     "title": "Thursday BP: Former Giants in free agency",
+     "url": "https://sports.yahoo.com/articles/thursday-bp-former-giants-free-130000986.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-641816": {
+   "id": "player-641816",
+   "type": "player",
+   "subject": "Tyler Mahle",
+   "mlbamId": 641816,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "8ab0a0e79175b8ad",
+     "title": "Thursday BP: Former Giants in free agency",
+     "url": "https://sports.yahoo.com/articles/thursday-bp-former-giants-free-130000986.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-592662": {
+   "id": "player-592662",
+   "type": "player",
+   "subject": "Robbie Ray",
+   "mlbamId": 592662,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "8ab0a0e79175b8ad",
+     "title": "Thursday BP: Former Giants in free agency",
+     "url": "https://sports.yahoo.com/articles/thursday-bp-former-giants-free-130000986.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-595345": {
+   "id": "player-595345",
+   "type": "player",
+   "subject": "Steven Okert",
+   "mlbamId": 595345,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "8ab0a0e79175b8ad",
+     "title": "Thursday BP: Former Giants in free agency",
+     "url": "https://sports.yahoo.com/articles/thursday-bp-former-giants-free-130000986.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-573124": {
+   "id": "player-573124",
+   "type": "player",
+   "subject": "Taylor Rogers",
+   "mlbamId": 573124,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "8ab0a0e79175b8ad",
+     "title": "Thursday BP: Former Giants in free agency",
+     "url": "https://sports.yahoo.com/articles/thursday-bp-former-giants-free-130000986.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "team-kc": {
+   "id": "team-kc",
+   "type": "team",
+   "subject": "KC roster moves and needs",
+   "mlbamId": null,
+   "teams": [
+    "KC"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "9e9b53c9748a46a4",
+     "title": "Kansas City Royals news: Michael Massey was a huge success in 2026",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-michael-130000479.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-677951": {
+   "id": "player-677951",
+   "type": "player",
+   "subject": "Bobby Witt",
+   "mlbamId": 677951,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "9e9b53c9748a46a4",
+     "title": "Kansas City Royals news: Michael Massey was a huge success in 2026",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-michael-130000479.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-825412": {
+   "id": "player-825412",
+   "type": "player",
+   "subject": "Angeibel Gomez",
+   "mlbamId": 825412,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "9e9b53c9748a46a4",
+     "title": "Kansas City Royals news: Michael Massey was a huge success in 2026",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-michael-130000479.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-805799": {
+   "id": "player-805799",
+   "type": "player",
+   "subject": "Zion Rose",
+   "mlbamId": 805799,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "9e9b53c9748a46a4",
+     "title": "Kansas City Royals news: Michael Massey was a huge success in 2026",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-michael-130000479.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-703610": {
+   "id": "player-703610",
+   "type": "player",
+   "subject": "Justin Lamkin",
+   "mlbamId": 703610,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "9e9b53c9748a46a4",
+     "title": "Kansas City Royals news: Michael Massey was a huge success in 2026",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-michael-130000479.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-695600": {
+   "id": "player-695600",
+   "type": "player",
+   "subject": "Carter Jensen",
+   "mlbamId": 695600,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "9e9b53c9748a46a4",
+     "title": "Kansas City Royals news: Michael Massey was a huge success in 2026",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-michael-130000479.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-614177": {
+   "id": "player-614177",
+   "type": "player",
+   "subject": "Franmil Reyes",
+   "mlbamId": 614177,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "9e9b53c9748a46a4",
+     "title": "Kansas City Royals news: Michael Massey was a huge success in 2026",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-michael-130000479.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-656876": {
+   "id": "player-656876",
+   "type": "player",
+   "subject": "Drew Rasmussen",
+   "mlbamId": 656876,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "9e9b53c9748a46a4",
+     "title": "Kansas City Royals news: Michael Massey was a huge success in 2026",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-michael-130000479.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T13:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "team-bal": {
+   "id": "team-bal",
+   "type": "team",
+   "subject": "BAL roster moves and needs",
+   "mlbamId": null,
+   "teams": [
+    "BAL"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "be48bb5e5a12080c",
+     "title": "Orioles news: Rotation needs, possible solutions",
+     "url": "https://sports.yahoo.com/articles/orioles-news-rotation-needs-possible-120000615.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-669358": {
+   "id": "player-669358",
+   "type": "player",
+   "subject": "Shane Baz",
+   "mlbamId": 669358,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "be48bb5e5a12080c",
+     "title": "Orioles news: Rotation needs, possible solutions",
+     "url": "https://sports.yahoo.com/articles/orioles-news-rotation-needs-possible-120000615.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-680694": {
+   "id": "player-680694",
+   "type": "player",
+   "subject": "Kyle Bradish",
+   "mlbamId": 680694,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "be48bb5e5a12080c",
+     "title": "Orioles news: Rotation needs, possible solutions",
+     "url": "https://sports.yahoo.com/articles/orioles-news-rotation-needs-possible-120000615.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-687064": {
+   "id": "player-687064",
+   "type": "player",
+   "subject": "Brandon Young",
+   "mlbamId": 687064,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "be48bb5e5a12080c",
+     "title": "Orioles news: Rotation needs, possible solutions",
+     "url": "https://sports.yahoo.com/articles/orioles-news-rotation-needs-possible-120000615.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-700249": {
+   "id": "player-700249",
+   "type": "player",
+   "subject": "Cade Povich",
+   "mlbamId": 700249,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "be48bb5e5a12080c",
+     "title": "Orioles news: Rotation needs, possible solutions",
+     "url": "https://sports.yahoo.com/articles/orioles-news-rotation-needs-possible-120000615.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-694346": {
+   "id": "player-694346",
+   "type": "player",
+   "subject": "Trey Gibson",
+   "mlbamId": 694346,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "be48bb5e5a12080c",
+     "title": "Orioles news: Rotation needs, possible solutions",
+     "url": "https://sports.yahoo.com/articles/orioles-news-rotation-needs-possible-120000615.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-605135": {
+   "id": "player-605135",
+   "type": "player",
+   "subject": "Chris Bassitt",
+   "mlbamId": 605135,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "be48bb5e5a12080c",
+     "title": "Orioles news: Rotation needs, possible solutions",
+     "url": "https://sports.yahoo.com/articles/orioles-news-rotation-needs-possible-120000615.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-621107": {
+   "id": "player-621107",
+   "type": "player",
+   "subject": "Zach Eflin",
+   "mlbamId": 621107,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "be48bb5e5a12080c",
+     "title": "Orioles news: Rotation needs, possible solutions",
+     "url": "https://sports.yahoo.com/articles/orioles-news-rotation-needs-possible-120000615.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T12:00:00.000Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "staff-tex": {
+   "id": "staff-tex",
+   "type": "staff",
+   "subject": "TEX staff and front office",
+   "mlbamId": null,
+   "teams": [
+    "TEX"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "items": [
+    {
+     "id": "2582acb62b8cbfc0",
+     "title": "Fair Territory with Alanna Rizzo! *Rangers’ quandary *Mariners/Kanzler *A’s direction *Mets’ hiring of Ellis *Phillies’ bullpen *Pirates/B. Lowe *Dudes/dorks *More YouTube: bit.ly/4z3Cpls Apple: bit.ly/4BFFJFX Spotify: bit.ly/4sGzBtb",
+     "url": "https://bsky.app/profile/ken-rosenthal.bsky.social/post/3mzllgjmk3k2e",
+     "sourceId": "bsky-ken-rosenthal.bsky.social",
+     "sourceName": "Ken Rosenthal",
+     "sourceKind": "reporter",
+     "author": "Ken Rosenthal",
+     "publishedAt": "2026-11-05T19:17:33.052Z",
+     "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "teams": [
+      "TEX",
+      "SEA",
+      "ATH",
+      "NYM",
+      "PHI",
+      "PIT"
+     ],
+     "role": "primary",
      "status": null
     }
    ]
@@ -579,25 +3448,31 @@
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-05T16:42:48.266Z",
+   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-05T16:42:48.266Z",
+   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-05T16:42:48.266Z",
+   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-05T16:42:48.266Z",
+   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
+   "lastError": null
+  },
+  "yahoo": {
+   "id": "yahoo",
+   "name": "Yahoo Sports",
+   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
    "lastError": null
   }
  }
