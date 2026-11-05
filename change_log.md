@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- A manual Update run always deploys, so site code changes can ship without new data.
+
 - Sources: launch with Yahoo and verified Bluesky reporters. ESPN is off, and NYT/The Athletic, MLB.com, NY Post and CBS are excluded from every run after a terms review.
 - An empty `202` from a source now reports as blocked instead of a parse error.
 - Replaced `<details>` with accessible buttons for the team and reporter panels.

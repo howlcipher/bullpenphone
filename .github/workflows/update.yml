@@ -40,7 +40,8 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
   deploy:
     needs: ingest
-    if: needs.ingest.outputs.changed == 'true' && vars.BULLPENPHONE_LIVE == 'true'
+    # A manual run always deploys, so site code changes can ship without new data.
+    if: vars.BULLPENPHONE_LIVE == 'true' && (needs.ingest.outputs.changed == 'true' || github.event_name == 'workflow_dispatch')
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     permissions:
