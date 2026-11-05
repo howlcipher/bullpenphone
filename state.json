@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T19:25:38.234Z",
+ "updatedAt": "2026-11-05T19:47:15.413Z",
  "threads": {
   "league-labor": {
    "id": "league-labor",
@@ -22,11 +22,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -37,11 +37,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "dfaadc0641a962ce",
@@ -122,7 +122,7 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T16:42:48.266Z",
-   "lastActivityAt": "2026-11-05T19:25:38.234Z",
+   "lastActivityAt": "2026-11-05T19:47:15.413Z",
    "items": [
     {
      "id": "c1cf71463391824f",
@@ -133,9 +133,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:01:26.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "8ab0a0e79175b8ad",
@@ -146,9 +146,22 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SF"
-     ],
+     ]
+    },
+    {
+     "id": "6c46adfc1c077c77",
+     "title": "8 high-impact MLB trade targets who could shake up uncertain offseason",
+     "url": "https://sports.yahoo.com/articles/8-high-impact-mlb-trade-110743327.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T11:07:43.000Z",
+     "firstSeenAt": "2026-11-05T19:47:15.413Z",
+     "teams": [],
      "role": "primary",
      "status": null
     },
@@ -327,11 +340,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8ab0a0e79175b8ad",
@@ -342,11 +355,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3a9252569e7bc721",
@@ -378,8 +391,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T16:42:48.266Z",
    "firstSeenAt": "2026-11-05T16:42:48.266Z",
-   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T19:47:15.413Z",
    "items": [
+    {
+     "id": "6c46adfc1c077c77",
+     "title": "8 high-impact MLB trade targets who could shake up uncertain offseason",
+     "url": "https://sports.yahoo.com/articles/8-high-impact-mlb-trade-110743327.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T11:07:43.000Z",
+     "firstSeenAt": "2026-11-05T19:47:15.413Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "203d6ea7cafe9fc6",
      "title": "Nick Martinez is declining his Rays mutual option for $20M, picking up $4M in the process and becoming a free agent (of course!) Note: Basically zero mutual options are exercised by both sides",
@@ -588,11 +614,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:42:20.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4ed3fc7d8d63da83",
@@ -690,9 +716,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T19:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -716,9 +742,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T19:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -742,9 +768,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T19:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -768,9 +794,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T19:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -794,11 +820,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8ab0a0e79175b8ad",
@@ -809,11 +835,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -837,11 +863,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -865,11 +891,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -893,11 +919,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -921,11 +947,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -951,11 +977,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:42:20.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "PIT"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -979,11 +1005,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:42:20.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1007,9 +1033,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:01:26.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "458748e51c919f9e",
@@ -1020,11 +1046,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1048,9 +1074,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:01:26.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1074,9 +1100,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:01:26.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1100,9 +1126,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:01:26.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1126,9 +1152,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:01:26.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "be48bb5e5a12080c",
@@ -1139,11 +1165,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1167,9 +1193,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:01:26.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1193,9 +1219,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:01:26.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1219,9 +1245,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:01:26.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1247,11 +1273,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "4d6fb202aaf58933",
@@ -1262,11 +1288,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "ac1fce99b2dc72ba",
@@ -1277,11 +1303,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -1305,11 +1331,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1333,11 +1359,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1361,11 +1387,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1389,11 +1415,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1417,11 +1443,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1445,11 +1471,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1473,11 +1499,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1501,11 +1527,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1531,11 +1557,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -1559,11 +1585,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9e9b53c9748a46a4",
@@ -1574,11 +1600,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1602,11 +1628,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1630,11 +1656,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1658,11 +1684,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1686,11 +1712,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1714,11 +1740,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1742,11 +1768,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1770,11 +1796,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1800,11 +1826,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -1830,11 +1856,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:47:58.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -1858,11 +1884,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:47:58.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "458748e51c919f9e",
@@ -1873,11 +1899,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1903,11 +1929,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -1931,11 +1957,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "458748e51c919f9e",
@@ -1946,11 +1972,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ac1fce99b2dc72ba",
@@ -1961,11 +1987,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1989,11 +2015,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2019,11 +2045,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -2047,11 +2073,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -2062,11 +2088,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2090,11 +2116,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2118,11 +2144,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e894310cc702867b",
@@ -2133,11 +2159,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2161,11 +2187,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2189,11 +2215,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8ab0a0e79175b8ad",
@@ -2204,11 +2230,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2232,11 +2258,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2260,11 +2286,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e894310cc702867b",
@@ -2275,11 +2301,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2303,11 +2329,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -2318,11 +2344,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2348,11 +2374,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -2376,11 +2402,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -2391,11 +2417,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2419,11 +2445,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2447,11 +2473,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2475,11 +2501,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2503,11 +2529,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2531,11 +2557,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2559,11 +2585,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2587,11 +2613,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2615,11 +2641,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2643,11 +2669,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ac1fce99b2dc72ba",
@@ -2658,11 +2684,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2686,11 +2712,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T14:14:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2716,11 +2742,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2744,11 +2770,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2772,11 +2798,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2800,11 +2826,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2828,11 +2854,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2856,11 +2882,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2884,11 +2910,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2912,11 +2938,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2940,11 +2966,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2970,11 +2996,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2998,11 +3024,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3026,11 +3052,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3054,11 +3080,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3082,11 +3108,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3110,11 +3136,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3138,11 +3164,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3166,11 +3192,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3196,11 +3222,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -3224,11 +3250,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3252,11 +3278,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3280,11 +3306,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3308,11 +3334,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3336,11 +3362,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3364,11 +3390,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3392,11 +3418,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3423,6 +3449,8 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-05T19:17:33.052Z",
      "firstSeenAt": "2026-11-05T19:25:38.234Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "TEX",
       "SEA",
@@ -3430,8 +3458,188 @@
       "NYM",
       "PHI",
       "PIT"
-     ],
-     "role": "primary",
+     ]
+    }
+   ]
+  },
+  "player-670623": {
+   "id": "player-670623",
+   "type": "player",
+   "subject": "Isaac Paredes",
+   "mlbamId": 670623,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:47:15.413Z",
+   "lastActivityAt": "2026-11-05T19:47:15.413Z",
+   "items": [
+    {
+     "id": "6c46adfc1c077c77",
+     "title": "8 high-impact MLB trade targets who could shake up uncertain offseason",
+     "url": "https://sports.yahoo.com/articles/8-high-impact-mlb-trade-110743327.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T11:07:43.000Z",
+     "firstSeenAt": "2026-11-05T19:47:15.413Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-621043": {
+   "id": "player-621043",
+   "type": "player",
+   "subject": "Carlos Correa",
+   "mlbamId": 621043,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:47:15.413Z",
+   "lastActivityAt": "2026-11-05T19:47:15.413Z",
+   "items": [
+    {
+     "id": "6c46adfc1c077c77",
+     "title": "8 high-impact MLB trade targets who could shake up uncertain offseason",
+     "url": "https://sports.yahoo.com/articles/8-high-impact-mlb-trade-110743327.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T11:07:43.000Z",
+     "firstSeenAt": "2026-11-05T19:47:15.413Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-682243": {
+   "id": "player-682243",
+   "type": "player",
+   "subject": "Bryce Miller",
+   "mlbamId": 682243,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:47:15.413Z",
+   "lastActivityAt": "2026-11-05T19:47:15.413Z",
+   "items": [
+    {
+     "id": "6c46adfc1c077c77",
+     "title": "8 high-impact MLB trade targets who could shake up uncertain offseason",
+     "url": "https://sports.yahoo.com/articles/8-high-impact-mlb-trade-110743327.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T11:07:43.000Z",
+     "firstSeenAt": "2026-11-05T19:47:15.413Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-676106": {
+   "id": "player-676106",
+   "type": "player",
+   "subject": "Emerson Hancock",
+   "mlbamId": 676106,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:47:15.413Z",
+   "lastActivityAt": "2026-11-05T19:47:15.413Z",
+   "items": [
+    {
+     "id": "6c46adfc1c077c77",
+     "title": "8 high-impact MLB trade targets who could shake up uncertain offseason",
+     "url": "https://sports.yahoo.com/articles/8-high-impact-mlb-trade-110743327.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T11:07:43.000Z",
+     "firstSeenAt": "2026-11-05T19:47:15.413Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-807739": {
+   "id": "player-807739",
+   "type": "player",
+   "subject": "Kade Anderson",
+   "mlbamId": 807739,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:47:15.413Z",
+   "lastActivityAt": "2026-11-05T19:47:15.413Z",
+   "items": [
+    {
+     "id": "6c46adfc1c077c77",
+     "title": "8 high-impact MLB trade targets who could shake up uncertain offseason",
+     "url": "https://sports.yahoo.com/articles/8-high-impact-mlb-trade-110743327.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T11:07:43.000Z",
+     "firstSeenAt": "2026-11-05T19:47:15.413Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-643377": {
+   "id": "player-643377",
+   "type": "player",
+   "subject": "Griffin Jax",
+   "mlbamId": 643377,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:47:15.413Z",
+   "lastActivityAt": "2026-11-05T19:47:15.413Z",
+   "items": [
+    {
+     "id": "6c46adfc1c077c77",
+     "title": "8 high-impact MLB trade targets who could shake up uncertain offseason",
+     "url": "https://sports.yahoo.com/articles/8-high-impact-mlb-trade-110743327.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T11:07:43.000Z",
+     "firstSeenAt": "2026-11-05T19:47:15.413Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666176": {
+   "id": "player-666176",
+   "type": "player",
+   "subject": "Jo Adell",
+   "mlbamId": 666176,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T19:47:15.413Z",
+   "lastActivityAt": "2026-11-05T19:47:15.413Z",
+   "items": [
+    {
+     "id": "6c46adfc1c077c77",
+     "title": "8 high-impact MLB trade targets who could shake up uncertain offseason",
+     "url": "https://sports.yahoo.com/articles/8-high-impact-mlb-trade-110743327.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T11:07:43.000Z",
+     "firstSeenAt": "2026-11-05T19:47:15.413Z",
+     "teams": [],
+     "role": "mention",
      "status": null
     }
    ]
@@ -3448,31 +3656,31 @@
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
+   "lastSuccessAt": "2026-11-05T19:47:15.413Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
+   "lastSuccessAt": "2026-11-05T19:47:15.413Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
+   "lastSuccessAt": "2026-11-05T19:47:15.413Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
+   "lastSuccessAt": "2026-11-05T19:47:15.413Z",
    "lastError": null
   },
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-05T19:25:38.234Z",
+   "lastSuccessAt": "2026-11-05T19:47:15.413Z",
    "lastError": null
   }
  }
