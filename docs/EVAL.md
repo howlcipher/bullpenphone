@@ -1,5 +1,22 @@
 # Status label evaluation
 
+## Latest result, 2026-11-05: both labels stay off
+
+| Round | Sample | Predicted | Correct | Precision | Gate |
+|---|---|---|---|---|---|
+| First rules on new posts | Unseen half of 14,311 reporter posts and Yahoo titles | 70 | About 60 | About 86% | **Fail** |
+| Player and move must share the opening sentence | 18,445 older, unseen reporter posts | 167 | 151 | About 90% | **Fail** |
+
+"Fell through" had too few real examples to measure: 1 and 2 predictions, and the 2 in the later round were both wrong.
+
+The remaining errors are mostly ordinary words: "encouraging signs", "a jersey signed by kids", or a move by a different player in the same sentence. Keyword rules seem unlikely to reach 98% without overfitting.
+
+**Limits:** the rules' author labeled these, seeing each prediction, and only precision was measured. The older posts include many posts by a few prolific accounts. A small rule fix for "Triple-A" came after scoring.
+
+**Options that keep to the rules:** require two independent reporters before calling a deal done, then measure that. Don't lower the bar or rename the label to get around it.
+
+The earlier evaluation follows.
+
 The gate: at least 50 labeled examples and at least 98% precision. A wrong "signed" about a real person is the worst failure this site can make, so labels stay off until they pass.
 
 ## Result, 2026-11-05: both labels stay off

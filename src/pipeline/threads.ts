@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { buildPlayerIndex, extract, findPlayers, type Extraction, type PlayerIndex } from '../core/extract';
+import { buildPlayerIndex, extract, findPlayers, findSurnameMentions, surnameOf, type Extraction, type PlayerEntry, type PlayerIndex } from '../core/extract';
 import type { Item, Latest, State, Status, Thread, ThreadSummary } from '../core/schemas';
 import { normalizeText } from '../core/text';
 import type { Gates, Overrides } from './config';
@@ -86,6 +86,7 @@ export function mergeEntries(state: State, entries: RawEntry[], options: MergeOp
     }
   }
 
+  const added: Array<{ common: Omit<Item, 'role' | 'status'>; entry: RawEntry; found: Extraction }> = [];
   for (const entry of entries) {
     const id = itemId(entry.url);
     const published = Date.parse(entry.publishedAt);
@@ -134,6 +135,7 @@ export function mergeEntries(state: State, entries: RawEntry[], options: MergeOp
       });
     }
 
+    added.push({ common, entry, found });
     const mentioned = new Map(found.players.map((player) => [player.mlbamId, player]));
     for (const player of findPlayers(normalizeText(entry.scanText), found.teams, index).players) mentioned.set(player.mlbamId, player);
     let count = 0;
@@ -145,8 +147,34 @@ export function mergeEntries(state: State, entries: RawEntry[], options: MergeOp
       addItem(upsert(state, key, 'player', player.name, player.mlbamId, nowIso), { ...common, role: 'mention', status: null });
     }
   }
+  // Last names can only be read once this batch's players are known with their clubs.
+  const known = playersByClub(state);
+  for (const { common, entry, found } of added) {
+    const clubs = entry.team ? [entry.team] : found.teams;
+    for (const player of findSurnameMentions(entry.title, clubs, known)) {
+      const key = `player-${player.mlbamId}`;
+      if (key !== found.subjectKey && !state.threads[key]?.items.some((item) => item.id === common.id)) {
+        addItem(upsert(state, key, 'player', player.name, player.mlbamId, nowIso), { ...common, role: 'mention', status: null });
+      }
+    }
+  }
   state.updatedAt = nowIso;
   return state;
+}
+
+/** Club to last name to players, from player threads whose own reports name that club. */
+export function playersByClub(state: State): Map<string, Map<string, PlayerEntry[]>> {
+  const out = new Map<string, Map<string, PlayerEntry[]>>();
+  for (const thread of Object.values(state.threads)) {
+    if (thread.type !== 'player' || thread.mlbamId === null) continue;
+    for (const team of thread.teams) {
+      const club = out.get(team) ?? new Map<string, PlayerEntry[]>();
+      const surname = surnameOf(thread.subject);
+      club.set(surname, [...(club.get(surname) ?? []), { mlbamId: thread.mlbamId, name: thread.subject }]);
+      out.set(team, club);
+    }
+  }
+  return out;
 }
 
 /** Removes reports by link, including threads left empty. Used when an author deletes a post. */
@@ -192,10 +220,34 @@ export function summarize(thread: Thread): ThreadSummary {
   };
 }
 
+const STATUS_POINTS: Record<Status, number> = { 'Agreement reported': 45, 'Fell through': 35, Talks: 35, Interest: 25, Linked: 10, Unclassified: 5 };
+const HALF_LIFE_HOURS = 18;
+
+/**
+ * Orders the board: concrete news from reporters and several sources first, fading with age so
+ * today's small move can still pass last week's big one.
+ */
+export function importance(thread: Thread, now: number): number {
+  const primaries = thread.items.filter((item) => item.role === 'primary');
+  const reports = primaries.length > 0 ? primaries : thread.items;
+  const newest = Math.max(...reports.map((item) => Date.parse(item.publishedAt)));
+  const independent = primaries.filter((item) => item.sourceKind !== 'fansite');
+  const sources = new Set(independent.map((item) => item.sourceName)).size;
+  let points = 10 + Math.min(sources, 4) * 10;
+  if (thread.status) points += STATUS_POINTS[thread.status];
+  if (primaries.some((item) => item.sourceKind === 'reporter')) points += 15;
+  if (thread.type === 'player' || thread.type === 'staff') points += 8;
+  if (thread.id === 'league-market' || /^team-[a-z]+$/.test(thread.id)) points -= 8;
+  if (independent.length === 0) points -= 12;
+  const ageHours = Math.max(0, (now - newest) / 3_600_000);
+  return Math.max(1, points) * 0.5 ** (ageHours / HALF_LIFE_HOURS);
+}
+
 /** A thread made only of passing mentions stays off the board but keeps its page. */
 export function buildLatest(threads: Thread[], now: string): Latest {
   const onBoard = threads.filter((thread) => thread.type !== 'player' || thread.items.some((item) => item.role === 'primary'));
-  const sorted = [...onBoard].sort((a, b) => b.items[0].publishedAt.localeCompare(a.items[0].publishedAt));
+  const at = Date.parse(now);
+  const sorted = [...onBoard].sort((a, b) => importance(b, at) - importance(a, at) || b.items[0].publishedAt.localeCompare(a.items[0].publishedAt));
   return { version: 1, generatedAt: now, threads: sorted.slice(0, LATEST_LIMIT).map(summarize) };
 }
 

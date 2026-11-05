@@ -6,7 +6,7 @@ import { TEAM_BY_ABBR, TEAMS } from '../../src/core/teams';
 import { canonicalUrl, fetchFeed, findDeletedPosts, parseBlueskyFeed, parseFeedEntries, type RawEntry } from '../../src/pipeline/fetch';
 import { parseRegister } from '../../src/pipeline/players';
 import { isAllowedByRobots } from '../../src/pipeline/robots';
-import { applyGates, applyOverrides, buildLatest, isFanNews, mergeEntries, nextStatus, removeItemsByUrl, shouldPublish } from '../../src/pipeline/threads';
+import { applyGates, applyOverrides, buildLatest, importance, isFanNews, mergeEntries, nextStatus, removeItemsByUrl, shouldPublish } from '../../src/pipeline/threads';
 
 const now = new Date('2026-11-05T12:00:00Z');
 const open = { agreement_reported: true, fell_through: true };
@@ -166,6 +166,7 @@ describe('thread merging', () => {
     ]);
     expect(state.threads['player-1'].teams).toEqual([]);
     expect(state.threads['staff-hou'].teams).toEqual(['HOU']);
+    expect(state.threads['staff-hou'].items[0].teams).toEqual(['HOU']);
   });
   it('never lets a fan site change a status or log a deal', () => {
     const fan = { sourceId: 'sbn-nym', sourceName: 'Fan Site', sourceKind: 'fansite' as const, team: 'NYM' };
@@ -241,6 +242,44 @@ describe('fan site filter', () => {
   });
   it('keeps fan sites out of league threads', () => {
     expect(isFanNews('Owners propose a salary cap', 'league')).toBe(false);
+  });
+});
+
+describe('last name mentions', () => {
+  it('links a roundup to a player already reported with that club, as a mention only', () => {
+    const state = merge([entry('Mets interested in Pete Alonso'), entry('Mets notes: Alonso, depth and more')]);
+    const thread = state.threads['player-2'];
+    expect(thread.items).toHaveLength(2);
+    expect(thread.items.find((item) => item.title.includes('notes'))?.role).toBe('mention');
+    expect(thread.status).toBe('Interest');
+  });
+});
+
+describe('board ranking', () => {
+  const at = Date.parse('2026-11-05T12:00:00Z');
+  const rank = (state: ReturnType<typeof merge>) => buildLatest(Object.values(state.threads), now.toISOString()).threads.map((t) => t.id);
+  const fan = { sourceId: 'sbn', sourceName: 'Fan', sourceKind: 'fansite' as const, team: 'NYM' };
+  const reporter = { sourceId: 'bsky', sourceName: 'Reporter', sourceKind: 'reporter' as const };
+  it('puts a concrete report ahead of a newer vague item', () => {
+    const state = merge([
+      entry('Mets in talks with Pete Alonso', 'https://a.com/1', { ...reporter, publishedAt: '2026-11-05T08:00:00Z' }),
+      entry('Cubs offseason plans come into focus', 'https://a.com/2', { publishedAt: '2026-11-05T11:55:00Z' }),
+    ]);
+    expect(rank(state)[0]).toBe('player-2');
+  });
+  it('rewards independent sources, but not fan sites', () => {
+    const one = merge([entry('Dodgers interested in Pete Alonso', 'https://a.com/1', reporter)]).threads['player-2'];
+    const two = merge([entry('Dodgers interested in Pete Alonso', 'https://a.com/1', reporter), entry('Mets also interested in Pete Alonso', 'https://a.com/2', { sourceId: 'y', sourceName: 'Yahoo' })]).threads['player-2'];
+    const withFan = merge([entry('Dodgers interested in Pete Alonso', 'https://a.com/1', reporter), entry('Pete Alonso is a free agent', 'https://a.com/3', fan)]).threads['player-2'];
+    expect(importance(two, at)).toBeGreaterThan(importance(one, at));
+    expect(importance(withFan, at)).toBe(importance(one, at));
+  });
+  it('lets a fresh small story pass an old big one', () => {
+    const state = merge([
+      entry('Mets in talks with Pete Alonso', 'https://a.com/1', { ...reporter, publishedAt: '2026-11-02T12:00:00Z' }),
+      entry('Tarik Skubal released by Tigers', 'https://a.com/2', { ...reporter, publishedAt: '2026-11-05T11:00:00Z' }),
+    ]);
+    expect(rank(state)[0]).toBe('player-1');
   });
 });
 

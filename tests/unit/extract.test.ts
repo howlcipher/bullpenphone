@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { buildPlayerIndex, extract, extractDeal, findTeams, looksLikeRumor } from '../../src/core/extract';
+import { buildPlayerIndex, extract, extractDeal, findSurnameMentions, findTeams, focusTeams, looksLikeRumor, teamTopic } from '../../src/core/extract';
 import { nameKey, normalizeText } from '../../src/core/text';
 
 const index = buildPlayerIndex(
@@ -74,7 +74,7 @@ describe('item typing', () => {
   it('routes staff, team-need and labor news away from player threads', () => {
     expect(extract('Reds name Joe Torres new pitching coach', index).subjectKey).toBe('staff-cin');
     expect(extract('Tigers hire Kyle Hudson as first base coach', index).type).toBe('staff');
-    expect(extract('Marlins seeking an outfield addition', index).subjectKey).toBe('team-mia');
+    expect(extract('Marlins seeking an outfield addition', index).subjectKey).toBe('team-mia-outfield');
     expect(extract('MLB proposes delaying salary cap until 2028', index).subjectKey).toBe('league-labor');
   });
   it('treats roundups as mentions with no status', () => {
@@ -199,5 +199,84 @@ describe('regressions from live headlines', () => {
   });
   it('sends a one-team news roundup to that team', () => {
     expect(extract('Mariners News: Jason Kanzler, Cam Castro, and Albert Pujols', live).subjectKey).toBe('team-sea');
+  });
+});
+
+describe('club focus', () => {
+  it('tags clubs in the opening sentence, not ones named later', () => {
+    expect(focusTeams('The Mets are hiring a co-hitting coach. He had been the Braves minor league hitting coordinator.')).toEqual(['NYM']);
+    expect(focusTeams('Red Sox deal a reliever to the Athletics for cash')).toEqual(['BOS', 'ATH']);
+    expect(extract('Mets are hiring a hitting coach. He was with the Braves before that.', index).teams).toEqual(['NYM']);
+  });
+  it('caps a list of clubs at two', () => {
+    expect(focusTeams('Yankees, Mets, Dodgers and Cubs all in on reliever')).toHaveLength(2);
+  });
+  it('falls back to all named clubs when the opening names none', () => {
+    expect(extract('A.J. news today. Tarik Skubal signs with the Mets as a free agent', index).teams).toEqual(['NYM']);
+  });
+  it('a team site keeps its own club', () => {
+    expect(extract('Pete Alonso signs with the Yankees', index, 'CHC').teams).toEqual(['NYY', 'CHC']);
+  });
+});
+
+describe('thread topics', () => {
+  it('splits club news by topic and keeps general notes apart', () => {
+    expect(teamTopic('phillies seek a left handed reliever')?.key).toBe('bullpen');
+    expect(extract('Phillies seeking a left-handed reliever this offseason', index).subjectKey).toBe('team-phi-bullpen');
+    expect(extract('Phillies seeking a left-handed reliever this offseason', index).subject).toBe('Philadelphia Phillies: bullpen');
+    expect(extract('Mets rotation upgrades are the offseason plan', index).subjectKey).toBe('team-nym-rotation');
+    expect(extract('Cubs offseason plans come into focus', index).subjectKey).toBe('team-chc');
+    expect(extract('Cubs offseason plans come into focus', index).subject).toBe('Chicago Cubs offseason notes');
+  });
+  it('sends a roundup to general notes even if it names a position', () => {
+    expect(extract('Mets notes: bullpen, rotation and more', index).subjectKey).toBe('team-nym');
+  });
+  it('splits the wider market', () => {
+    expect(extract('Eight players receive qualifying offers', index).subjectKey).toBe('league-qualifying-offers');
+    expect(extract('Ranking the top 50 free agents', index).subjectKey).toBe('league-rankings');
+    expect(extract('Free agency opens today', index).subjectKey).toBe('league-free-agency');
+  });
+});
+
+describe('last names', () => {
+  const bichette = { mlbamId: 21, name: 'Bo Bichette' };
+  const known = new Map([['NYM', new Map([['bichette', [bichette]], ['story', [{ mlbamId: 22, name: 'Trevor Story' }]], ['shared', [{ mlbamId: 23, name: 'A Shared' }, { mlbamId: 24, name: 'B Shared' }]]])]]);
+  it('finds a unique last name on that club', () => {
+    expect(findSurnameMentions('Mets Notes: Bichette, Sato, First Base', ['NYM'], known)).toEqual([bichette]);
+  });
+  it('ignores other clubs, shared names, common words and lowercase', () => {
+    expect(findSurnameMentions('Yankees Notes: Bichette', ['NYY'], known)).toEqual([]);
+    expect(findSurnameMentions('Mets Notes: Shared', ['NYM'], known)).toEqual([]);
+    expect(findSurnameMentions('The Mets Story So Far', ['NYM'], known)).toEqual([]);
+    expect(findSurnameMentions('mets chase bichette', ['NYM'], known)).toEqual([]);
+  });
+});
+
+describe('done deals need the player and the move together', () => {
+  const live = buildPlayerIndex([
+    { mlbamId: 31, name: 'Chase Petty' },
+    { mlbamId: 32, name: 'Clay Holmes' },
+    { mlbamId: 33, name: 'Pete Alonso' },
+    { mlbamId: 34, name: 'Travis Jankowski' },
+    { mlbamId: 35, name: 'Joey Wiemer' },
+    { mlbamId: 36, name: 'Jake Bird' },
+    { mlbamId: 37, name: 'Alex Bregman' },
+  ]);
+  it.each([
+    'Reds have optioned Chase Petty to Louisville. Another pitcher was claimed off waivers from the Mets on Thursday.',
+    'Clay Holmes says there have been no new extension talks with the Mets.',
+    'Manaea said he is very much hoping the Mets re-sign Pete Alonso.',
+    'A rookie has been signed to a one-year MLB contract tonight by the Rangers. Travis Jankowski has been selected to the roster.',
+    'Righty Jake Bird, acquired in the Luis Garcia trade, has been recalled from AAA by the Nationals.',
+    'He is all over the room. Those are really good signs for the Cubs and Alex Bregman.',
+  ])('not a deal: %s', (title) => {
+    expect(extract(title, live).status).not.toBe('Agreement reported');
+  });
+  it.each([
+    'Joey Wiemer traded to Giants',
+    'The Giants claimed Joey Wiemer off waivers from the Astros and optioned him to Triple-A.',
+    'Pete Alonso and the Orioles are in agreement on a five-year deal, pending a physical.',
+  ])('still a deal: %s', (title) => {
+    expect(extract(title, live).status).toBe('Agreement reported');
   });
 });

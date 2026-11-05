@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- Ranked the board by importance instead of time alone.
+- Split catch-all threads by topic, such as a club's bullpen or the trade market.
+- Linked last names to players already reported with that club, as mentions only.
+- Tagged stories with the clubs in their opening sentence, at most two.
+- Tightened done-deal and failed-deal rules. "Agreement reported" still failed evaluation at about 90%, so it stays off.
+
 - Limited Atom feeds to Bluesky reporter posts, since republishing other sources' headlines as a feed goes beyond what their terms allow.
 - Added a project roadmap.
 
