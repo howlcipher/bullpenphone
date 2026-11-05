@@ -4,7 +4,7 @@ import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { itemSchema } from '../../src/core/schemas';
 import { xmlEscape } from '../../src/lib/atom';
-import { scan } from '../../scripts/check-output';
+import { missingPaths, scan } from '../../scripts/check-output';
 
 const item = { id: 'a', title: 'T', url: 'https://a.com', sourceId: 's', sourceName: 'S', sourceKind: 'news', publishedAt: 'x', firstSeenAt: 'x', role: 'primary', status: null, teams: [] };
 
@@ -21,6 +21,10 @@ describe('guardrails', () => {
     expect(scan(dir)).toEqual([]);
     writeFileSync(join(dir, 'bad.json'), '{"copyright":"Copyright 2026 MLB Advanced Media, L.P.  Use of any content","transactions":[{"id":1}]}');
     expect(scan(dir).length).toBeGreaterThan(0);
+  });
+  it('reports a missing folder instead of skipping it', () => {
+    expect(missingPaths(['/no/such/hotstove/path'])).toEqual(['/no/such/hotstove/path']);
+    expect(missingPaths([tmpdir()])).toEqual([]);
   });
   it('escapes XML', () => {
     expect(xmlEscape(`<a href="x">&'`)).toBe('&lt;a href=&quot;x&quot;&gt;&amp;&apos;');

@@ -10,6 +10,8 @@ const FORBIDDEN: Array<[RegExp, string]> = [
 ];
 const TEXT = new Set(['.html', '.json', '.xml', '.js', '.txt']);
 
+export const missingPaths = (paths: string[]): string[] => paths.filter((path) => !existsSync(path));
+
 export function scan(dir: string): string[] {
   const problems: string[] = [];
   const walk = (path: string): void => {
@@ -28,7 +30,14 @@ export function scan(dir: string): string[] {
 }
 
 if (process.argv[1]?.endsWith('check-output.ts')) {
-  const problems = process.argv.slice(2).filter(existsSync).flatMap(scan);
+  const paths = process.argv.slice(2);
+  // A guard with nothing to inspect must fail, not pass.
+  const missing = missingPaths(paths);
+  if (paths.length === 0 || missing.length > 0) {
+    console.error(`nothing to check, missing: ${missing.join(', ') || 'no paths given'}`);
+    process.exit(1);
+  }
+  const problems = paths.flatMap(scan);
   if (problems.length) {
     console.error(problems.join('\n'));
     process.exit(1);
