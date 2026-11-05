@@ -1,1 +1,0 @@
-var e=e=>e.toISOString().slice(0,10);async function t(t=21,n=new Date){let r=`https://statsapi.mlb.com/api/v1/transactions?startDate=${e(new Date(n.getTime()-t*864e5))}&endDate=${e(n)}`,i=await fetch(r,{credentials:`omit`});if(!i.ok)throw Error(`MLB API ${i.status}`);let a=await i.json();return Array.isArray(a.transactions)?a.transactions:[]}export{t};
