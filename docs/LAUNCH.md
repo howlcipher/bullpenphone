@@ -8,7 +8,7 @@ Reviewed on 2026-11-05. This is a plain reading of each source's terms, not lega
 
 | Source | Finding | Status |
 |---|---|---|
-| SB Nation (30 team sites) | Part of Penske Media, whose terms allow headline feeds in aggregators when unedited, directly linked and attributed. Penske may require us to stop. Headlines only, labeled as fan sites, and they never change a status. | **On** |
+| SB Nation (28 team sites) | Part of Penske Media, whose terms allow headline feeds in aggregators when unedited, directly linked and attributed. Penske may require us to stop. Headlines only, labeled as fan sites, and they never change a status. | **On** |
 | Yahoo Sports | RSS terms allow display that is unmodified, attributed and linked, with no ads. Yahoo may require us to stop. | **On** |
 | ESPN | RSS terms allow this display, but the feed failed from GitHub's servers and returns an empty `202` to some clients. | Off, not worked around |
 | NYT / The Athletic | Bars automated collection and caching without written consent. | Excluded |

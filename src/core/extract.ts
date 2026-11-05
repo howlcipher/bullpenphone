@@ -82,7 +82,7 @@ export function findPlayers(normalized: string, teams: string[], index: PlayerIn
   return { players: [...found.values()], ambiguous: [...ambiguous] };
 }
 
-const MEDIA = /\b(podcast|youtube|spotify|apple podcasts?|webcast|bit ly|trib al|mailbag|chat transcript|poll|live chat|episode|newsletter|on this day|this day in|hall of fame)\b/;
+const MEDIA = /\b(after dark|discussion thread|open thread|game thread|podcast|youtube|spotify|apple podcasts?|webcast|bit ly|trib al|mailbag|chat transcript|poll|live chat|episode|newsletter|on this day|this day in|hall of fame)\b/;
 const ROUNDUP = /\b(notes|links|roundup|round up|intel|buzz|the opener|what we re hearing|what were hearing|takeaways|live updates|tracker|recap|news:|rumors|news and rumors|storylines|grades)\b/;
 const SPECULATIVE =
   /\b(could|would|should|might|may|if|why|how|what|where|when|who|which|whether|predict\w*|project\w*|landing spots?|rankings?|ranked|best|biggest|top \d+|mock|proposal|grade\w*|fits?|wish ?list|ideal|wants?|hopes?|expected|likely|unlikely|possible|potential|consider\w*|consolation|imagining|dream|hints?|suggest\w*|before|after|since|never|not|wont|didnt|doesnt|dont|without|unable|fails?|failed|submitted|among|try|tries|trying|posts?|posted|posting|qualifying offer|rumou?r\w*|target|targets)\b/;

@@ -181,6 +181,7 @@ describe('regressions from live headlines', () => {
   it.each([
     'Fair Territory show! *Rangers notes *Mets moves YouTube: bit.ly/abc Spotify: bit.ly/def',
     'New episode with Tarik Skubal talk on trib.al/xyz',
+    'Purple Row After Dark: Wednesday discussion thread on free agents',
   ])('drops promos: %s', (title) => {
     expect(extract(title, live).relevant).toBe(false);
   });

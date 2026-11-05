@@ -53,11 +53,9 @@ feeds:
   - { id: sbn-min, name: "Twinkie Town", url: "https://www.twinkietown.com/rss/index.xml", reviewed: true, kind: fansite, team: MIN }
   - { id: sbn-ath, name: "Athletics Nation", url: "https://www.athleticsnation.com/rss/index.xml", reviewed: true, kind: fansite, team: ATH }
   - { id: sbn-hou, name: "The Crawfish Boxes", url: "https://www.crawfishboxes.com/rss/index.xml", reviewed: true, kind: fansite, team: HOU }
-  - { id: sbn-laa, name: "Halos Heaven", url: "https://www.halosheaven.com/rss/index.xml", reviewed: true, kind: fansite, team: LAA }
   - { id: sbn-sea, name: "Lookout Landing", url: "https://www.lookoutlanding.com/rss/index.xml", reviewed: true, kind: fansite, team: SEA }
   - { id: sbn-tex, name: "Lone Star Ball", url: "https://www.lonestarball.com/rss/index.xml", reviewed: true, kind: fansite, team: TEX }
-  - { id: sbn-atl, name: "Talking Chop", url: "https://www.talkingchop.com/rss/index.xml", reviewed: true, kind: fansite, team: ATL }
-  - { id: sbn-mia, name: "Fish Stripes", url: "https://www.fishstripes.com/rss/index.xml", reviewed: true, kind: fansite, team: MIA }
+  - { id: sbn-atl, name: "Battery Power", url: "https://www.batterypower.com/rss/index.xml", reviewed: true, kind: fansite, team: ATL }
   - { id: sbn-nym, name: "Amazin' Avenue", url: "https://www.amazinavenue.com/rss/index.xml", reviewed: true, kind: fansite, team: NYM }
   - { id: sbn-phi, name: "The Good Phight", url: "https://www.thegoodphight.com/rss/index.xml", reviewed: true, kind: fansite, team: PHI }
   - { id: sbn-wsh, name: "Federal Baseball", url: "https://www.federalbaseball.com/rss/index.xml", reviewed: true, kind: fansite, team: WSH }
@@ -71,3 +69,4 @@ feeds:
   - { id: sbn-lad, name: "True Blue LA", url: "https://www.truebluela.com/rss/index.xml", reviewed: true, kind: fansite, team: LAD }
   - { id: sbn-sd, name: "Gaslamp Ball", url: "https://www.gaslampball.com/rss/index.xml", reviewed: true, kind: fansite, team: SD }
   - { id: sbn-sf, name: "McCovey Chronicles", url: "https://www.mccoveychronicles.com/rss/index.xml", reviewed: true, kind: fansite, team: SF }
+# Not listed: Halos Heaven (LAA) and Fish Stripes (MIA), whose sites weren't responding on 2026-11-05.

@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Sources: added 30 SB Nation team sites as labeled fan sites that can't change a status, and 19 more Bluesky reporters.
+- Sources: added 28 SB Nation team sites as labeled fan sites that can't change a status, and 19 more Bluesky reporters.
 - Added an Official moves panel to the home page, with a minor league toggle.
 - Rules: drop show promos and vague roundups, stop calling predictions Linked, and use full club names on threads.
 - Added a `reset_state` option to rebuild threads under current rules.
