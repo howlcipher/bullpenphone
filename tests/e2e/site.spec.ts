@@ -41,7 +41,17 @@ function collectProblems(page: Page): string[] {
   return problems;
 }
 
-test('board renders threads, official badge and live posts', async ({ page }) => {
+// WebKit's own <select> uses an internal inline style that any strict policy refuses. A
+// bare test page with only a <select> and no site code reproduced it, once per control.
+// So WebKit must report exactly one refusal per select: any other refusal still fails.
+function expectClean(problems: string[], browserName: string, selectsVisited: number): void {
+  const refusal = /^csp: Refused to apply a stylesheet/;
+  const others = problems.filter((problem) => !refusal.test(problem));
+  expect(others).toEqual([]);
+  expect(problems.filter((problem) => refusal.test(problem)).length).toBe(browserName === 'webkit' ? selectsVisited : 0);
+}
+
+test('board renders threads, official badge and live posts', async ({ page, browserName }) => {
   const problems = collectProblems(page);
   await mockLive(page);
   await page.goto(BASE);
@@ -51,7 +61,7 @@ test('board renders threads, official badge and live posts', async ({ page }) =>
   await expect(page.locator('[data-thread="player-3"] .status-interest')).toHaveText('Interest');
   await expect(page.getByText('From the bullpen')).toBeVisible();
   await expect(page.locator('.live .count')).toHaveText(/\d+ new/);
-  expect(problems).toEqual([]);
+  expectClean(problems, browserName, 2);
 });
 
 test('hostile text renders inert everywhere', async ({ page }) => {
@@ -66,7 +76,7 @@ test('hostile text renders inert everywhere', async ({ page }) => {
   await expect(page.getByRole('heading', { level: 1 })).toHaveText('Hostile <b>Player</b>');
 });
 
-test('works with live services blocked', async ({ page }) => {
+test('works with live services blocked', async ({ page, browserName }) => {
   const problems = collectProblems(page);
   await blockLive(page);
   await page.goto(BASE);
@@ -75,7 +85,7 @@ test('works with live services blocked', async ({ page }) => {
   await expect(page.getByText('Official badges unavailable right now')).toBeVisible();
   await page.goto(`${BASE}free-agents/`);
   await expect(page.getByText("MLB's list isn't available right now")).toBeVisible();
-  expect(problems).toEqual([]);
+  expectClean(problems, browserName, 2);
 });
 
 test('server-rendered board works without JavaScript', async ({ browser }) => {

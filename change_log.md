@@ -4,7 +4,9 @@
 
 - Sources: launch with Yahoo and verified Bluesky reporters. ESPN is off, and NYT/The Athletic, MLB.com, NY Post and CBS are excluded from every run after a terms review.
 - An empty `202` from a source now reports as blocked instead of a parse error.
-- Replaced `<details>` with accessible buttons after WebKit reported Content Security Policy refusals on pages using it.
+- Replaced `<details>` with accessible buttons for the team and reporter panels.
+- Tests now require exactly one WebKit refusal per `<select>`. It comes from WebKit's own control styling and doesn't affect the page.
+- Gave `html` the page background.
 - CI keeps Playwright screenshots and traces.
 
 - Renamed the project to Bullpen Phone, because "Hot Stove" is also an MLB Network show.
