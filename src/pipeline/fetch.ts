@@ -14,7 +14,9 @@ const MAX_BYTES = 8_000_000;
 export interface RawEntry {
   sourceId: string;
   sourceName: string;
-  sourceKind: 'news' | 'reporter';
+  sourceKind: 'news' | 'reporter' | 'fansite';
+  /** The club a team site covers, used as context for its headlines. */
+  team?: string;
   title: string;
   url: string;
   author?: string;
@@ -46,7 +48,7 @@ export function canonicalUrl(url: string): string {
   return parsed.toString();
 }
 
-export function parseFeedEntries(xml: string, feed: Pick<Feed, 'id' | 'name'>, now: Date): RawEntry[] {
+export function parseFeedEntries(xml: string, feed: Pick<Feed, 'id' | 'name' | 'kind' | 'team'>, now: Date): RawEntry[] {
   const parsed = parseFeed(xml);
   const out: RawEntry[] = [];
   for (const item of parsed.items) {
@@ -57,12 +59,14 @@ export function parseFeedEntries(xml: string, feed: Pick<Feed, 'id' | 'name'>, n
     out.push({
       sourceId: feed.id,
       sourceName: feed.name,
-      sourceKind: 'news',
+      sourceKind: feed.kind ?? 'news',
+      ...(feed.team ? { team: feed.team } : {}),
       title,
       url: canonicalUrl(url),
       author: item.authors?.[0]?.name ?? undefined,
       publishedAt: when.toISOString(),
-      scanText: `${item.description ?? ''} ${item.content ?? ''}`.replace(/<[^>]*>/g, ' ').slice(0, 20_000),
+      // Fan site feeds are licensed as headline feeds, so only the headline is read.
+      scanText: feed.kind === 'fansite' ? '' : `${item.description ?? ''} ${item.content ?? ''}`.replace(/<[^>]*>/g, ' ').slice(0, 20_000),
     });
   }
   return out;

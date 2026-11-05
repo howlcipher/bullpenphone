@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'preact/hooks';
-import { filterVisibleTransactions, isHeadlineMove, officialIndex, teamAbbr, type MlbTransaction } from '../core/official';
+import { officialIndex, type MlbTransaction } from '../core/official';
 import { latestSchema, STATUSES, type ThreadSummary } from '../core/schemas';
 import { TEAMS } from '../core/teams';
 import { fetchTransactions } from './mlb';
@@ -13,7 +13,6 @@ interface Props {
   pagesUrl: string;
   /** Locks the board to one club on team pages. */
   team?: string;
-  showMoves?: boolean;
 }
 
 const KEY = 'bullpenphone.followed';
@@ -48,7 +47,7 @@ async function fetchLatest(urls: string[]): Promise<{ generatedAt: string; threa
   return null;
 }
 
-export default function Board({ initial, generatedAt, base, rawUrl, pagesUrl, team, showMoves = false }: Props) {
+export default function Board({ initial, generatedAt, base, rawUrl, pagesUrl, team }: Props) {
   const [threads, setThreads] = useState(initial);
   const [updated, setUpdated] = useState(generatedAt);
   const [now, setNow] = useState(Date.parse(generatedAt));
@@ -92,7 +91,6 @@ export default function Board({ initial, generatedAt, base, rawUrl, pagesUrl, te
   }, []);
 
   const official = useMemo(() => officialIndex(threads, transactions), [threads, transactions]);
-  const moves = useMemo(() => filterVisibleTransactions(transactions).filter(isHeadlineMove).sort((a, b) => (b.date ?? '').localeCompare(a.date ?? '')).slice(0, 8), [transactions]);
 
   const visible = threads.filter((thread) => {
     if (team && !thread.teams.includes(team)) return false;
@@ -170,20 +168,6 @@ export default function Board({ initial, generatedAt, base, rawUrl, pagesUrl, te
       ) : (
         <p class="empty">Nothing matches these filters yet. During quiet stretches, or if a work stoppage freezes moves, this board can stay empty for a while.</p>
       )}
-      {showMoves && moves.length ? (
-        <section class="panel" aria-labelledby="moves-heading">
-          <h2 id="moves-heading">Official moves</h2>
-          <p class="note">Live from MLB, read by your browser. Minor league deals hidden.</p>
-          <ul>
-            {moves.map((move, position) => (
-              <li key={move.id ?? position}>
-                <span>{move.description}</span>
-                <div class="meta"><span>{move.date}</span>{teamAbbr(move.toTeam?.id) ? <span>{teamAbbr(move.toTeam?.id)}</span> : null}</div>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ) : null}
     </div>
   );
 }

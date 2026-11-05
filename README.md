@@ -41,7 +41,7 @@ npm run test:e2e:chromium   # for machines that lack WebKit's system libraries
 | File | Purpose |
 |---|---|
 | `config/sources.yaml` | News feeds. Only `reviewed: true` feeds reach a published build, and `excluded: true` feeds never run. |
-| `config/reporters.yaml` | Bluesky accounts. Only `identity: verified` accounts reach a published build. |
+| `config/reporters.yaml` | Bluesky accounts. `pending` accounts stay out of published builds. |
 | `config/gates.yaml` | Turns on status labels that have passed evaluation. |
 | `config/aliases.yaml` | Team context for names shared by several players. |
 | `config/overrides.yaml` | Manual corrections and takedowns. |

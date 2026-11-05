@@ -1,6 +1,10 @@
 # reviewed: true   Terms were read and allow this use. Runs everywhere.
 # reviewed: false  Not yet decided. Runs only locally with BULLPENPHONE_INCLUDE_UNREVIEWED=1.
 # excluded: true   Must not be fetched at all, including locally.
+# kind: fansite    Labeled as a fan site, tied to one team, and never changes a player's status.
+#
+# SB Nation sites are part of Penske Media. Its terms allow headline feeds in aggregators when
+# they're unedited, directly linked and attributed. Only headlines are read from these feeds.
 feeds:
   - id: yahoo
     name: Yahoo Sports
@@ -37,3 +41,33 @@ feeds:
     reviewed: true
     excluded: true
     notes: "Terms bar scraping and indexing a significant portion of content."
+  - { id: sbn-bal, name: "Camden Chat", url: "https://www.camdenchat.com/rss/index.xml", reviewed: true, kind: fansite, team: BAL }
+  - { id: sbn-bos, name: "Over the Monster", url: "https://www.overthemonster.com/rss/index.xml", reviewed: true, kind: fansite, team: BOS }
+  - { id: sbn-nyy, name: "Pinstripe Alley", url: "https://www.pinstripealley.com/rss/index.xml", reviewed: true, kind: fansite, team: NYY }
+  - { id: sbn-tb, name: "DRaysBay", url: "https://www.draysbay.com/rss/index.xml", reviewed: true, kind: fansite, team: TB }
+  - { id: sbn-tor, name: "Bluebird Banter", url: "https://www.bluebirdbanter.com/rss/index.xml", reviewed: true, kind: fansite, team: TOR }
+  - { id: sbn-cws, name: "South Side Sox", url: "https://www.southsidesox.com/rss/index.xml", reviewed: true, kind: fansite, team: CWS }
+  - { id: sbn-cle, name: "Covering the Corner", url: "https://www.coveringthecorner.com/rss/index.xml", reviewed: true, kind: fansite, team: CLE }
+  - { id: sbn-det, name: "Bless You Boys", url: "https://www.blessyouboys.com/rss/index.xml", reviewed: true, kind: fansite, team: DET }
+  - { id: sbn-kc, name: "Royals Review", url: "https://www.royalsreview.com/rss/index.xml", reviewed: true, kind: fansite, team: KC }
+  - { id: sbn-min, name: "Twinkie Town", url: "https://www.twinkietown.com/rss/index.xml", reviewed: true, kind: fansite, team: MIN }
+  - { id: sbn-ath, name: "Athletics Nation", url: "https://www.athleticsnation.com/rss/index.xml", reviewed: true, kind: fansite, team: ATH }
+  - { id: sbn-hou, name: "The Crawfish Boxes", url: "https://www.crawfishboxes.com/rss/index.xml", reviewed: true, kind: fansite, team: HOU }
+  - { id: sbn-laa, name: "Halos Heaven", url: "https://www.halosheaven.com/rss/index.xml", reviewed: true, kind: fansite, team: LAA }
+  - { id: sbn-sea, name: "Lookout Landing", url: "https://www.lookoutlanding.com/rss/index.xml", reviewed: true, kind: fansite, team: SEA }
+  - { id: sbn-tex, name: "Lone Star Ball", url: "https://www.lonestarball.com/rss/index.xml", reviewed: true, kind: fansite, team: TEX }
+  - { id: sbn-atl, name: "Talking Chop", url: "https://www.talkingchop.com/rss/index.xml", reviewed: true, kind: fansite, team: ATL }
+  - { id: sbn-mia, name: "Fish Stripes", url: "https://www.fishstripes.com/rss/index.xml", reviewed: true, kind: fansite, team: MIA }
+  - { id: sbn-nym, name: "Amazin' Avenue", url: "https://www.amazinavenue.com/rss/index.xml", reviewed: true, kind: fansite, team: NYM }
+  - { id: sbn-phi, name: "The Good Phight", url: "https://www.thegoodphight.com/rss/index.xml", reviewed: true, kind: fansite, team: PHI }
+  - { id: sbn-wsh, name: "Federal Baseball", url: "https://www.federalbaseball.com/rss/index.xml", reviewed: true, kind: fansite, team: WSH }
+  - { id: sbn-chc, name: "Bleed Cubbie Blue", url: "https://www.bleedcubbieblue.com/rss/index.xml", reviewed: true, kind: fansite, team: CHC }
+  - { id: sbn-cin, name: "Red Reporter", url: "https://www.redreporter.com/rss/index.xml", reviewed: true, kind: fansite, team: CIN }
+  - { id: sbn-mil, name: "Brew Crew Ball", url: "https://www.brewcrewball.com/rss/index.xml", reviewed: true, kind: fansite, team: MIL }
+  - { id: sbn-pit, name: "Bucs Dugout", url: "https://www.bucsdugout.com/rss/index.xml", reviewed: true, kind: fansite, team: PIT }
+  - { id: sbn-stl, name: "Viva El Birdos", url: "https://www.vivaelbirdos.com/rss/index.xml", reviewed: true, kind: fansite, team: STL }
+  - { id: sbn-ari, name: "AZ Snake Pit", url: "https://www.azsnakepit.com/rss/index.xml", reviewed: true, kind: fansite, team: ARI }
+  - { id: sbn-col, name: "Purple Row", url: "https://www.purplerow.com/rss/index.xml", reviewed: true, kind: fansite, team: COL }
+  - { id: sbn-lad, name: "True Blue LA", url: "https://www.truebluela.com/rss/index.xml", reviewed: true, kind: fansite, team: LAD }
+  - { id: sbn-sd, name: "Gaslamp Ball", url: "https://www.gaslampball.com/rss/index.xml", reviewed: true, kind: fansite, team: SD }
+  - { id: sbn-sf, name: "McCovey Chronicles", url: "https://www.mccoveychronicles.com/rss/index.xml", reviewed: true, kind: fansite, team: SF }

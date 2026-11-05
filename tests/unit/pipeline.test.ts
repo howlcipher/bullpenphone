@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { buildPlayerIndex } from '../../src/core/extract';
 import { emptyState, stateSchema } from '../../src/core/schemas';
 import { loadFeeds, loadReporters, publishableFeeds, publishableReporters } from '../../src/pipeline/config';
+import { TEAM_BY_ABBR } from '../../src/core/teams';
 import { canonicalUrl, fetchFeed, parseBlueskyFeed, parseFeedEntries, type RawEntry } from '../../src/pipeline/fetch';
 import { parseRegister } from '../../src/pipeline/players';
 import { isAllowedByRobots } from '../../src/pipeline/robots';
@@ -97,10 +98,21 @@ describe('source gating', () => {
 });
 
 describe('shipped source config', () => {
-  it('runs only Yahoo, and never an excluded source, even locally', () => {
-    expect(publishableFeeds(loadFeeds(), false).map((f) => f.id)).toEqual(['yahoo']);
-    expect(publishableFeeds(loadFeeds(), true).map((f) => f.id)).toEqual(['yahoo']);
-    expect(publishableReporters(loadReporters(), false)).toHaveLength(4);
+  it('never runs an excluded source, even locally', () => {
+    const ids = publishableFeeds(loadFeeds(), true).map((f) => f.id);
+    for (const id of ['espn', 'athletic', 'mlbcom', 'nypost', 'cbs']) expect(ids).not.toContain(id);
+    expect(ids).toContain('yahoo');
+  });
+  it('covers every club with exactly one team site', () => {
+    const teams = publishableFeeds(loadFeeds(), false).filter((f) => f.kind === 'fansite').map((f) => f.team);
+    expect(new Set(teams).size).toBe(30);
+    expect(teams).toHaveLength(30);
+    for (const team of teams) expect(TEAM_BY_ABBR.has(team as string)).toBe(true);
+  });
+  it('keeps unconfirmed reporters out of published builds', () => {
+    const published = publishableReporters(loadReporters(), false).map((r) => r.handle);
+    expect(published).toContain('ken-rosenthal.bsky.social');
+    expect(published).not.toContain('bnightengale.bsky.social');
   });
 });
 
@@ -147,6 +159,25 @@ describe('thread merging', () => {
     ]);
     expect(state.threads['player-1'].teams).toEqual([]);
     expect(state.threads['staff-hou'].teams).toEqual(['HOU']);
+  });
+  it('never lets a fan site change a status or log a deal', () => {
+    const fan = { sourceId: 'sbn-nym', sourceName: 'Fan Site', sourceKind: 'fansite' as const, team: 'NYM' };
+    const state = merge([entry('Mets sign Pete Alonso to two-year, $40M deal', undefined, fan)]);
+    expect(state.threads['player-2'].status).toBeNull();
+    expect(state.deals).toEqual([]);
+    expect(state.threads['player-2'].teams).toEqual(['NYM']);
+  });
+  it('uses the team site as context, and leads with reporting over fan sites', () => {
+    const fan = { sourceId: 'sbn-chc', sourceName: 'Fan Site', sourceKind: 'fansite' as const, team: 'CHC', publishedAt: '2026-11-05T11:30:00Z' };
+    const state = merge([entry('Free agent target: Pete Alonso', 'https://a.com/fan', fan), entry('Dodgers interested in Pete Alonso', 'https://a.com/news')]);
+    expect(state.threads['player-2'].teams).toContain('CHC');
+    expect(buildLatest(Object.values(state.threads), now.toISOString()).threads[0].top.sourceName).toBe('ESPN');
+  });
+  it('reads only the headline from a fan site feed', () => {
+    const [first] = parseFeedEntries(RSS, { id: 'x', name: 'X', kind: 'fansite', team: 'CHC' }, now);
+    expect(first.scanText).toBe('');
+    expect(first.sourceKind).toBe('fansite');
+    expect(first.team).toBe('CHC');
   });
   it('ignores old, future and undated entries', () => {
     const state = merge([

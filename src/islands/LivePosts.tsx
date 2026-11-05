@@ -67,7 +67,7 @@ export default function LivePosts({ reporters }: { reporters: Reporter[] }) {
         <span class="live-title">From the bullpen</span>
         {posts.length ? <span class="count"> {posts.length} new</span> : null}
       </button>
-      <div id="live-body" hidden={!open}>
+      <div id="live-body" class="live-body" hidden={!open}>
         <p class="note">Recent reporter posts on Bluesky that look market-related, filtered automatically. Not yet checked or grouped.</p>
         {state === 'loading' ? <p class="note">Loading…</p> : null}
         {state === 'ok' && posts.length === 0 ? <p class="note">No market posts in the last three days.</p> : null}

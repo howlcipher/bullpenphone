@@ -178,6 +178,24 @@ describe('regressions from live headlines', () => {
     expect(extract('Tarik Skubal withdrew from the Classic roster this offseason', live).status).not.toBe('Fell through');
     expect(extract('MLBPA withdrew grievance against Rays involving Tarik Skubal', live).status).not.toBe('Fell through');
   });
+  it.each([
+    'Fair Territory show! *Rangers notes *Mets moves YouTube: bit.ly/abc Spotify: bit.ly/def',
+    'New episode with Tarik Skubal talk on trib.al/xyz',
+  ])('drops promos: %s', (title) => {
+    expect(extract(title, live).relevant).toBe(false);
+  });
+  it('does not treat a prediction as a club link', () => {
+    expect(extract('Pirates predicted to sign Tarik Skubal', live).status).toBe('Unclassified');
+    expect(extract('Mets could sign Tarik Skubal', live).status).toBe('Linked');
+  });
+  it('drops vague roundups and offseason chatter', () => {
+    expect(extract('Guardians News: Not Much Going On', live).relevant).toBe(false);
+    expect(extract('View From The Other Offseason with a guest', live).relevant).toBe(false);
+  });
+  it('uses full club names and team-site context', () => {
+    expect(extract('Reds name new pitching coach', live).subject).toBe('Cincinnati Reds staff and front office');
+    expect(extract('Free agent target: Tarik Skubal', live, 'CHC').teams).toEqual(['CHC']);
+  });
   it('sends a one-team news roundup to that team', () => {
     expect(extract('Mariners News: Jason Kanzler, Cam Castro, and Albert Pujols', live).subjectKey).toBe('team-sea');
   });

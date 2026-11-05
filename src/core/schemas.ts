@@ -26,7 +26,7 @@ export const itemSchema = z.strictObject({
   url: httpsUrl,
   sourceId: z.string(),
   sourceName: z.string(),
-  sourceKind: z.enum(['news', 'reporter']),
+  sourceKind: z.enum(['news', 'reporter', 'fansite']),
   author: z.optional(z.string()),
   publishedAt: z.string(),
   firstSeenAt: z.string(),

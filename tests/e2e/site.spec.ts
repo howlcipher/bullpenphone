@@ -60,7 +60,7 @@ test('board renders threads, official badge and live posts', async ({ page, brow
   await expect(signed.locator('.status-official')).toHaveText('Official');
   await expect(page.locator('[data-thread="player-3"] .status-interest')).toHaveText('Interest');
   await expect(page.getByText('From the bullpen')).toBeVisible();
-  await expect(page.locator('.live .count')).toHaveText(/\d+ new/);
+  await expect(page.locator('.live').first().locator('.count')).toHaveText(/\d+ new/);
   expectClean(problems, browserName, 2);
 });
 
@@ -173,7 +173,7 @@ const isPhone = (page: Page): boolean => (page.viewportSize()?.width ?? 1280) < 
 test('reporter panel sits above the board and collapses on phones, and opens beside it on desktop', async ({ page }) => {
   await mockLive(page);
   await page.goto(BASE);
-  const panel = page.locator('.live');
+  const panel = page.locator('.live').first();
   const toggle = panel.locator('.live-toggle');
   await expect(panel.locator('.count')).toHaveText(/\d+ new/);
   const phone = isPhone(page);
@@ -270,4 +270,23 @@ test('review screenshots', async ({ page }, info) => {
   console.log(`${info.project.name} dark h1: ${color}`);
   const styled = await page.locator('.masthead').evaluate((el) => getComputedStyle(el).borderBottomStyle);
   expect(styled, 'site stylesheet applied').toBe('double');
+});
+
+test('official moves panel shows MLB club moves and hides winter league noise', async ({ page }) => {
+  await mockLive(page);
+  await page.goto(BASE);
+  const toggle = page.locator('#moves-toggle');
+  await expect(toggle).toBeVisible();
+  if (isPhone(page)) await toggle.click();
+  await expect(page.locator('#moves-body')).toContainText('Signed Example');
+  await expect(page.locator('#moves-body')).not.toContainText('Winter league noise');
+});
+
+test('home page makes one MLB request for all panels', async ({ page }) => {
+  await mockLive(page);
+  let calls = 0;
+  page.on('request', (request) => { if (request.url().includes('/transactions')) calls += 1; });
+  await page.goto(BASE);
+  await expect(page.locator('#moves-toggle')).toBeVisible();
+  expect(calls).toBe(1);
 });

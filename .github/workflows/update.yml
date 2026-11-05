@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "7,17,27,37,47,57 * * * *"
   workflow_dispatch:
+    inputs:
+      reset_state:
+        description: Rebuild threads from what feeds show now, using the current rules
+        type: boolean
+        default: false
 permissions:
   contents: read
 concurrency: { group: update, cancel-in-progress: false }
@@ -29,6 +34,7 @@ jobs:
               git show "origin/data:$file" > ".data/$file" 2>/dev/null || rm -f ".data/$file"
             done
           fi
+          if [ "${{ inputs.reset_state }}" = "true" ]; then rm -f .data/state.json .data/latest.json; fi
       - id: run
         run: npx tsx src/pipeline/run.ts
       - name: Guard output

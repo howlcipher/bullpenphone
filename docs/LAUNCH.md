@@ -8,6 +8,7 @@ Reviewed on 2026-11-05. This is a plain reading of each source's terms, not lega
 
 | Source | Finding | Status |
 |---|---|---|
+| SB Nation (30 team sites) | Part of Penske Media, whose terms allow headline feeds in aggregators when unedited, directly linked and attributed. Penske may require us to stop. Headlines only, labeled as fan sites, and they never change a status. | **On** |
 | Yahoo Sports | RSS terms allow display that is unmodified, attributed and linked, with no ads. Yahoo may require us to stop. | **On** |
 | ESPN | RSS terms allow this display, but the feed failed from GitHub's servers and returns an empty `202` to some clients. | Off, not worked around |
 | NYT / The Athletic | Bars automated collection and caching without written consent. | Excluded |
@@ -19,7 +20,7 @@ Excluded sources must not run anywhere, including locally. Enable one only with 
 
 ## 2. Reporter identities
 
-Four reporters carry a platform verification badge and are on. Accounts with `identity: pending` in `config/reporters.yaml` stay off in published builds until confirmed through, for example, a link from their employer or verified profile.
+`config/reporters.yaml` records how each account was checked. `verified` accounts have a platform badge. `corroborated` accounts have a matching bio and at least two verified reporters on the list following them, which is strong evidence rather than proof. `pending` accounts stay out of published builds. Bob Nightengale is pending because only one verified reporter follows the account.
 
 ## 3. Run the private benchmark for 7 days
 

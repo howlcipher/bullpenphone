@@ -1,11 +1,30 @@
-# `identity: verified` means the Bluesky account carries a platform verification
-# badge. `pending` accounts need a manual identity check and are treated like
-# unreviewed sources.
+# verified:     carries a Bluesky verification badge.
+# corroborated: no badge, but followed by at least two verified reporters on this list, with a
+#               matching bio. That's strong evidence rather than proof.
+# pending:      not confirmed, so it stays out of published builds.
+# Order matters: the browser's live panel polls only the first eight.
 reporters:
   - { handle: ken-rosenthal.bsky.social, name: Ken Rosenthal, identity: verified }
   - { handle: jonheyman.bsky.social, name: Jon Heyman, identity: verified }
+  - { handle: busterespn.bsky.social, name: Buster Olney, identity: corroborated }
+  - { handle: kileymcd.bsky.social, name: Kiley McDaniel, identity: corroborated }
+  - { handle: chelseajanes.bsky.social, name: Chelsea Janes, identity: corroborated }
+  - { handle: joelsherman.bsky.social, name: Joel Sherman, identity: corroborated }
   - { handle: jaysonst.bsky.social, name: Jayson Stark, identity: verified }
+  - { handle: evandrellich.bsky.social, name: Evan Drellich, identity: verified }
   - { handle: mikepetriello.bsky.social, name: Mike Petriello, identity: verified }
+  - { handle: bastianmlb.bsky.social, name: Jordan Bastian, identity: verified }
+  - { handle: adammccalvy.bsky.social, name: Adam McCalvy, identity: verified }
+  - { handle: jcmccaffrey.bsky.social, name: Jen McCaffrey, identity: verified }
+  - { handle: msheldon.bsky.social, name: Mark Sheldon, identity: verified }
+  - { handle: keeganmatheson.bsky.social, name: Keegan Matheson, identity: verified }
+  - { handle: peteabeglobe.bsky.social, name: Peter Abraham, identity: verified }
+  - { handle: susanslusser.bsky.social, name: Susan Slusser, identity: verified }
+  - { handle: andrewbaggarly.bsky.social, name: Andrew Baggarly, identity: verified }
+  - { handle: brittghiroli.bsky.social, name: Britt Ghiroli, identity: verified }
+  - { handle: toddzolecki.bsky.social, name: Todd Zolecki, identity: corroborated }
+  - { handle: miguardado.bsky.social, name: Maria Guardado, identity: corroborated }
+  - { handle: lalbanese.bsky.social, name: Laura Albanese, identity: corroborated }
+  - { handle: mitchbannon.bsky.social, name: Mitch Bannon, identity: corroborated }
+  - { handle: timbhealey.bsky.social, name: Tim Healey, identity: corroborated }
   - { handle: bnightengale.bsky.social, name: Bob Nightengale, identity: pending }
-  - { handle: joelsherman.bsky.social, name: Joel Sherman, identity: pending }
-  - { handle: chelseajanes.bsky.social, name: Chelsea Janes, identity: pending }

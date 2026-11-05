@@ -27,6 +27,7 @@ const stale = isStale(thread.lastActivityAt, Date.now());
           <a class="headline" href={isHttpsUrl(item.url) ? item.url : undefined} rel="noopener nofollow">{item.title}</a>
           <div class="meta">
             <span>{item.sourceName}</span>
+            {item.sourceKind === 'fansite' && <span class="pill">Fan site</span>}
             {item.status && item.status !== 'Unclassified' && <span class={`pill ${statusClass(item.status)}`}>{item.status}</span>}
             {item.role === 'mention' && <span>Mentioned in this report</span>}
             <span>Published <time datetime={item.publishedAt}>{date(item.publishedAt)}</time></span>

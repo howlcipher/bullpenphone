@@ -87,12 +87,13 @@ export function mergeEntries(state: State, entries: RawEntry[], options: MergeOp
     const priorTitle = recentTitles.get(titleKey);
     if (priorTitle !== undefined && Math.abs(priorTitle - published) < TITLE_DEDUPE_MS) continue;
 
-    const found: Extraction = extract(entry.title, index);
+    const found: Extraction = extract(entry.title, index, entry.team);
     if (!found.relevant || !found.subjectKey || !found.type || !found.subject) continue;
     seenIds.add(id);
     recentTitles.set(titleKey, published);
 
-    const status = applyGates(found.status, gates);
+    // Fan sites are opinion and analysis, so they can never move a player's status.
+    const status = entry.sourceKind === 'fansite' ? null : applyGates(found.status, gates);
     const common = {
       id,
       title: entry.title,
@@ -153,7 +154,9 @@ export function applyOverrides(threads: Thread[], overrides: Overrides): Thread[
 }
 
 export function summarize(thread: Thread): ThreadSummary {
-  const primary = thread.items.find((item) => item.role === 'primary') ?? thread.items[0];
+  const primaries = thread.items.filter((item) => item.role === 'primary');
+  // Lead with reporting over fan sites when a thread has both.
+  const primary = primaries.find((item) => item.sourceKind !== 'fansite') ?? primaries[0] ?? thread.items[0];
   return {
     id: thread.id,
     type: thread.type,

@@ -13,9 +13,11 @@ const feedSchema = z.object({
   url: z.string().check(z.refine(isHttpsUrl)),
   reviewed: z.boolean(),
   excluded: z.optional(z.boolean()),
+  kind: z.optional(z.literal('fansite')),
+  team: z.optional(z.string()),
   notes: z.optional(z.string()),
 });
-const reporterSchema = z.object({ handle: z.string(), name: z.string(), identity: z.enum(['verified', 'pending']) });
+const reporterSchema = z.object({ handle: z.string(), name: z.string(), identity: z.enum(['verified', 'corroborated', 'pending']) });
 const overridesSchema = z.object({
   threads: z.record(z.string(), z.object({ status: z.optional(z.string()), hidden: z.optional(z.boolean()) })),
   items: z.object({ hide: z.array(z.string()) }),
@@ -40,5 +42,5 @@ export function publishableFeeds(feeds: Feed[], includeUnreviewed: boolean): Fee
   return feeds.filter((feed) => !feed.excluded && (feed.reviewed || includeUnreviewed));
 }
 export function publishableReporters(reporters: Reporter[], includeUnreviewed: boolean): Reporter[] {
-  return reporters.filter((reporter) => reporter.identity === 'verified' || includeUnreviewed);
+  return reporters.filter((reporter) => reporter.identity !== 'pending' || includeUnreviewed);
 }

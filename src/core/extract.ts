@@ -1,5 +1,5 @@
 import type { Status, ThreadType } from './schemas';
-import { TEAMS } from './teams';
+import { TEAM_BY_ABBR, TEAMS } from './teams';
 import { nameKey, normalizeText } from './text';
 
 export interface PlayerEntry {
@@ -82,8 +82,8 @@ export function findPlayers(normalized: string, teams: string[], index: PlayerIn
   return { players: [...found.values()], ambiguous: [...ambiguous] };
 }
 
-const MEDIA = /\b(podcast|mailbag|chat transcript|poll|live chat|episode|newsletter|on this day|this day in|hall of fame)\b/;
-const ROUNDUP = /\b(notes|roundup|round up|intel|buzz|the opener|what we re hearing|what were hearing|takeaways|live updates|tracker|recap|news:|rumors|news and rumors|storylines|grades)\b/;
+const MEDIA = /\b(podcast|youtube|spotify|apple podcasts?|webcast|bit ly|trib al|mailbag|chat transcript|poll|live chat|episode|newsletter|on this day|this day in|hall of fame)\b/;
+const ROUNDUP = /\b(notes|links|roundup|round up|intel|buzz|the opener|what we re hearing|what were hearing|takeaways|live updates|tracker|recap|news:|rumors|news and rumors|storylines|grades)\b/;
 const SPECULATIVE =
   /\b(could|would|should|might|may|if|why|how|what|where|when|who|which|whether|predict\w*|project\w*|landing spots?|rankings?|ranked|best|biggest|top \d+|mock|proposal|grade\w*|fits?|wish ?list|ideal|wants?|hopes?|expected|likely|unlikely|possible|potential|consider\w*|consolation|imagining|dream|hints?|suggest\w*|before|after|since|never|not|wont|didnt|doesnt|dont|without|unable|fails?|failed|submitted|among|try|tries|trying|posts?|posted|posting|qualifying offer|rumou?r\w*|target|targets)\b/;
 const FELL =
@@ -105,9 +105,11 @@ const STAFF_ACTION =
 const LABOR = /\b(lockout|salary cap|cba|collective bargaining|labor|mlbpa|players union|work stoppage|salary floor)\b/;
 const TEAM_NEED =
   /\b(open to|pursue|pursuing|targets?|seek\w*|market for|looking for|additions?|needs?|shop|interested in|interest in|plans?|upgrades?|offseason|hot stove|rumou?rs?|notes|addition)\b/;
-const MARKET = /\b(free agen\w+|trade (market|deadline|targets?|rumou?rs?|chips?)|qualifying offers?|hot stove|offseason|rumou?rs?)\b/;
+const MARKET = /\b(free agen\w+|trade (market|deadline|targets?|rumou?rs?|chips?)|qualifying offers?|rumou?rs?)\b/;
 
-const CONDITIONAL = /\b(could|would|should|might|may|if|why|how|what|where|when|who|which|whether|predict\w*|project\w*|landing spots?|fits?|wish ?list|ideal|target|targets|rumou?r\w*|expected|likely|potential|possible|consider\w*|mock)\b/;
+// Predictions and wish lists aren't reports, so they stay Unclassified rather than Linked.
+const CONDITIONAL = /\b(could|would|might|may|if|target|targets|rumou?r\w*|expected|likely|potential|possible|consider\w*)\b/;
+const PREDICTION = /\b(predict\w*|project\w*|landing spots?|wish ?list|ideal|mock|best fits?|why|how|what|where|when|who|which|whether|should)\b/;
 
 export function classifyStatus(rawTitle: string, normalized: string): Status | null {
   if (MEDIA.test(normalized) || ROUNDUP.test(normalized)) return null;
@@ -117,6 +119,7 @@ export function classifyStatus(rawTitle: string, normalized: string): Status | n
     if (TALKS.test(normalized) && !/\b(could|would|might|may|if|why|how|what|when|whether)\b/.test(normalized) && !rawTitle.includes('?')) return 'Talks';
     if (INTEREST.test(normalized)) return 'Interest';
     // Words like "not" or "after" only make a report unclear. They don't link a player to a club.
+    if (PREDICTION.test(normalized) && !rawTitle.includes('?')) return 'Unclassified';
     if ((rawTitle.includes('?') || CONDITIONAL.test(normalized)) && !/\bqualifying offer\b/.test(normalized)) return 'Linked';
     return 'Unclassified';
   }
@@ -158,22 +161,24 @@ export function extractDeal(normalized: string): { years: number | null; amountU
 }
 
 /** Classifies one item from its title alone. Feed text only ever adds mentions, in the pipeline. */
-export function extract(rawTitle: string, index: PlayerIndex): Extraction {
+export function extract(rawTitle: string, index: PlayerIndex, contextTeam?: string): Extraction {
   const normalized = normalizeText(rawTitle);
-  const teams = findTeams(normalized);
+  const named = findTeams(normalized);
+  // A team site's headlines often skip the club's name.
+  const teams = contextTeam && !named.includes(contextTeam) ? [...named, contextTeam] : named;
   const { players, ambiguous } = findPlayers(normalized, teams, index);
   const base = { teams, players, ambiguous, deal: null };
   const none: Extraction = { ...base, relevant: false, type: null, subjectKey: null, subject: null, roundup: false, status: null };
 
   if (MEDIA.test(normalized)) return none;
-  const roundup = ROUNDUP.test(normalized) || /\bnews:/i.test(rawTitle) || players.length >= 3 || (rawTitle.split(':')[1]?.split(',').length ?? 0) >= 3;
+  const roundup = ROUNDUP.test(normalized) || /\bnews:.*,/i.test(rawTitle) || players.length >= 3 || (rawTitle.split(':')[1]?.split(',').length ?? 0) >= 3;
 
   if (LABOR.test(normalized)) {
     return { ...base, relevant: true, type: 'league', subjectKey: 'league-labor', subject: 'Labor and the CBA', roundup, status: null };
   }
   if (STAFF_ROLE.test(normalized) && STAFF_ACTION.test(normalized) && teams.length >= 1) {
     const team = teams[0];
-    return { ...base, relevant: true, type: 'staff', subjectKey: `staff-${team.toLowerCase()}`, subject: `${team} staff and front office`, roundup, status: null };
+    return { ...base, relevant: true, type: 'staff', subjectKey: `staff-${team.toLowerCase()}`, subject: `${TEAM_BY_ABBR.get(team)?.name ?? team} staff and front office`, roundup, status: null };
   }
   if (players.length >= 1 && !roundup) {
     let status = classifyStatus(rawTitle, normalized);
@@ -189,7 +194,7 @@ export function extract(rawTitle: string, index: PlayerIndex): Extraction {
   }
   if (teams.length >= 1 && teams.length <= 2 && (TEAM_NEED.test(normalized) || roundup) && !GAME_STORY.test(normalized)) {
     const team = teams[0];
-    return { ...base, relevant: true, type: 'team', subjectKey: `team-${team.toLowerCase()}`, subject: `${team} roster moves and needs`, roundup, status: null };
+    return { ...base, relevant: true, type: 'team', subjectKey: `team-${team.toLowerCase()}`, subject: `${TEAM_BY_ABBR.get(team)?.name ?? team} roster moves and needs`, roundup, status: null };
   }
   if (GAME_STORY.test(normalized) && !MARKET.test(normalized)) return none;
   if (MARKET.test(normalized) || (roundup && players.length > 0)) {

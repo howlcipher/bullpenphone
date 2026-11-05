@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Board from '../islands/Board';
 import LivePosts from '../islands/LivePosts';
+import OfficialMoves from '../islands/OfficialMoves';
 import { latest, RAW_LATEST_URL, reporters } from '../lib/data';
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
@@ -9,7 +10,10 @@ const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
   <h1>Who's getting the call?</h1>
   <p class="lede">Trades, free agents and front office moves. One thread per story, with every report in one place and links to the original reporting.</p>
   <div class="layout">
-    <aside class="rail"><LivePosts client:idle reporters={reporters.map(({ handle, name }) => ({ handle, name }))} /></aside>
+    <aside class="rail">
+      <LivePosts client:idle reporters={reporters.slice(0, 8).map(({ handle, name }) => ({ handle, name }))} />
+      <OfficialMoves client:idle />
+    </aside>
     <Board client:load initial={latest.threads.slice(0, 120)} generatedAt={latest.generatedAt} base={base} rawUrl={RAW_LATEST_URL} pagesUrl={`${base}data/latest.json`} />
   </div>
 </Base>
