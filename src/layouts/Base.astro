@@ -5,6 +5,9 @@ interface Props { title: string; description?: string; feed?: string }
 const { title, description = 'Automated MLB tracker of trades, free agents and front office moves: one page per story, with links to the original reports.', feed } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const full = title === 'Bullpen Phone' ? title : `${title} | Bullpen Phone`;
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
+const shareImage = new URL(`${base}og-image.png`, Astro.site).href;
+const shareAlt = "Bullpen Phone: Who's getting the call? Trades, free agents and front office.";
 const nav = [['', 'Board'], ['teams/', 'Teams'], ['deals/', 'Deals'], ['free-agents/', 'Free agents'], ['search/', 'Search'], ['about/', 'About']];
 const path = Astro.url.pathname.replace(/\/?$/, '/');
 ---
@@ -22,6 +25,17 @@ const path = Astro.url.pathname.replace(/\/?$/, '/');
     <link rel="icon" href={`${base}icon.svg`} type="image/svg+xml" />
     <link rel="apple-touch-icon" href={`${base}icon-180.png`} />
     <link rel="manifest" href={`${base}manifest.webmanifest`} />
+    <meta property="og:site_name" content="Bullpen Phone" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title === 'Bullpen Phone' ? "Bullpen Phone: Who's getting the call?" : full} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={pageUrl} />
+    <meta property="og:image" content={shareImage} />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={shareAlt} />
+    <meta name="twitter:card" content="summary_large_image" />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
     <link rel="alternate" type="application/atom+xml" title="Bullpen Phone: all threads" href={feed ?? `${base}feeds/all.xml`} />
   </head>

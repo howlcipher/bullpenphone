@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Added link previews for Discord, iMessage and other apps, with a 1990s-style share image.
+
 - New 1990s baseball design: jersey-script wordmark and sleeve stripes, status stamps, club-color pennants, a scoreboard for reporter posts, and self-hosted open-licensed fonts.
 
 - Stop requesting an extra Pages build on each publish, which used two builds per update.

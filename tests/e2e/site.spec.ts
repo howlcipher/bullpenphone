@@ -307,3 +307,21 @@ test('thread pages request one player, not the whole league', async ({ page }) =
   expect(urls.length).toBeGreaterThan(0);
   for (const url of urls) expect(url).toContain('playerId=2');
 });
+
+test('shared links get a title, description and a real image', async ({ page, request }) => {
+  const live = 'https://howlcipher.github.io/bullpenphone/';
+  await page.goto(`${BASE}t/player-2/`);
+  const tag = (name: string) => page.locator(`meta[property="${name}"]`).getAttribute('content');
+  expect(await tag('og:title')).toContain('Signed Example');
+  expect(await tag('og:url')).toBe(`${live}t/player-2/`);
+  expect(await tag('og:description')).toBeTruthy();
+  const image = await tag('og:image');
+  expect(image).toBe(`${live}og-image.png`);
+  const png = await request.get(`${BASE}og-image.png`);
+  expect(png.ok()).toBe(true);
+  const bytes = await png.body();
+  expect(bytes.readUInt32BE(16)).toBe(1200);
+  expect(bytes.readUInt32BE(20)).toBe(630);
+  await page.goto(BASE);
+  expect(await tag('og:title')).toContain('getting the call');
+});
