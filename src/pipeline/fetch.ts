@@ -187,3 +187,49 @@ export async function fetchReporter(reporter: Reporter, previous: SourceHealth |
     return { entries: [], health: { ...base, lastError: error instanceof Error ? error.message : String(error) } };
   }
 }
+
+const POST_URL = /^https:\/\/bsky\.app\/profile\/([^/]+)\/post\/([a-z0-9]+)$/i;
+const POST_BATCH = 25;
+
+/**
+ * Finds stored Bluesky posts that their authors have since deleted. A failed request, or a
+ * batch that returns nothing at all, proves nothing, so those posts are kept until next time.
+ */
+export async function findDeletedPosts(urls: string[], fetcher: FetchLike = fetch): Promise<string[]> {
+  const deleted: string[] = [];
+  const parsed = urls.flatMap((url) => {
+    const match = url.match(POST_URL);
+    return match ? [{ url, handle: match[1], key: match[2] }] : [];
+  });
+  // The lookup only accepts an account's permanent ID, not its handle.
+  const ids = new Map<string, string>();
+  for (const handle of new Set(parsed.map((post) => post.handle))) {
+    try {
+      const response = await fetcher(`https://public.api.bsky.app/xrpc/com.atproto.identity.resolveHandle?handle=${encodeURIComponent(handle)}`, { headers: { 'user-agent': USER_AGENT }, signal: AbortSignal.timeout(TIMEOUT_MS) });
+      if (!response.ok) continue;
+      const did = ((await response.json()) as { did?: string }).did;
+      if (did) ids.set(handle, did);
+    } catch {
+      /* Without an ID, this account's posts are kept until next time. */
+    }
+  }
+  const posts = parsed.flatMap((post) => {
+    const did = ids.get(post.handle);
+    return did ? [{ ...post, uri: `at://${did}/app.bsky.feed.post/${post.key}` }] : [];
+  });
+  for (let start = 0; start < posts.length; start += POST_BATCH) {
+    const batch = posts.slice(start, start + POST_BATCH);
+    try {
+      const query = batch.map((post) => `uris=${encodeURIComponent(post.uri)}`).join('&');
+      const response = await fetcher(`https://public.api.bsky.app/xrpc/app.bsky.feed.getPosts?${query}`, { headers: { 'user-agent': USER_AGENT }, signal: AbortSignal.timeout(TIMEOUT_MS) });
+      if (!response.ok) continue;
+      const body = (await response.json()) as { posts?: Array<{ uri?: string }> };
+      const found = new Set((body.posts ?? []).map((post) => post.uri?.split('/').pop()));
+      if (found.size === 0) continue;
+      deleted.push(...batch.filter((post) => !found.has(post.key)).map((post) => post.url));
+    } catch {
+      /* Check again on the next run. */
+    }
+  }
+  return deleted;
+}

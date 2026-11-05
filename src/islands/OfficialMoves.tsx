@@ -36,9 +36,9 @@ export default function OfficialMoves() {
         {moves.length ? <span class="count"> latest {moves.length}</span> : null}
       </button>
       <div id="moves-body" class="live-body" hidden={!open}>
-        <p class="note">Live from MLB, read by your browser and never stored here.</p>
+        <p class="note">The last week, live from MLB. Read by your browser and never stored here.</p>
         <label class="check-row"><input type="checkbox" checked={minors} onChange={(event) => setMinors(event.currentTarget.checked)} /> Include minor league deals</label>
-        {moves.length === 0 ? <p class="note">No moves to show in the last three weeks.</p> : null}
+        {moves.length === 0 ? <p class="note">No moves to show in the last week.</p> : null}
         <ul>
           {moves.map((move, position) => (
             <li key={move.id ?? position}>

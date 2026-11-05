@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Filter opinion pieces from fan sites.
+- Remove Bluesky posts after their authors delete them.
+- Reduce MLB requests: the home page reads one week, and thread pages read one player.
+
 - Every club now has a team-specific source, enforced by a test. Added Fish On First for the Marlins and 11 more beat writers, including Jeff Fletcher for the Angels.
 
 - Sources: added 28 SB Nation team sites as labeled fan sites that can't change a status, and 19 more Bluesky reporters.

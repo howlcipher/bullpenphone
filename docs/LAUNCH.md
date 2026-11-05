@@ -53,3 +53,13 @@ See [EVAL.md](EVAL.md). Both gated labels are off, so reported deals show as `Un
 
 - If a work stoppage freezes moves, set a notice in `config/site.yaml`.
 - Update `config/aliases.yaml` when a player with a shared name changes clubs.
+
+## Constraints
+
+Nothing here may cost money or break a site's terms. No paid APIs, scraping or bot-protection workarounds.
+
+## Open items
+
+- **Scheduled runs:** none had fired as of 2026-11-05. Other new public repos report the same since 2026-11-02, with first runs hours late. The free fallback is a scheduling service calling the `workflow_dispatch` API with a fine-grained token.
+- **Bluesky developer guidelines:** couldn't be loaded for review. The Terms of Service showed no conflict.
+- **MLB Stats API:** each visitor's browser makes small, non-commercial requests, but MLB's terms don't explicitly address a public site.

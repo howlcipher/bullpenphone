@@ -99,7 +99,10 @@ test('server-rendered board works without JavaScript', async ({ browser }) => {
 test('following teams filters the board and persists', async ({ page }) => {
   await mockLive(page);
   await page.goto(BASE);
-  await page.locator('.follow-toggle').click();
+  await expect(async () => {
+    await page.locator('.follow-toggle').click();
+    await expect(page.getByRole('checkbox', { name: 'New York Yankees' })).toBeVisible({ timeout: 500 });
+  }).toPass();
   await page.getByRole('checkbox', { name: 'New York Yankees' }).check();
   await expect(page.locator('[data-thread="player-2"]')).toBeVisible();
   await expect(page.locator('[data-thread="player-3"]')).toHaveCount(0);
@@ -241,7 +244,11 @@ test('touch targets are large enough on phones', async ({ page }) => {
     ['.team-chip', 32], ['.subject', 32], ['.headline', 32],
   ];
   await page.goto(BASE);
-  await page.locator('.follow-toggle').click();
+  // Retry until the island has hydrated and the panel opens. A click before then does nothing.
+  await expect(async () => {
+    await page.locator('.follow-toggle').click();
+    await expect(page.locator('.follow-grid label').first()).toBeVisible({ timeout: 500 });
+  }).toPass();
   await page.waitForLoadState('networkidle');
   for (const [selector, minimum] of [...rules, ['.follow-grid label', 44] as [string, number]]) {
     const heights = await page.locator(selector).evaluateAll((els) => els.map((el) => el.getBoundingClientRect().height).filter((h) => h > 0));
@@ -289,4 +296,14 @@ test('home page makes one MLB request for all panels', async ({ page }) => {
   await page.goto(BASE);
   await expect(page.locator('#moves-toggle')).toBeVisible();
   expect(calls).toBe(1);
+});
+
+test('thread pages request one player, not the whole league', async ({ page }) => {
+  await mockLive(page);
+  const urls: string[] = [];
+  page.on('request', (request) => { if (request.url().includes('statsapi.mlb.com')) urls.push(request.url()); });
+  await page.goto(`${BASE}t/player-2/`);
+  await expect(page.getByText('per MLB')).toBeVisible();
+  expect(urls.length).toBeGreaterThan(0);
+  for (const url of urls) expect(url).toContain('playerId=2');
 });

@@ -3,10 +3,10 @@ import { buildPlayerIndex } from '../../src/core/extract';
 import { emptyState, stateSchema } from '../../src/core/schemas';
 import { loadFeeds, loadReporters, publishableFeeds, publishableReporters } from '../../src/pipeline/config';
 import { TEAM_BY_ABBR, TEAMS } from '../../src/core/teams';
-import { canonicalUrl, fetchFeed, parseBlueskyFeed, parseFeedEntries, type RawEntry } from '../../src/pipeline/fetch';
+import { canonicalUrl, fetchFeed, findDeletedPosts, parseBlueskyFeed, parseFeedEntries, type RawEntry } from '../../src/pipeline/fetch';
 import { parseRegister } from '../../src/pipeline/players';
 import { isAllowedByRobots } from '../../src/pipeline/robots';
-import { applyGates, applyOverrides, buildLatest, mergeEntries, nextStatus, shouldPublish } from '../../src/pipeline/threads';
+import { applyGates, applyOverrides, buildLatest, isFanNews, mergeEntries, nextStatus, removeItemsByUrl, shouldPublish } from '../../src/pipeline/threads';
 
 const now = new Date('2026-11-05T12:00:00Z');
 const open = { agreement_reported: true, fell_through: true };
@@ -176,7 +176,7 @@ describe('thread merging', () => {
   });
   it('uses the team site as context, and leads with reporting over fan sites', () => {
     const fan = { sourceId: 'sbn-chc', sourceName: 'Fan Site', sourceKind: 'fansite' as const, team: 'CHC', publishedAt: '2026-11-05T11:30:00Z' };
-    const state = merge([entry('Free agent target: Pete Alonso', 'https://a.com/fan', fan), entry('Dodgers interested in Pete Alonso', 'https://a.com/news')]);
+    const state = merge([entry('Mets sign Pete Alonso as a free agent', 'https://a.com/fan', fan), entry('Dodgers interested in Pete Alonso', 'https://a.com/news')]);
     expect(state.threads['player-2'].teams).toContain('CHC');
     expect(buildLatest(Object.values(state.threads), now.toISOString()).threads[0].top.sourceName).toBe('ESPN');
   });
@@ -196,6 +196,51 @@ describe('thread merging', () => {
   });
   it('produces state that passes the schema', () => {
     expect(() => stateSchema.parse(merge([entry('Mets sign Pete Alonso')]))).not.toThrow();
+  });
+});
+
+describe('deleted posts', () => {
+  const live = 'https://bsky.app/profile/a.bsky.social/post/abc';
+  const gone = 'https://bsky.app/profile/a.bsky.social/post/def';
+  const reply = (posts: string[]) => async (url: string) =>
+    String(url).includes('resolveHandle')
+      ? Response.json({ did: 'did:plc:x' })
+      : String(url).includes(encodeURIComponent('at://did:plc:x/app.bsky.feed.post/'))
+        ? Response.json({ posts: posts.map((key) => ({ uri: `at://did:plc:x/app.bsky.feed.post/${key}` })) })
+        : new Response('handle URIs are rejected', { status: 500 });
+  it('finds posts the author deleted, ignoring other links', async () => {
+    expect(await findDeletedPosts([live, gone, 'https://example.com/a'], reply(['abc']))).toEqual([gone]);
+  });
+  it('keeps everything when the check fails or proves nothing', async () => {
+    expect(await findDeletedPosts([live, gone], async () => new Response('', { status: 500 }))).toEqual([]);
+    expect(await findDeletedPosts([live, gone], reply([]))).toEqual([]);
+    expect(await findDeletedPosts([live], async () => { throw new Error('down'); })).toEqual([]);
+    expect(await findDeletedPosts([live, gone], async (url: string) => (String(url).includes('resolveHandle') ? new Response('', { status: 404 }) : reply([])(url)))).toEqual([]);
+  });
+  it('removes a deleted report and any thread it leaves empty', () => {
+    const state = merge([entry('Dodgers interested in Pete Alonso', gone), entry('Mets interested in Tarik Skubal', live)]);
+    removeItemsByUrl(state, [gone]);
+    expect(state.threads['player-2']).toBeUndefined();
+    expect(state.threads['player-1'].items).toHaveLength(1);
+  });
+});
+
+describe('fan site filter', () => {
+  it.each([
+    'First impressions: your takeaways from the new manager',
+    'Let\u2019s figure out the contract in free agency',
+    'Cubs free agent target: Tarik Skubal',
+    'Brewers News and Notes: Awards, Front Office',
+    'Should the Mets trade for a starter?',
+    'Elephant Rumblings: A look at the offseason',
+  ])('drops opinion: %s', (title) => {
+    expect(isFanNews(title, 'team')).toBe(false);
+  });
+  it.each(['Reds name Joe Torres as new pitching coach', 'Marlins lose two players on waivers, add a reliever', 'Former first round pick becomes a free agent'])('keeps news: %s', (title) => {
+    expect(isFanNews(title, 'staff')).toBe(true);
+  });
+  it('keeps fan sites out of league threads', () => {
+    expect(isFanNews('Owners propose a salary cap', 'league')).toBe(false);
   });
 });
 

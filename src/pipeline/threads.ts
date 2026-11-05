@@ -13,6 +13,14 @@ const LATEST_LIMIT = 400;
 
 const RANK: Record<Status, number> = { Unclassified: 0, Linked: 1, Interest: 2, Talks: 3, 'Agreement reported': 4, 'Fell through': 4 };
 
+const FAN_OPINION = /\b(should|could|would|why|how|what|who|which|whether|takeaways?|impressions?|review|reviews|retrospective|grades?|grading|predict\w*|project\w*|profile|profiles|target|targets|wish ?list|mailbag|poll|roundtable|ranking|rankings|ranked|look back|looking back|figure out|history|links|rumblings|news and notes|view from|offseason plan|if|lets)\b/;
+
+/** Team sites are kept for concrete news. Their opinion pieces would crowd out reporting. */
+export function isFanNews(title: string, type: Thread['type']): boolean {
+  if (type === 'league' || title.includes('?')) return false;
+  return !FAN_OPINION.test(normalizeText(title));
+}
+
 export const itemId = (url: string): string => createHash('sha1').update(url).digest('hex').slice(0, 16);
 
 /** Labels that haven't passed the evaluation gate are reported as Unclassified. */
@@ -89,6 +97,7 @@ export function mergeEntries(state: State, entries: RawEntry[], options: MergeOp
 
     const found: Extraction = extract(entry.title, index, entry.team);
     if (!found.relevant || !found.subjectKey || !found.type || !found.subject) continue;
+    if (entry.sourceKind === 'fansite' && !isFanNews(entry.title, found.type)) continue;
     seenIds.add(id);
     recentTitles.set(titleKey, published);
 
@@ -137,6 +146,17 @@ export function mergeEntries(state: State, entries: RawEntry[], options: MergeOp
     }
   }
   state.updatedAt = nowIso;
+  return state;
+}
+
+/** Removes reports by link, including threads left empty. Used when an author deletes a post. */
+export function removeItemsByUrl(state: State, urls: string[]): State {
+  const gone = new Set(urls);
+  for (const [key, thread] of Object.entries(state.threads)) {
+    thread.items = thread.items.filter((item) => !gone.has(item.url));
+    if (thread.items.length === 0) delete state.threads[key];
+  }
+  state.deals = state.deals.filter((deal) => !gone.has(deal.url));
   return state;
 }
 

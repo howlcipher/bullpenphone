@@ -3,9 +3,9 @@ import { join, resolve } from 'node:path';
 import { buildPlayerIndex } from '../core/extract';
 import { emptyState, latestSchema, stateSchema, type State } from '../core/schemas';
 import { loadAliases, loadFeeds, loadGates, loadOverrides, loadReporters, publishableFeeds, publishableReporters } from './config';
-import { fetchFeed, fetchReporter, type FetchResult } from './fetch';
+import { fetchFeed, fetchReporter, findDeletedPosts, type FetchResult } from './fetch';
 import { loadPlayers } from './players';
-import { applyOverrides, buildLatest, mergeEntries, shouldPublish } from './threads';
+import { applyOverrides, buildLatest, mergeEntries, removeItemsByUrl, shouldPublish } from './threads';
 
 const dataDir = resolve(process.env.DATA_DIR ?? '.data');
 const includeUnreviewed = process.env.BULLPENPHONE_INCLUDE_UNREVIEWED === '1';
@@ -40,6 +40,9 @@ async function main(): Promise<void> {
   for (const result of results) state.health[result.health.id] = result.health;
 
   mergeEntries(state, results.flatMap((result) => result.entries), { index, gates, overrides, now });
+  // Respect authors who delete a post: it leaves this site on the next run.
+  const stored = Object.values(state.threads).flatMap((thread) => thread.items).filter((item) => item.sourceKind === 'reporter').map((item) => item.url);
+  removeItemsByUrl(state, await findDeletedPosts([...new Set(stored)]));
   const threads = applyOverrides(Object.values(state.threads), overrides);
   const latest = buildLatest(threads, nowIso);
 

@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'preact/hooks';
 import { officialMatch, type MlbTransaction } from '../core/official';
-import { fetchTransactions } from './mlb';
+import { fetchPlayerTransactions } from './mlb';
 
 interface Props { mlbamId: number; teams: string[]; firstSeenAt: string }
 
@@ -8,7 +8,7 @@ export default function OfficialBadge({ mlbamId, teams, firstSeenAt }: Props) {
   const [match, setMatch] = useState<MlbTransaction | null>(null);
   useEffect(() => {
     let active = true;
-    fetchTransactions(60)
+    fetchPlayerTransactions(mlbamId)
       .then((list) => {
         if (active) setMatch(officialMatch({ mlbamId, teams, firstSeenAt }, list));
       })
