@@ -1,8 +1,0 @@
-# Manual corrections, applied after every run.
-# threads:
-#   player-12345: { status: Unclassified }   # correct a wrong status
-#   player-67890: { hidden: true }           # remove a thread
-# items:
-#   hide: [itemid]                           # remove one item everywhere
-threads: {}
-items: { hide: [] }

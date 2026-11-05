@@ -1,4 +1,0 @@
-# Status labels stay off until they pass the labeled evaluation (scripts/eval-labels.ts):
-# at least 50 examples and at least 98% precision. Off means "Unclassified".
-agreement_reported: false
-fell_through: false
