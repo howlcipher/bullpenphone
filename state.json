@@ -1,0 +1,604 @@
+{
+ "version": 1,
+ "updatedAt": "2026-11-05T16:42:48.266Z",
+ "threads": {
+  "league-labor": {
+   "id": "league-labor",
+   "type": "league",
+   "subject": "Labor and the CBA",
+   "mlbamId": null,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "dfaadc0641a962ce",
+     "title": "When is 45 days not 45 days? Japanese players, posted as MLB lockout looms, face tight signing deadline. Unlocked and free to read. www.nytimes.com/athletic/774...",
+     "url": "https://bsky.app/profile/ken-rosenthal.bsky.social/post/3mzdfbxhtok2d",
+     "sourceId": "bsky-ken-rosenthal.bsky.social",
+     "sourceName": "Ken Rosenthal",
+     "sourceKind": "reporter",
+     "author": "Ken Rosenthal",
+     "publishedAt": "2026-11-02T13:06:19.449Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-831664": {
+   "id": "player-831664",
+   "type": "player",
+   "subject": "Teruaki Sato",
+   "mlbamId": 831664,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "dfaadc0641a962ce",
+     "title": "When is 45 days not 45 days? Japanese players, posted as MLB lockout looms, face tight signing deadline. Unlocked and free to read. www.nytimes.com/athletic/774...",
+     "url": "https://bsky.app/profile/ken-rosenthal.bsky.social/post/3mzdfbxhtok2d",
+     "sourceId": "bsky-ken-rosenthal.bsky.social",
+     "sourceName": "Ken Rosenthal",
+     "sourceKind": "reporter",
+     "author": "Ken Rosenthal",
+     "publishedAt": "2026-11-02T13:06:19.449Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-673548": {
+   "id": "player-673548",
+   "type": "player",
+   "subject": "Seiya Suzuki",
+   "mlbamId": 673548,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "dfaadc0641a962ce",
+     "title": "When is 45 days not 45 days? Japanese players, posted as MLB lockout looms, face tight signing deadline. Unlocked and free to read. www.nytimes.com/athletic/774...",
+     "url": "https://bsky.app/profile/ken-rosenthal.bsky.social/post/3mzdfbxhtok2d",
+     "sourceId": "bsky-ken-rosenthal.bsky.social",
+     "sourceName": "Ken Rosenthal",
+     "sourceKind": "reporter",
+     "author": "Ken Rosenthal",
+     "publishedAt": "2026-11-02T13:06:19.449Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "league-market": {
+   "id": "league-market",
+   "type": "league",
+   "subject": "The wider market",
+   "mlbamId": null,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "539d543f26095a7d",
+     "title": "The 2026-27 Hot Stove tracker is available over at Baseball Savant, a fun way to see who's out there and what they did --> baseballsavant.mlb.com/leaderboard/...",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzgbc7bi5k24",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-03T16:32:51.878Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "0678aa1d454de520",
+     "title": "The SD rotation depth chart right now is .. Randy Vásquez, Joe Musgrove, and .. Kyle Hart? JP Sears? We all know AJ Preller will do lots of things, but.. that's a tough place to start.",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdwv5fbxscj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T18:21:16.803Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "87178b16ee3b96db",
+     "title": "Qualifying Offer decisions are due 5pm ET today. I predicted what might happen. Mostly, I think there will fewer than usual b/c the FA class is kind of weak, and some of the top guys are not eligible for it anyway. www.mlb.com/news/2026-27...",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdlkdavp2cj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T14:58:22.692Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "43ca56239818e497",
+     "title": "Fair Territory with @alannarizzo! *Wrapping up World Series *Why everyone loved the Brewers *Pat Murphy’s magic *Offseason preview *Biggest free agents *Dudes, dorks *More YouTube: bit.ly/4sCCyuO Apple: bit.ly/4BBbuQy Spotify: bit.ly/4yTg22d",
+     "url": "https://bsky.app/profile/ken-rosenthal.bsky.social/post/3mz4fupel622f",
+     "sourceId": "bsky-ken-rosenthal.bsky.social",
+     "sourceName": "Ken Rosenthal",
+     "sourceKind": "reporter",
+     "author": "Ken Rosenthal",
+     "publishedAt": "2026-10-30T18:28:10.315Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "53d438461678170d",
+     "title": "Padres star RHP Michael King declined his player option today and will be a free agent. Will be one of the most coveted players on market.",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3myzkldnrus2c",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-10-29T15:14:25.542Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "staff-nyy": {
+   "id": "staff-nyy",
+   "type": "staff",
+   "subject": "NYY staff and front office",
+   "mlbamId": null,
+   "teams": [
+    "NYY"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "70ca575c3c7c9679",
+     "title": "World Champion manager Pat Murphy addresses his funny hot mic critique of the Yankees here. Murphy always gives a great interview! YouTube: trib.al/YOFTFxK",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3mzhadavqzk2y",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-11-04T01:48:13.140Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "8e3a8ede246fab5b",
+     "title": "The Yankees and pitching coach Matt Blake have agreed on a three-year extension.",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3mymuyj77k22z",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-10-24T14:16:08.382Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "team-nym": {
+   "id": "team-nym",
+   "type": "team",
+   "subject": "NYM roster moves and needs",
+   "mlbamId": null,
+   "teams": [
+    "NYM"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "3a9252569e7bc721",
+     "title": "If Skubal derby comes down to big-monied Mets and Dodgers, Mets would need to overcome these LA-favoring factors nypost.com/2026/11/03/s...",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3mzh7p5ryc22j",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-11-04T01:36:58.781Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "NYM",
+      "LAD"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-669373": {
+   "id": "player-669373",
+   "type": "player",
+   "subject": "Tarik Skubal",
+   "mlbamId": 669373,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "3a9252569e7bc721",
+     "title": "If Skubal derby comes down to big-monied Mets and Dodgers, Mets would need to overcome these LA-favoring factors nypost.com/2026/11/03/s...",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3mzh7p5ryc22j",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-11-04T01:36:58.781Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "NYM",
+      "LAD"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-607259": {
+   "id": "player-607259",
+   "type": "player",
+   "subject": "Nick Martínez",
+   "mlbamId": 607259,
+   "teams": [
+    "TB"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-05T16:42:48.266Z",
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "203d6ea7cafe9fc6",
+     "title": "Nick Martinez is declining his Rays mutual option for $20M, picking up $4M in the process and becoming a free agent (of course!) Note: Basically zero mutual options are exercised by both sides",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3mz3qe4szac2d",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-10-30T12:03:05.419Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "TB"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "player-669160": {
+   "id": "player-669160",
+   "type": "player",
+   "subject": "Dustin May",
+   "mlbamId": 669160,
+   "teams": [
+    "MIL"
+   ],
+   "status": "Linked",
+   "statusAt": "2026-11-05T16:42:48.266Z",
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "00af3e1418b0da2a",
+     "title": "Dustin May declined his mutual option with the Brewers and is a free agent",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3mz2gt5fvu22h",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-10-29T23:39:52.195Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    }
+   ]
+  },
+  "player-681190": {
+   "id": "player-681190",
+   "type": "player",
+   "subject": "Randy Vásquez",
+   "mlbamId": 681190,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "0678aa1d454de520",
+     "title": "The SD rotation depth chart right now is .. Randy Vásquez, Joe Musgrove, and .. Kyle Hart? JP Sears? We all know AJ Preller will do lots of things, but.. that's a tough place to start.",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdwv5fbxscj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T18:21:16.803Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-605397": {
+   "id": "player-605397",
+   "type": "player",
+   "subject": "Joe Musgrove",
+   "mlbamId": 605397,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "0678aa1d454de520",
+     "title": "The SD rotation depth chart right now is .. Randy Vásquez, Joe Musgrove, and .. Kyle Hart? JP Sears? We all know AJ Preller will do lots of things, but.. that's a tough place to start.",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdwv5fbxscj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T18:21:16.803Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-606996": {
+   "id": "player-606996",
+   "type": "player",
+   "subject": "Kyle Hart",
+   "mlbamId": 606996,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "0678aa1d454de520",
+     "title": "The SD rotation depth chart right now is .. Randy Vásquez, Joe Musgrove, and .. Kyle Hart? JP Sears? We all know AJ Preller will do lots of things, but.. that's a tough place to start.",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdwv5fbxscj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T18:21:16.803Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-676664": {
+   "id": "player-676664",
+   "type": "player",
+   "subject": "JP Sears",
+   "mlbamId": 676664,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "0678aa1d454de520",
+     "title": "The SD rotation depth chart right now is .. Randy Vásquez, Joe Musgrove, and .. Kyle Hart? JP Sears? We all know AJ Preller will do lots of things, but.. that's a tough place to start.",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdwv5fbxscj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T18:21:16.803Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "team-pit": {
+   "id": "team-pit",
+   "type": "team",
+   "subject": "PIT roster moves and needs",
+   "mlbamId": null,
+   "teams": [
+    "PIT"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "4ed3fc7d8d63da83",
+     "title": "Wrote about Brandon Lowe, who had the biggest year-to-year defensive improvement from an IF or OF in Statcast history -- one backed by more than one metric. Just like we always say: Players leave TB and get better, wait, I'm workshopping that.. --> www.mlb.com/pirates/news...",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdwfc4nn2cj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T18:12:24.892Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "PIT"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-664040": {
+   "id": "player-664040",
+   "type": "player",
+   "subject": "Brandon Lowe",
+   "mlbamId": 664040,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "4ed3fc7d8d63da83",
+     "title": "Wrote about Brandon Lowe, who had the biggest year-to-year defensive improvement from an IF or OF in Statcast history -- one backed by more than one metric. Just like we always say: Players leave TB and get better, wait, I'm workshopping that.. --> www.mlb.com/pirates/news...",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdwfc4nn2cj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T18:12:24.892Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "PIT"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-668930": {
+   "id": "player-668930",
+   "type": "player",
+   "subject": "Brice Turang",
+   "mlbamId": 668930,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "4ed3fc7d8d63da83",
+     "title": "Wrote about Brandon Lowe, who had the biggest year-to-year defensive improvement from an IF or OF in Statcast history -- one backed by more than one metric. Just like we always say: Players leave TB and get better, wait, I'm workshopping that.. --> www.mlb.com/pirates/news...",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdwfc4nn2cj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T18:12:24.892Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "PIT"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-802139": {
+   "id": "player-802139",
+   "type": "player",
+   "subject": "JJ Wetherholt",
+   "mlbamId": 802139,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-05T16:42:48.266Z",
+   "lastActivityAt": "2026-11-05T16:42:48.266Z",
+   "items": [
+    {
+     "id": "4ed3fc7d8d63da83",
+     "title": "Wrote about Brandon Lowe, who had the biggest year-to-year defensive improvement from an IF or OF in Statcast history -- one backed by more than one metric. Just like we always say: Players leave TB and get better, wait, I'm workshopping that.. --> www.mlb.com/pirates/news...",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3mzdwfc4nn2cj",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-02T18:12:24.892Z",
+     "firstSeenAt": "2026-11-05T16:42:48.266Z",
+     "teams": [
+      "PIT"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  }
+ },
+ "deals": [],
+ "health": {
+  "espn": {
+   "id": "espn",
+   "name": "ESPN",
+   "lastSuccessAt": null,
+   "lastError": "The XML document could not be parsed as a feed"
+  },
+  "bsky-ken-rosenthal.bsky.social": {
+   "id": "bsky-ken-rosenthal.bsky.social",
+   "name": "Ken Rosenthal",
+   "lastSuccessAt": "2026-11-05T16:42:48.266Z",
+   "lastError": null
+  },
+  "bsky-jonheyman.bsky.social": {
+   "id": "bsky-jonheyman.bsky.social",
+   "name": "Jon Heyman",
+   "lastSuccessAt": "2026-11-05T16:42:48.266Z",
+   "lastError": null
+  },
+  "bsky-jaysonst.bsky.social": {
+   "id": "bsky-jaysonst.bsky.social",
+   "name": "Jayson Stark",
+   "lastSuccessAt": "2026-11-05T16:42:48.266Z",
+   "lastError": null
+  },
+  "bsky-mikepetriello.bsky.social": {
+   "id": "bsky-mikepetriello.bsky.social",
+   "name": "Mike Petriello",
+   "lastSuccessAt": "2026-11-05T16:42:48.266Z",
+   "lastError": null
+  }
+ }
+}
