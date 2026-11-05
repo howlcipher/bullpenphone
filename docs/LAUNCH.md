@@ -60,6 +60,8 @@ Nothing here may cost money or break a site's terms. No paid APIs, scraping or b
 
 ## Open items
 
+- **Refresh rate:** every 10 minutes. GitHub's minimum is 5, but branch-based Pages has a soft limit of 10 builds an hour, and visitors see cached data for several minutes anyway. Don't go faster than 10.
+- **Workflow cleanup:** the publish job's `pages: write` permission is no longer needed. Remove it once schedules are confirmed, to avoid disturbing them sooner.
 - **Scheduled runs:** none had fired as of 2026-11-05. Other new public repos report the same since 2026-11-02, with first runs hours late. The free fallback is a scheduling service calling the `workflow_dispatch` API with a fine-grained token.
 - **Bluesky developer guidelines:** couldn't be loaded for review. The Terms of Service showed no conflict.
 - **MLB Stats API:** each visitor's browser makes small, non-commercial requests, but MLB's terms don't explicitly address a public site.

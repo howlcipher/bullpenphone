@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Stop requesting an extra Pages build on each publish, which used two builds per update.
+
 - Filter opinion pieces from fan sites.
 - Remove Bluesky posts after their authors delete them.
 - Reduce MLB requests: the home page reads one week, and thread pages read one player.
