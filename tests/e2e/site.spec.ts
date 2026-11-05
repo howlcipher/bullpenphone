@@ -148,14 +148,19 @@ test('search finds a thread under the content security policy', async ({ page })
   expect(problems).toEqual([]);
 });
 
-test('feeds are valid XML, and team feeds only hold that team', async ({ request }) => {
+test('feeds are escaped, hold reporter posts only, and stay within their club', async ({ request }) => {
   const all = await (await request.get(`${BASE}feeds/all.xml`)).text();
   expect(all).toContain('<feed xmlns="http://www.w3.org/2005/Atom">');
   expect(all).toContain('&lt;img');
   expect(all).not.toContain('<img');
+  expect(all).toContain('Fixture Reporter');
+  expect(all).toContain('https://bsky.app/profile/reporter.bsky.social/post/abc123');
+  for (const other of ['Signed Example', 'Hostile', 'example.com/a', 'ESPN', 'Yahoo Sports']) expect(all).not.toContain(other);
+  const lad = await (await request.get(`${BASE}feeds/lad.xml`)).text();
+  expect(lad).toContain('Other Player');
   const nyy = await (await request.get(`${BASE}feeds/nyy.xml`)).text();
-  expect(nyy).toContain('Signed Example');
-  expect(nyy).not.toContain('Other Player');
+  expect(nyy).toContain('<feed');
+  expect(nyy).not.toContain('<entry>');
 });
 
 for (const colorScheme of ['light', 'dark'] as const) test(`fits the screen and has no accessibility violations (${colorScheme})`, async ({ page }) => {

@@ -2,7 +2,7 @@
 
 Who's getting the call? A free, non-commercial, automated tracker of MLB trades, free agents and front office moves. It runs entirely on GitHub Actions and GitHub Pages, with one thread per story, a visible status, and links to the original reporting. It isn't affiliated with MLB, its clubs, or any outlet it links to.
 
-**Live at <https://howlcipher.github.io/bullpenphone/> as a soft launch.** See [docs/LAUNCH.md](docs/LAUNCH.md) for sources and launch steps, and [docs/EVAL.md](docs/EVAL.md) for measured accuracy.
+**Live at <https://howlcipher.github.io/bullpenphone/> as a soft launch.** See [docs/LAUNCH.md](docs/LAUNCH.md) for sources and launch steps, [docs/EVAL.md](docs/EVAL.md) for measured accuracy, and [docs/ROADMAP.md](docs/ROADMAP.md) for what's next.
 
 ## How it works
 
@@ -23,7 +23,7 @@ TypeScript throughout, because the matching rules must also run in the browser. 
 
 ## API
 
-A free, read-only JSON API lives at `/api/v1/`, with an OpenAPI spec and `/llms.txt` for AI tools. It holds Bluesky reporter posts only, because the terms of the other sources don't allow this use. `scripts/check-output.ts` fails the build if anything else appears.
+A free, read-only JSON API lives at `/api/v1/`, with an OpenAPI spec and `/llms.txt` for AI tools. It and the Atom feeds hold Bluesky reporter posts only, because the terms of the other sources don't allow this use. `scripts/check-output.ts` fails the build if anything else appears.
 
 ## Develop
 

@@ -38,7 +38,7 @@ const path = Astro.url.pathname.replace(/\/?$/, '/');
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="robots" content="noai, noimageai" />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
-    <link rel="alternate" type="application/atom+xml" title="Bullpen Phone: all threads" href={feed ?? `${base}feeds/all.xml`} />
+    <link rel="alternate" type="application/atom+xml" title="Bullpen Phone: reporter posts" href={feed ?? `${base}feeds/all.xml`} />
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>

@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Limited Atom feeds to Bluesky reporter posts, since republishing other sources' headlines as a feed goes beyond what their terms allow.
+- Added a project roadmap.
+
 - Added a free, read-only JSON API, OpenAPI spec and `llms.txt`, limited to Bluesky reporter posts, with a build guard.
 - Asked AI crawlers not to use site pages, which hold sources not licensed for AI use.
 

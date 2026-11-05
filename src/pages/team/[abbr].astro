@@ -13,6 +13,6 @@ const feed = `${base}feeds/${team.abbr.toLowerCase()}.xml`;
 ---
 <Base title={team.name} description={`Rumor threads involving the ${team.name}.`} feed={feed}>
   <h1>{team.name}</h1>
-  <p class="lede">Threads involving this club. <a href={feed}>Subscribe with Atom</a>.</p>
+  <p class="lede">Threads involving this club. <a href={feed}>Subscribe to reporter posts with Atom</a>.</p>
   <Board client:load initial={threads} generatedAt={latest.generatedAt} base={base} rawUrl={RAW_LATEST_URL} pagesUrl={`${base}data/latest.json`} team={team.abbr} />
 </Base>
