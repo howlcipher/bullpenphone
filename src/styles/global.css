@@ -41,7 +41,7 @@
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 var(--sans); }
 a { color: var(--link); text-underline-offset: 2px; }
-a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
 h1, h2, h3 { font-family: var(--serif); line-height: 1.2; margin: 0 0 .4em; text-wrap: balance; }
 h1 { font-size: clamp(1.75rem, 5vw, 2.5rem); letter-spacing: -.01em; }
 h2 { font-size: 1.3rem; }
@@ -69,7 +69,8 @@ main { padding-block: 24px 48px; min-height: 60vh; }
 .field { display: grid; gap: 3px; font-size: .85rem; color: var(--muted); }
 select, input[type="search"] { font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--muted); border-radius: 4px; min-height: 44px; padding: 6px 10px; max-width: 100%; }
 button { font: inherit; }
-.follow summary { min-height: 44px; display: inline-flex; align-items: center; cursor: pointer; padding: 6px 12px; border: 1px solid var(--muted); border-radius: 4px; background: var(--surface); color: var(--ink); }
+.follow-toggle { min-height: 44px; display: inline-flex; align-items: center; cursor: pointer; padding: 6px 12px; border: 1px solid var(--muted); border-radius: 4px; background: var(--surface); color: var(--ink); }
+.follow-grid { border: 0; margin: 0; padding-inline: 0; }
 .follow-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr)); gap: 2px 8px; padding: 10px 0; min-width: min(80vw, 480px); }
 .follow-grid label { display: flex; gap: 6px; align-items: center; min-height: 36px; color: var(--ink); cursor: pointer; }
 .linklike { background: none; border: 0; color: var(--link); text-decoration: underline; cursor: pointer; padding: 8px 0; }
@@ -112,12 +113,10 @@ th { color: var(--muted); font-weight: 600; font-size: .82rem; }
 th button { background: none; border: 0; color: inherit; font-weight: 600; cursor: pointer; padding: 6px 0; text-decoration: underline; }
 .sources th, .sources td { white-space: normal; }
 .live { margin-bottom: 0; padding: 0 14px; }
-.live summary { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; min-height: 48px; cursor: pointer; list-style-position: inside; }
-.live summary::before { content: "\25B8"; color: var(--accent); }
-.live[open] summary::before { content: "\25BE"; }
-.live summary::-webkit-details-marker { display: none; }
+.live-toggle { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; width: 100%; min-height: 48px; padding: 0; background: none; border: 0; color: var(--ink); text-align: left; cursor: pointer; }
+.live-arrow { color: var(--accent); }
 .live-title { font: 700 1.05rem var(--serif); }
-.live[open] { padding-bottom: 8px; }
+#live-body { padding-bottom: 8px; }
 .show-more { display: block; width: 100%; min-height: 48px; margin-top: 16px; background: var(--surface); color: var(--ink); border: 1px solid var(--muted); border-radius: 4px; cursor: pointer; font-weight: 600; }
 .show-more:hover { border-color: var(--ink); }
 .tap-link { display: inline-block; }
@@ -133,7 +132,7 @@ th button { background: none; border: 0; color: inherit; font-weight: 600; curso
   .field { flex: 1 1 130px; }
   .field select, .field input { width: 100%; }
   .follow { flex: 1 1 100%; }
-  .follow summary { width: 100%; }
+  .follow-toggle { width: 100%; }
   .footer a, .lede a { display: inline-block; padding-block: 8px; }
   .linklike { min-height: 44px; }
   .tap-link { padding-block: 8px; }
@@ -150,6 +149,7 @@ th button { background: none; border: 0; color: inherit; font-weight: 600; curso
   .stack-table .stack-title { font: 700 1.05rem var(--serif); }
   .stack-table td.stack-empty { display: none; }
 }
+[hidden] { display: none !important; }
 mark { background: var(--s-talks-bg); color: var(--s-talks); }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }

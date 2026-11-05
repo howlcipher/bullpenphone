@@ -12,6 +12,7 @@ const feedSchema = z.object({
   name: z.string(),
   url: z.string().check(z.refine(isHttpsUrl)),
   reviewed: z.boolean(),
+  excluded: z.optional(z.boolean()),
   notes: z.optional(z.string()),
 });
 const reporterSchema = z.object({ handle: z.string(), name: z.string(), identity: z.enum(['verified', 'pending']) });
@@ -34,9 +35,9 @@ export const loadGates = () => gatesSchema.parse(load('gates.yaml'));
 export const loadAliases = () => z.object({ aliases: z.array(aliasSchema) }).parse(load('aliases.yaml')).aliases;
 export const loadNotice = () => z.object({ notice: z.optional(z.string()) }).parse(load('site.yaml')).notice ?? '';
 
-/** Unreviewed sources never reach a published build. */
+/** Excluded sources never run. Unreviewed sources never reach a published build. */
 export function publishableFeeds(feeds: Feed[], includeUnreviewed: boolean): Feed[] {
-  return feeds.filter((feed) => feed.reviewed || includeUnreviewed);
+  return feeds.filter((feed) => !feed.excluded && (feed.reviewed || includeUnreviewed));
 }
 export function publishableReporters(reporters: Reporter[], includeUnreviewed: boolean): Reporter[] {
   return reporters.filter((reporter) => reporter.identity === 'verified' || includeUnreviewed);

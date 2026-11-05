@@ -61,22 +61,25 @@ export default function LivePosts({ reporters }: { reporters: Reporter[] }) {
 
   if (state === 'failed' || reporters.length === 0) return null;
   return (
-    <details class="panel live" open={open} onToggle={(event) => setOpen(event.currentTarget.open)}>
-      <summary>
+    <section class="panel live" aria-labelledby="live-toggle">
+      <button type="button" id="live-toggle" class="live-toggle" aria-expanded={open} aria-controls="live-body" onClick={() => setOpen(!open)}>
+        <span class="live-arrow" aria-hidden="true">{open ? '\u25BE' : '\u25B8'}</span>
         <span class="live-title">From the bullpen</span>
         {posts.length ? <span class="count"> {posts.length} new</span> : null}
-      </summary>
-      <p class="note">Recent reporter posts on Bluesky that look market-related, filtered automatically. Not yet checked or grouped.</p>
-      {state === 'loading' ? <p class="note">Loading…</p> : null}
-      {state === 'ok' && posts.length === 0 ? <p class="note">No market posts in the last three days.</p> : null}
-      <ul aria-live="polite">
-        {posts.map((post) => (
-          <li key={post.id}>
-            <a href={post.url} rel="noopener nofollow">{post.text}</a>
-            <div class="meta"><span>{post.name}</span><time dateTime={post.at}>{timeAgo(post.at, now)}</time></div>
-          </li>
-        ))}
-      </ul>
-    </details>
+      </button>
+      <div id="live-body" hidden={!open}>
+        <p class="note">Recent reporter posts on Bluesky that look market-related, filtered automatically. Not yet checked or grouped.</p>
+        {state === 'loading' ? <p class="note">Loading…</p> : null}
+        {state === 'ok' && posts.length === 0 ? <p class="note">No market posts in the last three days.</p> : null}
+        <ul aria-live="polite">
+          {posts.map((post) => (
+            <li key={post.id}>
+              <a href={post.url} rel="noopener nofollow">{post.text}</a>
+              <div class="meta"><span>{post.name}</span><time dateTime={post.at}>{timeAgo(post.at, now)}</time></div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
   );
 }

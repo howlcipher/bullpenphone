@@ -4,7 +4,7 @@ export default defineConfig({
   testDir: 'tests/e2e',
   fullyParallel: true,
   reporter: 'list',
-  use: { baseURL: 'http://localhost:4321' },
+  use: { baseURL: 'http://localhost:4321', trace: 'retain-on-failure', screenshot: 'only-on-failure' },
   projects: [
     { name: 'phone', use: { ...devices['Pixel 7'] } },
     { name: 'small-phone', use: { ...devices['Pixel 7'], viewport: { width: 320, height: 640 } } },

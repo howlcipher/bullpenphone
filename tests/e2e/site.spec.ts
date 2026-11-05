@@ -28,7 +28,7 @@ async function mockLive(page: Page): Promise<void> {
 
 async function blockLive(page: Page): Promise<void> {
   for (const host of ['https://statsapi.mlb.com/**', 'https://public.api.bsky.app/**', 'https://raw.githubusercontent.com/**']) {
-    await page.route(host, (route) => route.abort());
+    await page.route(host, (route) => route.fulfill({ status: 503, body: 'unavailable', headers: { 'access-control-allow-origin': '*' } }));
   }
 }
 
@@ -89,13 +89,13 @@ test('server-rendered board works without JavaScript', async ({ browser }) => {
 test('following teams filters the board and persists', async ({ page }) => {
   await mockLive(page);
   await page.goto(BASE);
-  await page.locator('details.follow summary').click();
+  await page.locator('.follow-toggle').click();
   await page.getByRole('checkbox', { name: 'New York Yankees' }).check();
   await expect(page.locator('[data-thread="player-2"]')).toBeVisible();
   await expect(page.locator('[data-thread="player-3"]')).toHaveCount(0);
   await page.reload();
   await expect(page.locator('[data-thread="player-3"]')).toHaveCount(0);
-  await expect(page.locator('details.follow summary')).toHaveText('Following 1 team');
+  await expect(page.locator('.follow-toggle')).toHaveText('Following 1 team');
 });
 
 test('filters by type and status', async ({ page }) => {
@@ -154,7 +154,7 @@ for (const colorScheme of ['light', 'dark'] as const) test(`fits the screen and 
     const overflow = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
     expect(overflow, `${path} overflows`).toBeLessThanOrEqual(0);
     const results = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa']).analyze();
-    expect(results.violations.map((v) => `${path}: ${v.id}: ${v.nodes[0]?.target}`)).toEqual([]);
+    expect(results.violations.map((v) => `${path}: ${v.id}: ${v.nodes[0]?.target}: ${v.nodes[0]?.failureSummary}`)).toEqual([]);
   }
 });
 
@@ -163,15 +163,16 @@ const isPhone = (page: Page): boolean => (page.viewportSize()?.width ?? 1280) < 
 test('reporter panel sits above the board and collapses on phones, and opens beside it on desktop', async ({ page }) => {
   await mockLive(page);
   await page.goto(BASE);
-  const panel = page.locator('details.live');
+  const panel = page.locator('.live');
+  const toggle = panel.locator('.live-toggle');
   await expect(panel.locator('.count')).toHaveText(/\d+ new/);
   const phone = isPhone(page);
-  await expect.poll(() => panel.evaluate((el) => (el as HTMLDetailsElement).open)).toBe(!phone);
+  await expect(toggle).toHaveAttribute('aria-expanded', String(!phone));
   const panelBox = await panel.boundingBox();
   const boardBox = await page.locator('.controls').boundingBox();
   if (phone) {
     expect(panelBox!.y).toBeLessThan(boardBox!.y);
-    await panel.locator('summary').click();
+    await toggle.click();
     await expect(panel.getByRole('link', { name: /Mets in talks/ }).first()).toBeVisible();
   } else {
     expect(panelBox!.x).toBeGreaterThan(boardBox!.x + boardBox!.width - 1);
@@ -226,11 +227,11 @@ test('touch targets are large enough on phones', async ({ page }) => {
   test.skip(!isPhone(page), 'phone layout only');
   await mockLive(page);
   const rules: Array<[string, number]> = [
-    ['.masthead nav a', 44], ['.controls select', 44], ['.follow summary', 44], ['.live summary', 44],
+    ['.masthead nav a', 44], ['.controls select', 44], ['.follow-toggle', 44], ['.live-toggle', 44],
     ['.team-chip', 32], ['.subject', 32], ['.headline', 32],
   ];
   await page.goto(BASE);
-  await page.locator('details.follow summary').click();
+  await page.locator('.follow-toggle').click();
   await page.waitForLoadState('networkidle');
   for (const [selector, minimum] of [...rules, ['.follow-grid label', 44] as [string, number]]) {
     const heights = await page.locator(selector).evaluateAll((els) => els.map((el) => el.getBoundingClientRect().height).filter((h) => h > 0));
@@ -245,4 +246,18 @@ test('home screen icons and manifest are available', async ({ request }) => {
   for (const file of ['icon.svg', 'icon-180.png', 'icon-192.png', 'icon-512.png']) {
     expect((await request.get(`${BASE}${file}`)).ok(), file).toBe(true);
   }
+});
+
+test('review screenshots', async ({ page }, info) => {
+  await page.emulateMedia({ colorScheme: 'light' });
+  await mockLive(page);
+  await page.goto(BASE);
+  await page.waitForLoadState('networkidle');
+  await page.screenshot({ path: info.outputPath(`home-${info.project.name}.png`) });
+  await page.emulateMedia({ colorScheme: 'dark' });
+  await page.screenshot({ path: info.outputPath(`home-dark-${info.project.name}.png`) });
+  const color = await page.locator('h1').evaluate((el) => `${getComputedStyle(el).color} on ${getComputedStyle(document.body).backgroundColor}`);
+  console.log(`${info.project.name} dark h1: ${color}`);
+  const styled = await page.locator('.masthead').evaluate((el) => getComputedStyle(el).borderBottomStyle);
+  expect(styled, 'site stylesheet applied').toBe('double');
 });

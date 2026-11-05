@@ -12,14 +12,14 @@ The gate: at least 50 labeled examples and at least 98% precision. A wrong "sign
 
 ## How to read this
 
-- **The headlines differ from what's displayed.** The holdout is almost entirely one outlet's tidy, formulaic style, used privately under the benchmark-only decision. An earlier tuning sample of the displayed feeds had only 3 predictions, 2 of them wrong before fixes. So performance on the real sources is **unproven**, and the holdout probably flatters it.
+- **The headlines differ from what's displayed.** The holdout is almost entirely one outlet's tidy, formulaic style, used privately under the benchmark-only decision. An earlier tuning sample of other news feeds, several of which are now excluded, had only 3 predictions, 2 of them wrong before fixes. So performance on the real sources is **unproven**, and the holdout probably flatters it.
 - **Review wasn't independent.** The rules' author reviewed the predictions, seeing each prediction while judging it.
 - **Only precision was measured.** No recall figure exists, so missed deals are unknown.
 - **Rules changed after measuring.** The four holdout errors were then fixed, so this holdout can't be reused. Re-measuring needs new headlines.
 
 ## To pass
 
-1. Collect real headlines from the enabled sources during the benchmark, until each gated class has at least 50 predictions.
+1. Collect real headlines from the enabled sources (now Yahoo and Bluesky) during the benchmark, until each gated class has at least 50 predictions.
 2. Label them in `private/labels.json`, ideally with a second person.
 3. Run `npm run eval -- private/labels.json`.
 4. Set the label to `true` in `config/gates.yaml` only on a pass.

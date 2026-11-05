@@ -2,7 +2,7 @@
 
 Who's getting the call? A free, non-commercial, automated tracker of MLB trades, free agents and front office moves. It runs entirely on GitHub Actions and GitHub Pages, with one thread per story, a visible status, and links to the original reporting. It isn't affiliated with MLB, its clubs, or any outlet it links to.
 
-**Status: pre-launch.** See [docs/LAUNCH.md](docs/LAUNCH.md) for what must happen before it goes public, and [docs/EVAL.md](docs/EVAL.md) for measured accuracy.
+**Status: soft launch.** See [docs/LAUNCH.md](docs/LAUNCH.md) for sources and launch steps, and [docs/EVAL.md](docs/EVAL.md) for measured accuracy.
 
 ## How it works
 
@@ -27,7 +27,7 @@ Requires the Node version in `.nvmrc`.
 
 ```bash
 npm ci
-BULLPENPHONE_INCLUDE_UNREVIEWED=1 npm run ingest   # local data in .data/, includes unreviewed sources
+BULLPENPHONE_INCLUDE_UNREVIEWED=1 npm run ingest   # local data in .data/, includes unverified reporters
 npm run build                                  # type check, build, search index, output guard
 node scripts/serve.mjs dist 4321               # http://localhost:4321/bullpenphone/
 npm test                                       # unit tests
@@ -40,7 +40,7 @@ npm run test:e2e:chromium   # for machines that lack WebKit's system libraries
 
 | File | Purpose |
 |---|---|
-| `config/sources.yaml` | News feeds. Only `reviewed: true` feeds reach a published build. |
+| `config/sources.yaml` | News feeds. Only `reviewed: true` feeds reach a published build, and `excluded: true` feeds never run. |
 | `config/reporters.yaml` | Bluesky accounts. Only `identity: verified` accounts reach a published build. |
 | `config/gates.yaml` | Turns on status labels that have passed evaluation. |
 | `config/aliases.yaml` | Team context for names shared by several players. |

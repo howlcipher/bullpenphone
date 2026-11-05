@@ -58,6 +58,7 @@ export default function Board({ initial, generatedAt, base, rawUrl, pagesUrl, te
   const [transactions, setTransactions] = useState<MlbTransaction[]>([]);
   const [officialState, setOfficialState] = useState<'loading' | 'ok' | 'failed'>('loading');
   const [limit, setLimit] = useState(PAGE_SIZE);
+  const [followOpen, setFollowOpen] = useState(false);
 
   useEffect(() => {
     setFollowed(readFollowed());
@@ -115,19 +116,23 @@ export default function Board({ initial, generatedAt, base, rawUrl, pagesUrl, te
     <div>
       <div class="controls">
         {team ? null : (
-          <details class="follow">
-            <summary>{followed.length ? `Following ${followed.length} ${followed.length === 1 ? 'team' : 'teams'}` : 'Follow teams'}</summary>
-            <fieldset class="follow-grid">
-              <legend class="visually-hidden">Teams to follow</legend>
-              {[...TEAMS].sort((a, b) => a.abbr.localeCompare(b.abbr)).map((entry) => (
-                <label key={entry.abbr} title={entry.name}>
-                  <input type="checkbox" checked={followed.includes(entry.abbr)} onChange={() => toggle(entry.abbr)} aria-label={entry.name} />
-                  {entry.abbr}
-                </label>
-              ))}
-            </fieldset>
-            {followed.length ? <button type="button" class="linklike" onClick={() => { setFollowed([]); writeFollowed([]); }}>Clear all</button> : null}
-          </details>
+          <div class="follow">
+            <button type="button" class="follow-toggle" aria-expanded={followOpen} aria-controls="follow-panel" onClick={() => setFollowOpen(!followOpen)}>
+              {followed.length ? `Following ${followed.length} ${followed.length === 1 ? 'team' : 'teams'}` : 'Follow teams'}
+            </button>
+            <div id="follow-panel" hidden={!followOpen}>
+              <fieldset class="follow-grid">
+                <legend class="visually-hidden">Teams to follow</legend>
+                {[...TEAMS].sort((a, b) => a.abbr.localeCompare(b.abbr)).map((entry) => (
+                  <label key={entry.abbr} title={entry.name}>
+                    <input type="checkbox" checked={followed.includes(entry.abbr)} onChange={() => toggle(entry.abbr)} aria-label={entry.name} />
+                    {entry.abbr}
+                  </label>
+                ))}
+              </fieldset>
+              {followed.length ? <button type="button" class="linklike" onClick={() => { setFollowed([]); writeFollowed([]); }}>Clear all</button> : null}
+            </div>
+          </div>
         )}
         <label class="field">Type
           <select value={type} onChange={(event) => setType(event.currentTarget.value)}>

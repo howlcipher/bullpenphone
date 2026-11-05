@@ -116,7 +116,10 @@ export async function fetchFeed(feed: Feed, previous: SourceHealth | undefined, 
     const response = await fetcher(feed.url, { headers, signal: AbortSignal.timeout(TIMEOUT_MS) });
     if (response.status === 304) return { entries: [], health: { ...base, lastSuccessAt: now.toISOString() } };
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const entries = parseFeedEntries(await readCapped(response), feed, now);
+    const body = await readCapped(response);
+    // Some sources answer automated clients with an empty body. Report it and move on.
+    if (response.status === 202 || body.trim() === '') throw new Error(`blocked by source (HTTP ${response.status}, empty response)`);
+    const entries = parseFeedEntries(body, feed, now);
     const etag = response.headers.get('etag') ?? undefined;
     const lastModified = response.headers.get('last-modified') ?? undefined;
     return {

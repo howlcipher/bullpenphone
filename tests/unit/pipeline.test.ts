@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { buildPlayerIndex } from '../../src/core/extract';
 import { emptyState, stateSchema } from '../../src/core/schemas';
-import { publishableFeeds, publishableReporters } from '../../src/pipeline/config';
+import { loadFeeds, loadReporters, publishableFeeds, publishableReporters } from '../../src/pipeline/config';
 import { canonicalUrl, fetchFeed, parseBlueskyFeed, parseFeedEntries, type RawEntry } from '../../src/pipeline/fetch';
 import { parseRegister } from '../../src/pipeline/players';
 import { isAllowedByRobots } from '../../src/pipeline/robots';
@@ -49,6 +49,13 @@ describe('feed parsing', () => {
     expect(result.entries).toEqual([]);
     expect(result.health.lastError).toBeTruthy();
   });
+  it('reports an empty 202 as blocked', async () => {
+    const feed = { id: 'w', name: 'W', url: 'https://walled.example/feed', reviewed: true };
+    const fake = async (url: string) => (String(url).endsWith('robots.txt') ? new Response('') : new Response('', { status: 202 }));
+    const result = await fetchFeed(feed, undefined, now, fake);
+    expect(result.entries).toEqual([]);
+    expect(result.health.lastError).toMatch(/blocked by source/);
+  });
   it('honors robots.txt without fetching the feed', async () => {
     const feed = { id: 'r', name: 'R', url: 'https://blocked.example/feed', reviewed: true };
     let calls = 0;
@@ -83,8 +90,17 @@ describe('source gating', () => {
     const feeds = [{ id: 'a', name: 'A', url: 'https://a.com', reviewed: true }, { id: 'b', name: 'B', url: 'https://b.com', reviewed: false }];
     expect(publishableFeeds(feeds, false).map((f) => f.id)).toEqual(['a']);
     expect(publishableFeeds(feeds, true)).toHaveLength(2);
+    expect(publishableFeeds([{ ...feeds[0], excluded: true }], true)).toEqual([]);
     const reporters = [{ handle: 'a', name: 'A', identity: 'verified' as const }, { handle: 'b', name: 'B', identity: 'pending' as const }];
     expect(publishableReporters(reporters, false).map((r) => r.handle)).toEqual(['a']);
+  });
+});
+
+describe('shipped source config', () => {
+  it('runs only Yahoo, and never an excluded source, even locally', () => {
+    expect(publishableFeeds(loadFeeds(), false).map((f) => f.id)).toEqual(['yahoo']);
+    expect(publishableFeeds(loadFeeds(), true).map((f) => f.id)).toEqual(['yahoo']);
+    expect(publishableReporters(loadReporters(), false)).toHaveLength(4);
   });
 });
 

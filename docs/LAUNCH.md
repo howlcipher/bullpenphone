@@ -1,29 +1,29 @@
 # Launch checklist
 
-The site isn't public yet. Every item needs a person, because each is a legal or identity judgment or an outward-facing step.
+The launch is a soft launch with no promotion. The 7-day comparison runs during the first week rather than before launch.
 
-## 1. Review source terms
+## 1. Source terms
 
-A source is enabled by setting `reviewed: true` in `config/sources.yaml` after reading its terms.
+Reviewed on 2026-11-05. This is a plain reading of each source's terms, not legal advice. Sources are set in `config/sources.yaml`.
 
-| Source | Finding so far | Needed |
+| Source | Finding | Status |
 |---|---|---|
-| ESPN | RSS terms allow unedited, linked, credited display with no ads. Enabled. | Confirm |
-| MLB.com | Terms page couldn't be retrieved automatically | Read and decide |
-| The Athletic / NYT | Terms page couldn't be retrieved automatically | Read and decide |
-| Yahoo Sports | Not reviewed | Read and decide |
-| New York Post | Not reviewed | Read and decide |
-| CBS Sports | Terms bar scraping and indexing a significant portion of content. **Excluded.** | Written permission, if wanted |
+| Yahoo Sports | RSS terms allow display that is unmodified, attributed and linked, with no ads. Yahoo may require us to stop. | **On** |
+| ESPN | RSS terms allow this display, but the feed failed from GitHub's servers and returns an empty `202` to some clients. | Off, not worked around |
+| NYT / The Athletic | Bars automated collection and caching without written consent. | Excluded |
+| MLB.com | Requires written permission to display content. | Excluded |
+| New York Post | Limits use to personal, non-commercial, with no RSS allowance. | Excluded |
+| CBS Sports | Bars scraping and indexing a significant portion of content. | Excluded |
 
-If most are rejected, the launch set is ESPN, verified Bluesky accounts and official data, which is noticeably thinner.
+Excluded sources must not run anywhere, including locally. Enable one only with written permission.
 
-## 2. Confirm reporter identities
+## 2. Reporter identities
 
-Accounts with `identity: pending` in `config/reporters.yaml` don't have a platform verification badge. Confirm each belongs to the named reporter, for example through a link from their employer or verified profile.
+Four reporters carry a platform verification badge and are on. Accounts with `identity: pending` in `config/reporters.yaml` stay off in published builds until confirmed through, for example, a link from their employer or verified profile.
 
 ## 3. Run the private benchmark for 7 days
 
-On your own machine, periodically:
+This covers enabled and pending sources only. On your own machine, periodically:
 
 ```bash
 BULLPENPHONE_INCLUDE_UNREVIEWED=1 npm run ingest && npm run benchmark
@@ -42,7 +42,7 @@ See [EVAL.md](EVAL.md). Both gated labels are off, so reported deals show as `Un
 3. Set the repository variable `BULLPENPHONE_LIVE` to `true`.
 4. Run the **Update** workflow manually, then confirm:
    - The live URL updates, with valid Atom feeds.
-   - The `data` commit shows as **Verified**. The workflow log prints the signature. If it isn't, switch to a GitHub App token.
+   - The `data` commit shows as **Verified**. The workflow log prints the signature.
    - The browser loads `latest.json` from the `data` branch, which needs a public repo.
 5. Open the live site on a real iPhone and a real Android phone, including **Add to Home Screen**.
 6. Check real scheduled delays in the Actions history over the following days.
