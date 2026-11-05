@@ -1,0 +1,52 @@
+---
+import Base from '../layouts/Base.astro';
+import { feeds, health, reporters, state } from '../lib/data';
+const when = (iso: string | null | undefined) => (iso ? `${new Date(iso).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZone: 'UTC' })} UTC` : 'Not yet');
+const rows = [
+  ...feeds.map((feed) => ({ id: feed.id, name: feed.name, kind: 'News feed' })),
+  ...reporters.map((reporter) => ({ id: `bsky-${reporter.handle}`, name: reporter.name, kind: 'Bluesky' })),
+];
+---
+<Base title="About" description="How Hot Stove works, its sources and its limits.">
+  <h1>About</h1>
+  <p class="lede">Hot Stove is a free, non-commercial, automated tracker of MLB rumors. It has no reporters and breaks no news. All credit belongs to the journalists and outlets it links to.</p>
+  <h2>How it works</h2>
+  <p>About every 10 minutes, software reads the sources below, recognizes players and clubs in each headline, and groups reports into threads. Timing depends on GitHub's scheduler, so stories usually appear 15 to 20 minutes after a source publishes them, and sometimes later. This isn't the fastest place for breaking news.</p>
+  <h2>What a status means</h2>
+  <ul>
+    <li><strong>Linked:</strong> a report connects the player with a club, often speculatively.</li>
+    <li><strong>Interest:</strong> a report says a club is interested or pursuing.</li>
+    <li><strong>Talks:</strong> a report describes negotiations.</li>
+    <li><strong>Agreement reported:</strong> a report describes a done deal. It may not be final.</li>
+    <li><strong>Fell through:</strong> a report says talks ended.</li>
+    <li><strong>Official:</strong> MLB's own transaction data shows the move. Only this data can set it.</li>
+    <li><strong>Unclassified:</strong> the software wasn't confident enough to label it, or the label hasn't passed its accuracy check.</li>
+  </ul>
+  <h2>Known limits</h2>
+  <ul>
+    <li>It reads headlines, so it can misread them. Check the original report.</li>
+    <li>“First seen here” is when this site found a report, not who broke the story.</li>
+    <li>It doesn't read X, so stories that appear only there can be missed. Small staff moves are often missed too.</li>
+    <li>Players who share a name are only grouped when a report names a known club.</li>
+    <li>It has no contract history, payroll data, projections or original analysis.</li>
+  </ul>
+  <h2>Sources</h2>
+  <p>Headlines and links only. Article text is never stored or shown.</p>
+  <div class="table-wrap" tabindex="0" role="region" aria-label="Source status">
+    <table class="sources">
+      <thead><tr><th scope="col">Source</th><th scope="col">Type</th><th scope="col">Last successful check</th></tr></thead>
+      <tbody>
+        {rows.map((row) => <tr><td>{row.name}</td><td>{row.kind}</td><td>{health(row.id)?.lastError ? `Failing, last worked: ${when(health(row.id)?.lastSuccessAt)}` : when(health(row.id)?.lastSuccessAt)}</td></tr>)}
+      </tbody>
+    </table>
+  </div>
+  <p class="meta">Data last updated: {when(state.updatedAt)}</p>
+  <h2>Data and credits</h2>
+  <ul>
+    <li>Official moves and the free agent list come from the MLB Stats API, requested by your own browser and never stored here. © MLB Advanced Media, L.P. Use is subject to <a href="https://gdx.mlb.com/components/copyright.txt">MLB's terms</a>, which permit only individual, non-commercial, non-bulk use.</li>
+    <li>Player names come from the <a href="https://github.com/chadwickbureau/register">Chadwick Baseball Bureau Register</a>, under the Open Data Commons Attribution License.</li>
+    <li>Your followed teams stay in your browser. This site has no accounts, ads or analytics. Live panels contact MLB, Bluesky and GitHub directly, which can see your IP address.</li>
+  </ul>
+  <h2>Corrections and removal</h2>
+  <p>Found a mistake, or want your content removed? <a href="https://github.com/howlcipher/hotstove/issues/new">Open a GitHub issue</a>.</p>
+</Base>

@@ -1,0 +1,31 @@
+---
+import Base from '../layouts/Base.astro';
+import { usd } from '../core/display';
+import { state } from '../lib/data';
+import { isHttpsUrl } from '../core/schemas';
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const deals = [...state.deals].sort((a, b) => b.at.localeCompare(a.at));
+const term = (years: number | null) => (years ? `${years} yr` : '');
+---
+<Base title="Reported deals" description="A partial log of deals as reported in headlines.">
+  <h1>Reported deals</h1>
+  <p class="lede">A partial log of deals as first reported, built from headlines since this site began. It isn't a contract database: terms are often missing, and reports can be wrong or change.</p>
+  {deals.length === 0 ? <p class="empty">No reported deals logged yet. This log starts once the “Agreement reported” label passes its accuracy check.</p> : (
+    <div class="table-wrap" tabindex="0" role="region" aria-label="Reported deals">
+      <table>
+        <thead><tr><th scope="col">Player</th><th scope="col">Club</th><th scope="col">Terms</th><th scope="col">Date</th><th scope="col">Report</th></tr></thead>
+        <tbody>
+          {deals.map((deal) => (
+            <tr>
+              <td><a href={`${base}t/${deal.threadId}/`}>{deal.player}</a></td>
+              <td>{deal.teams.join(', ')}</td>
+              <td>{[term(deal.years), deal.amountUsd ? usd(deal.amountUsd) : '', deal.minor ? 'Minor league' : ''].filter(Boolean).join(', ') || 'Not reported'}</td>
+              <td>{deal.at.slice(0, 10)}</td>
+              <td class="wrap-cell"><a href={isHttpsUrl(deal.url) ? deal.url : undefined} rel="noopener nofollow">{deal.sourceName}</a></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )}
+</Base>

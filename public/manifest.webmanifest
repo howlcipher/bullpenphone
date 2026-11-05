@@ -1,0 +1,1 @@
+{ "name": "Hot Stove", "short_name": "Hot Stove", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#16130f", "theme_color": "#b23a12", "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }] }

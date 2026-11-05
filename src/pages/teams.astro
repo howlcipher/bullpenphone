@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro';
+import { DIVISIONS, TEAMS } from '../core/teams';
+import { latest } from '../lib/data';
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const count = (abbr: string) => latest.threads.filter((thread) => thread.teams.includes(abbr)).length;
+---
+<Base title="Teams" description="MLB rumor threads by club.">
+  <h1>Teams</h1>
+  <div class="team-groups">
+    {DIVISIONS.map((division) => (
+      <section>
+        <h2>{division}</h2>
+        <ul>
+          {TEAMS.filter((team) => team.division === division).map((team) => (
+            <li><a href={`${base}team/${team.abbr.toLowerCase()}/`}><span>{team.name}</span><span class="count">{count(team.abbr)}<span class="visually-hidden"> threads</span></span></a></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</Base>

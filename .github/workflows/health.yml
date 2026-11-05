@@ -1,0 +1,30 @@
+name: Health
+# A failure here means the data is stale. It also re-enables the scheduled workflows,
+# which GitHub disables after 60 days without repository activity.
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: write
+jobs:
+  check:
+    if: github.event_name == 'workflow_dispatch' || vars.HOTSTOVE_LIVE == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Keep schedules enabled
+        run: |
+          gh workflow enable update.yml --repo "$GITHUB_REPOSITORY"
+          gh workflow enable health.yml --repo "$GITHUB_REPOSITORY"
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Check data age
+        run: |
+          generated=$(gh api "repos/$GITHUB_REPOSITORY/contents/latest.json?ref=data" -H 'Accept: application/vnd.github.raw' --jq .generatedAt)
+          age=$(( ($(date +%s) - $(date -d "$generated" +%s)) / 60 ))
+          echo "Data age: ${age} minutes" | tee -a "$GITHUB_STEP_SUMMARY"
+          test "$age" -le 180
+        env:
+          GH_TOKEN: ${{ github.token }}

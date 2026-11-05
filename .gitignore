@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.data/
+private/
+test-results/
+playwright-report/
+*.log
+dist-fixture/
+.data-synth/
+dist-synth/

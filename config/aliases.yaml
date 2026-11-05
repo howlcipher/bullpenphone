@@ -1,0 +1,5 @@
+# Names shared by active players resolve only with team context. Update `team`
+# when one of these players changes clubs.
+aliases:
+  - { match: Max Muncy, team: LAD, mlbamId: 571970, name: Max Muncy }
+  - { match: Max Muncy, team: ATH, mlbamId: 691777, name: Max Muncy }

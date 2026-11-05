@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import Board from '../islands/Board';
+import LivePosts from '../islands/LivePosts';
+import { latest, RAW_LATEST_URL, reporters } from '../lib/data';
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+---
+<Base title="Hot Stove">
+  <h1>The MLB rumor board</h1>
+  <p class="lede">One thread per story, with its status and every report in one place. Links go to the original reporting.</p>
+  <div class="layout">
+    <Board client:load initial={latest.threads.slice(0, 120)} generatedAt={latest.generatedAt} base={base} rawUrl={RAW_LATEST_URL} pagesUrl={`${base}data/latest.json`} />
+    <aside class="rail"><LivePosts client:idle reporters={reporters.map(({ handle, name }) => ({ handle, name }))} /></aside>
+  </div>
+</Base>

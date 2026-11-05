@@ -1,0 +1,42 @@
+{
+  "name": "hotstove",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.22.1"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "ingest": "tsx src/pipeline/run.ts",
+    "build": "astro check && astro build && pagefind --site dist && tsx scripts/check-output.ts dist .data",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "test:e2e": "npm run build:fixture && playwright test",
+    "eval": "tsx scripts/eval-labels.ts",
+    "benchmark": "tsx scripts/benchmark.ts",
+    "synth": "tsx scripts/synth-data.ts",
+    "build:fixture": "DATA_DIR=tests/fixtures/site astro build --outDir dist-fixture && pagefind --site dist-fixture",
+    "check:types": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/preact": "6.1.1",
+    "@astrojs/sitemap": "3.7.4",
+    "@rowanmanning/feed-parser": "2.1.5",
+    "astro": "7.4.2",
+    "preact": "11.0.1",
+    "yaml": "2.9.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.12",
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.64.1",
+    "pagefind": "1.5.2",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "vitest": "4.1.12"
+  },
+  "homepage": "https://howlcipher.github.io/hotstove/",
+  "license": "MIT"
+}
