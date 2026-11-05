@@ -24,7 +24,7 @@ export function ThreadCard({ thread, now, base, official }: Props) {
         <time dateTime={thread.top.at}>{timeAgo(thread.top.at, now)}</time>
         {thread.itemCount > 1 ? <span>{thread.itemCount} reports, {thread.sourceCount} {thread.sourceCount === 1 ? 'source' : 'sources'}</span> : null}
         {thread.teams.slice(0, 6).map((team) => (
-          <a class="team-chip" href={`${base}team/${team.toLowerCase()}/`} key={team}>{team}</a>
+          <a class={`team-chip team-${team.toLowerCase()}`} href={`${base}team/${team.toLowerCase()}/`} key={team}>{team}</a>
         ))}
       </div>
     </li>

@@ -2,7 +2,7 @@
 import { readFileSync } from 'node:fs';
 import { chromium } from '@playwright/test';
 
-const svg = readFileSync('public/icon.svg', 'utf8').replace('rx="14"', 'rx="0"');
+const svg = readFileSync('public/icon.svg', 'utf8').replace('rx="8"', 'rx="0"');
 const browser = await chromium.launch();
 for (const size of [180, 192, 512]) {
   const page = await browser.newPage({ viewport: { width: size, height: size } });

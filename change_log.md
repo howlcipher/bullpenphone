@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- New 1990s baseball design: jersey-script wordmark and sleeve stripes, status stamps, club-color pennants, a scoreboard for reporter posts, and self-hosted open-licensed fonts.
+
 - Stop requesting an extra Pages build on each publish, which used two builds per update.
 
 - Filter opinion pieces from fan sites.

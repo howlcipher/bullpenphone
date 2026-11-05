@@ -7,8 +7,10 @@ import { latest, RAW_LATEST_URL, reporters } from '../lib/data';
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
 <Base title="Bullpen Phone">
+  <p class="eyebrow">Trades / Free agents / Front office</p>
   <h1>Who's getting the call?</h1>
-  <p class="lede">Trades, free agents and front office moves. One thread per story, with every report in one place and links to the original reporting.</p>
+  <p class="lede">One thread per story, with every report in one place and links to the original reporting.</p>
+  <hr class="seam" />
   <div class="layout">
     <aside class="rail">
       <LivePosts client:idle reporters={reporters.slice(0, 8).map(({ handle, name }) => ({ handle, name }))} />

@@ -61,7 +61,7 @@ export default function LivePosts({ reporters }: { reporters: Reporter[] }) {
 
   if (state === 'failed' || reporters.length === 0) return null;
   return (
-    <section class="panel live" aria-labelledby="live-toggle">
+    <section class="panel live scoreboard" aria-labelledby="live-toggle">
       <button type="button" id="live-toggle" class="live-toggle" aria-expanded={open} aria-controls="live-body" onClick={() => setOpen(!open)}>
         <span class="live-arrow" aria-hidden="true">{open ? '\u25BE' : '\u25B8'}</span>
         <span class="live-title">From the bullpen</span>

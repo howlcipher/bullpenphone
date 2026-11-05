@@ -18,7 +18,7 @@ const stale = isStale(thread.lastActivityAt, Date.now());
     <div class="card-top">
       {thread.status && <span class={`pill ${statusClass(thread.status)}`}>{thread.status}</span>}
       {stale && <span class="pill">Quiet: no news in {STALE_DAYS}+ days</span>}
-      {thread.teams.map((team) => <a class="team-chip" href={`${base}team/${team.toLowerCase()}/`}>{team}</a>)}
+      {thread.teams.map((team) => <a class={`team-chip team-${team.toLowerCase()}`} href={`${base}team/${team.toLowerCase()}/`}>{team}</a>)}
     </div>
     {thread.mlbamId !== null && thread.type === 'player' && <OfficialBadge client:idle mlbamId={thread.mlbamId} teams={thread.teams} firstSeenAt={thread.firstSeenAt} />}
     <ol class="timeline">

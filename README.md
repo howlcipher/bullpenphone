@@ -55,4 +55,6 @@ npm run test:e2e:chromium   # for machines that lack WebKit's system libraries
 
 ## Credits and license
 
+Fonts are self-hosted: Yellowtail (Apache 2.0), and Barlow, Barlow Condensed and Courier Prime (SIL Open Font License).
+
 Code is under the [MIT License](LICENSE), which doesn't cover third-party data. Player names come from the [Chadwick Baseball Bureau Register](https://github.com/chadwickbureau/register) (Open Data Commons Attribution License). Official data © MLB Advanced Media, L.P., subject to [MLB's terms](https://gdx.mlb.com/components/copyright.txt). Headlines belong to their publishers.
