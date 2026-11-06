@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T21:49:44.651Z",
+ "updatedAt": "2026-11-06T01:11:00.624Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -13,8 +13,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T01:11:00.624Z",
    "items": [
+    {
+     "id": "fc7f78693e10d7b4",
+     "title": "Mets allegedly hire Johnny Washington as major league co-hitting coach",
+     "url": "https://sports.yahoo.com/articles/mets-allegedly-hire-johnny-washington-224957134.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T22:49:57.000Z",
+     "firstSeenAt": "2026-11-06T01:11:00.624Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "47dddd6c863ec94b",
      "title": "Mets hiring Johnny Washington as co-hitting coach",
@@ -24,11 +39,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T21:17:39.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "c72e7c273fbd306c",
@@ -40,11 +55,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-11-05T20:26:18.023Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f45397933225520a",
@@ -56,11 +71,11 @@
      "author": "Linda Surovich",
      "publishedAt": "2026-11-05T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8b03b59cfa38849f",
@@ -72,11 +87,11 @@
      "author": "Micah Noe",
      "publishedAt": "2026-11-04T17:34:42.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f674323fd94044cd",
@@ -88,11 +103,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-04T16:52:56.066Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "d0e028d2000931da",
@@ -104,11 +119,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-10-26T21:20:57.403Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "71deff7cee0ad5a1",
@@ -120,11 +135,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-26T18:02:54.449Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -150,11 +165,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T21:04:11.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -178,9 +193,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -191,9 +206,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "dfaadc0641a962ce",
@@ -205,9 +220,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-02T13:06:19.449Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "27a56e3c3ce122d2",
@@ -219,9 +234,9 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-29T04:21:26.220Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2b0df9fd7b3638cd",
@@ -233,9 +248,9 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-28T14:10:38.276Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4e1ad8f3b44a606f",
@@ -247,9 +262,9 @@
      "author": "Evan Drellich",
      "publishedAt": "2026-10-24T02:33:08.713Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "39f4150a66c428f7",
@@ -261,9 +276,9 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-22T23:51:52.116Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "14be8ff1b4f0a42f",
@@ -275,9 +290,9 @@
      "author": "Evan Drellich",
      "publishedAt": "2026-10-08T01:55:14.772Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -301,9 +316,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -327,9 +342,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -353,9 +368,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -379,9 +394,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -405,9 +420,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T18:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -433,11 +448,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:42:20.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "PIT"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -461,11 +476,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:42:20.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4ed3fc7d8d63da83",
@@ -477,11 +492,11 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:12:24.892Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -505,11 +520,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T17:42:20.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -535,11 +550,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "bc7bccde395456d6",
@@ -551,11 +566,11 @@
      "author": "Joe Edinger",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "9e77e4472416f35d",
@@ -567,11 +582,11 @@
      "author": "Ethan Witte",
      "publishedAt": "2026-11-04T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "84b99d7af6b4fc58",
@@ -583,11 +598,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-10-30T12:28:18.752Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "509cf4e052c309f1",
@@ -599,11 +614,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-10-22T12:01:11.572Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "010fce31b6250734",
@@ -615,11 +630,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-10-14T14:05:52.455Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -643,11 +658,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -658,9 +673,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -684,11 +699,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -712,11 +727,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e894310cc702867b",
@@ -727,11 +742,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -755,11 +770,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -783,11 +798,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -811,11 +826,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -839,11 +854,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e894310cc702867b",
@@ -854,11 +869,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -882,11 +897,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -897,9 +912,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "bbcbd151981ea047",
@@ -911,9 +926,9 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-10-16T11:40:23.369Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -939,11 +954,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "9e77e4472416f35d",
@@ -955,11 +970,11 @@
      "author": "Ethan Witte",
      "publishedAt": "2026-11-04T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -983,11 +998,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -998,9 +1013,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "9e77e4472416f35d",
@@ -1012,11 +1027,11 @@
      "author": "Ethan Witte",
      "publishedAt": "2026-11-04T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1040,11 +1055,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "509cf4e052c309f1",
@@ -1056,11 +1071,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-10-22T12:01:11.572Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1084,11 +1099,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1112,11 +1127,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1140,11 +1155,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1168,11 +1183,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1196,9 +1211,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1222,9 +1237,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1248,9 +1263,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1274,9 +1289,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "bc7bccde395456d6",
@@ -1288,11 +1303,11 @@
      "author": "Joe Edinger",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1316,9 +1331,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:38:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -1344,11 +1359,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -1372,11 +1387,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1400,11 +1415,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1428,11 +1443,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1456,11 +1471,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1484,11 +1499,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1512,11 +1527,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1540,11 +1555,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1568,11 +1583,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:23:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1598,11 +1613,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "e8a3310545b07cc1",
@@ -1614,11 +1629,11 @@
      "author": "Peter Abraham",
      "publishedAt": "2026-11-03T00:15:34.608Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "a0444fec1db38126",
@@ -1630,11 +1645,11 @@
      "author": "Dan Secatore",
      "publishedAt": "2026-11-02T17:02:33.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "2c0271a64a80b78d",
@@ -1646,11 +1661,11 @@
      "author": "Tim Healey",
      "publishedAt": "2026-11-02T15:54:04.606Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "47dc4868e6c73e8d",
@@ -1662,11 +1677,11 @@
      "author": "Dan Secatore",
      "publishedAt": "2026-11-02T14:24:34.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f2aac8b682d451d2",
@@ -1678,11 +1693,11 @@
      "author": "Tim Healey",
      "publishedAt": "2026-11-01T19:20:57.571Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "46305d12c2ff7f8a",
@@ -1694,11 +1709,11 @@
      "author": "Maura McGurk",
      "publishedAt": "2026-11-01T12:45:50.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f7a0c752bfc518e9",
@@ -1710,11 +1725,11 @@
      "author": "Tim Healey",
      "publishedAt": "2026-10-29T14:53:40.528Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "6084d52c6268bf32",
@@ -1726,11 +1741,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-10-13T13:29:12.584Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "28d061873b992af2",
@@ -1742,11 +1757,11 @@
      "author": "Tim Healey",
      "publishedAt": "2026-10-07T15:14:14.068Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -1770,11 +1785,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1798,11 +1813,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1826,11 +1841,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1854,11 +1869,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1884,11 +1899,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b9e4f4ef425a23f9",
@@ -1900,11 +1915,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-10-25T09:50:16.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -1928,11 +1943,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1956,11 +1971,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -1984,11 +1999,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:21:37.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2014,11 +2029,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T16:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -2044,11 +2059,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "b34be27ec47317cb",
@@ -2060,11 +2075,11 @@
      "author": "Anders Jorstad",
      "publishedAt": "2026-11-04T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "24e53d77652edf79",
@@ -2076,11 +2091,11 @@
      "author": "Kate Preusser",
      "publishedAt": "2026-11-03T16:19:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "57bba6192b0506e3",
@@ -2092,11 +2107,11 @@
      "author": "Becca Weinberg",
      "publishedAt": "2026-11-03T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8faf2e60f0c8fe52",
@@ -2108,11 +2123,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-10-22T21:00:20.469Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2136,11 +2151,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bc7bccde395456d6",
@@ -2152,11 +2167,11 @@
      "author": "Joe Edinger",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b39f5463c4283ae4",
@@ -2168,11 +2183,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-04T23:53:28.447Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "60dd9a95bf7e41e0",
@@ -2184,11 +2199,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-04T19:34:19.417Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2212,11 +2227,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2242,11 +2257,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-05T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -2273,11 +2288,11 @@
      "author": "Mark Brown",
      "publishedAt": "2026-11-05T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8e9fbbd1468b551a",
@@ -2289,11 +2304,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-05T10:48:25.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "6b0955b1250f1cf3",
@@ -2305,11 +2320,11 @@
      "author": "Paul Folkemer",
      "publishedAt": "2026-11-03T12:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "672ff7600883c1c6",
@@ -2321,11 +2336,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-10-31T09:46:27.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2350,11 +2365,11 @@
      "author": "Dan Secatore",
      "publishedAt": "2026-11-02T14:24:34.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2379,11 +2394,11 @@
      "author": "Dan Secatore",
      "publishedAt": "2026-11-02T14:24:34.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2408,11 +2423,11 @@
      "author": "Dan Secatore",
      "publishedAt": "2026-11-02T14:24:34.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2437,11 +2452,11 @@
      "author": "Maura McGurk",
      "publishedAt": "2026-11-01T12:45:50.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2468,11 +2483,11 @@
      "author": "Adam Sanford",
      "publishedAt": "2026-11-03T14:08:07.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2499,11 +2514,11 @@
      "author": "Adam Sanford",
      "publishedAt": "2026-11-02T16:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "203d6ea7cafe9fc6",
@@ -2515,11 +2530,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-10-30T12:03:05.419Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "TB"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -2544,11 +2559,11 @@
      "author": "Adam Sanford",
      "publishedAt": "2026-11-02T16:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2575,11 +2590,11 @@
      "author": "Adam Sanford",
      "publishedAt": "2026-11-02T13:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2606,11 +2621,11 @@
      "author": "Adam Sanford",
      "publishedAt": "2026-10-30T17:25:34.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "10c34cd0478b64da",
@@ -2622,11 +2637,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-28T19:54:19.663Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2653,11 +2668,11 @@
      "author": "Brandon Day",
      "publishedAt": "2026-11-02T23:27:54.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "120c269b700b910e",
@@ -2669,11 +2684,11 @@
      "author": "Chris McCosky",
      "publishedAt": "2026-11-02T23:21:56.362Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "2a653ca58bb720a9",
@@ -2685,11 +2700,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-02T22:52:51.353Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2714,11 +2729,11 @@
      "author": "Brandon Day",
      "publishedAt": "2026-11-02T23:27:54.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "120c269b700b910e",
@@ -2730,11 +2745,11 @@
      "author": "Chris McCosky",
      "publishedAt": "2026-11-02T23:21:56.362Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2a653ca58bb720a9",
@@ -2746,11 +2761,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-02T22:52:51.353Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -2777,11 +2792,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-02T22:52:51.353Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "13cb176c50e21fbb",
@@ -2793,11 +2808,11 @@
      "author": "Brandon Day",
      "publishedAt": "2026-10-30T14:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "1e89d1414622b0e7",
@@ -2809,11 +2824,11 @@
      "author": "Chris McCosky",
      "publishedAt": "2026-10-15T15:06:26.449Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2841,11 +2856,11 @@
      "author": "Chris McCosky",
      "publishedAt": "2026-10-30T12:20:22.599Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "aa6bda4bf10430b8",
@@ -2857,12 +2872,12 @@
      "author": "Brandon Day",
      "publishedAt": "2026-10-30T02:07:49.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "DET",
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2889,11 +2904,11 @@
      "author": "Max Rieper",
      "publishedAt": "2026-11-04T16:52:41.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2920,11 +2935,11 @@
      "author": "Benjamin Jones",
      "publishedAt": "2026-11-02T23:07:10.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2951,11 +2966,11 @@
      "author": "James Fillmore",
      "publishedAt": "2026-10-30T23:30:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "a0017d7ffebd3a4b",
@@ -2967,11 +2982,11 @@
      "author": "Benjamin Jones",
      "publishedAt": "2026-10-29T20:24:14.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -2998,11 +3013,11 @@
      "author": "Connor Ashford",
      "publishedAt": "2026-11-04T17:15:24.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "097e9d09bfcf4841",
@@ -3014,11 +3029,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-10-19T17:01:49.233Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -3045,11 +3060,11 @@
      "author": "Connor Ashford",
      "publishedAt": "2026-10-30T19:28:18.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -3074,11 +3089,11 @@
      "author": "Connor Ashford",
      "publishedAt": "2026-10-30T19:28:18.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3105,11 +3120,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-04T23:53:28.447Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "60dd9a95bf7e41e0",
@@ -3121,11 +3136,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-04T19:34:19.417Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "0f47e2690fecc5ba",
@@ -3137,11 +3152,11 @@
      "author": "Patrick Creighton",
      "publishedAt": "2026-11-03T23:46:11.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "c53daed62caf7c6d",
@@ -3153,11 +3168,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-02T16:18:50.882Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "46aaeaadd235015b",
@@ -3169,11 +3184,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-01T14:45:13.783Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8953b93ae79d7b27",
@@ -3185,11 +3200,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-31T01:15:52.015Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "66acba67645edfb9",
@@ -3201,11 +3216,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-10-31T00:21:45.471Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "cf5a83eb3be636d0",
@@ -3217,11 +3232,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-31T00:18:06.597Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "ed067fd391744cb4",
@@ -3233,11 +3248,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-28T14:48:38.525Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "c267178eb4de43f5",
@@ -3249,11 +3264,11 @@
      "author": "Darren Yuvan",
      "publishedAt": "2026-10-28T09:48:46.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -3280,11 +3295,11 @@
      "author": "Patrick Creighton",
      "publishedAt": "2026-11-03T00:09:31.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "be7a61dffecd6bc7",
@@ -3296,11 +3311,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-02T22:21:04.975Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -3325,11 +3340,11 @@
      "author": "Anders Jorstad",
      "publishedAt": "2026-11-04T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3354,11 +3369,11 @@
      "author": "Anders Jorstad",
      "publishedAt": "2026-11-04T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3385,11 +3400,11 @@
      "author": "Adam J. Morris",
      "publishedAt": "2026-11-03T20:35:59.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f65ae53c7f6c2705",
@@ -3401,11 +3416,11 @@
      "author": "John Trupin",
      "publishedAt": "2026-11-03T17:43:32.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -3432,11 +3447,11 @@
      "author": "Becca Weinberg",
      "publishedAt": "2026-11-03T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "686fb6cd4a8ca252",
@@ -3448,11 +3463,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-10-27T12:33:13.144Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -3477,11 +3492,11 @@
      "author": "Becca Weinberg",
      "publishedAt": "2026-11-03T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3506,11 +3521,11 @@
      "author": "Becca Weinberg",
      "publishedAt": "2026-11-03T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3537,11 +3552,11 @@
      "author": "Daniel Hutchinson-Kausch",
      "publishedAt": "2026-11-05T05:01:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8aa54b80389717d3",
@@ -3553,11 +3568,11 @@
      "author": "Sam Peebles",
      "publishedAt": "2026-11-04T23:30:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -3584,11 +3599,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-04T01:36:58.781Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "5ec389775afefef5",
@@ -3600,11 +3615,11 @@
      "author": "Vasilis Drimalitis",
      "publishedAt": "2026-11-03T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "81e2ad0be094cf10",
@@ -3616,11 +3631,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T21:28:08.274Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -3645,11 +3660,11 @@
      "author": "Vasilis Drimalitis",
      "publishedAt": "2026-11-03T13:30:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0c25520abee1c02a",
@@ -3661,9 +3676,9 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-02T23:29:27.264Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "10ae6d35ecb7d7ad",
@@ -3675,9 +3690,9 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T23:26:46.775Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -3704,11 +3719,11 @@
      "author": "Wick Terrell",
      "publishedAt": "2026-11-04T21:29:29.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "76fd61d34d15d980",
@@ -3720,11 +3735,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-04T21:04:12.974Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -3751,11 +3766,11 @@
      "author": "Wick Terrell",
      "publishedAt": "2026-11-04T19:48:02.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -3783,11 +3798,11 @@
      "author": "Wick Terrell",
      "publishedAt": "2026-11-02T20:37:50.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "2002e177cb3f160a",
@@ -3799,12 +3814,12 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-02T20:26:09.953Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CIN",
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -3829,11 +3844,11 @@
      "author": "Wick Terrell",
      "publishedAt": "2026-11-02T20:37:50.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9cbc0b0d01bf603e",
@@ -3845,9 +3860,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:19:35.632Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -3874,11 +3889,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-03T16:16:58.244Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "2159949c7377de2d",
@@ -3890,11 +3905,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-31T22:59:42.649Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "f64be98f1631a120",
@@ -3906,11 +3921,11 @@
      "author": "Wick Terrell",
      "publishedAt": "2026-10-31T22:30:05.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f49a62f4278f8fdf",
@@ -3922,11 +3937,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-31T21:21:02.084Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -3953,11 +3968,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-04T21:17:38.380Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f49a62f4278f8fdf",
@@ -3969,11 +3984,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-31T21:21:02.084Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "3965e9f922d02ceb",
@@ -3985,11 +4000,11 @@
      "author": "Wick Terrell",
      "publishedAt": "2026-10-29T18:41:25.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "6189ef774831170b",
@@ -4001,11 +4016,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-09T20:41:40.035Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -4032,11 +4047,11 @@
      "author": "Jason Paczkowski",
      "publishedAt": "2026-11-03T14:40:31.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -4061,11 +4076,11 @@
      "author": "Jason Paczkowski",
      "publishedAt": "2026-11-03T14:40:31.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3968857dbe6a30a0",
@@ -4077,9 +4092,9 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-02T20:05:42.923Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "9acc7d93529a625a",
@@ -4091,11 +4106,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-02T19:10:54.178Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -4122,11 +4137,11 @@
      "author": "Ethan Coulehan",
      "publishedAt": "2026-10-29T09:50:11.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -4153,9 +4168,9 @@
      "author": "Tim Britton",
      "publishedAt": "2026-11-05T12:32:30.891Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "ffdd018e7b37a799",
@@ -4167,11 +4182,11 @@
      "author": "Jacob Macofsky",
      "publishedAt": "2026-11-04T13:03:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3a9252569e7bc721",
@@ -4183,11 +4198,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-04T01:36:58.781Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b028cc6cdb7869d3",
@@ -4199,11 +4214,11 @@
      "author": "Doc Holliday",
      "publishedAt": "2026-10-31T19:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "bed388cac252a754",
@@ -4215,9 +4230,9 @@
      "author": "Fabian Ardaya",
      "publishedAt": "2026-10-16T15:08:51.176Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -4244,11 +4259,11 @@
      "author": "imstillhungry95",
      "publishedAt": "2026-11-04T04:36:49.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8899eb461a28fdf8",
@@ -4260,11 +4275,11 @@
      "author": "Makakilo",
      "publishedAt": "2026-11-03T19:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -4291,11 +4306,11 @@
      "author": "Zeke Perez Jr.",
      "publishedAt": "2026-11-05T19:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -4322,11 +4337,11 @@
      "author": "Jacob Macofsky",
      "publishedAt": "2026-11-04T13:03:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "258878e815acc030",
@@ -4338,11 +4353,11 @@
      "author": "Fabian Ardaya",
      "publishedAt": "2026-10-17T18:47:05.820Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "1836b70e699cc9c2",
@@ -4354,11 +4369,11 @@
      "author": "Fabian Ardaya",
      "publishedAt": "2026-10-16T04:27:48.908Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -4385,11 +4400,11 @@
      "author": "Jacob Macofsky",
      "publishedAt": "2026-11-04T13:03:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0d9f19d827c50330",
@@ -4401,11 +4416,11 @@
      "author": "Fabian Ardaya",
      "publishedAt": "2026-10-21T21:35:50.336Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "cbeb7a5730fc80c2",
@@ -4417,9 +4432,9 @@
      "author": "Fabian Ardaya",
      "publishedAt": "2026-10-16T03:51:53.642Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -4446,11 +4461,11 @@
      "author": "Brady Klopfer",
      "publishedAt": "2026-11-03T02:15:25.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "cf6af2d831aae35e",
@@ -4462,11 +4477,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-03T00:04:21.785Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -4492,11 +4507,11 @@
      "sourceKind": "fansite",
      "publishedAt": "2026-11-02T23:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -4520,11 +4535,11 @@
      "sourceKind": "fansite",
      "publishedAt": "2026-11-02T23:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -4548,11 +4563,11 @@
      "sourceKind": "fansite",
      "publishedAt": "2026-11-02T23:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -4578,11 +4593,11 @@
      "sourceKind": "fansite",
      "publishedAt": "2026-11-02T23:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1724ac3cc2f381b1",
@@ -4594,11 +4609,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T19:52:09.159Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "MIA"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -4624,11 +4639,11 @@
      "sourceKind": "fansite",
      "publishedAt": "2026-10-30T15:00:00.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -4653,9 +4668,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-02T13:06:19.449Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "373aecb1a074fd4a",
@@ -4667,9 +4682,9 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-11-01T21:32:30.664Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -4696,9 +4711,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-05T13:28:18.795Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "793fd58f9300f2fe",
@@ -4710,11 +4725,11 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-11-02T21:47:16.796Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "dfaadc0641a962ce",
@@ -4726,9 +4741,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-02T13:06:19.449Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "686fb6cd4a8ca252",
@@ -4740,11 +4755,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-10-27T12:33:13.144Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -4771,11 +4786,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-02T19:10:54.178Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "00af3e1418b0da2a",
@@ -4787,11 +4802,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-10-29T23:39:52.195Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -4816,9 +4831,9 @@
      "author": "Tim Britton",
      "publishedAt": "2026-11-05T12:32:30.891Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "17fb0537377cedf9",
@@ -4830,9 +4845,9 @@
      "author": "Buster Olney",
      "publishedAt": "2026-11-03T16:50:11.263Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "3854091bf1e13192",
@@ -4844,9 +4859,9 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T21:26:03.884Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4434fd325bb22167",
@@ -4858,9 +4873,9 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T11:54:29.237Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1451f47a1a841782",
@@ -4872,9 +4887,9 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T11:38:01.181Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "ba9b502baa91117f",
@@ -4886,9 +4901,9 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-31T21:21:35.030Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "29603ddfd5127968",
@@ -4900,9 +4915,9 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-10-30T17:18:18.293Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "53d438461678170d",
@@ -4914,9 +4929,9 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-10-29T15:14:25.542Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -4943,11 +4958,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-10-24T14:16:08.382Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -4972,9 +4987,9 @@
      "author": "Kiley McDaniel",
      "publishedAt": "2026-11-03T16:35:40.686Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5001,11 +5016,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T22:39:48.392Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -5030,9 +5045,9 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T21:54:23.537Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -5057,11 +5072,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T21:28:08.274Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -5086,11 +5101,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T21:28:08.274Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -5115,11 +5130,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T21:28:08.274Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -5147,12 +5162,12 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T21:01:54.265Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL",
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -5180,12 +5195,12 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-02T20:47:37.322Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM",
       "COL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -5212,9 +5227,9 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-10-30T13:19:36.510Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "5d591093691b6524",
@@ -5226,11 +5241,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-29T23:19:05.951Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "9f315a17178d89f2",
@@ -5242,9 +5257,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-10-19T20:09:21.240Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5269,9 +5284,9 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-03T00:28:06.985Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "0c25520abee1c02a",
@@ -5283,9 +5298,9 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-02T23:29:27.264Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "10ae6d35ecb7d7ad",
@@ -5297,9 +5312,9 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T23:26:46.775Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "9cbc0b0d01bf603e",
@@ -5311,9 +5326,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:19:35.632Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "0678aa1d454de520",
@@ -5325,9 +5340,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "373aecb1a074fd4a",
@@ -5339,9 +5354,9 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-11-01T21:32:30.664Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "cfe6fbe338362218",
@@ -5353,9 +5368,9 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-27T19:58:01.357Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5380,9 +5395,9 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-11-01T21:32:30.664Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5407,9 +5422,9 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-11-01T21:32:30.664Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5436,11 +5451,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-31T01:48:10.512Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "TEX"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -5465,11 +5480,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-28T19:54:19.663Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -5494,11 +5509,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-04T16:03:19.711Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "10c34cd0478b64da",
@@ -5510,11 +5525,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-28T19:54:19.663Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -5539,9 +5554,9 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-10-27T19:58:01.357Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5566,11 +5581,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-03T00:59:30.558Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4e1ad8f3b44a606f",
@@ -5582,9 +5597,9 @@
      "author": "Evan Drellich",
      "publishedAt": "2026-10-24T02:33:08.713Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5609,9 +5624,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5636,9 +5651,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5663,9 +5678,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5690,9 +5705,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:21:16.803Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5719,11 +5734,11 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:12:24.892Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -5750,11 +5765,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-04T16:03:19.711Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "29762a1ad8392c9f",
@@ -5766,11 +5781,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-03T00:59:30.558Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4ed3fc7d8d63da83",
@@ -5782,11 +5797,11 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:12:24.892Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0a9cca26702092cc",
@@ -5798,11 +5813,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T02:00:08.579Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e29a1c4d9e87c5f6",
@@ -5814,11 +5829,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-10-25T21:35:25.260Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -5843,9 +5858,9 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-02T23:29:27.264Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "10ae6d35ecb7d7ad",
@@ -5857,9 +5872,9 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T23:26:46.775Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4ed3fc7d8d63da83",
@@ -5871,11 +5886,11 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T18:12:24.892Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0a9cca26702092cc",
@@ -5887,11 +5902,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T02:00:08.579Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -5916,9 +5931,9 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-02T22:33:35.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "87178b16ee3b96db",
@@ -5930,9 +5945,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-02T14:58:22.692Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -5959,11 +5974,11 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-11-03T16:07:06.427Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -5990,11 +6005,11 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-11-02T17:35:01.755Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -6019,11 +6034,11 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-11-02T17:35:01.755Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6048,11 +6063,11 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-11-02T17:35:01.755Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6077,11 +6092,11 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-11-02T17:35:01.755Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6106,11 +6121,11 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-11-02T17:35:01.755Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6137,11 +6152,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-04T16:03:19.711Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "9acc7d93529a625a",
@@ -6153,11 +6168,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-02T19:10:54.178Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -6182,11 +6197,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-04T16:03:19.711Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "29762a1ad8392c9f",
@@ -6198,11 +6213,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-03T00:59:30.558Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6227,11 +6242,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-04T16:03:19.711Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6256,11 +6271,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-04T16:03:19.711Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6287,11 +6302,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-03T00:59:30.558Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "9a686b419392472e",
@@ -6303,11 +6318,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-29T15:04:04.800Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -6332,11 +6347,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-02T19:10:54.178Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6361,11 +6376,11 @@
      "author": "Adam McCalvy",
      "publishedAt": "2026-11-02T19:10:54.178Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6390,11 +6405,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-10-19T17:01:49.233Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6419,9 +6434,9 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-02T23:29:27.264Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "10ae6d35ecb7d7ad",
@@ -6433,9 +6448,9 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T23:26:46.775Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2b0df9fd7b3638cd",
@@ -6447,9 +6462,9 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-28T14:10:38.276Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -6474,11 +6489,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-31T21:21:02.084Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6503,11 +6518,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-31T21:21:02.084Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6534,11 +6549,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-20T14:14:12.679Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -6563,11 +6578,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-20T14:14:12.679Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6594,11 +6609,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-15T18:44:38.605Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "7e952dd9adf1fd42",
@@ -6610,11 +6625,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-10-15T18:33:13.405Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -6639,9 +6654,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-05T13:28:18.795Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "9f315a17178d89f2",
@@ -6653,9 +6668,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-10-19T20:09:21.240Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -6680,9 +6695,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-03T00:20:09.250Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "f00fcff89f564289",
@@ -6694,9 +6709,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-02T22:55:57.684Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "e95e7f0c7f1093d3",
@@ -6708,9 +6723,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-02T22:33:19.570Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "7a7cfa6405bd6847",
@@ -6722,9 +6737,9 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-02T22:30:56.016Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -6749,9 +6764,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-10-19T20:09:21.240Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -6776,11 +6791,11 @@
      "author": "Peter Abraham",
      "publishedAt": "2026-11-03T00:15:34.608Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6805,11 +6820,11 @@
      "author": "Peter Abraham",
      "publishedAt": "2026-11-03T00:15:34.608Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6834,11 +6849,11 @@
      "author": "Peter Abraham",
      "publishedAt": "2026-11-03T00:15:34.608Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6863,11 +6878,11 @@
      "author": "Peter Abraham",
      "publishedAt": "2026-11-03T00:15:34.608Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6892,11 +6907,11 @@
      "author": "Peter Abraham",
      "publishedAt": "2026-11-03T00:15:34.608Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6921,11 +6936,11 @@
      "author": "Peter Abraham",
      "publishedAt": "2026-11-03T00:15:34.608Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -6952,11 +6967,11 @@
      "author": "Tim Healey",
      "publishedAt": "2026-11-01T19:20:57.571Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "893d47d8fd56a87d",
@@ -6968,11 +6983,11 @@
      "author": "Peter Abraham",
      "publishedAt": "2026-11-01T18:58:03.834Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -6999,11 +7014,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-10-29T19:33:27.035Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "72c06db90dc80570",
@@ -7015,11 +7030,11 @@
      "author": "Susan Slusser",
      "publishedAt": "2026-10-12T16:08:17.956Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -7046,11 +7061,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-10-27T15:24:28.546Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "d3da1687bbdd6dbb",
@@ -7062,11 +7077,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-10-15T14:32:36.972Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -7091,11 +7106,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-10-15T14:32:36.972Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7120,9 +7135,9 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-05T02:22:04.988Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -7147,11 +7162,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-03T00:04:21.785Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7179,9 +7194,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:23:14.326Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "a240f5055913a35f",
@@ -7193,12 +7208,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T13:10:07.790Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "WSH",
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "0913bea5e5208928",
@@ -7210,12 +7225,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T02:08:45.424Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH",
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ae8318f39e802c61",
@@ -7227,12 +7242,12 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-02T02:06:59.101Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SF",
       "WSH"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -7260,12 +7275,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T02:08:45.424Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "WSH",
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "ae8318f39e802c61",
@@ -7277,12 +7292,12 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-02T02:06:59.101Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF",
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7309,11 +7324,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-10-30T21:07:10.830Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -7338,11 +7353,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-10-29T19:33:27.035Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7367,11 +7382,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-10-29T19:33:27.035Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7396,11 +7411,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-10-29T19:33:27.035Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7425,11 +7440,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-10-29T19:33:27.035Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7457,12 +7472,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-10-29T20:15:47.597Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "WSH",
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "99b8a46f83abcca9",
@@ -7474,11 +7489,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-10-29T19:33:27.035Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7503,11 +7518,11 @@
      "author": "Tim Healey",
      "publishedAt": "2026-11-02T15:54:04.606Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7532,11 +7547,11 @@
      "author": "Tim Healey",
      "publishedAt": "2026-11-02T15:54:04.606Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7564,12 +7579,12 @@
      "author": "Tim Healey",
      "publishedAt": "2026-10-29T19:16:45.206Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BOS",
       "ATH"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -7594,12 +7609,12 @@
      "author": "Tim Healey",
      "publishedAt": "2026-10-29T19:16:45.206Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "ATH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7626,11 +7641,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-02T21:19:52.295Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -7655,11 +7670,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-02T21:19:52.295Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7684,11 +7699,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-02T21:19:52.295Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7713,11 +7728,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-02T21:19:52.295Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7742,11 +7757,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-02T21:19:52.295Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7771,11 +7786,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-02T16:18:50.882Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "46aaeaadd235015b",
@@ -7787,11 +7802,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-01T14:45:13.783Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1c9326c0856aeb82",
@@ -7803,11 +7818,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-10-31T14:50:29.742Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8953b93ae79d7b27",
@@ -7819,11 +7834,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-31T01:15:52.015Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "005ffd0b1a278e45",
@@ -7835,11 +7850,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-31T00:48:08.222Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "66acba67645edfb9",
@@ -7851,11 +7866,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-10-31T00:21:45.471Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cf5a83eb3be636d0",
@@ -7867,11 +7882,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-31T00:18:06.597Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a794035dfe6b2635",
@@ -7883,11 +7898,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-31T00:13:04.643Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -7914,11 +7929,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-05T17:23:19.072Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "1c9326c0856aeb82",
@@ -7930,11 +7945,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-10-31T14:50:29.742Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "005ffd0b1a278e45",
@@ -7946,11 +7961,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-31T00:48:08.222Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "a794035dfe6b2635",
@@ -7962,11 +7977,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-31T00:13:04.643Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -7993,11 +8008,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-29T19:00:57.373Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -8024,11 +8039,11 @@
      "author": "Chris McCosky",
      "publishedAt": "2026-11-03T23:52:57.088Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "215c91cbe9253e40",
@@ -8040,11 +8055,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-28T18:00:08.534Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -8071,11 +8086,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-10-27T16:39:32.818Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Interest",
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": "Interest"
+     ]
     }
    ]
   },
@@ -8100,11 +8115,11 @@
      "author": "Chris McCosky",
      "publishedAt": "2026-11-02T23:21:56.362Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2a653ca58bb720a9",
@@ -8116,11 +8131,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-02T22:52:51.353Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8147,11 +8162,11 @@
      "author": "Chris McCosky",
      "publishedAt": "2026-10-15T15:06:26.449Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9f5a11542ab3dcf8",
@@ -8163,11 +8178,11 @@
      "author": "Chris McCosky",
      "publishedAt": "2026-10-15T14:05:40.936Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "eb8c224b8cb63317",
@@ -8179,11 +8194,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-10-15T14:02:34.350Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -8210,11 +8225,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-04T17:59:00.711Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "b4c492e686017e16",
@@ -8226,11 +8241,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-10-22T21:51:47.360Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -8257,11 +8272,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-04T14:38:11.196Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -8286,9 +8301,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:19:35.632Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -8313,9 +8328,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:19:35.632Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "a240f5055913a35f",
@@ -8327,12 +8342,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T13:10:07.790Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH",
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0913bea5e5208928",
@@ -8344,12 +8359,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T02:08:45.424Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH",
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8374,9 +8389,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:19:35.632Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -8401,9 +8416,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:19:35.632Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -8428,9 +8443,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:19:35.632Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -8455,9 +8470,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:19:35.632Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -8482,9 +8497,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-02T20:19:35.632Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -8509,12 +8524,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-10-29T20:15:47.597Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH",
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8539,11 +8554,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-10-22T21:51:47.360Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8570,11 +8585,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-10-19T14:28:35.460Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "WSH"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -8599,11 +8614,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-10-19T14:28:35.460Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8630,11 +8645,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T21:02:30.119Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "0a9cca26702092cc",
@@ -8646,11 +8661,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T02:00:08.579Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "c8c81a80cebabcf9",
@@ -8662,11 +8677,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-10-27T15:56:01.268Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -8693,11 +8708,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T21:02:30.119Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b0309c33996779a0",
@@ -8709,11 +8724,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T12:17:24.841Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -8738,11 +8753,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T21:02:30.119Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b0309c33996779a0",
@@ -8754,11 +8769,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T12:17:24.841Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8783,11 +8798,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T21:02:30.119Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8812,11 +8827,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T02:00:08.579Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8841,11 +8856,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T02:00:08.579Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8870,11 +8885,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T02:00:08.579Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8899,11 +8914,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-02T02:00:08.579Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -8928,11 +8943,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-05T10:48:25.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c7b78cb441d54080",
@@ -8944,9 +8959,9 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-02T22:33:35.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -8971,11 +8986,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-10-31T09:46:27.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9002,11 +9017,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-10-28T09:47:23.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -9033,11 +9048,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-10-23T09:48:12.000Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -9064,11 +9079,11 @@
      "author": "Matthew Leach",
      "publishedAt": "2026-11-01T04:53:06.956Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -9095,11 +9110,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-04T21:06:25.041Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -9124,9 +9139,9 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-03T00:28:06.985Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -9151,9 +9166,9 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-03T00:28:06.985Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -9178,9 +9193,9 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-03T00:28:06.985Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -9207,11 +9222,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-10-30T21:23:38.858Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -9236,11 +9251,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-10-30T21:23:38.858Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9265,11 +9280,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-10-30T21:23:38.858Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9294,11 +9309,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-10-30T21:23:38.858Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9323,11 +9338,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-10-22T21:00:20.469Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f7e352fb6328d802",
@@ -9339,11 +9354,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-10-19T00:11:13.178Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9370,11 +9385,67 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-10-19T00:11:13.178Z",
      "firstSeenAt": "2026-11-05T21:49:44.651Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CLE"
+     ]
+    }
+   ]
+  },
+  "player-668803": {
+   "id": "player-668803",
+   "type": "player",
+   "subject": "Ron Washington",
+   "mlbamId": 668803,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T01:11:00.624Z",
+   "lastActivityAt": "2026-11-06T01:11:00.624Z",
+   "items": [
+    {
+     "id": "fc7f78693e10d7b4",
+     "title": "Mets allegedly hire Johnny Washington as major league co-hitting coach",
+     "url": "https://sports.yahoo.com/articles/mets-allegedly-hire-johnny-washington-224957134.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T22:49:57.000Z",
+     "firstSeenAt": "2026-11-06T01:11:00.624Z",
+     "teams": [
+      "NYM"
      ],
-     "role": "primary",
-     "status": "Unclassified"
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-435559": {
+   "id": "player-435559",
+   "type": "player",
+   "subject": "Kurt Suzuki",
+   "mlbamId": 435559,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T01:11:00.624Z",
+   "lastActivityAt": "2026-11-06T01:11:00.624Z",
+   "items": [
+    {
+     "id": "fc7f78693e10d7b4",
+     "title": "Mets allegedly hire Johnny Washington as major league co-hitting coach",
+     "url": "https://sports.yahoo.com/articles/mets-allegedly-hire-johnny-washington-224957134.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-05T22:49:57.000Z",
+     "firstSeenAt": "2026-11-06T01:11:00.624Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
     }
    ]
   }
@@ -9384,414 +9455,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"17fa8f77db6cbb26fe7628bc2dde4eeb\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"833ce7e8a2837c0dfba3da92c4ff1cb0\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "etag": "W/\"e3e195c1aa65e797b61aba3412c9bb59\""
+   "etag": "W/\"4e2989cd80e87c1e20f0af0b9bb7a87c\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"9af6b7e43839ffa7044e92aae06e96eb\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"20616dfe730502062ddf8036c55868cc\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "etag": "W/\"4820bbca65c4372cb32826c99120ece7\""
+   "etag": "W/\"416dbb321420f51d6eec1539e5169bd6\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"d5fc77b3e73aded96454505da0fbde8e\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"77e47347b6268a98f63d7d5456b84d54\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "etag": "W/\"0b3cdc6b6b9c397139e461033f3ae4f9\""
+   "etag": "W/\"4002514f75b11330e34ef04f51cdfdac\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"5c8b43869fb1cd47740c48066cbdde76\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"06ef69c068a35db46f5d4e7da5e46fcc\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"b26d032cc4f3a16c1e5af593c88baea9\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "etag": "W/\"801fcc9c6ba11422549720aa4912d637\""
+   "etag": "W/\"cc07800da46444ff1bd7a67deb0e6d85\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"6ad55bd1042efc70f2a52dba69363bda\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"1fb59edd145e007d2c44421b54c7c4d6\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "etag": "W/\"624ef1e142e90f9fd42bb1b5699c3b7d\""
+   "etag": "W/\"5122007fdfab0145bfa42f850738f392\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"84a672c98923bdc1d357350ceb1c99a6\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"f5602ae150789eb1feae624954d32b85\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "etag": "W/\"113df532035c07093ceece023cff7ebb\""
+   "etag": "W/\"c0f3e75f171934cb67c958a3c0d67bd8\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"b4722431f249fd09375d0adc0a8e10f7\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "etag": "W/\"5390a5a03a211f25ee354fe67c80608d\""
+   "etag": "W/\"784ec6e9b71726a9e412d7cf364218db\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"1cad321f0f0ec91135dc3c885256a74f\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"a48a5dd760df41241aa90bfa245d9e84\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"4c0596bae80fa2b5dd4a05c451fff327\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "etag": "W/\"b2b96aab609404e83255cb40a5c56613\""
+   "etag": "W/\"27fe40824b6aa63754856c7d2faa9b8b\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"1b1243106b1bad647f6a56ffa50e7099\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "etag": "W/\"4ed7d1057f4203cf4627822495e45c88\""
+   "etag": "W/\"b0a22945fbfded8735a26e907bac9626\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
    "etag": "W/\"56a0f26e38b30929a2bf1d069330a1ad\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null,
-   "lastModified": "Thu, 05 Nov 2026 21:49:46 GMT"
+   "lastModified": "Fri, 06 Nov 2026 01:11:02 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-05T21:49:44.651Z",
+   "lastSuccessAt": "2026-11-06T01:11:00.624Z",
    "lastError": null
   }
  }
