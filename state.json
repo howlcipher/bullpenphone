@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-06T15:34:02.667Z",
+ "updatedAt": "2026-11-06T21:02:19.929Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -24,11 +24,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T14:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "fc7f78693e10d7b4",
@@ -55,11 +55,11 @@
      "author": "Micah Noe",
      "publishedAt": "2026-11-05T22:49:57.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "47dddd6c863ec94b",
@@ -185,8 +185,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "e2122e959b796978",
+     "title": "More Royals Chase Post-2026 Hardware, Kansas City Adds Hitting Coach",
+     "url": "https://sports.yahoo.com/articles/more-royals-chase-post-2026-160000196.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:00:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "484b77809eeffb0e",
      "title": "Royals add Hunter Mense as assistant hitting coach",
@@ -225,9 +240,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-06T13:41:21.281Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "f9d8d7f4bb0a38f8",
@@ -595,11 +610,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T12:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "4d6fb202aaf58933",
@@ -1271,11 +1286,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T12:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -1546,11 +1561,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:09:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d6e582bd6a2b0278",
@@ -1692,8 +1707,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "99edc574cfaaab82",
+     "title": "Red Sox News & Links: Will the Sox trade Franklin Arias this offseason?",
+     "url": "https://sports.yahoo.com/articles/red-sox-news-links-sox-174609450.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T17:46:09.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "da47edfefc9b8f51",
      "title": "With GM Meetings set for next week, digging into some free agents the Red Sox might target www.nytimes.com/athletic/775...",
@@ -1704,11 +1734,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-06T15:16:07.637Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "c33f8043c24de1c1",
@@ -1994,8 +2024,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "99edc574cfaaab82",
+     "title": "Red Sox News & Links: Will the Sox trade Franklin Arias this offseason?",
+     "url": "https://sports.yahoo.com/articles/red-sox-news-links-sox-174609450.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T17:46:09.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "c33f8043c24de1c1",
      "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
@@ -2038,8 +2083,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "99edc574cfaaab82",
+     "title": "Red Sox News & Links: Will the Sox trade Franklin Arias this offseason?",
+     "url": "https://sports.yahoo.com/articles/red-sox-news-links-sox-174609450.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T17:46:09.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "c33f8043c24de1c1",
      "title": "Why are the Red Sox connected to so many shortstops in trade rumors?",
@@ -2165,11 +2225,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T15:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8a23942ee1db977d",
@@ -2261,8 +2321,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "039bcb4a404392d8",
+     "title": "Get to know Teruaki Sato, which other Japanese players to keep an eye on and the Astros manager search",
+     "url": "https://sports.yahoo.com/mlb/article/get-to-know-teruaki-sato-which-other-japanese-players-to-keep-an-eye-on-and-the-astros-manager-search-205244978.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
+     "publishedAt": "2026-11-06T20:52:44.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8a23942ee1db977d",
      "title": "Mariners News: Jason Kanzler, Cam Castro, and Albert Pujols",
@@ -2378,11 +2454,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T14:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f59327965f919b91",
@@ -2518,8 +2594,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "99edc574cfaaab82",
+     "title": "Red Sox News & Links: Will the Sox trade Franklin Arias this offseason?",
+     "url": "https://sports.yahoo.com/articles/red-sox-news-links-sox-174609450.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T17:46:09.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "47dc4868e6c73e8d",
      "title": "Red Sox trio of Ceddanne Rafaela, Wilyer Abreu, Caleb Durbin take home Gold Gloves",
@@ -2576,8 +2667,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "99edc574cfaaab82",
+     "title": "Red Sox News & Links: Will the Sox trade Franklin Arias this offseason?",
+     "url": "https://sports.yahoo.com/articles/red-sox-news-links-sox-174609450.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T17:46:09.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "46305d12c2ff7f8a",
      "title": "The Moments that Made the 2026 Red Sox: Roman Anthony’s stunning, game-tying, table-setting slide into home",
@@ -3244,8 +3350,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "039bcb4a404392d8",
+     "title": "Get to know Teruaki Sato, which other Japanese players to keep an eye on and the Astros manager search",
+     "url": "https://sports.yahoo.com/mlb/article/get-to-know-teruaki-sato-which-other-japanese-players-to-keep-an-eye-on-and-the-astros-manager-search-205244978.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
+     "publishedAt": "2026-11-06T20:52:44.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "b39f5463c4283ae4",
      "title": "Full story on the Astros' ongoing managerial search, which will involve longtime Houston nemesis Albert Pujols - www.nytimes.com/athletic/775...",
@@ -3571,8 +3693,23 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "99edc574cfaaab82",
+     "title": "Red Sox News & Links: Will the Sox trade Franklin Arias this offseason?",
+     "url": "https://sports.yahoo.com/articles/red-sox-news-links-sox-174609450.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T17:46:09.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ea8fa25e98851317",
      "title": "Mariners News: Randy Arozarena, Shelley Duncan, and Perry Minasian",
@@ -3582,11 +3719,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T15:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "57bba6192b0506e3",
@@ -4123,8 +4260,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "477cd34cf0e382b5",
+     "title": "Jim Day and I talked with #reds manager Terry Francona on Hot Stove League this week. Here is some of what Francona had to say. www.mlb.com/news/terry-f...",
+     "url": "https://bsky.app/profile/msheldon.bsky.social/post/3mznsowjb5s26",
+     "sourceId": "bsky-msheldon.bsky.social",
+     "sourceName": "Mark Sheldon",
+     "sourceKind": "reporter",
+     "author": "Mark Sheldon",
+     "publishedAt": "2026-11-06T16:32:50.682Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "CIN"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "5c37d7666861ec17",
      "title": "I will be co-hosting the Hot Stove show with Jim Day on WLW and the #reds radio network tonight at 6 p.m. Terry Francona and Joe Torres are the guests.",
@@ -4334,11 +4487,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:09:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f34e68b35d7def77",
@@ -4518,11 +4671,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:09:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "ffdd018e7b37a799",
@@ -4641,13 +4794,46 @@
    "subject": "Reiver Sanmartin",
    "mlbamId": 665665,
    "teams": [
-    "SF"
+    "SF",
+    "WSH"
    ],
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "13c91a2612f5d9c9",
+     "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-acquire-another-low-192000290.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T19:20:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "bdcddf35a4fcd85d",
+     "title": "Nationals have acquired LHP Reiver Sanmartin from the Giants for RHP Robert Cranz. Sanmartin, 30, had 4.22 ERA, 1.359 WHIP in 24 games this season, was DFA'd earlier this week. Cranz, 7th round pick in '24, had strong year with Wilmington and Harrisburg, struggled at Rochester.",
+     "url": "https://bsky.app/profile/markzuckerman.bsky.social/post/3mzo2kh5gz22w",
+     "sourceId": "bsky-markzuckerman.bsky.social",
+     "sourceName": "Mark Zuckerman",
+     "sourceKind": "reporter",
+     "author": "Mark Zuckerman",
+     "publishedAt": "2026-11-06T18:53:30.283Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "WSH",
+      "SF"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "6acb34eadffd7ad9",
      "title": "Giants round out cut day by designating Reiver Sanmartin for assignment",
@@ -4853,8 +5039,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "039bcb4a404392d8",
+     "title": "Get to know Teruaki Sato, which other Japanese players to keep an eye on and the Astros manager search",
+     "url": "https://sports.yahoo.com/mlb/article/get-to-know-teruaki-sato-which-other-japanese-players-to-keep-an-eye-on-and-the-astros-manager-search-205244978.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
+     "publishedAt": "2026-11-06T20:52:44.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8d933eccaa618131",
      "title": "Mets Morning News: Mets hire another hitting coach",
@@ -4864,11 +5066,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T14:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9534be923db7a5fd",
@@ -4879,11 +5081,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T12:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "dfaadc0641a962ce",
@@ -4926,8 +5128,39 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "039bcb4a404392d8",
+     "title": "Get to know Teruaki Sato, which other Japanese players to keep an eye on and the Astros manager search",
+     "url": "https://sports.yahoo.com/mlb/article/get-to-know-teruaki-sato-which-other-japanese-players-to-keep-an-eye-on-and-the-astros-manager-search-205244978.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
+     "publishedAt": "2026-11-06T20:52:44.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "99edc574cfaaab82",
+     "title": "Red Sox News & Links: Will the Sox trade Franklin Arias this offseason?",
+     "url": "https://sports.yahoo.com/articles/red-sox-news-links-sox-174609450.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T17:46:09.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "da47edfefc9b8f51",
      "title": "With GM Meetings set for next week, digging into some free agents the Red Sox might target www.nytimes.com/athletic/775...",
@@ -4938,11 +5171,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-06T15:16:07.637Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "99f51520e77669f3",
@@ -6089,8 +6322,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "8035e67c79dd2f2d",
+     "title": "St. Louis Cardinals announce team's new general manager",
+     "url": "https://sports.yahoo.com/articles/st-louis-cardinals-announce-teams-160114057.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:01:14.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "STL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0c25520abee1c02a",
      "title": "Sal Stewart is a finalist for the BBWAA NL Rookie of the Year award. Stewart is joined by JJ Wetherholt of the Cardinals and Carson Benge of the Mets. #reds",
@@ -6896,11 +7144,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "99f51520e77669f3",
@@ -7010,8 +7258,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "e2122e959b796978",
+     "title": "More Royals Chase Post-2026 Hardware, Kansas City Adds Hitting Coach",
+     "url": "https://sports.yahoo.com/articles/more-royals-chase-post-2026-160000196.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:00:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "9f315a17178d89f2",
      "title": "Looking at free agent Shane Bieber, whether a #BlueJays reunion makes sense and what that could look like: www.mlb.com/bluejays/new...",
@@ -8175,8 +8438,39 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "ae5ef1902e51569c",
+     "title": "Not much on the news front from the Cardinals presser outside of the reason to call it. No announcement yet on the coaching staff (and it will still be perhaps a week), no immediate internal promotions to announce to backfill.",
+     "url": "https://bsky.app/profile/jmjones.bsky.social/post/3mzoavx2cj22m",
+     "sourceId": "bsky-jmjones.bsky.social",
+     "sourceName": "Jeff Jones",
+     "sourceKind": "reporter",
+     "author": "Jeff Jones",
+     "publishedAt": "2026-11-06T20:47:18.508Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "STL"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "8035e67c79dd2f2d",
+     "title": "St. Louis Cardinals announce team's new general manager",
+     "url": "https://sports.yahoo.com/articles/st-louis-cardinals-announce-teams-160114057.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:01:14.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "STL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "73ccc996ff70c8c9",
      "title": "Announcement now official: Rob Cerfolio is the Cardinals general manager.",
@@ -8187,11 +8481,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-06T15:33:33.661Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "b2fd41daf4e7b8f7",
@@ -8563,8 +8857,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "13c91a2612f5d9c9",
+     "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-acquire-another-low-192000290.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T19:20:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "9cbc0b0d01bf603e",
      "title": "Nats' 40-man roster moves: * PJ Poulin, Richard Lovelady cleared waivers, became FAs * Ken Waldichuk cleared waivers, assigned to AAA * Paxton Schultz claimed by Reds * Mitchell Parker claimed by Braves * Drew Millas, Matt Waldron activated off 60-day IL * Jose Tena DFA'd",
@@ -8590,8 +8899,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "13c91a2612f5d9c9",
+     "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-acquire-another-low-192000290.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T19:20:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "9cbc0b0d01bf603e",
      "title": "Nats' 40-man roster moves: * PJ Poulin, Richard Lovelady cleared waivers, became FAs * Ken Waldichuk cleared waivers, assigned to AAA * Paxton Schultz claimed by Reds * Mitchell Parker claimed by Braves * Drew Millas, Matt Waldron activated off 60-day IL * Jose Tena DFA'd",
@@ -8755,12 +9079,32 @@
    "type": "player",
    "subject": "José Tena",
    "mlbamId": 677588,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "CLE",
+    "WSH"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-06T21:02:19.929Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "965884ca2019cbd6",
+     "title": "The Guardians have claimed José Tena off waivers from the Nationals. Cleveland dealt him to Washington in the 2024 Lane Thomas trade.",
+     "url": "https://bsky.app/profile/timstebbins.bsky.social/post/3mzo5qn7ivs2m",
+     "sourceId": "bsky-timstebbins.bsky.social",
+     "sourceName": "Tim Stebbins",
+     "sourceKind": "reporter",
+     "author": "Tim Stebbins",
+     "publishedAt": "2026-11-06T19:50:39.195Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "CLE",
+      "WSH"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "9cbc0b0d01bf603e",
      "title": "Nats' 40-man roster moves: * PJ Poulin, Richard Lovelady cleared waivers, became FAs * Ken Waldichuk cleared waivers, assigned to AAA * Paxton Schultz claimed by Reds * Mitchell Parker claimed by Braves * Drew Millas, Matt Waldron activated off 60-day IL * Jose Tena DFA'd",
@@ -9743,11 +10087,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T14:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9771,11 +10115,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T14:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9799,11 +10143,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T14:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9827,11 +10171,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T14:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9855,11 +10199,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T14:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "801e5d91256d16a8",
@@ -9870,11 +10214,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:09:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9898,11 +10242,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:09:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9534be923db7a5fd",
@@ -9913,11 +10257,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T12:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9941,11 +10285,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:09:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -9971,11 +10315,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:08:01.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -9999,11 +10343,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:08:01.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10027,11 +10371,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:08:01.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10057,11 +10401,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -10074,8 +10418,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "e2122e959b796978",
+     "title": "More Royals Chase Post-2026 Hardware, Kansas City Adds Hitting Coach",
+     "url": "https://sports.yahoo.com/articles/more-royals-chase-post-2026-160000196.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:00:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "14f844d87167195e",
      "title": "Kansas City Royals news: Mense, Silver Sluggers, and Royals HOF, Oh my!",
@@ -10085,11 +10444,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10102,8 +10461,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "e2122e959b796978",
+     "title": "More Royals Chase Post-2026 Hardware, Kansas City Adds Hitting Coach",
+     "url": "https://sports.yahoo.com/articles/more-royals-chase-post-2026-160000196.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:00:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "14f844d87167195e",
      "title": "Kansas City Royals news: Mense, Silver Sluggers, and Royals HOF, Oh my!",
@@ -10113,11 +10487,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10130,8 +10504,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "e2122e959b796978",
+     "title": "More Royals Chase Post-2026 Hardware, Kansas City Adds Hitting Coach",
+     "url": "https://sports.yahoo.com/articles/more-royals-chase-post-2026-160000196.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:00:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "14f844d87167195e",
      "title": "Kansas City Royals news: Mense, Silver Sluggers, and Royals HOF, Oh my!",
@@ -10141,11 +10530,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10169,11 +10558,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10197,11 +10586,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10225,11 +10614,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10253,11 +10642,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T13:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10283,11 +10672,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T12:30:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -10311,11 +10700,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T12:00:00.000Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10330,8 +10719,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-06T15:34:02.667Z",
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
    "items": [
+    {
+     "id": "13c91a2612f5d9c9",
+     "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-acquire-another-low-192000290.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T19:20:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "c26979d8c3c489d7",
      "title": "The Nationals are signing CF Jacob Young to a contract extension, source confirms. According to Robert Murray of Fansided, it's 4 years and $23 million, which would buy out his arbitration years and first year of free agency (2030), plus an $8 million option for 2031.",
@@ -10342,11 +10746,487 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-06T15:29:42.146Z",
      "firstSeenAt": "2026-11-06T15:34:02.667Z",
+     "role": "primary",
+     "status": "Unclassified",
+     "teams": [
+      "WSH"
+     ]
+    }
+   ]
+  },
+  "player-808959": {
+   "id": "player-808959",
+   "type": "player",
+   "subject": "Munetaka Murakami",
+   "mlbamId": 808959,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "039bcb4a404392d8",
+     "title": "Get to know Teruaki Sato, which other Japanese players to keep an eye on and the Astros manager search",
+     "url": "https://sports.yahoo.com/mlb/article/get-to-know-teruaki-sato-which-other-japanese-players-to-keep-an-eye-on-and-the-astros-manager-search-205244978.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
+     "publishedAt": "2026-11-06T20:52:44.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-672960": {
+   "id": "player-672960",
+   "type": "player",
+   "subject": "Kazuma Okamoto",
+   "mlbamId": 672960,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "039bcb4a404392d8",
+     "title": "Get to know Teruaki Sato, which other Japanese players to keep an eye on and the Astros manager search",
+     "url": "https://sports.yahoo.com/mlb/article/get-to-know-teruaki-sato-which-other-japanese-players-to-keep-an-eye-on-and-the-astros-manager-search-205244978.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
+     "publishedAt": "2026-11-06T20:52:44.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-693645": {
+   "id": "player-693645",
+   "type": "player",
+   "subject": "Cam Schlittler",
+   "mlbamId": 693645,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "039bcb4a404392d8",
+     "title": "Get to know Teruaki Sato, which other Japanese players to keep an eye on and the Astros manager search",
+     "url": "https://sports.yahoo.com/mlb/article/get-to-know-teruaki-sato-which-other-japanese-players-to-keep-an-eye-on-and-the-astros-manager-search-205244978.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
+     "publishedAt": "2026-11-06T20:52:44.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-801128": {
+   "id": "player-801128",
+   "type": "player",
+   "subject": "Robert Cranz",
+   "mlbamId": 801128,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "13c91a2612f5d9c9",
+     "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-acquire-another-low-192000290.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T19:20:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
      "teams": [
       "WSH"
      ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "bdcddf35a4fcd85d",
+     "title": "Nationals have acquired LHP Reiver Sanmartin from the Giants for RHP Robert Cranz. Sanmartin, 30, had 4.22 ERA, 1.359 WHIP in 24 games this season, was DFA'd earlier this week. Cranz, 7th round pick in '24, had strong year with Wilmington and Harrisburg, struggled at Rochester.",
+     "url": "https://bsky.app/profile/markzuckerman.bsky.social/post/3mzo2kh5gz22w",
+     "sourceId": "bsky-markzuckerman.bsky.social",
+     "sourceName": "Mark Zuckerman",
+     "sourceKind": "reporter",
+     "author": "Mark Zuckerman",
+     "publishedAt": "2026-11-06T18:53:30.283Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "WSH",
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-676680": {
+   "id": "player-676680",
+   "type": "player",
+   "subject": "Tom Cosgrove",
+   "mlbamId": 676680,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "13c91a2612f5d9c9",
+     "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-acquire-another-low-192000290.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T19:20:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-702021": {
+   "id": "player-702021",
+   "type": "player",
+   "subject": "Will Dion",
+   "mlbamId": 702021,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "13c91a2612f5d9c9",
+     "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-acquire-another-low-192000290.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T19:20:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-575929": {
+   "id": "player-575929",
+   "type": "player",
+   "subject": "Willson Contreras",
+   "mlbamId": 575929,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "99edc574cfaaab82",
+     "title": "Red Sox News & Links: Will the Sox trade Franklin Arias this offseason?",
+     "url": "https://sports.yahoo.com/articles/red-sox-news-links-sox-174609450.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T17:46:09.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "staff-lad": {
+   "id": "staff-lad",
+   "type": "staff",
+   "subject": "Los Angeles Dodgers staff and front office",
+   "mlbamId": null,
+   "teams": [
+    "LAD"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "e620c181bc343946",
+     "title": "Dodgers and hitting coach Aaron Bates part ways in shakeup to coaching staff",
+     "url": "https://sports.yahoo.com/articles/dodgers-hitting-coach-aaron-bates-170056405.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T17:00:56.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "LAD"
+     ],
      "role": "primary",
-     "status": "Unclassified"
+     "status": null
+    }
+   ]
+  },
+  "player-691023": {
+   "id": "player-691023",
+   "type": "player",
+   "subject": "Jordan Walker",
+   "mlbamId": 691023,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "8035e67c79dd2f2d",
+     "title": "St. Louis Cardinals announce team's new general manager",
+     "url": "https://sports.yahoo.com/articles/st-louis-cardinals-announce-teams-160114057.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:01:14.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "STL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-663460": {
+   "id": "player-663460",
+   "type": "player",
+   "subject": "Kris Bubic",
+   "mlbamId": 663460,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "e2122e959b796978",
+     "title": "More Royals Chase Post-2026 Hardware, Kansas City Adds Hitting Coach",
+     "url": "https://sports.yahoo.com/articles/more-royals-chase-post-2026-160000196.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:00:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-825412": {
+   "id": "player-825412",
+   "type": "player",
+   "subject": "Angeibel Gomez",
+   "mlbamId": 825412,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "e2122e959b796978",
+     "title": "More Royals Chase Post-2026 Hardware, Kansas City Adds Hitting Coach",
+     "url": "https://sports.yahoo.com/articles/more-royals-chase-post-2026-160000196.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:00:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-805799": {
+   "id": "player-805799",
+   "type": "player",
+   "subject": "Zion Rose",
+   "mlbamId": 805799,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "e2122e959b796978",
+     "title": "More Royals Chase Post-2026 Hardware, Kansas City Adds Hitting Coach",
+     "url": "https://sports.yahoo.com/articles/more-royals-chase-post-2026-160000196.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:00:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-703610": {
+   "id": "player-703610",
+   "type": "player",
+   "subject": "Justin Lamkin",
+   "mlbamId": 703610,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "e2122e959b796978",
+     "title": "More Royals Chase Post-2026 Hardware, Kansas City Adds Hitting Coach",
+     "url": "https://sports.yahoo.com/articles/more-royals-chase-post-2026-160000196.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T16:00:00.000Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "staff-det": {
+   "id": "staff-det",
+   "type": "staff",
+   "subject": "Detroit Tigers staff and front office",
+   "mlbamId": null,
+   "teams": [
+    "DET"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "5c481defd595e719",
+     "title": "Tigers finalize their coaching staff, formally announcing Kyle Hudson and Martin Maldonado as coaches. Catching coach Ryan Sienko will also serve as bullpen coach, filling an opening left when assistant pitching coach Juan Nieves was not retained.",
+     "url": "https://bsky.app/profile/jasonbeck.bsky.social/post/3mznrktt2vs22",
+     "sourceId": "bsky-jasonbeck.bsky.social",
+     "sourceName": "Jason Beck",
+     "sourceKind": "reporter",
+     "author": "Jason Beck",
+     "publishedAt": "2026-11-06T16:12:39.899Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-455117": {
+   "id": "player-455117",
+   "type": "player",
+   "subject": "Martín Maldonado",
+   "mlbamId": 455117,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "5c481defd595e719",
+     "title": "Tigers finalize their coaching staff, formally announcing Kyle Hudson and Martin Maldonado as coaches. Catching coach Ryan Sienko will also serve as bullpen coach, filling an opening left when assistant pitching coach Juan Nieves was not retained.",
+     "url": "https://bsky.app/profile/jasonbeck.bsky.social/post/3mznrktt2vs22",
+     "sourceId": "bsky-jasonbeck.bsky.social",
+     "sourceName": "Jason Beck",
+     "sourceKind": "reporter",
+     "author": "Jason Beck",
+     "publishedAt": "2026-11-06T16:12:39.899Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-657041": {
+   "id": "player-657041",
+   "type": "player",
+   "subject": "Lane Thomas",
+   "mlbamId": 657041,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "items": [
+    {
+     "id": "965884ca2019cbd6",
+     "title": "The Guardians have claimed José Tena off waivers from the Nationals. Cleveland dealt him to Washington in the 2024 Lane Thomas trade.",
+     "url": "https://bsky.app/profile/timstebbins.bsky.social/post/3mzo5qn7ivs2m",
+     "sourceId": "bsky-timstebbins.bsky.social",
+     "sourceName": "Tim Stebbins",
+     "sourceKind": "reporter",
+     "author": "Tim Stebbins",
+     "publishedAt": "2026-11-06T19:50:39.195Z",
+     "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "teams": [
+      "CLE",
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
     }
    ]
   }
@@ -10356,414 +11236,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"07ce4330ecf30c3ad8dd80913c71b1ce\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"06d217a8c82c60b1b16967e3338dc07d\""
+   "etag": "W/\"1f40c5156eef84ea04e5564beea82550\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"5f59e0178828f6b1d96e0bfd298e783f\""
+   "etag": "W/\"e9c36e0610ccadd74dc7342e67bf74dc\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"9af6b7e43839ffa7044e92aae06e96eb\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"78adfbe70ce46120601bdf7eb4b46932\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"c0e289715b820f98e5383904694074e0\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"11ebcc1e24a76d08a66c5926055216d0\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"8f8300906a0acb1230904bf40d2d87b9\""
+   "etag": "W/\"dc8a3a128616efc4429a2f42334a4f35\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"1d2f8b5e28e98dc61bf251f66eecb860\""
+   "etag": "W/\"99585e96680a5cc19a02248e6af3c383\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"03a3bd85bb82a1436594e5ef6137229e\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"b9cd71747bf97c99e7e711235d419bbe\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"867c98db6279a494c8cb403c3c6a5fbd\""
+   "etag": "W/\"4a22aa9b4ca4b23903ff2c8394ad0eb9\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"f7662f5483d693e93dfb74ae9b1ac511\""
+   "etag": "W/\"8e7382dda542d6a15943512faedef9c9\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"d83536c80b8dee7b1c3bf466a5a1a2d7\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"b7d43e7bb023d22fe1e0d4e8790e841e\""
+   "etag": "W/\"c9e2a849541ee6ad2467ac74b681b06a\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"28e7582052f2f7f90d7c6ad402ae5f0b\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"bd20574ad7d3942f4b5a6b092bfe5d77\""
+   "etag": "W/\"7f51a477a309ebfb2f8c9684cd3e0bda\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"f5602ae150789eb1feae624954d32b85\""
+   "etag": "W/\"eef7c0f229079716774b0400590d7134\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"29d3494e418ca8704f28dcd3855a2b28\""
+   "etag": "W/\"dfd5d96b6c1c368557fefbea680b0b87\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"b4722431f249fd09375d0adc0a8e10f7\""
+   "etag": "W/\"361acf211f0a2e523e127c4ff312e3b4\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"2592a929bf88fa4791edd5aada796e53\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"b4dab87e7d3578366fac2603ae0d61a6\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"e8725b4d49711f30f6a2973a3e467aa3\""
+   "etag": "W/\"0e9fcb04db72b198ccc7721f05dc7ad2\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"4c0596bae80fa2b5dd4a05c451fff327\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"7f4e3168de1cdf62d228d3506b0f6c7a\""
+   "etag": "W/\"7e5f6a1ae3e5d9171d40e0beacdec227\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "etag": "W/\"969ba7a588f9e06a96e769f1405f1761\""
+   "etag": "W/\"4218898396d8c001cb0e77e26308c13f\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"a3f84c39f61b6ea9717e7f321564af1f\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
    "etag": "W/\"de71cd08b2c3c39e20be34c43d4e8b1f\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null,
-   "lastModified": "Fri, 06 Nov 2026 15:34:04 GMT"
+   "lastModified": "Fri, 06 Nov 2026 21:02:21 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-06T15:34:02.667Z",
+   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
    "lastError": null
   }
  }
