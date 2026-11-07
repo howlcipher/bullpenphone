@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-07T06:40:15.870Z",
+ "updatedAt": "2026-11-07T13:34:48.860Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -599,8 +599,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "96dcccb2e00fbca2",
+     "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
+     "url": "https://sports.yahoo.com/articles/phillies-news-carlos-mendoza-prospects-120000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "9534be923db7a5fd",
      "title": "Phillies News: Don Mattingly, Kyle Schwarber, Teruaki Sato",
@@ -3843,8 +3858,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T07:55:37.305Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "ba7e08ca137b5855",
+     "title": "Braves News: Dominic Smith season review, Qualifying Offer predictions, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-dominic-smith-season-120000724.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "800b617ffcf021d8",
      "title": "Offseason open chat and discussion: November 5",
@@ -6762,8 +6792,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "96dcccb2e00fbca2",
+     "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
+     "url": "https://sports.yahoo.com/articles/phillies-news-carlos-mendoza-prospects-120000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "f609e449339adaea",
      "title": "The Brewers announced the BBWAA's Milwaukee chapter award winners. Most Valuable Player: Brice Turang Most Valuable Pitcher: Jacob Misiorowski (unanimous) Most Valuable Newcomer: Cooper Pratt Unsung Hero: Abner Uribe Good Guy Award: Christian Yelich How would you have voted?",
@@ -6999,8 +7044,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "96dcccb2e00fbca2",
+     "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
+     "url": "https://sports.yahoo.com/articles/phillies-news-carlos-mendoza-prospects-120000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0c25520abee1c02a",
      "title": "Sal Stewart is a finalist for the BBWAA NL Rookie of the Year award. Stewart is joined by JJ Wetherholt of the Cardinals and Carson Benge of the Mets. #reds",
@@ -7701,8 +7761,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "96dcccb2e00fbca2",
+     "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
+     "url": "https://sports.yahoo.com/articles/phillies-news-carlos-mendoza-prospects-120000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d3da1687bbdd6dbb",
      "title": "Dave Dombrowski announces Carlos Mendoza as the new infield/third base coach. Tim Mays’s has signed a 1-year deal with the Phillies.",
@@ -9948,8 +10023,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "96dcccb2e00fbca2",
+     "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
+     "url": "https://sports.yahoo.com/articles/phillies-news-carlos-mendoza-prospects-120000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "a2520636e4bce850",
      "title": "Heck of a year for Parker Messick, who's also an AL Rookie of the Year Award finalist with Kevin McGonigle and Payton Tolle.",
@@ -10280,8 +10370,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "96dcccb2e00fbca2",
+     "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
+     "url": "https://sports.yahoo.com/articles/phillies-news-carlos-mendoza-prospects-120000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8d933eccaa618131",
      "title": "Mets Morning News: Mets hire another hitting coach",
@@ -10895,8 +11000,38 @@
    "status": "Unclassified",
    "statusAt": "2026-11-06T15:34:02.667Z",
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "96dcccb2e00fbca2",
+     "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
+     "url": "https://sports.yahoo.com/articles/phillies-news-carlos-mendoza-prospects-120000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "ba7e08ca137b5855",
+     "title": "Braves News: Dominic Smith season review, Qualifying Offer predictions, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-dominic-smith-season-120000724.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "13c91a2612f5d9c9",
      "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
@@ -10997,8 +11132,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "96dcccb2e00fbca2",
+     "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
+     "url": "https://sports.yahoo.com/articles/phillies-news-carlos-mendoza-prospects-120000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "039bcb4a404392d8",
      "title": "Get to know Teruaki Sato, which other Japanese players to keep an eye on and the Astros manager search",
@@ -11172,8 +11322,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
    "items": [
+    {
+     "id": "037baa1fabd3f6a5",
+     "title": "Dodgers hire Caroline Perry as chief operating officer",
+     "url": "https://sports.yahoo.com/articles/dodgers-hire-caroline-perry-chief-130500954.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T13:05:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "e620c181bc343946",
      "title": "Dodgers and hitting coach Aaron Bates part ways in shakeup to coaching staff",
@@ -11614,11 +11779,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T23:09:26.000Z",
      "firstSeenAt": "2026-11-07T06:40:15.870Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "a965859ab964a87f",
@@ -11916,6 +12081,384 @@
      ]
     }
    ]
+  },
+  "player-686531": {
+   "id": "player-686531",
+   "type": "player",
+   "subject": "Andre Lipcius",
+   "mlbamId": 686531,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "037baa1fabd3f6a5",
+     "title": "Dodgers hire Caroline Perry as chief operating officer",
+     "url": "https://sports.yahoo.com/articles/dodgers-hire-caroline-perry-chief-130500954.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T13:05:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-668731": {
+   "id": "player-668731",
+   "type": "player",
+   "subject": "Akil Baddoo",
+   "mlbamId": 668731,
+   "teams": [
+    "PIT",
+    "MIL"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-07T13:34:48.860Z",
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "8ec2ae0d243a7b34",
+     "title": "Who is Akil Baddoo? Pirates claim veteran infielder off waivers from Brewers",
+     "url": "https://sports.yahoo.com/articles/akil-baddoo-pirates-claim-veteran-130000384.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T13:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PIT",
+      "MIL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "league-trades": {
+   "id": "league-trades",
+   "type": "league",
+   "subject": "The trade market",
+   "mlbamId": null,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "376aaa89e7782816",
+     "title": "Who are the Yankees’ major league trade chips?",
+     "url": "https://sports.yahoo.com/articles/yankees-major-league-trade-chips-123000841.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:30:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-677960": {
+   "id": "player-677960",
+   "type": "player",
+   "subject": "Ryan Weathers",
+   "mlbamId": 677960,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "376aaa89e7782816",
+     "title": "Who are the Yankees’ major league trade chips?",
+     "url": "https://sports.yahoo.com/articles/yankees-major-league-trade-chips-123000841.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:30:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-641355": {
+   "id": "player-641355",
+   "type": "player",
+   "subject": "Cody Bellinger",
+   "mlbamId": 641355,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "376aaa89e7782816",
+     "title": "Who are the Yankees’ major league trade chips?",
+     "url": "https://sports.yahoo.com/articles/yankees-major-league-trade-chips-123000841.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:30:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-663757": {
+   "id": "player-663757",
+   "type": "player",
+   "subject": "Trent Grisham",
+   "mlbamId": 663757,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "376aaa89e7782816",
+     "title": "Who are the Yankees’ major league trade chips?",
+     "url": "https://sports.yahoo.com/articles/yankees-major-league-trade-chips-123000841.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:30:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-518626": {
+   "id": "player-518626",
+   "type": "player",
+   "subject": "Josh Donaldson",
+   "mlbamId": 518626,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "376aaa89e7782816",
+     "title": "Who are the Yankees’ major league trade chips?",
+     "url": "https://sports.yahoo.com/articles/yankees-major-league-trade-chips-123000841.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:30:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-643396": {
+   "id": "player-643396",
+   "type": "player",
+   "subject": "Isiah Kiner-Falefa",
+   "mlbamId": 643396,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "376aaa89e7782816",
+     "title": "Who are the Yankees’ major league trade chips?",
+     "url": "https://sports.yahoo.com/articles/yankees-major-league-trade-chips-123000841.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:30:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-592791": {
+   "id": "player-592791",
+   "type": "player",
+   "subject": "Jameson Taillon",
+   "mlbamId": 592791,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "376aaa89e7782816",
+     "title": "Who are the Yankees’ major league trade chips?",
+     "url": "https://sports.yahoo.com/articles/yankees-major-league-trade-chips-123000841.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:30:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-572020": {
+   "id": "player-572020",
+   "type": "player",
+   "subject": "James Paxton",
+   "mlbamId": 572020,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "376aaa89e7782816",
+     "title": "Who are the Yankees’ major league trade chips?",
+     "url": "https://sports.yahoo.com/articles/yankees-major-league-trade-chips-123000841.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:30:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-519317": {
+   "id": "player-519317",
+   "type": "player",
+   "subject": "Giancarlo Stanton",
+   "mlbamId": 519317,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "376aaa89e7782816",
+     "title": "Who are the Yankees’ major league trade chips?",
+     "url": "https://sports.yahoo.com/articles/yankees-major-league-trade-chips-123000841.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:30:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-691406": {
+   "id": "player-691406",
+   "type": "player",
+   "subject": "Junior Caminero",
+   "mlbamId": 691406,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "96dcccb2e00fbca2",
+     "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
+     "url": "https://sports.yahoo.com/articles/phillies-news-carlos-mendoza-prospects-120000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-642086": {
+   "id": "player-642086",
+   "type": "player",
+   "subject": "Dominic Smith",
+   "mlbamId": 642086,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "ba7e08ca137b5855",
+     "title": "Braves News: Dominic Smith season review, Qualifying Offer predictions, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-dominic-smith-season-120000724.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-682998": {
+   "id": "player-682998",
+   "type": "player",
+   "subject": "Corbin Carroll",
+   "mlbamId": 682998,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "items": [
+    {
+     "id": "ba7e08ca137b5855",
+     "title": "Braves News: Dominic Smith season review, Qualifying Offer predictions, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-dominic-smith-season-120000724.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T12:00:00.000Z",
+     "firstSeenAt": "2026-11-07T13:34:48.860Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
   }
  },
  "deals": [],
@@ -11923,414 +12466,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"07ce4330ecf30c3ad8dd80913c71b1ce\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "etag": "W/\"1f40c5156eef84ea04e5564beea82550\""
+   "etag": "W/\"f737eb700ab43e83939e7c760190f0a6\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "etag": "W/\"046cbc843d51e5b1f975dd345a187435\""
+   "etag": "W/\"6c782a518def2da756dc19253814c178\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "etag": "W/\"9af6b7e43839ffa7044e92aae06e96eb\""
+   "etag": "W/\"b3534db068adddd92118d20a9bf915bf\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"78adfbe70ce46120601bdf7eb4b46932\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"1346fcb9af8d03e1a41d61f6ea3cf8aa\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"cd2a66356dc28331402bd090ce93f077\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"dc8a3a128616efc4429a2f42334a4f35\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"99585e96680a5cc19a02248e6af3c383\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"1aeab10520d97aecfb297ebd6c5c3097\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"b9cd71747bf97c99e7e711235d419bbe\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "etag": "W/\"a818b692828630087afc22f565fdd85b\""
+   "etag": "W/\"7b244ae489d262414f17fc5f6cc60521\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"89ceba540c23edeb9f7721a2890385fc\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"d83536c80b8dee7b1c3bf466a5a1a2d7\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"c9e2a849541ee6ad2467ac74b681b06a\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "etag": "W/\"c1bf46ca0f197e0aa0d068c5ef644dce\""
+   "etag": "W/\"abd5bf974087ee23beada16d67be2f87\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"7f51a477a309ebfb2f8c9684cd3e0bda\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"eef7c0f229079716774b0400590d7134\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"96d78a67b63926c729f8621a17f724a9\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"361acf211f0a2e523e127c4ff312e3b4\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "etag": "W/\"5188e5a356f4d6176d47bddf9de5b739\""
+   "etag": "W/\"784ec6e9b71726a9e412d7cf364218db\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"b4dab87e7d3578366fac2603ae0d61a6\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "etag": "W/\"0e9fcb04db72b198ccc7721f05dc7ad2\""
+   "etag": "W/\"f1638652c93db40a29797e41760ed708\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"c8aeaa063dc92e86a4774c16b917c733\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "etag": "W/\"73aec83661dc298af31c59b95e7a3e77\""
+   "etag": "W/\"cc05a677d8d96caf49d730cc5386ef4b\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "etag": "W/\"4218898396d8c001cb0e77e26308c13f\""
+   "etag": "W/\"7d2ff157c997a9c9759566bea6ec38db\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"59ae5658ba982e2a5d2fef5e3de55b61\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
    "etag": "W/\"49a93a60d4f8f92097f7c79705ef028b\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null,
-   "lastModified": "Sat, 07 Nov 2026 06:40:18 GMT"
+   "lastModified": "Sat, 07 Nov 2026 13:34:50 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-07T06:40:15.870Z",
+   "lastSuccessAt": "2026-11-07T13:34:48.860Z",
    "lastError": null
   }
  }
