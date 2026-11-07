@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-06T21:02:19.929Z",
+ "updatedAt": "2026-11-07T00:50:47.030Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -196,11 +196,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:00:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "484b77809eeffb0e",
@@ -1718,11 +1718,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T17:46:09.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "da47edfefc9b8f51",
@@ -2035,11 +2035,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T17:46:09.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c33f8043c24de1c1",
@@ -2094,11 +2094,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T17:46:09.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c33f8043c24de1c1",
@@ -2333,11 +2333,11 @@
      "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
      "publishedAt": "2026-11-06T20:52:44.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8a23942ee1db977d",
@@ -2605,11 +2605,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T17:46:09.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "47dc4868e6c73e8d",
@@ -2678,11 +2678,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T17:46:09.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "46305d12c2ff7f8a",
@@ -3362,11 +3362,11 @@
      "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
      "publishedAt": "2026-11-06T20:52:44.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "b39f5463c4283ae4",
@@ -3646,8 +3646,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "27f5d6b8350d657c",
+     "title": "Mariners hire Tanner Swanson away from Yankees",
+     "url": "https://sports.yahoo.com/articles/mariners-hire-tanner-swanson-away-214600366.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:46:00.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "d7e0abdb911e6e7e",
      "title": "Mariners hire millennial former high school teacher as manager",
@@ -3704,11 +3719,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T17:46:09.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ea8fa25e98851317",
@@ -4272,11 +4287,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-06T16:32:50.682Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "5c37d7666861ec17",
@@ -4384,8 +4399,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "6e4ab0401839aaea",
+     "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-2026-27-003124566.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T00:31:24.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3a98abe0203bdcef",
      "title": "Brewers exercise William Contreras’ option, extend qualifying offer to Jake Bauers in start of offseason moves",
@@ -4476,8 +4504,36 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "6e4ab0401839aaea",
+     "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-2026-27-003124566.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T00:31:24.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "a965859ab964a87f",
+     "title": "Mets sign Robert Stock to one-year major league contract",
+     "url": "https://sports.yahoo.com/articles/mets-sign-robert-stock-one-215853708.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:58:53.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "801e5d91256d16a8",
      "title": "Dodgers notes: Kyle Tucker, Andy Pages, Teoscar Hernández",
@@ -4800,8 +4856,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "1ea08656cbdd7dba",
+     "title": "Giants trade Reiver Sanmartin for Robert Cranz",
+     "url": "https://sports.yahoo.com/articles/giants-trade-reiver-sanmartin-robert-211306660.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:13:06.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "13c91a2612f5d9c9",
      "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
@@ -4811,11 +4882,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T19:20:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "WSH"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "bdcddf35a4fcd85d",
@@ -4827,12 +4898,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-06T18:53:30.283Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "WSH",
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "6acb34eadffd7ad9",
@@ -5051,11 +5122,11 @@
      "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
      "publishedAt": "2026-11-06T20:52:44.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8d933eccaa618131",
@@ -5140,11 +5211,11 @@
      "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
      "publishedAt": "2026-11-06T20:52:44.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "99edc574cfaaab82",
@@ -5155,11 +5226,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T17:46:09.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "da47edfefc9b8f51",
@@ -6322,8 +6393,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "52e1366ef7f3e112",
+     "title": "St. Louis Cardinals promote Rob Cerfolio to general manager at 34",
+     "url": "https://sports.yahoo.com/articles/st-louis-cardinals-promote-rob-212756706.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:27:56.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "STL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8035e67c79dd2f2d",
      "title": "St. Louis Cardinals announce team's new general manager",
@@ -6333,11 +6419,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:01:14.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0c25520abee1c02a",
@@ -7269,11 +7355,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:00:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9f315a17178d89f2",
@@ -8053,11 +8139,24 @@
    "subject": "Sonny Gray",
    "mlbamId": 543243,
    "teams": [],
-   "status": null,
-   "statusAt": null,
+   "status": "Unclassified",
+   "statusAt": "2026-11-07T00:50:47.030Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "6e4ab0401839aaea",
+     "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-2026-27-003124566.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T00:31:24.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "2c0271a64a80b78d",
      "title": "Red Sox offseason preview: The questions that will shape their coming weeks and months. www.bostonglobe.com/2026/11/02/s...",
@@ -8295,8 +8394,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "52e1366ef7f3e112",
+     "title": "St. Louis Cardinals promote Rob Cerfolio to general manager at 34",
+     "url": "https://sports.yahoo.com/articles/st-louis-cardinals-promote-rob-212756706.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:27:56.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "STL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "c53daed62caf7c6d",
      "title": "Astros owner Jim Crane said he did interview some managerial candidates during the GM search process, but now that Randy Flores is hired, Crane said Flores will take over that search.",
@@ -8438,8 +8552,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "52e1366ef7f3e112",
+     "title": "St. Louis Cardinals promote Rob Cerfolio to general manager at 34",
+     "url": "https://sports.yahoo.com/articles/st-louis-cardinals-promote-rob-212756706.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:27:56.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "STL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "ae5ef1902e51569c",
      "title": "Not much on the news front from the Cardinals presser outside of the reason to call it. No announcement yet on the coaching staff (and it will still be perhaps a week), no immediate internal promotions to announce to backfill.",
@@ -8450,11 +8579,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-06T20:47:18.508Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8035e67c79dd2f2d",
@@ -8465,11 +8594,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:01:14.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "73ccc996ff70c8c9",
@@ -8868,11 +8997,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T19:20:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9cbc0b0d01bf603e",
@@ -8910,11 +9039,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T19:20:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9cbc0b0d01bf603e",
@@ -9086,8 +9215,24 @@
    "status": "Unclassified",
    "statusAt": "2026-11-06T21:02:19.929Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "f57af6b7459d6833",
+     "title": "Guardians Claim Jose Tena",
+     "url": "https://www.coveringthecorner.com/cleveland-guardians-news/76594/guardians-claim-jose-tena",
+     "sourceId": "sbn-cle",
+     "sourceName": "Covering the Corner",
+     "sourceKind": "fansite",
+     "author": "Quincy Wheeler",
+     "publishedAt": "2026-11-06T22:23:16.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "965884ca2019cbd6",
      "title": "The Guardians have claimed José Tena off waivers from the Nationals. Cleveland dealt him to Washington in the 2024 Lane Thomas trade.",
@@ -9098,12 +9243,12 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-06T19:50:39.195Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CLE",
       "WSH"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "9cbc0b0d01bf603e",
@@ -9251,8 +9396,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "1e0b28e8d92bcef6",
+     "title": "One piece of news Bloom announced today: Linda Brauer, the senior executive assistant to the president of baseball ops, was named the Cardinals' winner of the Katy Feeney Leadership Award, handed out every year to a woman from every organization.",
+     "url": "https://bsky.app/profile/jmjones.bsky.social/post/3mzocdzs2as2e",
+     "sourceId": "bsky-jmjones.bsky.social",
+     "sourceName": "Jeff Jones",
+     "sourceKind": "reporter",
+     "author": "Jeff Jones",
+     "publishedAt": "2026-11-06T21:13:04.887Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "STL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "5ab7a624545ab4b9",
      "title": "Cardinals say they officially declined Ryne Stanek’s option and reinstated Max Rajcic. Chase Hampton, who they claimed on waivers a month ago, was claimed by Baltimore. 40-man is at 38.",
@@ -9520,8 +9681,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "a965859ab964a87f",
+     "title": "Mets sign Robert Stock to one-year major league contract",
+     "url": "https://sports.yahoo.com/articles/mets-sign-robert-stock-one-215853708.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:58:53.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0a9cca26702092cc",
      "title": "None of the three Cardinals finalists for Gold Gloves won their awards. JJ Wetherholt, Masyn Winn and Michael McGreevy were beaten out by Brice Turang, Geraldo Perdomo and Nolan McLean.",
@@ -10429,11 +10605,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:00:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "14f844d87167195e",
@@ -10472,11 +10648,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:00:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "14f844d87167195e",
@@ -10515,11 +10691,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:00:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "14f844d87167195e",
@@ -10730,11 +10906,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T19:20:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c26979d8c3c489d7",
@@ -10775,11 +10951,11 @@
      "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
      "publishedAt": "2026-11-06T20:52:44.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10804,11 +10980,11 @@
      "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
      "publishedAt": "2026-11-06T20:52:44.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10833,11 +11009,11 @@
      "author": "Yahoo Sports Staff,Jake Mintz,Jordan Shusterman",
      "publishedAt": "2026-11-06T20:52:44.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10850,8 +11026,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "1ea08656cbdd7dba",
+     "title": "Giants trade Reiver Sanmartin for Robert Cranz",
+     "url": "https://sports.yahoo.com/articles/giants-trade-reiver-sanmartin-robert-211306660.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:13:06.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "13c91a2612f5d9c9",
      "title": "Washington Nationals acquire another low slot lefty in Reiver Sanmartin",
@@ -10861,11 +11052,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T19:20:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bdcddf35a4fcd85d",
@@ -10877,12 +11068,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-06T18:53:30.283Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH",
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10906,11 +11097,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T19:20:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10934,11 +11125,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T19:20:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10962,11 +11153,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T17:46:09.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -10992,11 +11183,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T17:00:56.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -11009,8 +11200,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
    "items": [
+    {
+     "id": "52e1366ef7f3e112",
+     "title": "St. Louis Cardinals promote Rob Cerfolio to general manager at 34",
+     "url": "https://sports.yahoo.com/articles/st-louis-cardinals-promote-rob-212756706.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:27:56.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "STL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8035e67c79dd2f2d",
      "title": "St. Louis Cardinals announce team's new general manager",
@@ -11020,11 +11226,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:01:14.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -11048,11 +11254,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:00:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -11076,11 +11282,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:00:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -11104,11 +11310,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:00:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -11132,11 +11338,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-06T16:00:00.000Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -11163,11 +11369,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-06T16:12:39.899Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -11192,11 +11398,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-06T16:12:39.899Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -11221,9 +11427,475 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-06T19:50:39.195Z",
      "firstSeenAt": "2026-11-06T21:02:19.929Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE",
       "WSH"
+     ]
+    }
+   ]
+  },
+  "player-628452": {
+   "id": "player-628452",
+   "type": "player",
+   "subject": "Raisel Iglesias",
+   "mlbamId": 628452,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "6e4ab0401839aaea",
+     "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-2026-27-003124566.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T00:31:24.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-641816": {
+   "id": "player-641816",
+   "type": "player",
+   "subject": "Tyler Mahle",
+   "mlbamId": 641816,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "6e4ab0401839aaea",
+     "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-2026-27-003124566.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T00:31:24.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-608369": {
+   "id": "player-608369",
+   "type": "player",
+   "subject": "Corey Seager",
+   "mlbamId": 608369,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "6e4ab0401839aaea",
+     "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-2026-27-003124566.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T00:31:24.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-453286": {
+   "id": "player-453286",
+   "type": "player",
+   "subject": "Max Scherzer",
+   "mlbamId": 453286,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "6e4ab0401839aaea",
+     "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-2026-27-003124566.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T00:31:24.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-543760": {
+   "id": "player-543760",
+   "type": "player",
+   "subject": "Marcus Semien",
+   "mlbamId": 543760,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "6e4ab0401839aaea",
+     "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-2026-27-003124566.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T00:31:24.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-592662": {
+   "id": "player-592662",
+   "type": "player",
+   "subject": "Robbie Ray",
+   "mlbamId": 592662,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "6e4ab0401839aaea",
+     "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-2026-27-003124566.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-07T00:31:24.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-476594": {
+   "id": "player-476594",
+   "type": "player",
+   "subject": "Robert Stock",
+   "mlbamId": 476594,
+   "teams": [
+    "NYM"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-07T00:50:47.030Z",
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "a965859ab964a87f",
+     "title": "Mets sign Robert Stock to one-year major league contract",
+     "url": "https://sports.yahoo.com/articles/mets-sign-robert-stock-one-215853708.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:58:53.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "player-681035": {
+   "id": "player-681035",
+   "type": "player",
+   "subject": "Christian Scott",
+   "mlbamId": 681035,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "a965859ab964a87f",
+     "title": "Mets sign Robert Stock to one-year major league contract",
+     "url": "https://sports.yahoo.com/articles/mets-sign-robert-stock-one-215853708.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:58:53.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-804267": {
+   "id": "player-804267",
+   "type": "player",
+   "subject": "Zac Thornton",
+   "mlbamId": 804267,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "a965859ab964a87f",
+     "title": "Mets sign Robert Stock to one-year major league contract",
+     "url": "https://sports.yahoo.com/articles/mets-sign-robert-stock-one-215853708.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:58:53.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-804636": {
+   "id": "player-804636",
+   "type": "player",
+   "subject": "Jonah Tong",
+   "mlbamId": 804636,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "a965859ab964a87f",
+     "title": "Mets sign Robert Stock to one-year major league contract",
+     "url": "https://sports.yahoo.com/articles/mets-sign-robert-stock-one-215853708.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:58:53.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-640455": {
+   "id": "player-640455",
+   "type": "player",
+   "subject": "Sean Manaea",
+   "mlbamId": 640455,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "a965859ab964a87f",
+     "title": "Mets sign Robert Stock to one-year major league contract",
+     "url": "https://sports.yahoo.com/articles/mets-sign-robert-stock-one-215853708.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:58:53.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-669224": {
+   "id": "player-669224",
+   "type": "player",
+   "subject": "Austin Wells",
+   "mlbamId": 669224,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "27f5d6b8350d657c",
+     "title": "Mariners hire Tanner Swanson away from Yankees",
+     "url": "https://sports.yahoo.com/articles/mariners-hire-tanner-swanson-away-214600366.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:46:00.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-665966": {
+   "id": "player-665966",
+   "type": "player",
+   "subject": "Carlos Narváez",
+   "mlbamId": 665966,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "27f5d6b8350d657c",
+     "title": "Mariners hire Tanner Swanson away from Yankees",
+     "url": "https://sports.yahoo.com/articles/mariners-hire-tanner-swanson-away-214600366.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:46:00.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-695684": {
+   "id": "player-695684",
+   "type": "player",
+   "subject": "Elmer Rodriguez",
+   "mlbamId": 695684,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "27f5d6b8350d657c",
+     "title": "Mariners hire Tanner Swanson away from Yankees",
+     "url": "https://sports.yahoo.com/articles/mariners-hire-tanner-swanson-away-214600366.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:46:00.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-624431": {
+   "id": "player-624431",
+   "type": "player",
+   "subject": "Jose Trevino",
+   "mlbamId": 624431,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "27f5d6b8350d657c",
+     "title": "Mariners hire Tanner Swanson away from Yankees",
+     "url": "https://sports.yahoo.com/articles/mariners-hire-tanner-swanson-away-214600366.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:46:00.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-543309": {
+   "id": "player-543309",
+   "type": "player",
+   "subject": "Kyle Higashioka",
+   "mlbamId": 543309,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "27f5d6b8350d657c",
+     "title": "Mariners hire Tanner Swanson away from Yankees",
+     "url": "https://sports.yahoo.com/articles/mariners-hire-tanner-swanson-away-214600366.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:46:00.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-663728": {
+   "id": "player-663728",
+   "type": "player",
+   "subject": "Cal Raleigh",
+   "mlbamId": 663728,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "items": [
+    {
+     "id": "27f5d6b8350d657c",
+     "title": "Mariners hire Tanner Swanson away from Yankees",
+     "url": "https://sports.yahoo.com/articles/mariners-hire-tanner-swanson-away-214600366.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-06T21:46:00.000Z",
+     "firstSeenAt": "2026-11-07T00:50:47.030Z",
+     "teams": [
+      "SEA"
      ],
      "role": "mention",
      "status": null
@@ -11236,414 +11908,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
    "etag": "W/\"07ce4330ecf30c3ad8dd80913c71b1ce\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
    "etag": "W/\"1f40c5156eef84ea04e5564beea82550\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"e9c36e0610ccadd74dc7342e67bf74dc\""
+   "etag": "W/\"3b59ca04e2ec2eb8900095d8813c4221\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
    "etag": "W/\"9af6b7e43839ffa7044e92aae06e96eb\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
    "etag": "W/\"78adfbe70ce46120601bdf7eb4b46932\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"c0e289715b820f98e5383904694074e0\""
+   "etag": "W/\"b761510eb56ada240ee78300fb491d8e\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"11ebcc1e24a76d08a66c5926055216d0\""
+   "etag": "W/\"cd2a66356dc28331402bd090ce93f077\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
    "etag": "W/\"dc8a3a128616efc4429a2f42334a4f35\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
    "etag": "W/\"99585e96680a5cc19a02248e6af3c383\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"03a3bd85bb82a1436594e5ef6137229e\""
+   "etag": "W/\"1aeab10520d97aecfb297ebd6c5c3097\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"b9cd71747bf97c99e7e711235d419bbe\""
+   "etag": "W/\"06ef69c068a35db46f5d4e7da5e46fcc\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"4a22aa9b4ca4b23903ff2c8394ad0eb9\""
+   "etag": "W/\"81de10c1ae780a5529166309479a2f2a\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"8e7382dda542d6a15943512faedef9c9\""
+   "etag": "W/\"89ceba540c23edeb9f7721a2890385fc\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
    "etag": "W/\"d83536c80b8dee7b1c3bf466a5a1a2d7\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
    "etag": "W/\"c9e2a849541ee6ad2467ac74b681b06a\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"28e7582052f2f7f90d7c6ad402ae5f0b\""
+   "etag": "W/\"c1bf46ca0f197e0aa0d068c5ef644dce\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"7f51a477a309ebfb2f8c9684cd3e0bda\""
+   "etag": "W/\"16d804698b8924cc4565026b1c5174d4\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"eef7c0f229079716774b0400590d7134\""
+   "etag": "W/\"657781dd42321c83fe6c4b7755861efa\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"dfd5d96b6c1c368557fefbea680b0b87\""
+   "etag": "W/\"96d78a67b63926c729f8621a17f724a9\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
    "etag": "W/\"361acf211f0a2e523e127c4ff312e3b4\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"2592a929bf88fa4791edd5aada796e53\""
+   "etag": "W/\"8aa12d187f472136e711d63ebb668aff\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"b4dab87e7d3578366fac2603ae0d61a6\""
+   "etag": "W/\"1cad321f0f0ec91135dc3c885256a74f\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"0e9fcb04db72b198ccc7721f05dc7ad2\""
+   "etag": "W/\"5e7c836a004ccc5aba91d03626cb32e0\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"4c0596bae80fa2b5dd4a05c451fff327\""
+   "etag": "W/\"c8aeaa063dc92e86a4774c16b917c733\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"7e5f6a1ae3e5d9171d40e0beacdec227\""
+   "etag": "W/\"7c4487713b1fb356013590a9d98571fb\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"4218898396d8c001cb0e77e26308c13f\""
+   "etag": "W/\"f95d766ba43d46ab914620c0daebf87b\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"a3f84c39f61b6ea9717e7f321564af1f\""
+   "etag": "W/\"b0a22945fbfded8735a26e907bac9626\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "etag": "W/\"de71cd08b2c3c39e20be34c43d4e8b1f\""
+   "etag": "W/\"49a93a60d4f8f92097f7c79705ef028b\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null,
-   "lastModified": "Fri, 06 Nov 2026 21:02:21 GMT"
+   "lastModified": "Sat, 07 Nov 2026 00:50:51 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-06T21:02:19.929Z",
+   "lastSuccessAt": "2026-11-07T00:50:47.030Z",
    "lastError": null
   }
  }
