@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-08T01:03:31.505Z",
+ "updatedAt": "2026-11-08T07:11:39.572Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -3958,8 +3958,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-08T01:03:31.505Z",
+   "lastActivityAt": "2026-11-08T07:11:39.572Z",
    "items": [
+    {
+     "id": "3965445abad10f1b",
+     "title": "Braves News: Casey Mize rumor, player reviews, more",
+     "url": "https://sports.yahoo.com/articles/braves-news-casey-mize-rumor-050100741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-08T05:01:00.000Z",
+     "firstSeenAt": "2026-11-08T07:11:39.572Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "b7bc4e6d6e7c53ae",
      "title": "Offseason open chat and discussion: November 7",
@@ -3970,11 +3985,11 @@
      "author": "Gracelyn N.",
      "publishedAt": "2026-11-08T00:00:00.000Z",
      "firstSeenAt": "2026-11-08T01:03:31.505Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "ba7e08ca137b5855",
@@ -12019,8 +12034,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-08T07:11:39.572Z",
    "items": [
+    {
+     "id": "3965445abad10f1b",
+     "title": "Braves News: Casey Mize rumor, player reviews, more",
+     "url": "https://sports.yahoo.com/articles/braves-news-casey-mize-rumor-050100741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-08T05:01:00.000Z",
+     "firstSeenAt": "2026-11-08T07:11:39.572Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "6e4ab0401839aaea",
      "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
@@ -12859,8 +12889,23 @@
    "status": "Interest",
    "statusAt": "2026-11-07T18:16:15.660Z",
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-07T18:16:15.660Z",
+   "lastActivityAt": "2026-11-08T07:11:39.572Z",
    "items": [
+    {
+     "id": "3965445abad10f1b",
+     "title": "Braves News: Casey Mize rumor, player reviews, more",
+     "url": "https://sports.yahoo.com/articles/braves-news-casey-mize-rumor-050100741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-08T05:01:00.000Z",
+     "firstSeenAt": "2026-11-08T07:11:39.572Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "67a661537d9e705c",
      "title": "Braves were reportedly “linked” to Casey Mize at 2026 Trade Deadline",
@@ -12887,8 +12932,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-07T18:16:15.660Z",
+   "lastActivityAt": "2026-11-08T07:11:39.572Z",
    "items": [
+    {
+     "id": "3965445abad10f1b",
+     "title": "Braves News: Casey Mize rumor, player reviews, more",
+     "url": "https://sports.yahoo.com/articles/braves-news-casey-mize-rumor-050100741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-08T05:01:00.000Z",
+     "firstSeenAt": "2026-11-08T07:11:39.572Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "67a661537d9e705c",
      "title": "Braves were reportedly “linked” to Casey Mize at 2026 Trade Deadline",
@@ -13963,6 +14023,34 @@
      ]
     }
    ]
+  },
+  "player-674370": {
+   "id": "player-674370",
+   "type": "player",
+   "subject": "Osvaldo Bido",
+   "mlbamId": 674370,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-08T07:11:39.572Z",
+   "lastActivityAt": "2026-11-08T07:11:39.572Z",
+   "items": [
+    {
+     "id": "3965445abad10f1b",
+     "title": "Braves News: Casey Mize rumor, player reviews, more",
+     "url": "https://sports.yahoo.com/articles/braves-news-casey-mize-rumor-050100741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-08T05:01:00.000Z",
+     "firstSeenAt": "2026-11-08T07:11:39.572Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
   }
  },
  "deals": [],
@@ -13970,414 +14058,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"07ce4330ecf30c3ad8dd80913c71b1ce\""
+   "etag": "W/\"70b3d8613ff2638f2835b042b64f6244\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"f737eb700ab43e83939e7c760190f0a6\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"19a9d702625190147ad346fe3f3dad60\""
+   "etag": "W/\"929e754470c832596a624ff6ea4a8c38\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"9af6b7e43839ffa7044e92aae06e96eb\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"78adfbe70ce46120601bdf7eb4b46932\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"462c19ab2135521f08dad5b118c95bc7\""
+   "etag": "W/\"bf7505f4934fee6770c6736e3f51e6f5\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"cd2a66356dc28331402bd090ce93f077\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"e53927ca20e3dffd5c4964632c1383ec\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"43d3711b7287e31c381714930daffa3a\""
+   "etag": "W/\"f37e19b4e6c06968cc226a75384c3da6\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"03a3bd85bb82a1436594e5ef6137229e\""
+   "etag": "W/\"1aeab10520d97aecfb297ebd6c5c3097\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"7fdc87467b4f8cf86e3c2f92d6bc5fbf\""
+   "etag": "W/\"56cc11e962483352fedb5d2978fcbe79\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"7b244ae489d262414f17fc5f6cc60521\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"275454c915154c37140126700765ce44\""
+   "etag": "W/\"7f9c8dbdeeb8023fd702c7343b558a34\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"868fabc0725a718e1a4b8df0e91e6b7c\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"3f7c126b669a08b25b7f3f14bbf0a4ad\""
+   "etag": "W/\"5c1f4c3f4519008a64e82f33240decc2\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"b7f73ca60da251ff2e00ca3833c119f0\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"8f799a564ffec48a3a69d2c847dea8ad\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"e4e47148d4c081f8d064267a65ecbaed\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"ec33c93a05add1e8df8c035120ecb81d\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"361acf211f0a2e523e127c4ff312e3b4\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"561c10dd56b0901950bc49fcaf627ea8\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"9207bac8e2577d18d7e6fc039479b61b\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"0e9fcb04db72b198ccc7721f05dc7ad2\""
+   "etag": "W/\"f1638652c93db40a29797e41760ed708\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"30852b1f02573cbe1fc1b55125029417\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"5488304db827f1a9a06565149f4b3701\""
+   "etag": "W/\"dc7fb03a09ac2e123a3568114df3dd35\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"5ea45c3428736a26e26eabc3c40b3808\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "etag": "W/\"d38d83badf65224aa029edde3be488bd\""
+   "etag": "W/\"bef2ed9051ffd635e86dff5272efa8de\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
    "etag": "W/\"10f15ae8bb4885cc092d217f33c8499c\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null,
-   "lastModified": "Sun, 08 Nov 2026 01:03:33 GMT"
+   "lastModified": "Sun, 08 Nov 2026 07:11:41 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-08T01:03:31.505Z",
+   "lastSuccessAt": "2026-11-08T07:11:39.572Z",
    "lastError": null
   }
  }
