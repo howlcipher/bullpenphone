@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-11T09:27:02.687Z",
+ "updatedAt": "2026-11-11T17:21:50.204Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -228,8 +228,34 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T02:13:00.180Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "c5fa3a7914283648",
+     "title": "Skubal to meet with 6 teams, including Mets, Dodgers and Padres, with December lockout looming",
+     "url": "https://sports.yahoo.com/articles/skubal-meet-6-teams-including-164653921.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:46:53.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "895a3d5266acf71c",
+     "title": "How does a looming lockout affect how the Royals operate this offseason?",
+     "url": "https://sports.yahoo.com/articles/does-looming-lockout-affect-royals-150135630.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:01:35.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "baa50c0125da0faf",
      "title": "You might wonder why SF doesn't cut Bader now. Clearly, they want no part of him. Well, releasing him would mean paying his $10m salary. If CBA talks shorten or cancel next season, the Giants'd be on the hook to pay him substantially less. (Of course, he's also taking up 40-man spot in the interim.)",
@@ -819,8 +845,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "e9b0e90f5f2446a9",
+     "title": "Phillies news: Bob Boone, Trea Turner, Tarik Skubal",
+     "url": "https://sports.yahoo.com/articles/phillies-news-bob-boone-trea-120000621.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "701500d58ecdb8ae",
      "title": "Phillies news: Ha-Seong Kim, Brandon Marsh, Trea Turner",
@@ -1183,11 +1224,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:14:25.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5afa7e319b72c9c4",
@@ -1376,8 +1417,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "e9b0e90f5f2446a9",
+     "title": "Phillies news: Bob Boone, Trea Turner, Tarik Skubal",
+     "url": "https://sports.yahoo.com/articles/phillies-news-bob-boone-trea-120000621.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5f21a4eb1dddecbc",
      "title": "The Phillies are reportedly interested in Ha-Seong Kim. Are you?",
@@ -2034,8 +2090,36 @@
    "status": "Linked",
    "statusAt": "2026-11-10T17:50:09.058Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "d288e812d05d0fa9",
+     "title": "Rumors are many, signings are few as GM Meetings continue",
+     "url": "https://sports.yahoo.com/articles/rumors-many-signings-few-gm-143000363.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:30:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "af5255386081edf6",
+     "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-130000351.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4e184749502df4eb",
      "title": "Looking for starter-to-reliever conversion candidates for the Mets",
@@ -2900,8 +2984,21 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T02:13:00.180Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "c5fa3a7914283648",
+     "title": "Skubal to meet with 6 teams, including Mets, Dodgers and Padres, with December lockout looming",
+     "url": "https://sports.yahoo.com/articles/skubal-meet-6-teams-including-164653921.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:46:53.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4320c0e7674b032f",
      "title": "Mets to meet with Tarik Skubal",
@@ -2988,8 +3085,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "fcce0b98e0474bf6",
+     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
+     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "56444c80b2679330",
      "title": "Mariners News: Kevin McGonigle, Sal Stewart, and Ketel Marte",
@@ -3155,8 +3267,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T02:13:00.180Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "8e21fcc724c3cd65",
+     "title": "Astros announce hiring of franchise legend Brad Ausmus as next manager",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/astros-announce-hiring-of-franchise-legend-brad-ausmus-as-next-manager-164200247.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Chris Cwik",
+     "publishedAt": "2026-11-11T15:46:08.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "240d064548a85a9d",
      "title": "Asked if the manager search could be wrapped up this week, Astros GM Randy Flores said \"I’m hopeful and I would expect that happens, but we’ll see.” Flores acknowledged that Albert Pujols, Brad Ausmus and Morgan Ensberg have interviewed. He declined to divulge much more.",
@@ -3396,8 +3524,39 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-08T14:17:24.999Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "bad8f2db41485473",
+     "title": "Orioles news: Elias and Banner talk offseason plans",
+     "url": "https://sports.yahoo.com/articles/orioles-news-elias-banner-talk-120047837.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:47.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "da89f88938b64b0b",
+     "title": "Elias on Orioles’ coaches, Westburg, Holliday, George, 40-man additions and more #Orioles",
+     "url": "https://bsky.app/profile/richdubroffmlb.bsky.social/post/3mzzrstgwex2v",
+     "sourceId": "bsky-richdubroffmlb.bsky.social",
+     "sourceName": "Rich Dubroff",
+     "sourceKind": "reporter",
+     "author": "Rich Dubroff",
+     "publishedAt": "2026-11-11T10:49:04.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "ac94338509605567",
      "title": "Orioles news: Platoon needs in rotation, outfield",
@@ -3726,8 +3885,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "990ae2a657124bb4",
+     "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
+     "url": "https://sports.yahoo.com/articles/potential-guardians-free-agent-targets-165641930.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:56:41.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "173b39b3403f60cb",
      "title": "Tampa Bay Rays decline options on Nick Martinez, Cedric Mullins",
@@ -3891,11 +4065,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T06:10:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4e184749502df4eb",
@@ -4034,8 +4208,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "af5255386081edf6",
+     "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-130000351.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "a1d40a342f0cd1d5",
      "title": "Detroit Tigers News: Japanese player scouting, Max Scherzer, Chris Sale",
@@ -4377,8 +4566,101 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T02:13:00.180Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "e4d1a1ea7cd97bb8",
+     "title": "Astros Name Brad Ausmus Manager",
+     "url": "https://sports.yahoo.com/articles/astros-name-brad-ausmus-manager-170952425.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T17:09:52.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "71418976e85b9523",
+     "title": "Astros hire Ausmus as manager",
+     "url": "https://sports.yahoo.com/articles/astros-hire-ausmus-manager-164313048.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:43:13.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "d5f456ee796ffd43",
+     "title": "The Astros hired Brad Ausmus as their manager on Wednesday, reuniting the franchise with a familiar face while reigniting questions about the hierarchy of authority within its baseball operations department - www.nytimes.com/athletic/777...",
+     "url": "https://bsky.app/profile/chandlerrome.bsky.social/post/3n22fb2yvssfe",
+     "sourceId": "bsky-chandlerrome.bsky.social",
+     "sourceName": "Chandler Rome",
+     "sourceKind": "reporter",
+     "author": "Chandler Rome",
+     "publishedAt": "2026-11-11T16:37:03.583Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "1329c5b2b61702e8",
+     "title": "Houston Astros hire Brad Ausmus as next manager",
+     "url": "https://sports.yahoo.com/articles/houston-astros-hire-brad-ausmus-161522533.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:15:22.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "5f5d856db6be5c68",
+     "title": "Brad Ausmus is being hired as Astros manager",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3n22dumw23k2c",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-11-11T16:12:12.414Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "8e21fcc724c3cd65",
+     "title": "Astros announce hiring of franchise legend Brad Ausmus as next manager",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/astros-announce-hiring-of-franchise-legend-brad-ausmus-as-next-manager-164200247.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Chris Cwik",
+     "publishedAt": "2026-11-11T15:46:08.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "8326841112f00de7",
      "title": "The latest on the Astros' managerial search - www.nytimes.com/athletic/777...",
@@ -4815,8 +5097,21 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "c5fa3a7914283648",
+     "title": "Skubal to meet with 6 teams, including Mets, Dodgers and Padres, with December lockout looming",
+     "url": "https://sports.yahoo.com/articles/skubal-meet-6-teams-including-164653921.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:46:53.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "cb4325aa78aa8ed7",
      "title": "Cubs free agent target: Randy Arozarena",
@@ -4980,8 +5275,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "23baac4289f20ef8",
+     "title": "Braves News: Ronald Acuña Jr., NL Manager of the Year, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-ronald-acu-jr-132332741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:23:32.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "27a33e24f642d37f",
      "title": "Taking stock of the current rumors surrounding the Atlanta Braves",
@@ -5182,8 +5492,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "6e33b7f857b52edd",
+     "title": "Offseason blueprints can be complicated. It shouldn’t be for the Mets. The best available player fits your most acute need. Sign him.",
+     "url": "https://bsky.app/profile/timbritton.bsky.social/post/3n22btkuap22d",
+     "sourceId": "bsky-timbritton.bsky.social",
+     "sourceName": "Tim Britton",
+     "sourceKind": "reporter",
+     "author": "Tim Britton",
+     "publishedAt": "2026-11-11T15:35:49.218Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "a54ef84ea8aa2279",
      "title": "Mets Morning News: Carson Benge finishes second in NL Rookie of the Year voting, GM meetings kick off with eyes on Skubal",
@@ -5347,8 +5673,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "bbf39cfa2106426e",
+     "title": "When it comes to Sal Stewart extension talks, it appears to be quiet. More on that and other topics from the GM meetings. #reds www.mlb.com/news/sal-ste...",
+     "url": "https://bsky.app/profile/msheldon.bsky.social/post/3mzzyhij2zs2p",
+     "sourceId": "bsky-msheldon.bsky.social",
+     "sourceName": "Mark Sheldon",
+     "sourceKind": "reporter",
+     "author": "Mark Sheldon",
+     "publishedAt": "2026-11-11T12:48:00.424Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CIN"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "25c773cf7b1846a3",
      "title": "Cincinnati Reds name Joe Torres as new pitching coach",
@@ -5518,8 +5860,67 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T09:27:02.687Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "27764487b5718d0d",
+     "title": "Former Cincinnati Reds closer Emilio Pagán signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/former-cincinnati-reds-closer-emilio-160256543.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:02:56.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CIN",
+      "DET"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "fcce0b98e0474bf6",
+     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
+     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "d288e812d05d0fa9",
+     "title": "Rumors are many, signings are few as GM Meetings continue",
+     "url": "https://sports.yahoo.com/articles/rumors-many-signings-few-gm-143000363.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:30:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "23baac4289f20ef8",
+     "title": "Braves News: Ronald Acuña Jr., NL Manager of the Year, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-ronald-acu-jr-132332741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:23:32.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "237148fb05148f05",
      "title": "Tigers to sign RHP Emilio Pagan to a one-year deal, per report",
@@ -5529,11 +5930,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T06:10:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "9846b6031ac4ae94",
@@ -5545,11 +5946,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-11T06:07:57.944Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "cbc702e0a52d1f56",
@@ -5561,11 +5962,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-11T05:14:32.469Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "70ad521c409ac12a",
@@ -5888,8 +6289,125 @@
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T09:27:02.687Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "c5fa3a7914283648",
+     "title": "Skubal to meet with 6 teams, including Mets, Dodgers and Padres, with December lockout looming",
+     "url": "https://sports.yahoo.com/articles/skubal-meet-6-teams-including-164653921.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:46:53.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "6e33b7f857b52edd",
+     "title": "Offseason blueprints can be complicated. It shouldn’t be for the Mets. The best available player fits your most acute need. Sign him.",
+     "url": "https://bsky.app/profile/timbritton.bsky.social/post/3n22btkuap22d",
+     "sourceId": "bsky-timbritton.bsky.social",
+     "sourceName": "Tim Britton",
+     "sourceKind": "reporter",
+     "author": "Tim Britton",
+     "publishedAt": "2026-11-11T15:35:49.218Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "fcce0b98e0474bf6",
+     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
+     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "d288e812d05d0fa9",
+     "title": "Rumors are many, signings are few as GM Meetings continue",
+     "url": "https://sports.yahoo.com/articles/rumors-many-signings-few-gm-143000363.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:30:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "a03c7471cde32ebf",
+     "title": "The Orioles need to re-sign Trevor Rogers",
+     "url": "https://sports.yahoo.com/articles/orioles-sign-trevor-rogers-140000854.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "d503351790353d79",
+     "title": "Dodgers to meet with Tarik Skubal",
+     "url": "https://sports.yahoo.com/articles/dodgers-meet-tarik-skubal-130800576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:08:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "primary",
+     "status": "Interest"
+    },
+    {
+     "id": "af5255386081edf6",
+     "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-130000351.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "e9b0e90f5f2446a9",
+     "title": "Phillies news: Bob Boone, Trea Turner, Tarik Skubal",
+     "url": "https://sports.yahoo.com/articles/phillies-news-bob-boone-trea-120000621.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2a1c9b5025518ebc",
      "title": "For the second consecutive transaction period, the focus will be on whether the Dodgers can land Tarik Skubal. They expect to meet with him, Brandon Gomes said today: www.nytimes.com/athletic/777...",
@@ -5900,11 +6418,11 @@
      "author": "Fabian Ardaya",
      "publishedAt": "2026-11-11T02:23:16.953Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "primary",
+     "status": "Interest",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Interest"
+     ]
     },
     {
      "id": "5d1604e0b5d92476",
@@ -5915,9 +6433,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:20:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "d4c0823f048f1909",
@@ -5928,11 +6446,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:28:55.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "4320c0e7674b032f",
@@ -6501,11 +7019,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:28:55.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ffdd018e7b37a799",
@@ -6956,8 +7474,21 @@
    "status": "Linked",
    "statusAt": "2026-11-10T17:50:09.058Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "c5fa3a7914283648",
+     "title": "Skubal to meet with 6 teams, including Mets, Dodgers and Padres, with December lockout looming",
+     "url": "https://sports.yahoo.com/articles/skubal-meet-6-teams-including-164653921.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:46:53.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "cb4325aa78aa8ed7",
      "title": "Cubs free agent target: Randy Arozarena",
@@ -7123,8 +7654,23 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "990ae2a657124bb4",
+     "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
+     "url": "https://sports.yahoo.com/articles/potential-guardians-free-agent-targets-165641930.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:56:41.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "dd4423ce0accc9a4",
      "title": "St. Louis Cardinals Center Field Target: Luis Robert Jr",
@@ -7183,8 +7729,34 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "3686a77d31727ece",
+     "title": "Wednesday Rockpile: A pair of free agent starters that could mesh with Rockies new pitching coach",
+     "url": "https://sports.yahoo.com/articles/wednesday-rockpile-pair-free-agent-150000726.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "66c1619306ad8ce2",
+     "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
+     "url": "https://sports.yahoo.com/articles/bullpen-options-free-agency-st-130700966.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:07:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "1723ac3bbfdf81d2",
      "title": "Brian Cashman described hitting coach James Rowson as “a free agent” and would not say what the hitting coach group would look like.",
@@ -7337,8 +7909,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "e3fc4d47054f5d88",
+     "title": "Brad Ausmus leaves Yankees to become Astros’ next manager",
+     "url": "https://sports.yahoo.com/articles/brad-ausmus-leaves-yankees-become-162813759.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:28:13.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "c8bcc3f9a8e373b2",
      "title": "Yankees to promote Aaron Gershenfeld to MLB coaching staff",
@@ -7536,9 +8123,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:20:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "81e2ad0be094cf10",
@@ -7721,8 +8308,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T02:13:00.180Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "d288e812d05d0fa9",
+     "title": "Rumors are many, signings are few as GM Meetings continue",
+     "url": "https://sports.yahoo.com/articles/rumors-many-signings-few-gm-143000363.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:30:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "1b92e99d006561cf",
      "title": "#BlueJays GM Ross Atkins on Anthony Santander’s posts last week: “There aren't words to express my level of disappointment with him making those comments. I've expressed that to him. I think anything exasperating, some level of hate, anti-Islamic, is just extremely concerning.”",
@@ -7955,12 +8555,29 @@
    "type": "player",
    "subject": "Si Hwan Roh",
    "mlbamId": 823574,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "NYM"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-11T17:21:50.204Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "1c303d9f2cb26d3a",
+     "title": "Mets International Free Agent Profile: Si-Hwan Roh",
+     "url": "https://sports.yahoo.com/articles/mets-international-free-agent-profile-150000815.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "373aecb1a074fd4a",
      "title": "These were the players who were posted today as they try to come to MLB: RHP Kaima Taira of the Saitama Seibu Lions (NPB) RHP Hiromi Itoh of the Hokkaido Nippon-Ham Fighters (NPB) Infielder Teruaki Sato of the Hanshin Tigers (NPB) Infielder Si-Hwan Roh of the Hanwha Eagles (KBO)",
@@ -8046,8 +8663,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "af5255386081edf6",
+     "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-130000351.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "f609e449339adaea",
      "title": "The Brewers announced the BBWAA's Milwaukee chapter award winners. Most Valuable Player: Brice Turang Most Valuable Pitcher: Jacob Misiorowski (unanimous) Most Valuable Newcomer: Cooper Pratt Unsung Hero: Abner Uribe Good Guy Award: Christian Yelich How would you have voted?",
@@ -8690,8 +9322,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "b7278648ac57cf71",
+     "title": "Cubs trade target: Reid Detmers",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-reid-detmers-160000236.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4e184749502df4eb",
      "title": "Looking for starter-to-reliever conversion candidates for the Mets",
@@ -9141,8 +9788,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "990ae2a657124bb4",
+     "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
+     "url": "https://sports.yahoo.com/articles/potential-guardians-free-agent-targets-165641930.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:56:41.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "9acc7d93529a625a",
      "title": "The baseball offseason is off and running. These Brewers players became free agents in the past few days: Jake Bauers Dustin May JoJo Romero Brandon Woodruff",
@@ -9231,8 +9893,24 @@
    "status": "Linked",
    "statusAt": "2026-11-10T22:35:18.324Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "bbf39cfa2106426e",
+     "title": "When it comes to Sal Stewart extension talks, it appears to be quiet. More on that and other topics from the GM meetings. #reds www.mlb.com/news/sal-ste...",
+     "url": "https://bsky.app/profile/msheldon.bsky.social/post/3mzzyhij2zs2p",
+     "sourceId": "bsky-msheldon.bsky.social",
+     "sourceName": "Mark Sheldon",
+     "sourceKind": "reporter",
+     "author": "Mark Sheldon",
+     "publishedAt": "2026-11-11T12:48:00.424Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CIN"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "57a57ffa8ca8473f",
      "title": "Will Sal Stewart get new contract? Reds Rookie of the Year's value rises",
@@ -10051,8 +10729,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "e3fc4d47054f5d88",
+     "title": "Brad Ausmus leaves Yankees to become Astros’ next manager",
+     "url": "https://sports.yahoo.com/articles/brad-ausmus-leaves-yankees-become-162813759.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:28:13.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "96dcccb2e00fbca2",
      "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
@@ -10800,8 +11493,84 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T02:13:00.180Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "e4d1a1ea7cd97bb8",
+     "title": "Astros Name Brad Ausmus Manager",
+     "url": "https://sports.yahoo.com/articles/astros-name-brad-ausmus-manager-170952425.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T17:09:52.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "71418976e85b9523",
+     "title": "Astros hire Ausmus as manager",
+     "url": "https://sports.yahoo.com/articles/astros-hire-ausmus-manager-164313048.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:43:13.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "e3fc4d47054f5d88",
+     "title": "Brad Ausmus leaves Yankees to become Astros’ next manager",
+     "url": "https://sports.yahoo.com/articles/brad-ausmus-leaves-yankees-become-162813759.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:28:13.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "1329c5b2b61702e8",
+     "title": "Houston Astros hire Brad Ausmus as next manager",
+     "url": "https://sports.yahoo.com/articles/houston-astros-hire-brad-ausmus-161522533.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:15:22.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "8e21fcc724c3cd65",
+     "title": "Astros announce hiring of franchise legend Brad Ausmus as next manager",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/astros-announce-hiring-of-franchise-legend-brad-ausmus-as-next-manager-164200247.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Chris Cwik",
+     "publishedAt": "2026-11-11T15:46:08.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "6cb66f2d12b51f53",
      "title": "Astros GM Randy Flores confirmed that AGM Connor Huff has resigned to accept a position outside of baseball. Flores said the Astros will hire an AGM to replace him.",
@@ -11928,8 +12697,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "66c1619306ad8ce2",
+     "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
+     "url": "https://sports.yahoo.com/articles/bullpen-options-free-agency-st-130700966.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:07:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5ab7a624545ab4b9",
      "title": "Cardinals say they officially declined Ryne Stanek’s option and reinstated Max Rajcic. Chase Hampton, who they claimed on waivers a month ago, was claimed by Baltimore. 40-man is at 38.",
@@ -12145,9 +12927,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:20:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4320c0e7674b032f",
@@ -12238,8 +13020,38 @@
    "status": "Interest",
    "statusAt": "2026-11-11T02:13:00.180Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T02:13:00.180Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "a03c7471cde32ebf",
+     "title": "The Orioles need to re-sign Trevor Rogers",
+     "url": "https://sports.yahoo.com/articles/orioles-sign-trevor-rogers-140000854.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "bad8f2db41485473",
+     "title": "Orioles news: Elias and Banner talk offseason plans",
+     "url": "https://sports.yahoo.com/articles/orioles-news-elias-banner-talk-120047837.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:47.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "18b1ff8383364b52",
      "title": "Orioles maintain interest in Trevor Rogers: ‘We’d like to retain him.’ #Orioles",
@@ -12522,8 +13334,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "af5255386081edf6",
+     "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-130000351.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "56444c80b2679330",
      "title": "Mariners News: Kevin McGonigle, Sal Stewart, and Ketel Marte",
@@ -12681,8 +13508,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "990ae2a657124bb4",
+     "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
+     "url": "https://sports.yahoo.com/articles/potential-guardians-free-agent-targets-165641930.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:56:41.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "1bb70f3ab42717d6",
      "title": "The Guardians: -Declined their half of Shawn Armstrong's 2027 mutual option -Declined Trevor Stephan's 2027 club option -Selected Milan Tolentino from Triple-A Columbus Armstrong and Stephan are now free agents. 40-man now at 36",
@@ -12884,11 +13726,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:14:25.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "861b9edc0bfe9b22",
@@ -13274,8 +14116,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-11T09:27:02.687Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "c5fa3a7914283648",
+     "title": "Skubal to meet with 6 teams, including Mets, Dodgers and Padres, with December lockout looming",
+     "url": "https://sports.yahoo.com/articles/skubal-meet-6-teams-including-164653921.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:46:53.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d4c0823f048f1909",
      "title": "Dodgers’ Tarik Skubal chances remain unclear as free agent meeting looms",
@@ -13285,11 +14140,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:28:55.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "801e5d91256d16a8",
@@ -13736,8 +14591,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "23baac4289f20ef8",
+     "title": "Braves News: Ronald Acuña Jr., NL Manager of the Year, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-ronald-acu-jr-132332741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:23:32.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "27a33e24f642d37f",
      "title": "Taking stock of the current rumors surrounding the Atlanta Braves",
@@ -13796,8 +14666,37 @@
    "status": "Linked",
    "statusAt": "2026-11-07T18:16:15.660Z",
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-07T18:16:15.660Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "4dfae56463f64c0b",
+     "title": "Some thoughts on what Jacob Young's extension means for Dylan Crews: natsjournal.com/p/how-does-c...",
+     "url": "https://bsky.app/profile/markzuckerman.bsky.social/post/3n22ftucibs2o",
+     "sourceId": "bsky-markzuckerman.bsky.social",
+     "sourceName": "Mark Zuckerman",
+     "sourceKind": "reporter",
+     "author": "Mark Zuckerman",
+     "publishedAt": "2026-11-11T16:47:34.091Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "a6fde281ee961a7f",
+     "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
+     "url": "https://sports.yahoo.com/articles/three-trade-proposals-washington-nationals-151500118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:15:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "44cccd1dc6b0034f",
      "title": "What does the Washington Nationals extension of Jacob Young mean for Dylan Crews?",
@@ -14233,11 +15132,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-10T22:05:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "037baa1fabd3f6a5",
@@ -14594,8 +15493,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-07T00:50:47.030Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "990ae2a657124bb4",
+     "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
+     "url": "https://sports.yahoo.com/articles/potential-guardians-free-agent-targets-165641930.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:56:41.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "6e4ab0401839aaea",
      "title": "MLB Free Agents 2026-27: Who signs first? Sonny Gray, Jake Bauers could be among quickest to ink deals",
@@ -14622,8 +15536,38 @@
    "status": "Unclassified",
    "statusAt": "2026-11-09T19:44:35.174Z",
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "d503351790353d79",
+     "title": "Dodgers to meet with Tarik Skubal",
+     "url": "https://sports.yahoo.com/articles/dodgers-meet-tarik-skubal-130800576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:08:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "af5255386081edf6",
+     "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-130000351.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "07891b7ee9ddbe6d",
      "title": "When will Tarik Skubal sign his likely record free agent contract?",
@@ -14895,9 +15839,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:20:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4320c0e7674b032f",
@@ -14966,9 +15910,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:20:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4320c0e7674b032f",
@@ -15022,9 +15966,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:20:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "a965859ab964a87f",
@@ -15063,9 +16007,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:20:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4320c0e7674b032f",
@@ -15620,8 +16564,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T13:34:48.860Z",
-   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "fcce0b98e0474bf6",
+     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
+     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "376aaa89e7782816",
      "title": "Who are the Yankees’ major league trade chips?",
@@ -15842,8 +16801,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "990ae2a657124bb4",
+     "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
+     "url": "https://sports.yahoo.com/articles/potential-guardians-free-agent-targets-165641930.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:56:41.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ac161ab41b34bfc9",
      "title": "Padres need starting pitching",
@@ -16096,8 +17070,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-11T09:27:02.687Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "c5fa3a7914283648",
+     "title": "Skubal to meet with 6 teams, including Mets, Dodgers and Padres, with December lockout looming",
+     "url": "https://sports.yahoo.com/articles/skubal-meet-6-teams-including-164653921.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:46:53.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d4c0823f048f1909",
      "title": "Dodgers’ Tarik Skubal chances remain unclear as free agent meeting looms",
@@ -16107,11 +17094,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:28:55.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3263ff665535025b",
@@ -16219,12 +17206,43 @@
    "type": "player",
    "subject": "Dylan Crews",
    "mlbamId": 686611,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "WSH"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-11T17:21:50.204Z",
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "4dfae56463f64c0b",
+     "title": "Some thoughts on what Jacob Young's extension means for Dylan Crews: natsjournal.com/p/how-does-c...",
+     "url": "https://bsky.app/profile/markzuckerman.bsky.social/post/3n22ftucibs2o",
+     "sourceId": "bsky-markzuckerman.bsky.social",
+     "sourceName": "Mark Zuckerman",
+     "sourceKind": "reporter",
+     "author": "Mark Zuckerman",
+     "publishedAt": "2026-11-11T16:47:34.091Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "a6fde281ee961a7f",
+     "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
+     "url": "https://sports.yahoo.com/articles/three-trade-proposals-washington-nationals-151500118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:15:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "eb13d8de1adfb065",
      "title": "Will the Washington Nationals make major offensive additions this offseason?",
@@ -17208,8 +18226,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-08T14:17:24.999Z",
-   "lastActivityAt": "2026-11-11T09:27:02.687Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "c5fa3a7914283648",
+     "title": "Skubal to meet with 6 teams, including Mets, Dodgers and Padres, with December lockout looming",
+     "url": "https://sports.yahoo.com/articles/skubal-meet-6-teams-including-164653921.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:46:53.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d4c0823f048f1909",
      "title": "Dodgers’ Tarik Skubal chances remain unclear as free agent meeting looms",
@@ -17219,11 +18250,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:28:55.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "82e3b0b32e1f4602",
@@ -17374,8 +18405,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-08T14:17:24.999Z",
-   "lastActivityAt": "2026-11-08T14:17:24.999Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "bad8f2db41485473",
+     "title": "Orioles news: Elias and Banner talk offseason plans",
+     "url": "https://sports.yahoo.com/articles/orioles-news-elias-banner-talk-120047837.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:47.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ac94338509605567",
      "title": "Orioles news: Platoon needs in rotation, outfield",
@@ -17402,8 +18448,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-08T14:17:24.999Z",
-   "lastActivityAt": "2026-11-08T14:17:24.999Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "bad8f2db41485473",
+     "title": "Orioles news: Elias and Banner talk offseason plans",
+     "url": "https://sports.yahoo.com/articles/orioles-news-elias-banner-talk-120047837.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:47.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ac94338509605567",
      "title": "Orioles news: Platoon needs in rotation, outfield",
@@ -17486,8 +18547,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-08T14:17:24.999Z",
-   "lastActivityAt": "2026-11-08T14:17:24.999Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "bad8f2db41485473",
+     "title": "Orioles news: Elias and Banner talk offseason plans",
+     "url": "https://sports.yahoo.com/articles/orioles-news-elias-banner-talk-120047837.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:47.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ac94338509605567",
      "title": "Orioles news: Platoon needs in rotation, outfield",
@@ -17986,8 +19062,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "a6fde281ee961a7f",
+     "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
+     "url": "https://sports.yahoo.com/articles/three-trade-proposals-washington-nationals-151500118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:15:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "eb13d8de1adfb065",
      "title": "Will the Washington Nationals make major offensive additions this offseason?",
@@ -18070,8 +19161,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "a6fde281ee961a7f",
+     "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
+     "url": "https://sports.yahoo.com/articles/three-trade-proposals-washington-nationals-151500118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:15:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ba507f0d796c8399",
      "title": "Mariners News: Samy Natera, Maxuel Rosario, and the Samsung Lions",
@@ -18465,8 +19571,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "a03c7471cde32ebf",
+     "title": "The Orioles need to re-sign Trevor Rogers",
+     "url": "https://sports.yahoo.com/articles/orioles-sign-trevor-rogers-140000854.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0f3c35b3b396d142",
      "title": "If the Orioles want to get cute, they can sign Adrián Morejón and make him a starter",
@@ -18847,11 +19968,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:28:55.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1bd7b87d750de901",
@@ -19285,8 +20406,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "a03c7471cde32ebf",
+     "title": "The Orioles need to re-sign Trevor Rogers",
+     "url": "https://sports.yahoo.com/articles/orioles-sign-trevor-rogers-140000854.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0f3c35b3b396d142",
      "title": "If the Orioles want to get cute, they can sign Adrián Morejón and make him a starter",
@@ -19313,8 +20449,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "a03c7471cde32ebf",
+     "title": "The Orioles need to re-sign Trevor Rogers",
+     "url": "https://sports.yahoo.com/articles/orioles-sign-trevor-rogers-140000854.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0f3c35b3b396d142",
      "title": "If the Orioles want to get cute, they can sign Adrián Morejón and make him a starter",
@@ -19337,12 +20488,29 @@
    "type": "player",
    "subject": "Ketel Marte",
    "mlbamId": 606466,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "ARI"
+   ],
+   "status": "Linked",
+   "statusAt": "2026-11-11T17:21:50.204Z",
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "54247e428b95c3c4",
+     "title": "Can D-Backs trade All-Star who keeps going AWOL? Ketel Marte has veto power",
+     "url": "https://sports.yahoo.com/articles/d-backs-trade-star-keeps-110738284.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T11:07:38.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "ARI"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    },
     {
      "id": "56444c80b2679330",
      "title": "Mariners News: Kevin McGonigle, Sal Stewart, and Ketel Marte",
@@ -19524,8 +20692,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "fcce0b98e0474bf6",
+     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
+     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "7dc81c5bec0bec2b",
      "title": "Chicago Cubs news: Tarik Skubal, Clay Holmes and other pitchers",
@@ -19889,8 +21072,51 @@
    "status": "Unclassified",
    "statusAt": "2026-11-10T22:35:18.324Z",
    "firstSeenAt": "2026-11-10T22:35:18.324Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
    "items": [
+    {
+     "id": "fcce0b98e0474bf6",
+     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
+     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "d288e812d05d0fa9",
+     "title": "Rumors are many, signings are few as GM Meetings continue",
+     "url": "https://sports.yahoo.com/articles/rumors-many-signings-few-gm-143000363.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:30:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "23baac4289f20ef8",
+     "title": "Braves News: Ronald Acuña Jr., NL Manager of the Year, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-ronald-acu-jr-132332741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:23:32.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "75c62a3d0d849e13",
      "title": "Max Fried undergoes offseason surgery on throwing elbow",
@@ -20346,9 +21572,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:20:35.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "4320c0e7674b032f",
@@ -20529,11 +21755,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:55:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "5f3a1241ad332755",
@@ -20574,11 +21800,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:14:25.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "22fe2096c786c9c5",
@@ -20589,11 +21815,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:55:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "48ae18a8b63fb536",
@@ -20648,11 +21874,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:55:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5f3a1241ad332755",
@@ -20691,11 +21917,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:55:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5f3a1241ad332755",
@@ -20767,11 +21993,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T02:14:25.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "861b9edc0bfe9b22",
@@ -20860,11 +22086,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T05:39:38.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -20888,11 +22114,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T05:39:38.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -20916,11 +22142,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T05:39:38.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -20944,11 +22170,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:55:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -20972,11 +22198,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:55:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -21000,11 +22226,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:55:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -21028,11 +22254,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:55:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -21056,11 +22282,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:55:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -21084,11 +22310,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:28:55.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -21112,11 +22338,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:28:55.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -21140,11 +22366,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-11T01:28:55.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -21168,10 +22394,1239 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-10T22:05:00.000Z",
      "firstSeenAt": "2026-11-11T09:27:02.687Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
+     ]
+    }
+   ]
+  },
+  "player-647336": {
+   "id": "player-647336",
+   "type": "player",
+   "subject": "Michael Soroka",
+   "mlbamId": 647336,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "990ae2a657124bb4",
+     "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
+     "url": "https://sports.yahoo.com/articles/potential-guardians-free-agent-targets-165641930.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:56:41.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CLE"
      ],
      "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-656492": {
+   "id": "player-656492",
+   "type": "player",
+   "subject": "Foster Griffin",
+   "mlbamId": 656492,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "990ae2a657124bb4",
+     "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
+     "url": "https://sports.yahoo.com/articles/potential-guardians-free-agent-targets-165641930.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:56:41.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-656849": {
+   "id": "player-656849",
+   "type": "player",
+   "subject": "David Peterson",
+   "mlbamId": 656849,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "990ae2a657124bb4",
+     "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
+     "url": "https://sports.yahoo.com/articles/potential-guardians-free-agent-targets-165641930.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:56:41.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-664747": {
+   "id": "player-664747",
+   "type": "player",
+   "subject": "Alexis Díaz",
+   "mlbamId": 664747,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "27764487b5718d0d",
+     "title": "Former Cincinnati Reds closer Emilio Pagán signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/former-cincinnati-reds-closer-emilio-160256543.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:02:56.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CIN",
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-672282": {
+   "id": "player-672282",
+   "type": "player",
+   "subject": "Reid Detmers",
+   "mlbamId": 672282,
+   "teams": [
+    "CHC"
+   ],
+   "status": "Linked",
+   "statusAt": "2026-11-11T17:21:50.204Z",
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "b7278648ac57cf71",
+     "title": "Cubs trade target: Reid Detmers",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-reid-detmers-160000236.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    }
+   ]
+  },
+  "player-689196": {
+   "id": "player-689196",
+   "type": "player",
+   "subject": "Owen Ayers",
+   "mlbamId": 689196,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "b7278648ac57cf71",
+     "title": "Cubs trade target: Reid Detmers",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-reid-detmers-160000236.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-694208": {
+   "id": "player-694208",
+   "type": "player",
+   "subject": "Moisés Ballesteros",
+   "mlbamId": 694208,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "b7278648ac57cf71",
+     "title": "Cubs trade target: Reid Detmers",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-reid-detmers-160000236.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-702576": {
+   "id": "player-702576",
+   "type": "player",
+   "subject": "Mason McGwire",
+   "mlbamId": 702576,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "b7278648ac57cf71",
+     "title": "Cubs trade target: Reid Detmers",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-reid-detmers-160000236.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666171": {
+   "id": "player-666171",
+   "type": "player",
+   "subject": "Ryan Zeferjahn",
+   "mlbamId": 666171,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "b7278648ac57cf71",
+     "title": "Cubs trade target: Reid Detmers",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-reid-detmers-160000236.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-800473": {
+   "id": "player-800473",
+   "type": "player",
+   "subject": "Jefferson Rojas",
+   "mlbamId": 800473,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "b7278648ac57cf71",
+     "title": "Cubs trade target: Reid Detmers",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-reid-detmers-160000236.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-694393": {
+   "id": "player-694393",
+   "type": "player",
+   "subject": "Jaxon Wiggins",
+   "mlbamId": 694393,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "b7278648ac57cf71",
+     "title": "Cubs trade target: Reid Detmers",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-reid-detmers-160000236.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-815824": {
+   "id": "player-815824",
+   "type": "player",
+   "subject": "Josiah Hartshorn",
+   "mlbamId": 815824,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "b7278648ac57cf71",
+     "title": "Cubs trade target: Reid Detmers",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-reid-detmers-160000236.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T16:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-815873": {
+   "id": "player-815873",
+   "type": "player",
+   "subject": "Sean Keys",
+   "mlbamId": 815873,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "a6fde281ee961a7f",
+     "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
+     "url": "https://sports.yahoo.com/articles/three-trade-proposals-washington-nationals-151500118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:15:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-694357": {
+   "id": "player-694357",
+   "type": "player",
+   "subject": "Ricky Tiedemann",
+   "mlbamId": 694357,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "a6fde281ee961a7f",
+     "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
+     "url": "https://sports.yahoo.com/articles/three-trade-proposals-washington-nationals-151500118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:15:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-703520": {
+   "id": "player-703520",
+   "type": "player",
+   "subject": "Brett Bateman",
+   "mlbamId": 703520,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "a6fde281ee961a7f",
+     "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
+     "url": "https://sports.yahoo.com/articles/three-trade-proposals-washington-nationals-151500118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:15:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-691725": {
+   "id": "player-691725",
+   "type": "player",
+   "subject": "Andrew Painter",
+   "mlbamId": 691725,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "a6fde281ee961a7f",
+     "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
+     "url": "https://sports.yahoo.com/articles/three-trade-proposals-washington-nationals-151500118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:15:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-813989": {
+   "id": "player-813989",
+   "type": "player",
+   "subject": "Talon Haley",
+   "mlbamId": 813989,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "a6fde281ee961a7f",
+     "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
+     "url": "https://sports.yahoo.com/articles/three-trade-proposals-washington-nationals-151500118.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:15:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-664074": {
+   "id": "player-664074",
+   "type": "player",
+   "subject": "Cody Ponce",
+   "mlbamId": 664074,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "1c303d9f2cb26d3a",
+     "title": "Mets International Free Agent Profile: Si-Hwan Roh",
+     "url": "https://sports.yahoo.com/articles/mets-international-free-agent-profile-150000815.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-641487": {
+   "id": "player-641487",
+   "type": "player",
+   "subject": "J. P. Crawford",
+   "mlbamId": 641487,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "fcce0b98e0474bf6",
+     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
+     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "d288e812d05d0fa9",
+     "title": "Rumors are many, signings are few as GM Meetings continue",
+     "url": "https://sports.yahoo.com/articles/rumors-many-signings-few-gm-143000363.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:30:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-693433": {
+   "id": "player-693433",
+   "type": "player",
+   "subject": "Bryan Woo",
+   "mlbamId": 693433,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "fcce0b98e0474bf6",
+     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
+     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-680802": {
+   "id": "player-680802",
+   "type": "player",
+   "subject": "Ryan Weiss",
+   "mlbamId": 680802,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "fcce0b98e0474bf6",
+     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
+     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "d288e812d05d0fa9",
+     "title": "Rumors are many, signings are few as GM Meetings continue",
+     "url": "https://sports.yahoo.com/articles/rumors-many-signings-few-gm-143000363.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:30:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "23baac4289f20ef8",
+     "title": "Braves News: Ronald Acuña Jr., NL Manager of the Year, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-ronald-acu-jr-132332741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:23:32.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-608337": {
+   "id": "player-608337",
+   "type": "player",
+   "subject": "Lucas Giolito",
+   "mlbamId": 608337,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "3686a77d31727ece",
+     "title": "Wednesday Rockpile: A pair of free agent starters that could mesh with Rockies new pitching coach",
+     "url": "https://sports.yahoo.com/articles/wednesday-rockpile-pair-free-agent-150000726.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-607200": {
+   "id": "player-607200",
+   "type": "player",
+   "subject": "Erick Fedde",
+   "mlbamId": 607200,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "3686a77d31727ece",
+     "title": "Wednesday Rockpile: A pair of free agent starters that could mesh with Rockies new pitching coach",
+     "url": "https://sports.yahoo.com/articles/wednesday-rockpile-pair-free-agent-150000726.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-594809": {
+   "id": "player-594809",
+   "type": "player",
+   "subject": "Adam Eaton",
+   "mlbamId": 594809,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "3686a77d31727ece",
+     "title": "Wednesday Rockpile: A pair of free agent starters that could mesh with Rockies new pitching coach",
+     "url": "https://sports.yahoo.com/articles/wednesday-rockpile-pair-free-agent-150000726.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-605447": {
+   "id": "player-605447",
+   "type": "player",
+   "subject": "Jordan Romano",
+   "mlbamId": 605447,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "3686a77d31727ece",
+     "title": "Wednesday Rockpile: A pair of free agent starters that could mesh with Rockies new pitching coach",
+     "url": "https://sports.yahoo.com/articles/wednesday-rockpile-pair-free-agent-150000726.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T15:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-687064": {
+   "id": "player-687064",
+   "type": "player",
+   "subject": "Brandon Young",
+   "mlbamId": 687064,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "a03c7471cde32ebf",
+     "title": "The Orioles need to re-sign Trevor Rogers",
+     "url": "https://sports.yahoo.com/articles/orioles-sign-trevor-rogers-140000854.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-700249": {
+   "id": "player-700249",
+   "type": "player",
+   "subject": "Cade Povich",
+   "mlbamId": 700249,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "a03c7471cde32ebf",
+     "title": "The Orioles need to re-sign Trevor Rogers",
+     "url": "https://sports.yahoo.com/articles/orioles-sign-trevor-rogers-140000854.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-694346": {
+   "id": "player-694346",
+   "type": "player",
+   "subject": "Trey Gibson",
+   "mlbamId": 694346,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "a03c7471cde32ebf",
+     "title": "The Orioles need to re-sign Trevor Rogers",
+     "url": "https://sports.yahoo.com/articles/orioles-sign-trevor-rogers-140000854.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T14:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-683627": {
+   "id": "player-683627",
+   "type": "player",
+   "subject": "Anthony Molina",
+   "mlbamId": 683627,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "23baac4289f20ef8",
+     "title": "Braves News: Ronald Acuña Jr., NL Manager of the Year, and more",
+     "url": "https://sports.yahoo.com/articles/braves-news-ronald-acu-jr-132332741.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:23:32.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-592094": {
+   "id": "player-592094",
+   "type": "player",
+   "subject": "Jason Adam",
+   "mlbamId": 592094,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "66c1619306ad8ce2",
+     "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
+     "url": "https://sports.yahoo.com/articles/bullpen-options-free-agency-st-130700966.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:07:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-670280": {
+   "id": "player-670280",
+   "type": "player",
+   "subject": "David Bednar",
+   "mlbamId": 670280,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "66c1619306ad8ce2",
+     "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
+     "url": "https://sports.yahoo.com/articles/bullpen-options-free-agency-st-130700966.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:07:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-656271": {
+   "id": "player-656271",
+   "type": "player",
+   "subject": "Brock Burke",
+   "mlbamId": 656271,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "66c1619306ad8ce2",
+     "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
+     "url": "https://sports.yahoo.com/articles/bullpen-options-free-agency-st-130700966.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:07:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-605177": {
+   "id": "player-605177",
+   "type": "player",
+   "subject": "Andrew Chafin",
+   "mlbamId": 605177,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "66c1619306ad8ce2",
+     "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
+     "url": "https://sports.yahoo.com/articles/bullpen-options-free-agency-st-130700966.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:07:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-664199": {
+   "id": "player-664199",
+   "type": "player",
+   "subject": "Taylor Clarke",
+   "mlbamId": 664199,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "66c1619306ad8ce2",
+     "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
+     "url": "https://sports.yahoo.com/articles/bullpen-options-free-agency-st-130700966.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:07:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-608650": {
+   "id": "player-608650",
+   "type": "player",
+   "subject": "Dietrich Enns",
+   "mlbamId": 608650,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "66c1619306ad8ce2",
+     "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
+     "url": "https://sports.yahoo.com/articles/bullpen-options-free-agency-st-130700966.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:07:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-656464": {
+   "id": "player-656464",
+   "type": "player",
+   "subject": "Kevin Ginkel",
+   "mlbamId": 656464,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "66c1619306ad8ce2",
+     "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
+     "url": "https://sports.yahoo.com/articles/bullpen-options-free-agency-st-130700966.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:07:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-608379": {
+   "id": "player-608379",
+   "type": "player",
+   "subject": "Michael Wacha",
+   "mlbamId": 608379,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "af5255386081edf6",
+     "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-130000351.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-696146": {
+   "id": "player-696146",
+   "type": "player",
+   "subject": "Hagen Smith",
+   "mlbamId": 696146,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "af5255386081edf6",
+     "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-130000351.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T13:00:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-664854": {
+   "id": "player-664854",
+   "type": "player",
+   "subject": "Ryan Helsley",
+   "mlbamId": 664854,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "bad8f2db41485473",
+     "title": "Orioles news: Elias and Banner talk offseason plans",
+     "url": "https://sports.yahoo.com/articles/orioles-news-elias-banner-talk-120047837.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:47.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-642585": {
+   "id": "player-642585",
+   "type": "player",
+   "subject": "Félix Bautista",
+   "mlbamId": 642585,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "bad8f2db41485473",
+     "title": "Orioles news: Elias and Banner talk offseason plans",
+     "url": "https://sports.yahoo.com/articles/orioles-news-elias-banner-talk-120047837.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:47.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-663624": {
+   "id": "player-663624",
+   "type": "player",
+   "subject": "Ryan Mountcastle",
+   "mlbamId": 663624,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "bad8f2db41485473",
+     "title": "Orioles news: Elias and Banner talk offseason plans",
+     "url": "https://sports.yahoo.com/articles/orioles-news-elias-banner-talk-120047837.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:47.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-657697": {
+   "id": "player-657697",
+   "type": "player",
+   "subject": "Vinny Nittoli",
+   "mlbamId": 657697,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "bad8f2db41485473",
+     "title": "Orioles news: Elias and Banner talk offseason plans",
+     "url": "https://sports.yahoo.com/articles/orioles-news-elias-banner-talk-120047837.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-11T12:00:47.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "team-sd": {
+   "id": "team-sd",
+   "type": "team",
+   "subject": "San Diego Padres offseason notes",
+   "mlbamId": null,
+   "teams": [
+    "SD"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "items": [
+    {
+     "id": "31a9b0b80a0e36fb",
+     "title": "Good Morning San Diego: Rumors are many, signings are few as GM Meetings continue",
+     "url": "https://www.gaslampball.com/san-diego-padres-news/63228/good-morning-san-diego-rumors-are-many-signings-are-few-as-gm-meetings-continue",
+     "sourceId": "sbn-sd",
+     "sourceName": "Gaslamp Ball",
+     "sourceKind": "fansite",
+     "author": "Matt DeWalt",
+     "publishedAt": "2026-11-11T14:30:00.000Z",
+     "firstSeenAt": "2026-11-11T17:21:50.204Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "primary",
      "status": null
     }
    ]
@@ -21182,414 +23637,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"5179fba54f8a7f7f8ec9d37fe17165c2\""
+   "etag": "W/\"dc630aa9cd1c93dcb5d8ac519eac4209\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"c111a0b3712d20cd4b2716b71070f991\""
+   "etag": "W/\"3ff5cdd90aa58a0f9ce0a6f0c48e92bd\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"66e76494a76ed9adf057fbcf2de26c80\""
+   "etag": "W/\"e32ce3bf00f747fbc7c33ad46c747ad3\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
    "etag": "W/\"5721261cad730f9288d067255be8b69f\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"16d6e26c5919af6dee64600fbd0b2677\""
+   "etag": "W/\"4a4aaff540efbbfe21607463f3b2902d\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"bef94fa8338f6da9de629575b2528257\""
+   "etag": "W/\"3e7c6b97e75cf9137f2859a38adbe081\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"3b52863580b884fc97a6db876cb7d853\""
+   "etag": "W/\"476d3756430c710a3331cde907e9938c\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"3cad9fe031c9afa1611116ff7c8dcc44\""
+   "etag": "W/\"1218021c664b3094668345ebc8d86876\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"dc4cc78c31ac0dc0feb5b8e278ff3b41\""
+   "etag": "W/\"f9af681ced1ef34a09d9d2e0e1b4fad6\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"a3da94b000793a54f2046f31c31a3280\""
+   "etag": "W/\"52228c00634c0add64095a4b6cb92e0b\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"09359bf6ade7316775dc5db53a1512b9\""
+   "etag": "W/\"435fadb1078c4ffe1bc046a1c1aba5cd\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"7c29e15ca3a370f38912784d6876f3ad\""
+   "etag": "W/\"45da1a3cb9e1da20e34c96023147a7c4\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"3e984c768bf8c8cab7bfea40c1e72227\""
+   "etag": "W/\"88b828ba46064afb314eac5ce7a1c890\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"bd6491ce3c23e4154a27af662e4eb4f9\""
+   "etag": "W/\"ff0b1df8e60f9afcbe86ed6be1ea8cc8\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"80ace6f9c01739691e9aba388295b781\""
+   "etag": "W/\"60340dc47931544b35b0c27181061ca8\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"cc45e79bc55a66818d0703072935be09\""
+   "etag": "W/\"555130fb68eb05bfda0596db59e9c594\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"fab349b22e227f26e615f7956e6faa7d\""
+   "etag": "W/\"8692ddd3d530760dd6bb4e654c5128f6\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"5e6a6b2497add1b913e82f540440fef6\""
+   "etag": "W/\"64e0eb101eafe12f689026eeb9143639\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"cd7361a84ca24572df842932737d919c\""
+   "etag": "W/\"65b5d472639e277fdaab0feec7f9cec3\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"b9a26b10fad16cf1e358ae02ab888b12\""
+   "etag": "W/\"6d5577df321e0e3e87ed881d251e5dd0\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
    "etag": "W/\"3d80082f92939d6f641966256412d038\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"b6fcf25c5f5d82befb6070e8b93b9eec\""
+   "etag": "W/\"00b344c13f4265c1f840115e7c95b9d5\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"9fbeb4560c22fd3ba6a00f7eb915e94f\""
+   "etag": "W/\"2b700be86d8ff02f0dd9c36ca9760a73\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"b9278f914c8dc64c6b07aceb6fa8d650\""
+   "etag": "W/\"3d69af2e45d786b8733ef9a2c868863f\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"78544a9bc1c0d7da6bd72f098f2819db\""
+   "etag": "W/\"5f27311a30af52e975a53cf21a0db36e\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"a926fc27d9b72cf92b4ec0128fee2cf8\""
+   "etag": "W/\"7ba47ef306db14f5a0ba260a840ae026\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"5e06430d3f2e5c49d802b5b5065166cf\""
+   "etag": "W/\"b4177143c1d2997c5975ed635cd5ebf2\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "etag": "W/\"6fed7eaec7a745117a3af577e50c8c6d\""
+   "etag": "W/\"b5811b7ca4411a66127aba3d4d10f162\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null,
-   "lastModified": "Wed, 11 Nov 2026 09:27:04 GMT"
+   "lastModified": "Wed, 11 Nov 2026 17:21:51 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-11T09:27:02.687Z",
+   "lastSuccessAt": "2026-11-11T17:21:50.204Z",
    "lastError": null
   }
  }
