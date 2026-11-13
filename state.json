@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-13T16:11:10.798Z",
+ "updatedAt": "2026-11-13T21:58:51.235Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -228,8 +228,22 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "8b08691f41c96c62",
+     "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-lockout-watch-will-free-agency-and-trades-speed-up-before-dec-1-204312762.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jordan Shusterman",
+     "publishedAt": "2026-11-13T20:43:12.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "68553d48792f595b",
      "title": "Elephant Rumblings: Calm Before the Labor and Free Agency Storm",
@@ -239,9 +253,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "49bd7404e9e091df",
@@ -694,8 +708,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "4b18ce97b4c5b6fe",
+     "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
+     "url": "https://sports.yahoo.com/articles/braves-once-again-pay-premium-190014147.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T19:00:14.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "f9d8d7f4bb0a38f8",
      "title": "Braves release third quarter 2026 financial reports ahead of potential lockout",
@@ -1026,11 +1055,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "754f6cc6b2884afc",
@@ -2159,8 +2188,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "14d4ae1ab2c151a1",
+     "title": "Which free agent outfielder fits the Phillies best?",
+     "url": "https://sports.yahoo.com/articles/free-agent-outfielder-fits-phillies-200000526.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T20:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "16d33587fd0359ce",
      "title": "Phillies news: Dave Dombrowski, Kyle Schwarber, Ty France",
@@ -2439,11 +2481,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ee00feb1abbd4ad6",
@@ -3119,11 +3161,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-13T16:09:05.865Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "152c75c17b573827",
@@ -3629,11 +3671,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "91cd00ce2a441d9a",
@@ -4241,8 +4283,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "39cd52d99c8f5338",
+     "title": "Jake Bauers signs with Boston Red Sox",
+     "url": "https://sports.yahoo.com/articles/jake-bauers-signs-boston-red-180932960.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:09:32.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bf0c99f02c514e6b",
      "title": "Will the Red Sox target Brewers free agent slugger Jake Bauers this offseason?",
@@ -4252,12 +4309,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T14:33:49.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7db62a064e9747ba",
@@ -4329,8 +4386,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "39cd52d99c8f5338",
+     "title": "Jake Bauers signs with Boston Red Sox",
+     "url": "https://sports.yahoo.com/articles/jake-bauers-signs-boston-red-180932960.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:09:32.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bf0c99f02c514e6b",
      "title": "Will the Red Sox target Brewers free agent slugger Jake Bauers this offseason?",
@@ -4340,12 +4412,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T14:33:49.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7db62a064e9747ba",
@@ -4447,8 +4519,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "39cd52d99c8f5338",
+     "title": "Jake Bauers signs with Boston Red Sox",
+     "url": "https://sports.yahoo.com/articles/jake-bauers-signs-boston-red-180932960.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:09:32.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bf0c99f02c514e6b",
      "title": "Will the Red Sox target Brewers free agent slugger Jake Bauers this offseason?",
@@ -4458,12 +4545,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T14:33:49.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "92a6ece89991ff95",
@@ -4755,8 +4842,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "4b18ce97b4c5b6fe",
+     "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
+     "url": "https://sports.yahoo.com/articles/braves-once-again-pay-premium-190014147.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T19:00:14.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ee00feb1abbd4ad6",
      "title": "The free agent reliever market",
@@ -4870,11 +4972,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "80724911f4bc0cb3",
@@ -5326,8 +5428,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "6f7bfebacc8e76dd",
+     "title": "Brad Ausmus acknowledged that he interviewed for the Astros' GM job before it went to Randy Flores. Ausmus said he left the interview pretty sure he would not be getting the GM job, but was encouraged that he could be in play for the manager's role. Flores was hired the next day.",
+     "url": "https://bsky.app/profile/chandlerrome.bsky.social/post/3n27fbl3uicy5",
+     "sourceId": "bsky-chandlerrome.bsky.social",
+     "sourceName": "Chandler Rome",
+     "sourceKind": "reporter",
+     "author": "Chandler Rome",
+     "publishedAt": "2026-11-13T16:20:39.149Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "937388ef11bb8ed4",
      "title": "Astros GM Randy Flores on the decision to hire Brad Ausmus and the perception battle that will ensue - www.nytimes.com/athletic/777...",
@@ -5919,8 +6037,21 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "14d4ae1ab2c151a1",
+     "title": "Which free agent outfielder fits the Phillies best?",
+     "url": "https://sports.yahoo.com/articles/free-agent-outfielder-fits-phillies-200000526.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T20:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "91cd00ce2a441d9a",
      "title": "Seattle Mariners 40-Man Roster: Offseason Primer + 26-Man Projection",
@@ -6123,11 +6254,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:53:50.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "ff2893e4a99af31e",
@@ -6360,8 +6491,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T23:32:23.064Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "d028ec4e006ddb41",
+     "title": "\"We beat the 1962 Mets. Therefore, we never need to improve. Just like the 2026 Brewers, who keep doing the same thing unchanged each season. I am a baseball-knower.\"",
+     "url": "https://bsky.app/profile/mikepetriello.bsky.social/post/3n27ixnqoes2k",
+     "sourceId": "bsky-mikepetriello.bsky.social",
+     "sourceName": "Mike Petriello",
+     "sourceKind": "reporter",
+     "author": "Mike Petriello",
+     "publishedAt": "2026-11-13T17:26:41.352Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "d07a2f1a3768439a",
      "title": "What will Mets do this winter? GM talks offseason plans and rumors",
@@ -6759,8 +6906,21 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "02db74094e3b4afb",
+     "title": "How Evan Phillips’ contract compared to some projections",
+     "url": "https://sports.yahoo.com/articles/evan-phillips-contract-compared-projections-160900983.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:09:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "68553d48792f595b",
      "title": "Elephant Rumblings: Calm Before the Labor and Free Agency Storm",
@@ -6770,9 +6930,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "b511e7dc4711abe4",
@@ -6783,11 +6943,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "80c2c76affb44bcd",
@@ -7093,9 +7253,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "a32929f8c98f6db3",
@@ -7153,11 +7313,134 @@
     "BOS",
     "MIL"
    ],
-   "status": "Linked",
-   "statusAt": "2026-11-13T16:11:10.798Z",
+   "status": "Interest",
+   "statusAt": "2026-11-13T21:58:51.235Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "b3f2be7a26476403",
+     "title": "What’s next for Red Sox after the Jake Bauers signing? Digging into Breslow's next moves, free to read www.nytimes.com/athletic/777...",
+     "url": "https://bsky.app/profile/jcmccaffrey.bsky.social/post/3n27vta73fc2x",
+     "sourceId": "bsky-jcmccaffrey.bsky.social",
+     "sourceName": "Jen McCaffrey",
+     "sourceKind": "reporter",
+     "author": "Jen McCaffrey",
+     "publishedAt": "2026-11-13T21:16:51.569Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    },
+    {
+     "id": "8b08691f41c96c62",
+     "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-lockout-watch-will-free-agency-and-trades-speed-up-before-dec-1-204312762.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jordan Shusterman",
+     "publishedAt": "2026-11-13T20:43:12.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "d29acd8d8a2c7e04",
+     "title": "$58 million isn’t much money, but the Red Sox are still taking a risk in signing Jake Bauers",
+     "url": "https://www.overthemonster.com/red-sox-news/111433/58-million-isnt-much-money-but-the-red-sox-are-still-taking-a-risk-in-signing-jake-bauers",
+     "sourceId": "sbn-bos",
+     "sourceName": "Over the Monster",
+     "sourceKind": "fansite",
+     "author": "Dan Secatore",
+     "publishedAt": "2026-11-13T19:30:31.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "2f75b34d50a6e98b",
+     "title": "Guardians News: More Free Agent Signings",
+     "url": "https://sports.yahoo.com/articles/guardians-news-more-free-agent-184643270.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:46:43.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "25b378ee6a294d2c",
+     "title": "In their first major move of the offseason, the Red Sox have signed first baseman Jake Bauers to a four-year deal. A source noted Bauers is expected to split time at first and DH with Willson Contreras. More on the move and what it means, free to read www.nytimes.com/athletic/774...",
+     "url": "https://bsky.app/profile/jcmccaffrey.bsky.social/post/3n27lyta4q22k",
+     "sourceId": "bsky-jcmccaffrey.bsky.social",
+     "sourceName": "Jen McCaffrey",
+     "sourceKind": "reporter",
+     "author": "Jen McCaffrey",
+     "publishedAt": "2026-11-13T18:21:01.880Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "39cd52d99c8f5338",
+     "title": "Jake Bauers signs with Boston Red Sox",
+     "url": "https://sports.yahoo.com/articles/jake-bauers-signs-boston-red-180932960.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:09:32.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "72fa8fdb0b611835",
+     "title": "1B Jake Bauers, NLCS MVP with Brewers, reportedly agrees to 4-year, $58 million deal with Red Sox",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/1b-jake-bauers-nlcs-mvp-with-brewers-reportedly-agrees-to-4-year-58-million-deal-with-red-sox-175633947.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Andy Backstrom",
+     "publishedAt": "2026-11-13T17:56:33.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "MIL",
+      "BOS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "cb7b1c5ce059a77b",
+     "title": "Mentioned Jake Bauers yesterday as a player the Red Sox could pursue. He's agreed to a four-year, $58 million deal per Jeff Passan: www.bostonglobe.com/2026/11/12/s...",
+     "url": "https://bsky.app/profile/peteabeglobe.bsky.social/post/3n27kkrffp22o",
+     "sourceId": "bsky-peteabeglobe.bsky.social",
+     "sourceName": "Peter Abraham",
+     "sourceKind": "reporter",
+     "author": "Peter Abraham",
+     "publishedAt": "2026-11-13T17:55:16.452Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "bf0c99f02c514e6b",
      "title": "Will the Red Sox target Brewers free agent slugger Jake Bauers this offseason?",
@@ -7167,12 +7450,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T14:33:49.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "BOS",
       "MIL"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "6e4ab0401839aaea",
@@ -8259,11 +8542,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3ed9026080318195",
@@ -8727,8 +9010,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "14d4ae1ab2c151a1",
+     "title": "Which free agent outfielder fits the Phillies best?",
+     "url": "https://sports.yahoo.com/articles/free-agent-outfielder-fits-phillies-200000526.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T20:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "68553d48792f595b",
      "title": "Elephant Rumblings: Calm Before the Labor and Free Agency Storm",
@@ -8738,9 +9034,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "7deba82b3d19c3d4",
@@ -8751,11 +9047,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "20d3a2bd2aea717c",
@@ -8906,8 +9202,21 @@
    "status": "Linked",
    "statusAt": "2026-11-10T17:50:09.058Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "14d4ae1ab2c151a1",
+     "title": "Which free agent outfielder fits the Phillies best?",
+     "url": "https://sports.yahoo.com/articles/free-agent-outfielder-fits-phillies-200000526.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T20:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0e26d193fd6b8f92",
      "title": "Mariners News: Yordan Álvarez, Pete Crow-Armstrong, and Evan Phillips",
@@ -8917,11 +9226,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "91cd00ce2a441d9a",
@@ -9237,8 +9546,34 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "14d4ae1ab2c151a1",
+     "title": "Which free agent outfielder fits the Phillies best?",
+     "url": "https://sports.yahoo.com/articles/free-agent-outfielder-fits-phillies-200000526.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T20:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "2f75b34d50a6e98b",
+     "title": "Guardians News: More Free Agent Signings",
+     "url": "https://sports.yahoo.com/articles/guardians-news-more-free-agent-184643270.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:46:43.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "ee00feb1abbd4ad6",
      "title": "The free agent reliever market",
@@ -9913,9 +10248,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1c31ebb9a951645b",
@@ -11294,9 +11629,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "20d3a2bd2aea717c",
@@ -11415,8 +11750,25 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "72fa8fdb0b611835",
+     "title": "1B Jake Bauers, NLCS MVP with Brewers, reportedly agrees to 4-year, $58 million deal with Red Sox",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/1b-jake-bauers-nlcs-mvp-with-brewers-reportedly-agrees-to-4-year-58-million-deal-with-red-sox-175633947.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Andy Backstrom",
+     "publishedAt": "2026-11-13T17:56:33.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "MIL",
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bf0c99f02c514e6b",
      "title": "Will the Red Sox target Brewers free agent slugger Jake Bauers this offseason?",
@@ -11426,12 +11778,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T14:33:49.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f609e449339adaea",
@@ -11625,9 +11977,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "77779208982f14d3",
@@ -12198,8 +12550,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "39cd52d99c8f5338",
+     "title": "Jake Bauers signs with Boston Red Sox",
+     "url": "https://sports.yahoo.com/articles/jake-bauers-signs-boston-red-180932960.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:09:32.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d452e64178f3e7da",
      "title": "Per Craig Breslow, Triston Casas is traveling to the DR today to join Licey. He'll get a few days of workouts before his first game. Casas played 3 games for Licey in the 2022-23 offseason, so the surroundings are familiar to him.",
@@ -13008,12 +13375,44 @@
    "type": "player",
    "subject": "Jarren Duran",
    "mlbamId": 680776,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "CHC"
+   ],
+   "status": "Linked",
+   "statusAt": "2026-11-13T21:58:51.235Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "39cd52d99c8f5338",
+     "title": "Jake Bauers signs with Boston Red Sox",
+     "url": "https://sports.yahoo.com/articles/jake-bauers-signs-boston-red-180932960.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:09:32.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "08cc866c0406b1d9",
+     "title": "Cubs trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-jarren-duran-160000009.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    },
     {
      "id": "1159d1b22173e609",
      "title": "Notes from GM Meetings with Will Sammon: — Alec Bohm/NY teams — Rays trade possibilities — Randal Grichuk — Teruaki Sato/Rangers — Jarren Duran www.nytimes.com/athletic/777...",
@@ -13083,9 +13482,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1c31ebb9a951645b",
@@ -13406,8 +13805,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "6f7bfebacc8e76dd",
+     "title": "Brad Ausmus acknowledged that he interviewed for the Astros' GM job before it went to Randy Flores. Ausmus said he left the interview pretty sure he would not be getting the GM job, but was encouraged that he could be in play for the manager's role. Flores was hired the next day.",
+     "url": "https://bsky.app/profile/chandlerrome.bsky.social/post/3n27fbl3uicy5",
+     "sourceId": "bsky-chandlerrome.bsky.social",
+     "sourceName": "Chandler Rome",
+     "sourceKind": "reporter",
+     "author": "Chandler Rome",
+     "publishedAt": "2026-11-13T16:20:39.149Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0e26d193fd6b8f92",
      "title": "Mariners News: Yordan Álvarez, Pete Crow-Armstrong, and Evan Phillips",
@@ -13417,11 +13832,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "937388ef11bb8ed4",
@@ -14008,11 +14423,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "120c269b700b910e",
@@ -15865,11 +16280,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "fc7f78693e10d7b4",
@@ -15936,11 +16351,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "68553d48792f595b",
@@ -15951,9 +16366,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "11b1ddb3dd249270",
@@ -15964,9 +16379,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6f0dc568b15d45a8",
@@ -15977,11 +16392,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:53:50.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7deba82b3d19c3d4",
@@ -15992,11 +16407,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bc09916b9e5a5f23",
@@ -16372,8 +16787,25 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "72fa8fdb0b611835",
+     "title": "1B Jake Bauers, NLCS MVP with Brewers, reportedly agrees to 4-year, $58 million deal with Red Sox",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/1b-jake-bauers-nlcs-mvp-with-brewers-reportedly-agrees-to-4-year-58-million-deal-with-red-sox-175633947.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Andy Backstrom",
+     "publishedAt": "2026-11-13T17:56:33.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "MIL",
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bf0c99f02c514e6b",
      "title": "Will the Red Sox target Brewers free agent slugger Jake Bauers this offseason?",
@@ -16383,12 +16815,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T14:33:49.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3ed9026080318195",
@@ -17205,8 +17637,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-06T21:02:19.929Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "14d4ae1ab2c151a1",
+     "title": "Which free agent outfielder fits the Phillies best?",
+     "url": "https://sports.yahoo.com/articles/free-agent-outfielder-fits-phillies-200000526.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T20:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "039bcb4a404392d8",
      "title": "Get to know Teruaki Sato, which other Japanese players to keep an eye on and the Astros manager search",
@@ -17274,9 +17719,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "20d3a2bd2aea717c",
@@ -17451,8 +17896,56 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "25b378ee6a294d2c",
+     "title": "In their first major move of the offseason, the Red Sox have signed first baseman Jake Bauers to a four-year deal. A source noted Bauers is expected to split time at first and DH with Willson Contreras. More on the move and what it means, free to read www.nytimes.com/athletic/774...",
+     "url": "https://bsky.app/profile/jcmccaffrey.bsky.social/post/3n27lyta4q22k",
+     "sourceId": "bsky-jcmccaffrey.bsky.social",
+     "sourceName": "Jen McCaffrey",
+     "sourceKind": "reporter",
+     "author": "Jen McCaffrey",
+     "publishedAt": "2026-11-13T18:21:01.880Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "39cd52d99c8f5338",
+     "title": "Jake Bauers signs with Boston Red Sox",
+     "url": "https://sports.yahoo.com/articles/jake-bauers-signs-boston-red-180932960.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:09:32.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "72fa8fdb0b611835",
+     "title": "1B Jake Bauers, NLCS MVP with Brewers, reportedly agrees to 4-year, $58 million deal with Red Sox",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/1b-jake-bauers-nlcs-mvp-with-brewers-reportedly-agrees-to-4-year-58-million-deal-with-red-sox-175633947.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Andy Backstrom",
+     "publishedAt": "2026-11-13T17:56:33.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "MIL",
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bf0c99f02c514e6b",
      "title": "Will the Red Sox target Brewers free agent slugger Jake Bauers this offseason?",
@@ -17462,12 +17955,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T14:33:49.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "92a6ece89991ff95",
@@ -17947,11 +18440,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:53:50.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bd6a04e72e9aafca",
@@ -17996,8 +18489,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "4b18ce97b4c5b6fe",
+     "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
+     "url": "https://sports.yahoo.com/articles/braves-once-again-pay-premium-190014147.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T19:00:14.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "88154c647e23e5f5",
      "title": "Braves sign reliever Evan Phillips to 3-year, $35 million contract, reuniting him with original team",
@@ -18180,8 +18688,22 @@
    "status": "Unclassified",
    "statusAt": "2026-11-09T19:44:35.174Z",
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-13T08:04:42.743Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "8b08691f41c96c62",
+     "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-lockout-watch-will-free-agency-and-trades-speed-up-before-dec-1-204312762.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jordan Shusterman",
+     "publishedAt": "2026-11-13T20:43:12.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2ad7b104810c14e8",
      "title": "Yankees news: Corey Seager in trade rumors",
@@ -18309,8 +18831,22 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-13T08:04:42.743Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "8b08691f41c96c62",
+     "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-lockout-watch-will-free-agency-and-trades-speed-up-before-dec-1-204312762.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jordan Shusterman",
+     "publishedAt": "2026-11-13T20:43:12.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1c31ebb9a951645b",
      "title": "What I'm hearing on Tarik Skubal and the biggest MLB rumors at GM Meetings",
@@ -18404,8 +18940,22 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "8b08691f41c96c62",
+     "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-lockout-watch-will-free-agency-and-trades-speed-up-before-dec-1-204312762.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jordan Shusterman",
+     "publishedAt": "2026-11-13T20:43:12.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "7b2681b8384830ca",
      "title": "Dodger notes: Shohei Ohtani plans, Scott Boras talks Tarik Skubal",
@@ -18443,8 +18993,22 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "8b08691f41c96c62",
+     "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-lockout-watch-will-free-agency-and-trades-speed-up-before-dec-1-204312762.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jordan Shusterman",
+     "publishedAt": "2026-11-13T20:43:12.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "42ee87876961b178",
      "title": "How the looming lockout might affect the Red Sox offseason plans",
@@ -19657,9 +20221,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "359248ec61d69f54",
@@ -20060,8 +20624,23 @@
    "status": "Linked",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "08cc866c0406b1d9",
+     "title": "Cubs trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-jarren-duran-160000009.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bc09916b9e5a5f23",
      "title": "Cubs trade target: Dylan Crews",
@@ -20288,12 +20867,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T14:33:49.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "92a6ece89991ff95",
@@ -21255,8 +21834,25 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-08T14:17:24.999Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "72fa8fdb0b611835",
+     "title": "1B Jake Bauers, NLCS MVP with Brewers, reportedly agrees to 4-year, $58 million deal with Red Sox",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/1b-jake-bauers-nlcs-mvp-with-brewers-reportedly-agrees-to-4-year-58-million-deal-with-red-sox-175633947.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Andy Backstrom",
+     "publishedAt": "2026-11-13T17:56:33.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "MIL",
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bf0c99f02c514e6b",
      "title": "Will the Red Sox target Brewers free agent slugger Jake Bauers this offseason?",
@@ -21266,12 +21862,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T14:33:49.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3ed9026080318195",
@@ -21454,11 +22050,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "primary",
+     "status": "Interest",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Interest"
+     ]
     },
     {
      "id": "695a2d1886ea3184",
@@ -21910,8 +22506,22 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-13T08:04:42.743Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "8b08691f41c96c62",
+     "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-lockout-watch-will-free-agency-and-trades-speed-up-before-dec-1-204312762.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jordan Shusterman",
+     "publishedAt": "2026-11-13T20:43:12.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1c31ebb9a951645b",
      "title": "What I'm hearing on Tarik Skubal and the biggest MLB rumors at GM Meetings",
@@ -23900,11 +24510,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cb33182b54ab1042",
@@ -24241,11 +24851,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:53:50.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7deba82b3d19c3d4",
@@ -24256,11 +24866,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "701500d58ecdb8ae",
@@ -24821,8 +25431,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T22:35:18.324Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "4b18ce97b4c5b6fe",
+     "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
+     "url": "https://sports.yahoo.com/articles/braves-once-again-pay-premium-190014147.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T19:00:14.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4e184749502df4eb",
      "title": "Looking for starter-to-reliever conversion candidates for the Mets",
@@ -25017,8 +25642,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T22:35:18.324Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "14d4ae1ab2c151a1",
+     "title": "Which free agent outfielder fits the Phillies best?",
+     "url": "https://sports.yahoo.com/articles/free-agent-outfielder-fits-phillies-200000526.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T20:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "754f6cc6b2884afc",
      "title": "How much will the Phillies spend this offseason?",
@@ -25707,8 +26345,36 @@
    "status": "Linked",
    "statusAt": "2026-11-11T09:27:02.687Z",
    "firstSeenAt": "2026-11-11T09:27:02.687Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "4b18ce97b4c5b6fe",
+     "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
+     "url": "https://sports.yahoo.com/articles/braves-once-again-pay-premium-190014147.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T19:00:14.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "02db74094e3b4afb",
+     "title": "How Evan Phillips’ contract compared to some projections",
+     "url": "https://sports.yahoo.com/articles/evan-phillips-contract-compared-projections-160900983.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:09:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "0e26d193fd6b8f92",
      "title": "Mariners News: Yordan Álvarez, Pete Crow-Armstrong, and Evan Phillips",
@@ -25718,11 +26384,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "68553d48792f595b",
@@ -25733,9 +26399,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6f0dc568b15d45a8",
@@ -25746,11 +26412,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:53:50.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7deba82b3d19c3d4",
@@ -25761,11 +26427,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1c31ebb9a951645b",
@@ -25952,11 +26618,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "30de2baa9c0ede04",
@@ -26609,8 +27275,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "08cc866c0406b1d9",
+     "title": "Cubs trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-jarren-duran-160000009.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b7278648ac57cf71",
      "title": "Cubs trade target: Reid Detmers",
@@ -27215,11 +27896,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ee00feb1abbd4ad6",
@@ -27751,8 +28432,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-12T12:34:47.764Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "02db74094e3b4afb",
+     "title": "How Evan Phillips’ contract compared to some projections",
+     "url": "https://sports.yahoo.com/articles/evan-phillips-contract-compared-projections-160900983.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:09:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5b1029986511209c",
      "title": "Dodgers suffer first big offseason loss as former closer gets giant contract from Braves",
@@ -27941,8 +28635,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-11T23:32:23.064Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "02db74094e3b4afb",
+     "title": "How Evan Phillips’ contract compared to some projections",
+     "url": "https://sports.yahoo.com/articles/evan-phillips-contract-compared-projections-160900983.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:09:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "dca02c6396aff2b3",
      "title": "Mets looking at top free-agents for bullpen help",
@@ -28305,9 +29012,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "82db3ee827dc228c",
@@ -28518,9 +29225,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6f0dc568b15d45a8",
@@ -28531,11 +29238,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:53:50.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d6e59887ce5176e3",
@@ -29238,8 +29945,36 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "4b18ce97b4c5b6fe",
+     "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
+     "url": "https://sports.yahoo.com/articles/braves-once-again-pay-premium-190014147.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T19:00:14.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "02db74094e3b4afb",
+     "title": "How Evan Phillips’ contract compared to some projections",
+     "url": "https://sports.yahoo.com/articles/evan-phillips-contract-compared-projections-160900983.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:09:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "88154c647e23e5f5",
      "title": "Braves sign reliever Evan Phillips to 3-year, $35 million contract, reuniting him with original team",
@@ -29281,8 +30016,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "4b18ce97b4c5b6fe",
+     "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
+     "url": "https://sports.yahoo.com/articles/braves-once-again-pay-premium-190014147.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T19:00:14.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "88154c647e23e5f5",
      "title": "Braves sign reliever Evan Phillips to 3-year, $35 million contract, reuniting him with original team",
@@ -29324,8 +30074,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "4b18ce97b4c5b6fe",
+     "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
+     "url": "https://sports.yahoo.com/articles/braves-once-again-pay-premium-190014147.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T19:00:14.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "fdf6cd9c9a3abccd",
      "title": "Braves sign reliever Evan Phillips to three-year, $35 million deal",
@@ -29352,8 +30117,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "4b18ce97b4c5b6fe",
+     "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
+     "url": "https://sports.yahoo.com/articles/braves-once-again-pay-premium-190014147.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T19:00:14.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "fdf6cd9c9a3abccd",
      "title": "Braves sign reliever Evan Phillips to three-year, $35 million deal",
@@ -29509,8 +30289,22 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
    "items": [
+    {
+     "id": "8b08691f41c96c62",
+     "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-lockout-watch-will-free-agency-and-trades-speed-up-before-dec-1-204312762.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jordan Shusterman",
+     "publishedAt": "2026-11-13T20:43:12.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2b5c8c2934884f14",
      "title": "Giants hire James Rowson as new offensive coordinator under manager Tony Vitello",
@@ -29578,11 +30372,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "68553d48792f595b",
@@ -29593,9 +30387,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6f0dc568b15d45a8",
@@ -29606,11 +30400,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:53:50.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7deba82b3d19c3d4",
@@ -29621,11 +30415,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6a1c92b989179b91",
@@ -29747,11 +30541,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -29775,9 +30569,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -29801,9 +30595,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T15:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -29827,9 +30621,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -29853,9 +30647,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -29879,11 +30673,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -29907,11 +30701,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T13:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -29935,11 +30729,281 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T12:00:00.000Z",
      "firstSeenAt": "2026-11-13T16:11:10.798Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
+     ]
+    }
+   ]
+  },
+  "player-595879": {
+   "id": "player-595879",
+   "type": "player",
+   "subject": "Javier Báez",
+   "mlbamId": 595879,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "8b08691f41c96c62",
+     "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-lockout-watch-will-free-agency-and-trades-speed-up-before-dec-1-204312762.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jordan Shusterman",
+     "publishedAt": "2026-11-13T20:43:12.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-680700": {
+   "id": "player-680700",
+   "type": "player",
+   "subject": "Richie Palacios",
+   "mlbamId": 680700,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "2f75b34d50a6e98b",
+     "title": "Guardians News: More Free Agent Signings",
+     "url": "https://sports.yahoo.com/articles/guardians-news-more-free-agent-184643270.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:46:43.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-702693": {
+   "id": "player-702693",
+   "type": "player",
+   "subject": "Jaison Chourio",
+   "mlbamId": 702693,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "2f75b34d50a6e98b",
+     "title": "Guardians News: More Free Agent Signings",
+     "url": "https://sports.yahoo.com/articles/guardians-news-more-free-agent-184643270.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:46:43.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-806210": {
+   "id": "player-806210",
+   "type": "player",
+   "subject": "Alfonsin Rosario",
+   "mlbamId": 806210,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "2f75b34d50a6e98b",
+     "title": "Guardians News: More Free Agent Signings",
+     "url": "https://sports.yahoo.com/articles/guardians-news-more-free-agent-184643270.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:46:43.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-691414": {
+   "id": "player-691414",
+   "type": "player",
+   "subject": "Yorman Gómez",
+   "mlbamId": 691414,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "2f75b34d50a6e98b",
+     "title": "Guardians News: More Free Agent Signings",
+     "url": "https://sports.yahoo.com/articles/guardians-news-more-free-agent-184643270.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:46:43.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-807799": {
+   "id": "player-807799",
+   "type": "player",
+   "subject": "Masataka Yoshida",
+   "mlbamId": 807799,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "39cd52d99c8f5338",
+     "title": "Jake Bauers signs with Boston Red Sox",
+     "url": "https://sports.yahoo.com/articles/jake-bauers-signs-boston-red-180932960.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:09:32.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
      ],
      "role": "mention",
      "status": null
+    }
+   ]
+  },
+  "player-683734": {
+   "id": "player-683734",
+   "type": "player",
+   "subject": "Andrew Vaughn",
+   "mlbamId": 683734,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "39cd52d99c8f5338",
+     "title": "Jake Bauers signs with Boston Red Sox",
+     "url": "https://sports.yahoo.com/articles/jake-bauers-signs-boston-red-180932960.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:09:32.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-807713": {
+   "id": "player-807713",
+   "type": "player",
+   "subject": "Matt Shaw",
+   "mlbamId": 807713,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "08cc866c0406b1d9",
+     "title": "Cubs trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-jarren-duran-160000009.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-663538": {
+   "id": "player-663538",
+   "type": "player",
+   "subject": "Nico Hoerner",
+   "mlbamId": 663538,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "08cc866c0406b1d9",
+     "title": "Cubs trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/cubs-trade-target-jarren-duran-160000009.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T16:00:00.000Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-669357": {
+   "id": "player-669357",
+   "type": "player",
+   "subject": "Nolan Gorman",
+   "mlbamId": 669357,
+   "teams": [],
+   "status": "Unclassified",
+   "statusAt": "2026-11-13T21:58:51.235Z",
+   "firstSeenAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "items": [
+    {
+     "id": "8416ebff2f417fd8",
+     "title": "A week from today, MLB's non-tender deadline will arrive, and it seems much more likely than not that it will spell the end of Nolan Gorman's tenure in St. Louis. Is that the right decision? I took a swing at it: words-about-birds.beehiiv.com/p/with-a-loo...",
+     "url": "https://bsky.app/profile/jmjones.bsky.social/post/3n27hlgesjs2r",
+     "sourceId": "bsky-jmjones.bsky.social",
+     "sourceName": "Jeff Jones",
+     "sourceKind": "reporter",
+     "author": "Jeff Jones",
+     "publishedAt": "2026-11-13T17:01:57.228Z",
+     "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Unclassified"
     }
    ]
   }
@@ -29949,414 +31013,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"1dc90e146ace14019c967bd12084bf26\""
+   "etag": "W/\"4c4a3550e3787dcb9db7f89a2c9653cf\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"d17ceb056229cba85e5cc8b572db1609\""
+   "etag": "W/\"c345e8e1fc24b15973971ab1dca8f307\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"de7d4506d2baf9f3ba53641d59946416\""
+   "etag": "W/\"c84d3f6d7825fc423bd6a95b71a5ec26\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
    "etag": "W/\"0c884d254b1346206d583cf3cf0c6993\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"e0bccb04aab34c83abc9e01b510054c9\""
+   "etag": "W/\"69008d83e4f5e4a7507c7c004240ffb6\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"e64fe0ce0561ac00eab96bd49d123c5d\""
+   "etag": "W/\"38daaa7b34f0469a2220d22286d97e98\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"ebf5c3771ee620f392566042352451b9\""
+   "etag": "W/\"93217456e386895658f0d0029deeeb09\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"503c1063f7c683a25c37eb350757f088\""
+   "etag": "W/\"7e35aebb7274611a4613c448a8737df3\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"b698c03424bfeb87ee075f152d07e49e\""
+   "etag": "W/\"70ecb11e0c8dd5e4d85c914af4eece97\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
    "etag": "W/\"bd52f437eb3a5821cc9f5ae79b27fac0\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"259cac556999df208886028b79a29b8a\""
+   "etag": "W/\"edf6e699ca28108ca6546b2b73b666b9\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"b620beb8137792d6178618d4064e3b9b\""
+   "etag": "W/\"3009a5cede197218e469f1624fbc0a6a\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"8d4ffb13c7d86f17a259ab226d6ebcd0\""
+   "etag": "W/\"ebb903b2eb516dd5e9dd5dab3a215bba\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"bd0f2145dfbf4704dab877fe0484a3b3\""
+   "etag": "W/\"a9ad4189b694957205f2847694fae974\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"8ca6f96662fd8a62746dca592597f25c\""
+   "etag": "W/\"9a67984d9da53c66db1c0952dd1306c3\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
    "etag": "W/\"0b469ab9b11ae14c3c596e8f9211a993\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"cce736f532debbaec5d74b0b045169ac\""
+   "etag": "W/\"d97b11912f0ed992b0eebf8ad78110ad\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"c25087c27ce9b9f75ccc55863f8f7efc\""
+   "etag": "W/\"e195af560166ee385698df5924465249\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"54196b4d895a756b483e94047633e592\""
+   "etag": "W/\"3381a4fdcb65d6a9ca1bff9001ee7854\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
    "etag": "W/\"ea302efc989ead0d44e94549b6a0853f\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"3f5c4e1885abb11959ec4c7d28df870a\""
+   "etag": "W/\"4069cee55896386572e2b24afc2168ed\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"80c83f018597deb9e20572d43b50d13b\""
+   "etag": "W/\"f591d87791f73528e5fe6cbad0285221\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"44d5cdab96a9f7849cc0923e2663f72c\""
+   "etag": "W/\"df1c6a02fce32b9fa4bc3446cae9b08e\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"173939f4471691b5d382b9cd5a839e75\""
+   "etag": "W/\"5b56da1a6983793fd372c7b87b98b6c8\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"4108ce4bedd35331fc3091625787394c\""
+   "etag": "W/\"e422243b0f6e06599ce6a742974c4bbc\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"3e601f34575e4350d630d954c6ce7206\""
+   "etag": "W/\"b5878360436b6e73835429fe0f893af4\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
    "etag": "W/\"5fe9b3e68e34458a75f5d88b78eaa487\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "etag": "W/\"b5a5086c6035248833dc77405aff1527\""
+   "etag": "W/\"eb5a98c1802d207044672c07eae75197\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null,
-   "lastModified": "Fri, 13 Nov 2026 16:11:12 GMT"
+   "lastModified": "Fri, 13 Nov 2026 21:58:53 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-13T16:11:10.798Z",
+   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
    "lastError": null
   }
  }
