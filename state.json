@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-13T21:58:51.235Z",
+ "updatedAt": "2026-11-14T02:14:58.875Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -228,8 +228,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "63e4feca2834db10",
+     "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agent-market-active-221618555.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T22:16:18.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "8b08691f41c96c62",
      "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
@@ -240,9 +253,9 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-13T20:43:12.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "68553d48792f595b",
@@ -719,11 +732,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T19:00:14.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f9d8d7f4bb0a38f8",
@@ -2199,9 +2212,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T20:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "16d33587fd0359ce",
@@ -4294,11 +4307,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:09:32.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bf0c99f02c514e6b",
@@ -4397,11 +4410,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:09:32.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bf0c99f02c514e6b",
@@ -4530,11 +4543,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:09:32.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bf0c99f02c514e6b",
@@ -4853,11 +4866,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T19:00:14.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ee00feb1abbd4ad6",
@@ -5440,11 +5453,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-13T16:20:39.149Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "937388ef11bb8ed4",
@@ -6048,9 +6061,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T20:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "91cd00ce2a441d9a",
@@ -6243,8 +6256,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "563ab39de2f65c22",
+     "title": "Offseason chat and discussion: November 13",
+     "url": "https://www.batterypower.com/atlanta-braves-discussion/142254/offseason-chat-and-discussion-november-13",
+     "sourceId": "sbn-atl",
+     "sourceName": "Battery Power",
+     "sourceKind": "fansite",
+     "author": "Curt Weiler",
+     "publishedAt": "2026-11-14T00:38:42.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "6f0dc568b15d45a8",
      "title": "Braves News: Evan Phillips signed, Lane Thomas review, and more",
@@ -6503,11 +6532,11 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-13T17:26:41.352Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "d07a2f1a3768439a",
@@ -6906,8 +6935,21 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "63e4feca2834db10",
+     "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agent-market-active-221618555.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T22:16:18.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "02db74094e3b4afb",
      "title": "How Evan Phillips’ contract compared to some projections",
@@ -6917,9 +6959,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:09:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "68553d48792f595b",
@@ -7316,8 +7358,21 @@
    "status": "Interest",
    "statusAt": "2026-11-13T21:58:51.235Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "63e4feca2834db10",
+     "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agent-market-active-221618555.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T22:16:18.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b3f2be7a26476403",
      "title": "What’s next for Red Sox after the Jake Bauers signing? Digging into Breslow's next moves, free to read www.nytimes.com/athletic/777...",
@@ -7328,11 +7383,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-13T21:16:51.569Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "8b08691f41c96c62",
@@ -7344,9 +7399,9 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-13T20:43:12.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "d29acd8d8a2c7e04",
@@ -7358,11 +7413,27 @@
      "author": "Dan Secatore",
      "publishedAt": "2026-11-13T19:30:31.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
+     ]
+    },
+    {
+     "id": "b2928603e4e0173c",
+     "title": "Red Sox sign Brewers playoff hero Jake Bauers in $58 million free-agent splash",
+     "url": "https://sports.yahoo.com/articles/red-sox-sign-brewers-playoff-184954879.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T18:49:54.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [
+      "BOS",
+      "MIL"
      ],
      "role": "primary",
-     "status": null
+     "status": "Unclassified"
     },
     {
      "id": "2f75b34d50a6e98b",
@@ -7373,9 +7444,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:46:43.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "25b378ee6a294d2c",
@@ -7387,11 +7458,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-13T18:21:01.880Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "39cd52d99c8f5338",
@@ -7402,11 +7473,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:09:32.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "72fa8fdb0b611835",
@@ -7418,12 +7489,12 @@
      "author": "Andy Backstrom",
      "publishedAt": "2026-11-13T17:56:33.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "MIL",
       "BOS"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "cb7b1c5ce059a77b",
@@ -7435,11 +7506,11 @@
      "author": "Peter Abraham",
      "publishedAt": "2026-11-13T17:55:16.452Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": "Interest",
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": "Interest"
+     ]
     },
     {
      "id": "bf0c99f02c514e6b",
@@ -8528,11 +8599,37 @@
    "teams": [
     "LAD"
    ],
-   "status": "Unclassified",
-   "statusAt": "2026-11-05T21:49:44.651Z",
+   "status": "Interest",
+   "statusAt": "2026-11-14T02:14:58.875Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "63e4feca2834db10",
+     "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agent-market-active-221618555.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T22:16:18.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "e271a7fe9ba60aef",
+     "title": "Shohei Ohtani blames kids for dog Decoy’s eye-catching appearance",
+     "url": "https://sports.yahoo.com/articles/shohei-ohtani-blames-kids-dog-200344378.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T20:03:44.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "0e26d193fd6b8f92",
      "title": "Mariners News: Yordan Álvarez, Pete Crow-Armstrong, and Evan Phillips",
@@ -9021,9 +9118,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T20:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "68553d48792f595b",
@@ -9213,9 +9310,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T20:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "0e26d193fd6b8f92",
@@ -9557,9 +9654,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T20:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2f75b34d50a6e98b",
@@ -9570,9 +9667,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:46:43.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "ee00feb1abbd4ad6",
@@ -11762,12 +11859,12 @@
      "author": "Andy Backstrom",
      "publishedAt": "2026-11-13T17:56:33.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL",
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bf0c99f02c514e6b",
@@ -12561,11 +12658,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:09:32.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d452e64178f3e7da",
@@ -13392,11 +13489,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:09:32.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "08cc866c0406b1d9",
@@ -13407,11 +13504,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "1159d1b22173e609",
@@ -13817,11 +13914,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-13T16:20:39.149Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0e26d193fd6b8f92",
@@ -16340,8 +16437,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "63e4feca2834db10",
+     "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agent-market-active-221618555.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T22:16:18.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0e26d193fd6b8f92",
      "title": "Mariners News: Yordan Álvarez, Pete Crow-Armstrong, and Evan Phillips",
@@ -16799,12 +16909,12 @@
      "author": "Andy Backstrom",
      "publishedAt": "2026-11-13T17:56:33.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL",
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bf0c99f02c514e6b",
@@ -17648,9 +17758,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T20:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "039bcb4a404392d8",
@@ -17908,11 +18018,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-13T18:21:01.880Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "39cd52d99c8f5338",
@@ -17923,11 +18033,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:09:32.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "72fa8fdb0b611835",
@@ -17939,12 +18049,12 @@
      "author": "Andy Backstrom",
      "publishedAt": "2026-11-13T17:56:33.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL",
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bf0c99f02c514e6b",
@@ -18500,11 +18610,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T19:00:14.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "88154c647e23e5f5",
@@ -18700,9 +18810,9 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-13T20:43:12.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2ad7b104810c14e8",
@@ -18843,9 +18953,9 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-13T20:43:12.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1c31ebb9a951645b",
@@ -18952,9 +19062,9 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-13T20:43:12.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "7b2681b8384830ca",
@@ -19005,9 +19115,9 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-13T20:43:12.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "42ee87876961b178",
@@ -20635,11 +20745,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bc09916b9e5a5f23",
@@ -21846,12 +21956,12 @@
      "author": "Andy Backstrom",
      "publishedAt": "2026-11-13T17:56:33.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL",
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bf0c99f02c514e6b",
@@ -22518,9 +22628,9 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-13T20:43:12.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1c31ebb9a951645b",
@@ -25358,8 +25468,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T22:35:18.324Z",
-   "lastActivityAt": "2026-11-12T12:34:47.764Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "63e4feca2834db10",
+     "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agent-market-active-221618555.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T22:16:18.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "9ee5debd8bb276a7",
      "title": "Dodgers have crucial offseason decisions with Kiké Hernández, Alex Vesia, other fan-favorite free agents",
@@ -25442,11 +25565,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T19:00:14.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4e184749502df4eb",
@@ -25653,9 +25776,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T20:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "754f6cc6b2884afc",
@@ -26345,8 +26468,21 @@
    "status": "Linked",
    "statusAt": "2026-11-11T09:27:02.687Z",
    "firstSeenAt": "2026-11-11T09:27:02.687Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "63e4feca2834db10",
+     "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agent-market-active-221618555.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T22:16:18.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4b18ce97b4c5b6fe",
      "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
@@ -26356,11 +26492,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T19:00:14.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "02db74094e3b4afb",
@@ -26371,9 +26507,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:09:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "0e26d193fd6b8f92",
@@ -27286,11 +27422,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7278648ac57cf71",
@@ -27572,8 +27708,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-12T04:05:55.451Z",
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-12T04:05:55.451Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "63e4feca2834db10",
+     "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agent-market-active-221618555.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T22:16:18.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1538317c25d1ff97",
      "title": "Padres sign RHP Ryan Weiss to major league contract",
@@ -28432,8 +28581,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-12T12:34:47.764Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-14T02:14:58.875Z",
    "items": [
+    {
+     "id": "63e4feca2834db10",
+     "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agent-market-active-221618555.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-13T22:16:18.000Z",
+     "firstSeenAt": "2026-11-14T02:14:58.875Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "02db74094e3b4afb",
      "title": "How Evan Phillips’ contract compared to some projections",
@@ -28443,9 +28605,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:09:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "5b1029986511209c",
@@ -28646,9 +28808,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:09:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "dca02c6396aff2b3",
@@ -29956,11 +30118,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T19:00:14.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "02db74094e3b4afb",
@@ -29971,9 +30133,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:09:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "88154c647e23e5f5",
@@ -30027,11 +30189,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T19:00:14.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "88154c647e23e5f5",
@@ -30085,11 +30247,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T19:00:14.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "fdf6cd9c9a3abccd",
@@ -30128,11 +30290,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T19:00:14.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "fdf6cd9c9a3abccd",
@@ -30301,9 +30463,9 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-13T20:43:12.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2b5c8c2934884f14",
@@ -30758,9 +30920,9 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-13T20:43:12.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -30784,9 +30946,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:46:43.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -30810,9 +30972,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:46:43.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -30836,9 +30998,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:46:43.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -30862,9 +31024,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:46:43.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -30888,11 +31050,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:09:32.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -30916,11 +31078,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T18:09:32.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -30944,11 +31106,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -30972,11 +31134,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-13T16:00:00.000Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -31001,9 +31163,9 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-13T17:01:57.228Z",
      "firstSeenAt": "2026-11-13T21:58:51.235Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   }
@@ -31013,414 +31175,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"4c4a3550e3787dcb9db7f89a2c9653cf\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"c345e8e1fc24b15973971ab1dca8f307\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"c84d3f6d7825fc423bd6a95b71a5ec26\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"0c884d254b1346206d583cf3cf0c6993\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
-   "etag": "W/\"69008d83e4f5e4a7507c7c004240ffb6\""
+   "etag": "W/\"45749f90b194cac1259d79b8ede6f3fe\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
-   "etag": "W/\"38daaa7b34f0469a2220d22286d97e98\""
+   "etag": "W/\"034634b56b64a15d91048603ef21f787\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"93217456e386895658f0d0029deeeb09\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"7e35aebb7274611a4613c448a8737df3\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"70ecb11e0c8dd5e4d85c914af4eece97\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
-   "etag": "W/\"bd52f437eb3a5821cc9f5ae79b27fac0\""
+   "etag": "W/\"0388c4a535f44074b49cd2bf0eb4743c\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"edf6e699ca28108ca6546b2b73b666b9\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"3009a5cede197218e469f1624fbc0a6a\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"ebb903b2eb516dd5e9dd5dab3a215bba\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"a9ad4189b694957205f2847694fae974\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
-   "etag": "W/\"9a67984d9da53c66db1c0952dd1306c3\""
+   "etag": "W/\"2960c48d8490a411724cd658bf6c4418\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"0b469ab9b11ae14c3c596e8f9211a993\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"d97b11912f0ed992b0eebf8ad78110ad\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"e195af560166ee385698df5924465249\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"3381a4fdcb65d6a9ca1bff9001ee7854\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"ea302efc989ead0d44e94549b6a0853f\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"4069cee55896386572e2b24afc2168ed\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"f591d87791f73528e5fe6cbad0285221\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"df1c6a02fce32b9fa4bc3446cae9b08e\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
-   "etag": "W/\"5b56da1a6983793fd372c7b87b98b6c8\""
+   "etag": "W/\"173939f4471691b5d382b9cd5a839e75\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
-   "etag": "W/\"e422243b0f6e06599ce6a742974c4bbc\""
+   "etag": "W/\"220b71aaf0bc60d746d2e47f622eb33e\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
-   "etag": "W/\"b5878360436b6e73835429fe0f893af4\""
+   "etag": "W/\"61a10ae2b3ffad609b8fffc9f4452727\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
-   "etag": "W/\"5fe9b3e68e34458a75f5d88b78eaa487\""
+   "etag": "W/\"d8fc049cd08f36bbd79edc9c8b8676c3\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
    "etag": "W/\"eb5a98c1802d207044672c07eae75197\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null,
-   "lastModified": "Fri, 13 Nov 2026 21:58:53 GMT"
+   "lastModified": "Sat, 14 Nov 2026 02:14:59 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-13T21:58:51.235Z",
+   "lastSuccessAt": "2026-11-14T02:14:58.875Z",
    "lastError": null
   }
  }
