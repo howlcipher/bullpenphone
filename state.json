@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-14T15:43:44.040Z",
+ "updatedAt": "2026-11-14T20:06:20.189Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -852,13 +852,29 @@
    "subject": "Ty France",
    "mlbamId": 664034,
    "teams": [
-    "PIT"
+    "PIT",
+    "NYM"
    ],
-   "status": "Unclassified",
-   "statusAt": "2026-11-05T21:49:44.651Z",
+   "status": "Interest",
+   "statusAt": "2026-11-14T20:06:20.189Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "8432596f35aefd57",
+     "title": "Mets reportedly interested in Ty France, Alec Bohm as potential first baseman",
+     "url": "https://sports.yahoo.com/articles/mets-reportedly-interested-ty-france-160000716.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T16:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "20d3a2bd2aea717c",
      "title": "Mariners News: Cam Schlittler, Jacob Misiorowski, and Brad Ausmus",
@@ -1094,11 +1110,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "7deba82b3d19c3d4",
@@ -1863,8 +1879,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "8432596f35aefd57",
+     "title": "Mets reportedly interested in Ty France, Alec Bohm as potential first baseman",
+     "url": "https://sports.yahoo.com/articles/mets-reportedly-interested-ty-france-160000716.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T16:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e64b0597e0c10b83",
      "title": "Yankees interested in Alec Bohm to fix major issue after season of turmoil nypost.com/2026/11/11/s...",
@@ -2679,11 +2710,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ee00feb1abbd4ad6",
@@ -3417,11 +3448,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:30:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "92a6ece89991ff95",
@@ -3755,11 +3786,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "0e26d193fd6b8f92",
@@ -6147,11 +6178,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "14d4ae1ab2c151a1",
@@ -6368,11 +6399,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:50:53.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "563ab39de2f65c22",
@@ -7062,9 +7093,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "63e4feca2834db10",
@@ -7424,11 +7455,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "11b1ddb3dd249270",
@@ -7502,8 +7533,21 @@
    "status": "Interest",
    "statusAt": "2026-11-13T21:58:51.235Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "6f028404c35c97c7",
+     "title": "Should the Red Sox consider free agent pitcher Michael King?",
+     "url": "https://sports.yahoo.com/articles/red-sox-consider-free-agent-173503324.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T17:35:03.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5af214ff78abad95",
      "title": "Kansas City Royals news: The Royals seek a right-handed hitting outfielder",
@@ -7513,11 +7557,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a569dbe33ff44791",
@@ -7528,11 +7572,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4bae0a385f977898",
@@ -7544,9 +7588,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-14T14:11:03.294Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4073429f797ca5c7",
@@ -7557,9 +7601,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "09168bcfeacd2702",
@@ -7570,11 +7614,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:50:53.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "aa419a147d1e21af",
@@ -7585,11 +7629,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0773f6de08411fc4",
@@ -7600,11 +7644,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "63e4feca2834db10",
@@ -7891,9 +7935,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1c31ebb9a951645b",
@@ -8764,11 +8808,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:04:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "54d7281ef6d45145",
@@ -8887,11 +8931,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:04:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "63e4feca2834db10",
@@ -9599,11 +9643,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:30:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5af214ff78abad95",
@@ -9614,11 +9658,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e65e524c2610708e",
@@ -9629,9 +9673,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "14d4ae1ab2c151a1",
@@ -9975,8 +10019,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "6f028404c35c97c7",
+     "title": "Should the Red Sox consider free agent pitcher Michael King?",
+     "url": "https://sports.yahoo.com/articles/red-sox-consider-free-agent-173503324.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T17:35:03.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "e65e524c2610708e",
      "title": "Chicago Cubs news — PCA MVP, Happ, Suzuki, free agent pitching targets",
@@ -9986,9 +10043,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4073429f797ca5c7",
@@ -9999,9 +10056,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "14d4ae1ab2c151a1",
@@ -10394,9 +10451,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-14T14:11:03.294Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "f8c43e35998befb0",
@@ -10552,8 +10609,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "8432596f35aefd57",
+     "title": "Mets reportedly interested in Ty France, Alec Bohm as potential first baseman",
+     "url": "https://sports.yahoo.com/articles/mets-reportedly-interested-ty-france-160000716.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T16:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "81e2ad0be094cf10",
      "title": "Other Mets moves: Pache outrighted to Triple-A Wagaman outrighted but elected free agency. Reed Garrett, Tylor Megill, and Jorge Polanco reinstated from 60-day.",
@@ -10706,8 +10778,22 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "b5fccf75b28c8f2b",
+     "title": "Sunday Baseball Notes are now posted. This week: Notes and quotes from the GM Meetings. David Ortiz on Yordan Alvarez doing what he never did and some Sox observations: www.bostonglobe.com/2026/11/14/s...",
+     "url": "https://bsky.app/profile/peteabeglobe.bsky.social/post/3n2c7p2fioc2g",
+     "sourceId": "bsky-peteabeglobe.bsky.social",
+     "sourceName": "Peter Abraham",
+     "sourceKind": "reporter",
+     "author": "Peter Abraham",
+     "publishedAt": "2026-11-14T19:18:48.165Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "4bae0a385f977898",
      "title": "Latest notes with Will Sammon: -Red Sox acting way a big-market team with a good farm system should -Brewers mulling 1B options -Braves just getting started -Items on Jazz Chisholm Jr., Joe Espada, Kris Bubic and Zach Plesac -Ejections down with ABS www.nytimes.com/athletic/778...",
@@ -10718,9 +10804,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-14T14:11:03.294Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "11b1ddb3dd249270",
@@ -12051,11 +12137,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "0b96a0c4295f0e60",
@@ -12067,11 +12153,11 @@
      "author": "Jason Paczkowski",
      "publishedAt": "2026-11-14T05:32:36.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "799f683cd6493b46",
@@ -12275,11 +12361,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "72fa8fdb0b611835",
@@ -13921,9 +14007,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "39cd52d99c8f5338",
@@ -14013,8 +14099,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-07T00:50:47.030Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "6f028404c35c97c7",
+     "title": "Should the Red Sox consider free agent pitcher Michael King?",
+     "url": "https://sports.yahoo.com/articles/red-sox-consider-free-agent-173503324.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T17:35:03.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "68553d48792f595b",
      "title": "Elephant Rumblings: Calm Before the Labor and Free Agency Storm",
@@ -15410,11 +15509,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:30:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f57af6b7459d6833",
@@ -16038,9 +16137,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4073429f797ca5c7",
@@ -16051,9 +16150,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1c31ebb9a951645b",
@@ -16542,8 +16641,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "6f028404c35c97c7",
+     "title": "Should the Red Sox consider free agent pitcher Michael King?",
+     "url": "https://sports.yahoo.com/articles/red-sox-consider-free-agent-173503324.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T17:35:03.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "77779208982f14d3",
      "title": "Red Sox News & Links: Craig Breslow needs to beef up the front office",
@@ -16934,9 +17046,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "63e4feca2834db10",
@@ -17730,11 +17842,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0139ff24d257496f",
@@ -18080,11 +18192,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:30:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7fe75df68910da6",
@@ -18878,9 +18990,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-14T14:11:03.294Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "dd4423ce0accc9a4",
@@ -19093,11 +19205,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6f0dc568b15d45a8",
@@ -21317,11 +21429,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:30:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "5af214ff78abad95",
@@ -21332,11 +21444,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "08cc866c0406b1d9",
@@ -21464,11 +21576,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:30:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7db62a064e9747ba",
@@ -21711,11 +21823,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f0068197cf68264c",
@@ -22050,11 +22162,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cc041ed73e1b1495",
@@ -22091,11 +22203,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cc041ed73e1b1495",
@@ -22132,11 +22244,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5afa7e319b72c9c4",
@@ -22318,11 +22430,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "19fa584ff9ae7604",
@@ -22359,9 +22471,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "5467af329d4ca609",
@@ -22472,8 +22584,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-13T08:04:42.743Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "3e8566b6b1c0b301",
+     "title": "Yankees Arizona Fall League Week 6 Recap",
+     "url": "https://sports.yahoo.com/articles/yankees-arizona-fall-league-week-180000672.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T18:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "2ad7b104810c14e8",
      "title": "Yankees news: Corey Seager in trade rumors",
@@ -22660,11 +22787,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:04:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b8cc93f3fe7127fd",
@@ -22962,9 +23089,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "5467af329d4ca609",
@@ -23966,8 +24093,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "6f028404c35c97c7",
+     "title": "Should the Red Sox consider free agent pitcher Michael King?",
+     "url": "https://sports.yahoo.com/articles/red-sox-consider-free-agent-173503324.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T17:35:03.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "77779208982f14d3",
      "title": "Red Sox News & Links: Craig Breslow needs to beef up the front office",
@@ -25219,9 +25359,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "bc09916b9e5a5f23",
@@ -25307,8 +25447,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-11T23:32:23.064Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "8432596f35aefd57",
+     "title": "Mets reportedly interested in Ty France, Alec Bohm as potential first baseman",
+     "url": "https://sports.yahoo.com/articles/mets-reportedly-interested-ty-france-160000716.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T16:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5467af329d4ca609",
      "title": "Boras thinks Orioles will continue to be aggressive in pursuing free agents #Orioles",
@@ -26210,9 +26365,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "27a33e24f642d37f",
@@ -27251,11 +27406,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "fc15dc18e647f503",
@@ -27266,11 +27421,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:04:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4073429f797ca5c7",
@@ -27281,9 +27436,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "09168bcfeacd2702",
@@ -27294,11 +27449,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:50:53.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "63e4feca2834db10",
@@ -29115,9 +29270,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "bad8f2db41485473",
@@ -29156,9 +29311,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T13:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "bad8f2db41485473",
@@ -29772,8 +29927,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-11T23:32:23.064Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "8432596f35aefd57",
+     "title": "Mets reportedly interested in Ty France, Alec Bohm as potential first baseman",
+     "url": "https://sports.yahoo.com/articles/mets-reportedly-interested-ty-france-160000716.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T16:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d07a2f1a3768439a",
      "title": "What will Mets do this winter? GM talks offseason plans and rumors",
@@ -31379,8 +31549,22 @@
    "status": "Unclassified",
    "statusAt": "2026-11-13T01:15:53.666Z",
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "b5fccf75b28c8f2b",
+     "title": "Sunday Baseball Notes are now posted. This week: Notes and quotes from the GM Meetings. David Ortiz on Yordan Alvarez doing what he never did and some Sox observations: www.bostonglobe.com/2026/11/14/s...",
+     "url": "https://bsky.app/profile/peteabeglobe.bsky.social/post/3n2c7p2fioc2g",
+     "sourceId": "bsky-peteabeglobe.bsky.social",
+     "sourceName": "Peter Abraham",
+     "sourceKind": "reporter",
+     "author": "Peter Abraham",
+     "publishedAt": "2026-11-14T19:18:48.165Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0e26d193fd6b8f92",
      "title": "Mariners News: Yordan Álvarez, Pete Crow-Armstrong, and Evan Phillips",
@@ -31494,8 +31678,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T08:04:42.743Z",
-   "lastActivityAt": "2026-11-13T08:04:42.743Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
    "items": [
+    {
+     "id": "3e8566b6b1c0b301",
+     "title": "Yankees Arizona Fall League Week 6 Recap",
+     "url": "https://sports.yahoo.com/articles/yankees-arizona-fall-league-week-180000672.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T18:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2ad7b104810c14e8",
      "title": "Yankees news: Corey Seager in trade rumors",
@@ -31934,11 +32133,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "39cd52d99c8f5338",
@@ -32086,11 +32285,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:30:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -32114,11 +32313,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:30:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -32142,11 +32341,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:30:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -32172,11 +32371,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T15:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "KC"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -32200,11 +32399,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:50:53.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -32228,11 +32427,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -32256,11 +32455,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -32284,11 +32483,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-14T12:00:00.000Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -32313,6 +32512,229 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-14T14:11:03.294Z",
      "firstSeenAt": "2026-11-14T15:43:44.040Z",
+     "role": "mention",
+     "status": null,
+     "teams": []
+    }
+   ]
+  },
+  "player-828076": {
+   "id": "player-828076",
+   "type": "player",
+   "subject": "Dax Kilby",
+   "mlbamId": 828076,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "items": [
+    {
+     "id": "3e8566b6b1c0b301",
+     "title": "Yankees Arizona Fall League Week 6 Recap",
+     "url": "https://sports.yahoo.com/articles/yankees-arizona-fall-league-week-180000672.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T18:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-823918": {
+   "id": "player-823918",
+   "type": "player",
+   "subject": "Kyle West",
+   "mlbamId": 823918,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "items": [
+    {
+     "id": "3e8566b6b1c0b301",
+     "title": "Yankees Arizona Fall League Week 6 Recap",
+     "url": "https://sports.yahoo.com/articles/yankees-arizona-fall-league-week-180000672.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T18:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-810102": {
+   "id": "player-810102",
+   "type": "player",
+   "subject": "Chris Veach",
+   "mlbamId": 810102,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "items": [
+    {
+     "id": "3e8566b6b1c0b301",
+     "title": "Yankees Arizona Fall League Week 6 Recap",
+     "url": "https://sports.yahoo.com/articles/yankees-arizona-fall-league-week-180000672.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T18:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-692110": {
+   "id": "player-692110",
+   "type": "player",
+   "subject": "Core Jackson",
+   "mlbamId": 692110,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "items": [
+    {
+     "id": "3e8566b6b1c0b301",
+     "title": "Yankees Arizona Fall League Week 6 Recap",
+     "url": "https://sports.yahoo.com/articles/yankees-arizona-fall-league-week-180000672.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T18:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-806070": {
+   "id": "player-806070",
+   "type": "player",
+   "subject": "Mack Estrada",
+   "mlbamId": 806070,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "items": [
+    {
+     "id": "3e8566b6b1c0b301",
+     "title": "Yankees Arizona Fall League Week 6 Recap",
+     "url": "https://sports.yahoo.com/articles/yankees-arizona-fall-league-week-180000672.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T18:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-822950": {
+   "id": "player-822950",
+   "type": "player",
+   "subject": "J. T. Etheridge",
+   "mlbamId": 822950,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "items": [
+    {
+     "id": "3e8566b6b1c0b301",
+     "title": "Yankees Arizona Fall League Week 6 Recap",
+     "url": "https://sports.yahoo.com/articles/yankees-arizona-fall-league-week-180000672.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T18:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-827768": {
+   "id": "player-827768",
+   "type": "player",
+   "subject": "Anthony Mena",
+   "mlbamId": 827768,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "items": [
+    {
+     "id": "3e8566b6b1c0b301",
+     "title": "Yankees Arizona Fall League Week 6 Recap",
+     "url": "https://sports.yahoo.com/articles/yankees-arizona-fall-league-week-180000672.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-14T18:00:00.000Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-829127": {
+   "id": "player-829127",
+   "type": "player",
+   "subject": "David Ortiz",
+   "mlbamId": 829127,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "items": [
+    {
+     "id": "b5fccf75b28c8f2b",
+     "title": "Sunday Baseball Notes are now posted. This week: Notes and quotes from the GM Meetings. David Ortiz on Yordan Alvarez doing what he never did and some Sox observations: www.bostonglobe.com/2026/11/14/s...",
+     "url": "https://bsky.app/profile/peteabeglobe.bsky.social/post/3n2c7p2fioc2g",
+     "sourceId": "bsky-peteabeglobe.bsky.social",
+     "sourceName": "Peter Abraham",
+     "sourceKind": "reporter",
+     "author": "Peter Abraham",
+     "publishedAt": "2026-11-14T19:18:48.165Z",
+     "firstSeenAt": "2026-11-14T20:06:20.189Z",
      "teams": [],
      "role": "mention",
      "status": null
@@ -32325,414 +32747,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"52b95f8a093ffbc71bd6c85ab009d9dc\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"3dcc242f4d12b73692efda3e6edc6bfe\""
+   "etag": "W/\"4ce0132f441bd04ec1548f018369fb95\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"baec4f3c97bf8bfde79f0b1057c68adf\""
+   "etag": "W/\"8d587698abc04f83d62c51628114bbf1\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"0c884d254b1346206d583cf3cf0c6993\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"c7f976a75a5ecf8f3ca9639cec023814\""
+   "etag": "W/\"8c295d4e2a55d496633aeeb27a66538b\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"034634b56b64a15d91048603ef21f787\""
+   "etag": "W/\"e64fe0ce0561ac00eab96bd49d123c5d\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"93217456e386895658f0d0029deeeb09\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"7e35aebb7274611a4613c448a8737df3\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"2f329297b0bb6f2f075e053dc0221802\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"0388c4a535f44074b49cd2bf0eb4743c\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"edf6e699ca28108ca6546b2b73b666b9\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"4704ee51e116d3cae9ab1c4608661539\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"8ab5ecd7f1f960f995870d792be2cea4\""
+   "etag": "W/\"3faf363faf70c9c4939eda15f48506d1\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"47ff634d3233dfeacf40f73233642ed2\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"75d02fbc3319eec00e96e76ed228d442\""
+   "etag": "W/\"9dddd5e5bdb4d8f95586021e4198deb8\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"3f3b549817af7a85965345b3c66ba659\""
+   "etag": "W/\"9d07104f6d30b8290003fb81666a1fae\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"5176e2fa0871426d28eeb15764b9db48\""
+   "etag": "W/\"b2accdc434a698d82107256c669bbb38\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"528da21f9377304592ee1d8153e512ab\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"3381a4fdcb65d6a9ca1bff9001ee7854\""
+   "etag": "W/\"d7bd5c3384999a813a9cdb64b2cafe70\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"ea302efc989ead0d44e94549b6a0853f\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"3110e9683d2c86724f33ee0fc1f5daa4\""
+   "etag": "W/\"5c8312dd8ebf288383c3b7c99e0f6e0a\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"f591d87791f73528e5fe6cbad0285221\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"09796686696b9f845368baaea236ff71\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"5b56da1a6983793fd372c7b87b98b6c8\""
+   "etag": "W/\"97ed09fec32a7a3dd4123586eb7a14f9\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "etag": "W/\"ad39cf69647fed601bde53c76d246c85\""
+   "etag": "W/\"e422243b0f6e06599ce6a742974c4bbc\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"0bdc277178785ed81fe85c46e6442d73\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"9d3477649c88ac4033100846828e70a8\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
    "etag": "W/\"eb5a98c1802d207044672c07eae75197\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null,
-   "lastModified": "Sat, 14 Nov 2026 15:43:46 GMT"
+   "lastModified": "Sat, 14 Nov 2026 20:06:22 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-14T15:43:44.040Z",
+   "lastSuccessAt": "2026-11-14T20:06:20.189Z",
    "lastError": null
   }
  }
