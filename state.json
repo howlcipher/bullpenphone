@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-15T10:57:39.948Z",
+ "updatedAt": "2026-11-15T17:39:41.045Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -858,8 +858,38 @@
    "status": "Interest",
    "statusAt": "2026-11-14T20:06:20.189Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "1aaf9a338a26c5c8",
+     "title": "Padres rotation needs remain talking point of offseason",
+     "url": "https://sports.yahoo.com/articles/padres-rotation-needs-remain-talking-144000003.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "cc6164663dd23ed5",
+     "title": "Mets Morning News: Skubal, first base rumors",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-skubal-first-141500845.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:15:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8432596f35aefd57",
      "title": "Mets reportedly interested in Ty France, Alec Bohm as potential first baseman",
@@ -1099,8 +1129,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "89fd010581f5c028",
+     "title": "Phillies news: Gage Wood, Andrew Painter, Jazz Chisholm",
+     "url": "https://www.thegoodphight.com/philadelphia-phillies-news/89371/phillies-news-gage-wood-andrew-painter-jazz-chisholm",
+     "sourceId": "sbn-phi",
+     "sourceName": "The Good Phight",
+     "sourceKind": "fansite",
+     "author": "Ethan Witte",
+     "publishedAt": "2026-11-15T12:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "0773f6de08411fc4",
      "title": "Phillies news: Justin Crawford, outfield, Jake Bauers",
@@ -1879,8 +1925,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "cc6164663dd23ed5",
+     "title": "Mets Morning News: Skubal, first base rumors",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-skubal-first-141500845.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:15:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8432596f35aefd57",
      "title": "Mets reportedly interested in Ty France, Alec Bohm as potential first baseman",
@@ -3657,8 +3718,38 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T04:05:55.451Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "1aaf9a338a26c5c8",
+     "title": "Padres rotation needs remain talking point of offseason",
+     "url": "https://sports.yahoo.com/articles/padres-rotation-needs-remain-talking-144000003.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "cc6164663dd23ed5",
+     "title": "Mets Morning News: Skubal, first base rumors",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-skubal-first-141500845.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:15:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "58fcda7894816649",
      "title": "Dodgers, Mets, Padres, Blue Jays emerge as Tarik Skubal suitors as market for top MLB free agent takes shape",
@@ -3775,8 +3866,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "63c9531c7e9e9665",
+     "title": "Mariners News: J.P. Crawford, Ketel Marte, and Kris Bubic",
+     "url": "https://www.lookoutlanding.com/seattle-mariners-news/24480543/mariners-news-j-p-crawford-ketel-marte-and-kris-bubic",
+     "sourceId": "sbn-sea",
+     "sourceName": "Lookout Landing",
+     "sourceKind": "fansite",
+     "author": "Nick Tucker",
+     "publishedAt": "2026-11-15T15:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "a569dbe33ff44791",
      "title": "Mariners News: Lou Piniella, Jake Bauers, and The Las Vegas A’s",
@@ -4274,8 +4381,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T23:32:23.064Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "10d2ea7f0e4ebcdd",
+     "title": "Orioles news: Offseason deadline looms, prospects triumph in Arizona",
+     "url": "https://sports.yahoo.com/articles/orioles-news-offseason-deadline-looms-133000359.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:30:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "5467af329d4ca609",
      "title": "Boras thinks Orioles will continue to be aggressive in pursuing free agents #Orioles",
@@ -4787,8 +4909,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "1aaf9a338a26c5c8",
+     "title": "Padres rotation needs remain talking point of offseason",
+     "url": "https://sports.yahoo.com/articles/padres-rotation-needs-remain-talking-144000003.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "990ae2a657124bb4",
      "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
@@ -6399,11 +6536,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T05:07:00.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "86655cfe5921061f",
@@ -6698,8 +6835,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "cc6164663dd23ed5",
+     "title": "Mets Morning News: Skubal, first base rumors",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-skubal-first-141500845.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:15:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "d028ec4e006ddb41",
      "title": "\"We beat the 1962 Mets. Therefore, we never need to improve. Just like the 2026 Brewers, who keep doing the same thing unchanged each season. I am a baseball-knower.\"",
@@ -7113,8 +7265,23 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "8939eb46781406ed",
+     "title": "Tigers checking in on veteran closer RHP Raisel Iglesias, per report",
+     "url": "https://sports.yahoo.com/articles/tigers-checking-veteran-closer-rhp-170000776.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T17:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4073429f797ca5c7",
      "title": "Orioles news: Notable free agents are starting to sign",
@@ -7564,8 +7731,23 @@
    "status": "Interest",
    "statusAt": "2026-11-13T21:58:51.235Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "1aaf9a338a26c5c8",
+     "title": "Padres rotation needs remain talking point of offseason",
+     "url": "https://sports.yahoo.com/articles/padres-rotation-needs-remain-talking-144000003.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "6f028404c35c97c7",
      "title": "Should the Red Sox consider free agent pitcher Michael King?",
@@ -7955,8 +8137,38 @@
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-15T10:57:39.948Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "1aaf9a338a26c5c8",
+     "title": "Padres rotation needs remain talking point of offseason",
+     "url": "https://sports.yahoo.com/articles/padres-rotation-needs-remain-talking-144000003.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "cc6164663dd23ed5",
+     "title": "Mets Morning News: Skubal, first base rumors",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-skubal-first-141500845.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:15:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "54896898affaaabe",
      "title": "Dodgers may have something to worry about as Padres make top free-agency priority clear",
@@ -7966,9 +8178,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T01:33:20.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e65e524c2610708e",
@@ -8841,8 +9053,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "5e1ac9c65cd5d3bb",
+     "title": "Dodgers notes: Jonathan Loaisiga, Tim Hill, Shohei Ohtani",
+     "url": "https://sports.yahoo.com/articles/dodgers-notes-jonathan-loaisiga-tim-130900583.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:09:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "fc15dc18e647f503",
      "title": "Dodgers notes: Pedro Guerrero, Shohei Ohtani, Yoshinobu Yamamoto",
@@ -8964,8 +9191,23 @@
    "status": "Interest",
    "statusAt": "2026-11-14T02:14:58.875Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "5e1ac9c65cd5d3bb",
+     "title": "Dodgers notes: Jonathan Loaisiga, Tim Hill, Shohei Ohtani",
+     "url": "https://sports.yahoo.com/articles/dodgers-notes-jonathan-loaisiga-tim-130900583.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:09:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "fc15dc18e647f503",
      "title": "Dodgers notes: Pedro Guerrero, Shohei Ohtani, Yoshinobu Yamamoto",
@@ -9988,8 +10230,23 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "1aaf9a338a26c5c8",
+     "title": "Padres rotation needs remain talking point of offseason",
+     "url": "https://sports.yahoo.com/articles/padres-rotation-needs-remain-talking-144000003.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "990ae2a657124bb4",
      "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
@@ -10074,9 +10331,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T01:33:20.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6f028404c35c97c7",
@@ -10496,8 +10753,24 @@
    "status": "Interest",
    "statusAt": "2026-11-13T01:15:53.666Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "89fd010581f5c028",
+     "title": "Phillies news: Gage Wood, Andrew Painter, Jazz Chisholm",
+     "url": "https://www.thegoodphight.com/philadelphia-phillies-news/89371/phillies-news-gage-wood-andrew-painter-jazz-chisholm",
+     "sourceId": "sbn-phi",
+     "sourceName": "The Good Phight",
+     "sourceKind": "fansite",
+     "author": "Ethan Witte",
+     "publishedAt": "2026-11-15T12:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4bae0a385f977898",
      "title": "Latest notes with Will Sammon: -Red Sox acting way a big-market team with a good farm system should -Brewers mulling 1B options -Braves just getting started -Items on Jazz Chisholm Jr., Joe Espada, Kris Bubic and Zach Plesac -Ejections down with ABS www.nytimes.com/athletic/778...",
@@ -11471,8 +11744,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T04:05:55.451Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "1aaf9a338a26c5c8",
+     "title": "Padres rotation needs remain talking point of offseason",
+     "url": "https://sports.yahoo.com/articles/padres-rotation-needs-remain-talking-144000003.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1538317c25d1ff97",
      "title": "Padres sign RHP Ryan Weiss to major league contract",
@@ -19035,8 +19323,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-15T10:57:39.948Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "63c9531c7e9e9665",
+     "title": "Mariners News: J.P. Crawford, Ketel Marte, and Kris Bubic",
+     "url": "https://www.lookoutlanding.com/seattle-mariners-news/24480543/mariners-news-j-p-crawford-ketel-marte-and-kris-bubic",
+     "sourceId": "sbn-sea",
+     "sourceName": "Lookout Landing",
+     "sourceKind": "fansite",
+     "author": "Nick Tucker",
+     "publishedAt": "2026-11-15T15:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0488b68d0ce1a7e7",
      "title": "Braves News: Players reviews, offseason marches on, more",
@@ -19046,11 +19350,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T05:07:00.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4bae0a385f977898",
@@ -19337,12 +19641,29 @@
    "type": "player",
    "subject": "Raisel Iglesias",
    "mlbamId": 628452,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "DET"
+   ],
+   "status": "Interest",
+   "statusAt": "2026-11-15T17:39:41.045Z",
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "8939eb46781406ed",
+     "title": "Tigers checking in on veteran closer RHP Raisel Iglesias, per report",
+     "url": "https://sports.yahoo.com/articles/tigers-checking-veteran-closer-rhp-170000776.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T17:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "4b18ce97b4c5b6fe",
      "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
@@ -20565,8 +20886,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T13:34:48.860Z",
-   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "d124f9627fd8cb8e",
+     "title": "Yankees bring back Tim Hill on a one-year contract",
+     "url": "https://sports.yahoo.com/articles/yankees-bring-back-tim-hill-163552059.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T16:35:52.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "376aaa89e7782816",
      "title": "Who are the Yankees’ major league trade chips?",
@@ -21002,8 +21338,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "1aaf9a338a26c5c8",
+     "title": "Padres rotation needs remain talking point of offseason",
+     "url": "https://sports.yahoo.com/articles/padres-rotation-needs-remain-talking-144000003.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "990ae2a657124bb4",
      "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
@@ -22628,8 +22979,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-07T18:16:15.660Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "cc6164663dd23ed5",
+     "title": "Mets Morning News: Skubal, first base rumors",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-skubal-first-141500845.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:15:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "a29ba581cbc8c6aa",
      "title": "Would you trade Jhoan Duran?",
@@ -25215,8 +25581,39 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "1aaf9a338a26c5c8",
+     "title": "Padres rotation needs remain talking point of offseason",
+     "url": "https://sports.yahoo.com/articles/padres-rotation-needs-remain-talking-144000003.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "41565957d38d05a4",
+     "title": "Good Morning San Diego: Padres rotation needs remain talking point of offseason",
+     "url": "https://www.gaslampball.com/san-diego-padres-news/63330/good-morning-san-diego-padres-rotation-needs-remain-talking-point-of-offseason",
+     "sourceId": "sbn-sd",
+     "sourceName": "Gaslamp Ball",
+     "sourceKind": "fansite",
+     "author": "Matt DeWalt",
+     "publishedAt": "2026-11-15T14:40:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "ac161ab41b34bfc9",
      "title": "Padres need starting pitching",
@@ -25254,9 +25651,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T01:33:20.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "ac161ab41b34bfc9",
@@ -25608,8 +26005,24 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-15T10:57:39.948Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "63c9531c7e9e9665",
+     "title": "Mariners News: J.P. Crawford, Ketel Marte, and Kris Bubic",
+     "url": "https://www.lookoutlanding.com/seattle-mariners-news/24480543/mariners-news-j-p-crawford-ketel-marte-and-kris-bubic",
+     "sourceId": "sbn-sea",
+     "sourceName": "Lookout Landing",
+     "sourceKind": "fansite",
+     "author": "Nick Tucker",
+     "publishedAt": "2026-11-15T15:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0488b68d0ce1a7e7",
      "title": "Braves News: Players reviews, offseason marches on, more",
@@ -25619,11 +26032,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T05:07:00.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7deba82b3d19c3d4",
@@ -27495,8 +27908,53 @@
    "status": "Linked",
    "statusAt": "2026-11-11T09:27:02.687Z",
    "firstSeenAt": "2026-11-11T09:27:02.687Z",
-   "lastActivityAt": "2026-11-15T10:57:39.948Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "8939eb46781406ed",
+     "title": "Tigers checking in on veteran closer RHP Raisel Iglesias, per report",
+     "url": "https://sports.yahoo.com/articles/tigers-checking-veteran-closer-rhp-170000776.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T17:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "cc6164663dd23ed5",
+     "title": "Mets Morning News: Skubal, first base rumors",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-skubal-first-141500845.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:15:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "5e1ac9c65cd5d3bb",
+     "title": "Dodgers notes: Jonathan Loaisiga, Tim Hill, Shohei Ohtani",
+     "url": "https://sports.yahoo.com/articles/dodgers-notes-jonathan-loaisiga-tim-130900583.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:09:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0488b68d0ce1a7e7",
      "title": "Braves News: Players reviews, offseason marches on, more",
@@ -27506,11 +27964,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T05:07:00.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "54896898affaaabe",
@@ -27521,9 +27979,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T01:33:20.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "5af214ff78abad95",
@@ -27856,8 +28314,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T09:27:02.687Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "8939eb46781406ed",
+     "title": "Tigers checking in on veteran closer RHP Raisel Iglesias, per report",
+     "url": "https://sports.yahoo.com/articles/tigers-checking-veteran-closer-rhp-170000776.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T17:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b511e7dc4711abe4",
      "title": "Tigers showing interest in LHP Shota Imanaga, per report",
@@ -28651,8 +29124,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "89fd010581f5c028",
+     "title": "Phillies news: Gage Wood, Andrew Painter, Jazz Chisholm",
+     "url": "https://www.thegoodphight.com/philadelphia-phillies-news/89371/phillies-news-gage-wood-andrew-painter-jazz-chisholm",
+     "sourceId": "sbn-phi",
+     "sourceName": "The Good Phight",
+     "sourceKind": "fansite",
+     "author": "Ethan Witte",
+     "publishedAt": "2026-11-15T12:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "a6fde281ee961a7f",
      "title": "Three trade proposals for Washington Nationals outfielder Dylan Crews",
@@ -28735,8 +29224,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "63c9531c7e9e9665",
+     "title": "Mariners News: J.P. Crawford, Ketel Marte, and Kris Bubic",
+     "url": "https://www.lookoutlanding.com/seattle-mariners-news/24480543/mariners-news-j-p-crawford-ketel-marte-and-kris-bubic",
+     "sourceId": "sbn-sea",
+     "sourceName": "Lookout Landing",
+     "sourceKind": "fansite",
+     "author": "Nick Tucker",
+     "publishedAt": "2026-11-15T15:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "fcce0b98e0474bf6",
      "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
@@ -29147,8 +29652,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "d124f9627fd8cb8e",
+     "title": "Yankees bring back Tim Hill on a one-year contract",
+     "url": "https://sports.yahoo.com/articles/yankees-bring-back-tim-hill-163552059.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T16:35:52.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b511e7dc4711abe4",
      "title": "Tigers showing interest in LHP Shota Imanaga, per report",
@@ -29731,9 +30251,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T01:33:20.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "63e4feca2834db10",
@@ -29858,13 +30378,44 @@
    "subject": "Tim Hill",
    "mlbamId": 657612,
    "teams": [
-    "CLE"
+    "CLE",
+    "NYY"
    ],
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "d124f9627fd8cb8e",
+     "title": "Yankees bring back Tim Hill on a one-year contract",
+     "url": "https://sports.yahoo.com/articles/yankees-bring-back-tim-hill-163552059.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T16:35:52.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "5e1ac9c65cd5d3bb",
+     "title": "Dodgers notes: Jonathan Loaisiga, Tim Hill, Shohei Ohtani",
+     "url": "https://sports.yahoo.com/articles/dodgers-notes-jonathan-loaisiga-tim-130900583.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:09:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5b1029986511209c",
      "title": "Dodgers suffer first big offseason loss as former closer gets giant contract from Braves",
@@ -31188,8 +31739,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-12T20:23:24.566Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "5e1ac9c65cd5d3bb",
+     "title": "Dodgers notes: Jonathan Loaisiga, Tim Hill, Shohei Ohtani",
+     "url": "https://sports.yahoo.com/articles/dodgers-notes-jonathan-loaisiga-tim-130900583.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:09:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0f7ae6ab6d3245a8",
      "title": "Yankees, Mets and Blue Jays are among many teams in on ex-Yankee reliever Jonathan Loaisiga, who had a big year in Arizona (2.42 ERA, 1.03 WHIP)",
@@ -31246,8 +31812,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
    "items": [
+    {
+     "id": "8939eb46781406ed",
+     "title": "Tigers checking in on veteran closer RHP Raisel Iglesias, per report",
+     "url": "https://sports.yahoo.com/articles/tigers-checking-veteran-closer-rhp-170000776.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T17:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3ed9026080318195",
      "title": "Should the Dodgers re-sign Tarik Skubal? What we know from GM meetings",
@@ -32902,8 +33483,416 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T05:07:00.000Z",
      "firstSeenAt": "2026-11-15T10:57:39.948Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
+     ]
+    }
+   ]
+  },
+  "player-614173": {
+   "id": "player-614173",
+   "type": "player",
+   "subject": "Franchy Cordero",
+   "mlbamId": 614173,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "d124f9627fd8cb8e",
+     "title": "Yankees bring back Tim Hill on a one-year contract",
+     "url": "https://sports.yahoo.com/articles/yankees-bring-back-tim-hill-163552059.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T16:35:52.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-641482": {
+   "id": "player-641482",
+   "type": "player",
+   "subject": "Néstor Cortés",
+   "mlbamId": 641482,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "d124f9627fd8cb8e",
+     "title": "Yankees bring back Tim Hill on a one-year contract",
+     "url": "https://sports.yahoo.com/articles/yankees-bring-back-tim-hill-163552059.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T16:35:52.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-687396": {
+   "id": "player-687396",
+   "type": "player",
+   "subject": "Brent Headrick",
+   "mlbamId": 687396,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "d124f9627fd8cb8e",
+     "title": "Yankees bring back Tim Hill on a one-year contract",
+     "url": "https://sports.yahoo.com/articles/yankees-bring-back-tim-hill-163552059.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T16:35:52.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-642232": {
+   "id": "player-642232",
+   "type": "player",
+   "subject": "Ryan Yarbrough",
+   "mlbamId": 642232,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "d124f9627fd8cb8e",
+     "title": "Yankees bring back Tim Hill on a one-year contract",
+     "url": "https://sports.yahoo.com/articles/yankees-bring-back-tim-hill-163552059.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T16:35:52.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-621112": {
+   "id": "player-621112",
+   "type": "player",
+   "subject": "Paul Blackburn",
+   "mlbamId": 621112,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "d124f9627fd8cb8e",
+     "title": "Yankees bring back Tim Hill on a one-year contract",
+     "url": "https://sports.yahoo.com/articles/yankees-bring-back-tim-hill-163552059.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T16:35:52.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-670167": {
+   "id": "player-670167",
+   "type": "player",
+   "subject": "John Schreiber",
+   "mlbamId": 670167,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "d124f9627fd8cb8e",
+     "title": "Yankees bring back Tim Hill on a one-year contract",
+     "url": "https://sports.yahoo.com/articles/yankees-bring-back-tim-hill-163552059.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T16:35:52.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-822038": {
+   "id": "player-822038",
+   "type": "player",
+   "subject": "Ryan Lambert",
+   "mlbamId": 822038,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "cc6164663dd23ed5",
+     "title": "Mets Morning News: Skubal, first base rumors",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-skubal-first-141500845.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:15:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-572204": {
+   "id": "player-572204",
+   "type": "player",
+   "subject": "Trayce Thompson",
+   "mlbamId": 572204,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "cc6164663dd23ed5",
+     "title": "Mets Morning News: Skubal, first base rumors",
+     "url": "https://sports.yahoo.com/articles/mets-morning-news-skubal-first-141500845.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T14:15:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "5e1ac9c65cd5d3bb",
+     "title": "Dodgers notes: Jonathan Loaisiga, Tim Hill, Shohei Ohtani",
+     "url": "https://sports.yahoo.com/articles/dodgers-notes-jonathan-loaisiga-tim-130900583.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:09:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-702610": {
+   "id": "player-702610",
+   "type": "player",
+   "subject": "Ike Irish",
+   "mlbamId": 702610,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "10d2ea7f0e4ebcdd",
+     "title": "Orioles news: Offseason deadline looms, prospects triumph in Arizona",
+     "url": "https://sports.yahoo.com/articles/orioles-news-offseason-deadline-looms-133000359.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:30:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-694345": {
+   "id": "player-694345",
+   "type": "player",
+   "subject": "Patrick Reilly",
+   "mlbamId": 694345,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "10d2ea7f0e4ebcdd",
+     "title": "Orioles news: Offseason deadline looms, prospects triumph in Arizona",
+     "url": "https://sports.yahoo.com/articles/orioles-news-offseason-deadline-looms-133000359.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:30:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-800406": {
+   "id": "player-800406",
+   "type": "player",
+   "subject": "Aron Estrada",
+   "mlbamId": 800406,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "10d2ea7f0e4ebcdd",
+     "title": "Orioles news: Offseason deadline looms, prospects triumph in Arizona",
+     "url": "https://sports.yahoo.com/articles/orioles-news-offseason-deadline-looms-133000359.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:30:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-809254": {
+   "id": "player-809254",
+   "type": "player",
+   "subject": "Anthony Eyanson",
+   "mlbamId": 809254,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "10d2ea7f0e4ebcdd",
+     "title": "Orioles news: Offseason deadline looms, prospects triumph in Arizona",
+     "url": "https://sports.yahoo.com/articles/orioles-news-offseason-deadline-looms-133000359.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:30:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-605164": {
+   "id": "player-605164",
+   "type": "player",
+   "subject": "Dylan Bundy",
+   "mlbamId": 605164,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "10d2ea7f0e4ebcdd",
+     "title": "Orioles news: Offseason deadline looms, prospects triumph in Arizona",
+     "url": "https://sports.yahoo.com/articles/orioles-news-offseason-deadline-looms-133000359.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T13:30:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-805906": {
+   "id": "player-805906",
+   "type": "player",
+   "subject": "Gage Wood",
+   "mlbamId": 805906,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "items": [
+    {
+     "id": "89fd010581f5c028",
+     "title": "Phillies news: Gage Wood, Andrew Painter, Jazz Chisholm",
+     "url": "https://www.thegoodphight.com/philadelphia-phillies-news/89371/phillies-news-gage-wood-andrew-painter-jazz-chisholm",
+     "sourceId": "sbn-phi",
+     "sourceName": "The Good Phight",
+     "sourceKind": "fansite",
+     "author": "Ethan Witte",
+     "publishedAt": "2026-11-15T12:00:00.000Z",
+     "firstSeenAt": "2026-11-15T17:39:41.045Z",
+     "teams": [
+      "PHI"
      ],
      "role": "mention",
      "status": null
@@ -32916,414 +33905,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"52b95f8a093ffbc71bd6c85ab009d9dc\""
+   "etag": "W/\"c9b70e7a4e81229551efc9d3b7bc4d88\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"8a5df52d0f9a024121577651d5688899\""
+   "etag": "W/\"796d8173db3929add89315638a2d8497\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"f5be8012699a5f27836a96857cb0ad7d\""
+   "etag": "W/\"7ee44b3e707c2067bf9dc5dcfca3038e\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
    "etag": "W/\"0c884d254b1346206d583cf3cf0c6993\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"8c295d4e2a55d496633aeeb27a66538b\""
+   "etag": "W/\"88836b39504c279689b107b0571923e3\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
    "etag": "W/\"16f8982fb90a77f7c163185c43a66c4a\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
    "etag": "W/\"84c1cd24fbab0845ba5d5961b8e9f2d3\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"7e35aebb7274611a4613c448a8737df3\""
+   "etag": "W/\"b6689d550e644fb3e9b7f0141b8ae942\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"80e6bf660594a7581b493452041ae51f\""
+   "etag": "W/\"5a7821ca648356daff6c87ede626fe98\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
    "etag": "W/\"0388c4a535f44074b49cd2bf0eb4743c\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
    "etag": "W/\"42bdfb0567f8fa1fee477273955139b3\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
    "etag": "W/\"4704ee51e116d3cae9ab1c4608661539\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"3faf363faf70c9c4939eda15f48506d1\""
+   "etag": "W/\"e59c9299fba744600525872d276699d2\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"47ff634d3233dfeacf40f73233642ed2\""
+   "etag": "W/\"5fcb6d95cea5cdb9b0d413d5d968f2a9\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"95f12c99a74d81a50ca47f9fb2abc8a2\""
+   "etag": "W/\"4749e887fb78709c3181d3712e6029c8\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"9d07104f6d30b8290003fb81666a1fae\""
+   "etag": "W/\"d181a95dcb36a354c089b73969ab48a9\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"b2accdc434a698d82107256c669bbb38\""
+   "etag": "W/\"8105d8ce548ab8427c01b9d1d6e9b370\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"528da21f9377304592ee1d8153e512ab\""
+   "etag": "W/\"5bad7457337b9fe9255e2e9c5b76701b\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"d7bd5c3384999a813a9cdb64b2cafe70\""
+   "etag": "W/\"ade3613a1fc3edd34f466dcacdd9e38f\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
    "etag": "W/\"738c192b789eeb34631d0fba1cf0c100\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
    "etag": "W/\"1d2be2a89d81977f0128af4e83e54ac5\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
    "etag": "W/\"f591d87791f73528e5fe6cbad0285221\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"863a2ad9460b638e420bb77f59a920dd\""
+   "etag": "W/\"c6c28892b9dcf76b4c339187d58e4f33\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"48b2204a6c310c66cc4b7fa48c4aebff\""
+   "etag": "W/\"c383890c81bd150f1023c9046cb1a8cf\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"994ff2b66fc40058c4edc4cc726b63d9\""
+   "etag": "W/\"50b8338f9ddc805e9cd73d4bab1839c5\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"0bdc277178785ed81fe85c46e6442d73\""
+   "etag": "W/\"ed582e419462a919b1179b40e7affdd4\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"0e286264e49519e987e9002495751d71\""
+   "etag": "W/\"1b749a15ddf17a04b357eb3c22ee6bfb\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "etag": "W/\"eb5a98c1802d207044672c07eae75197\""
+   "etag": "W/\"b5a5086c6035248833dc77405aff1527\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null,
-   "lastModified": "Sun, 15 Nov 2026 10:57:40 GMT"
+   "lastModified": "Sun, 15 Nov 2026 17:39:42 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-15T10:57:39.948Z",
+   "lastSuccessAt": "2026-11-15T17:39:41.045Z",
    "lastError": null
   }
  }
