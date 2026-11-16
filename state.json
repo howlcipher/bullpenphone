@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-16T08:59:10.063Z",
+ "updatedAt": "2026-11-16T19:30:11.951Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -1009,8 +1009,23 @@
    "status": "Linked",
    "statusAt": "2026-11-12T12:34:47.764Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T08:04:42.743Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "76141aab70f4c7b8",
+     "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/mlb-news-outside-confines-red-130000340.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2ad7b104810c14e8",
      "title": "Yankees news: Corey Seager in trade rumors",
@@ -1129,8 +1144,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "18a145f23d25b8ac",
+     "title": "Phillies news: Max Kranick, payroll, Ketel Marte",
+     "url": "https://www.thegoodphight.com/philadelphia-phillies-news/89399/phillies-news-max-kranick-payroll-ketel-marte",
+     "sourceId": "sbn-phi",
+     "sourceName": "The Good Phight",
+     "sourceKind": "fansite",
+     "author": "Ethan Witte",
+     "publishedAt": "2026-11-16T12:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "89fd010581f5c028",
      "title": "Phillies news: Gage Wood, Andrew Painter, Jazz Chisholm",
@@ -2061,8 +2092,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "054d75de0541d41e",
+     "title": "Washington Nationals in the mix for two pitching targets",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-mix-two-pitching-155500951.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:55:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5f21a4eb1dddecbc",
      "title": "The Phillies are reportedly interested in Ha-Seong Kim. Are you?",
@@ -2334,8 +2380,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "054d75de0541d41e",
+     "title": "Washington Nationals in the mix for two pitching targets",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-mix-two-pitching-155500951.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:55:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "14d4ae1ab2c151a1",
      "title": "Which free agent outfielder fits the Phillies best?",
@@ -2558,8 +2619,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "054d75de0541d41e",
+     "title": "Washington Nationals in the mix for two pitching targets",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-mix-two-pitching-155500951.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:55:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e819f8847fcb9cd3",
      "title": "MLB lockout tracker: What CBA talks mean for Phillies baseball",
@@ -2776,8 +2852,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "505ed2516b72fbf7",
+     "title": "Notes on Alex Vesia and an Outfield Idea",
+     "url": "https://sports.yahoo.com/articles/notes-alex-vesia-outfield-idea-160000780.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T16:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5af214ff78abad95",
      "title": "Kansas City Royals news: The Royals seek a right-handed hitting outfielder",
@@ -3075,8 +3164,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "44aba6105d543fe7",
+     "title": "The Moments that Made the 2026 Red Sox: The Sox get knocked down but they get up again, again, again, again, and again",
+     "url": "https://sports.yahoo.com/articles/moments-made-2026-red-sox-170000770.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "37e0a8a0d93ab9be",
      "title": "Scott Boras said he's had 'heavy' communication with the Red Sox. Craig Breslow is now president of baseball operations. The Red Sox are conducting an internal audit of their medical staff this offseason. That and more here www.nytimes.com/athletic/777...",
@@ -3326,8 +3430,23 @@
    "status": "Linked",
    "statusAt": "2026-11-13T16:11:10.798Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "76141aab70f4c7b8",
+     "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/mlb-news-outside-confines-red-130000340.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "c285cbb20ce5a7af",
      "title": "Speculation about a potential Elly De La Cruz trade from the #reds began last month. There are pros and cons to moving him and keeping him. Here’s a look at the situation. www.mlb.com/news/elly-de...",
@@ -3882,8 +4001,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "12160c293a86919c",
+     "title": "Mariners News: Troy Watson, Ryan Walker, and Pablo Sandoval",
+     "url": "https://www.lookoutlanding.com/seattle-mariners-news/151046/mariners-news-troy-watson-ryan-walker-and-pablo-sandoval",
+     "sourceId": "sbn-sea",
+     "sourceName": "Lookout Landing",
+     "sourceKind": "fansite",
+     "author": "Connor Donovan",
+     "publishedAt": "2026-11-16T15:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "63c9531c7e9e9665",
      "title": "Mariners News: J.P. Crawford, Ketel Marte, and Kris Bubic",
@@ -4654,8 +4789,36 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "44aba6105d543fe7",
+     "title": "The Moments that Made the 2026 Red Sox: The Sox get knocked down but they get up again, again, again, again, and again",
+     "url": "https://sports.yahoo.com/articles/moments-made-2026-red-sox-170000770.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "1b558b5906cc8082",
+     "title": "Potential trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/potential-trade-target-jarren-duran-150155170.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:01:55.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "39cd52d99c8f5338",
      "title": "Jake Bauers signs with Boston Red Sox",
@@ -4758,8 +4921,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "44aba6105d543fe7",
+     "title": "The Moments that Made the 2026 Red Sox: The Sox get knocked down but they get up again, again, again, again, and again",
+     "url": "https://sports.yahoo.com/articles/moments-made-2026-red-sox-170000770.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "47dc4868e6c73e8d",
      "title": "Red Sox trio of Ceddanne Rafaela, Wilyer Abreu, Caleb Durbin take home Gold Gloves",
@@ -4787,8 +4965,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "1b558b5906cc8082",
+     "title": "Potential trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/potential-trade-target-jarren-duran-150155170.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:01:55.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "39cd52d99c8f5338",
      "title": "Jake Bauers signs with Boston Red Sox",
@@ -5000,8 +5191,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "505ed2516b72fbf7",
+     "title": "Notes on Alex Vesia and an Outfield Idea",
+     "url": "https://sports.yahoo.com/articles/notes-alex-vesia-outfield-idea-160000780.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T16:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "173b39b3403f60cb",
      "title": "Tampa Bay Rays decline options on Nick Martinez, Cedric Mullins",
@@ -5337,8 +5541,38 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "313cf831f2705bc8",
+     "title": "The Tigers need to open three spots on their 40-man roster by Tuesday",
+     "url": "https://sports.yahoo.com/articles/tigers-open-three-spots-40-170000192.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "2816edf4195a7ecf",
+     "title": "Detroit Tigers News: Kevin McGonigle, free agency, MLB hot stove, Ryan Walker, Shohei Ohtani, Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-140000208.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "af5255386081edf6",
      "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
@@ -5505,13 +5739,29 @@
    "subject": "Ryan Jeffers",
    "mlbamId": 680777,
    "teams": [
-    "MIN"
+    "MIN",
+    "CHC"
    ],
-   "status": null,
-   "statusAt": null,
+   "status": "Linked",
+   "statusAt": "2026-11-16T19:30:11.951Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "49e71768bb2a0304",
+     "title": "Cubs free agent target: Ryan Jeffers",
+     "url": "https://sports.yahoo.com/articles/cubs-free-agent-target-ryan-150000718.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    },
     {
      "id": "eb70bb7b176f4697",
      "title": "Twins extend qualifying offer to catcher Ryan Jeffers",
@@ -6556,8 +6806,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "4ed4edc2f69ef144",
+     "title": "Braves News: Raisel Iglesias Interest, Trade Chips, more",
+     "url": "https://www.batterypower.com/atlanta-braves-analysis/142328/braves-news-raisel-iglesias-interest-trade-chips-more",
+     "sourceId": "sbn-atl",
+     "sourceName": "Battery Power",
+     "sourceKind": "fansite",
+     "author": "Shawn Coleman",
+     "publishedAt": "2026-11-16T11:53:21.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "0992733f8b4bab74",
      "title": "Offseason open chat and discussion: November 15",
@@ -7312,8 +7578,23 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "313cf831f2705bc8",
+     "title": "The Tigers need to open three spots on their 40-man roster by Tuesday",
+     "url": "https://sports.yahoo.com/articles/tigers-open-three-spots-40-170000192.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8939eb46781406ed",
      "title": "Tigers checking in on veteran closer RHP Raisel Iglesias, per report",
@@ -7778,8 +8059,66 @@
    "status": "Interest",
    "statusAt": "2026-11-13T21:58:51.235Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "054d75de0541d41e",
+     "title": "Washington Nationals in the mix for two pitching targets",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-mix-two-pitching-155500951.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:55:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "1b558b5906cc8082",
+     "title": "Potential trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/potential-trade-target-jarren-duran-150155170.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:01:55.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "2816edf4195a7ecf",
+     "title": "Detroit Tigers News: Kevin McGonigle, free agency, MLB hot stove, Ryan Walker, Shohei Ohtani, Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-140000208.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "76141aab70f4c7b8",
+     "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/mlb-news-outside-confines-red-130000340.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "1aaf9a338a26c5c8",
      "title": "Padres rotation needs remain talking point of offseason",
@@ -8184,8 +8523,37 @@
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "b26fec9ed6497e04",
+     "title": "In the shadow of Tarik Skubal, Trevor Rogers emerges as a free agent to watch. Column, unlocked and free to read: www.nytimes.com/athletic/778...",
+     "url": "https://bsky.app/profile/ken-rosenthal.bsky.social/post/3n2gmdsz5qs2h",
+     "sourceId": "bsky-ken-rosenthal.bsky.social",
+     "sourceName": "Ken Rosenthal",
+     "sourceKind": "reporter",
+     "author": "Ken Rosenthal",
+     "publishedAt": "2026-11-16T13:15:48.917Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "76141aab70f4c7b8",
+     "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/mlb-news-outside-confines-red-130000340.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1aaf9a338a26c5c8",
      "title": "Padres rotation needs remain talking point of offseason",
@@ -9022,8 +9390,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "fb096102e36706ae",
+     "title": "Arizona Diamondbacks News, 11/16: Ketel Marte rumors edition",
+     "url": "https://www.azsnakepit.com/arizona-diamondbacks-news/99157/arizona-diamondbacks-news-ketel-marte-rumors",
+     "sourceId": "sbn-ari",
+     "sourceName": "AZ Snake Pit",
+     "sourceKind": "fansite",
+     "author": "Jim McLennan",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "ARI"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "1c9ca696eca8a19d",
      "title": "Offseason expectations for the Diamondbacks",
@@ -9238,8 +9622,23 @@
    "status": "Interest",
    "statusAt": "2026-11-14T02:14:58.875Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "2816edf4195a7ecf",
+     "title": "Detroit Tigers News: Kevin McGonigle, free agency, MLB hot stove, Ryan Walker, Shohei Ohtani, Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-140000208.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5e1ac9c65cd5d3bb",
      "title": "Dodgers notes: Jonathan Loaisiga, Tim Hill, Shohei Ohtani",
@@ -10277,8 +10676,23 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "054d75de0541d41e",
+     "title": "Washington Nationals in the mix for two pitching targets",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-mix-two-pitching-155500951.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:55:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1aaf9a338a26c5c8",
      "title": "Padres rotation needs remain talking point of offseason",
@@ -11155,8 +11569,35 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "505ed2516b72fbf7",
+     "title": "Notes on Alex Vesia and an Outfield Idea",
+     "url": "https://sports.yahoo.com/articles/notes-alex-vesia-outfield-idea-160000780.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T16:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "7baaadb57b12c955",
+     "title": "Tomorrow is the QO deadline and 40-man add deadline. #BlueJays expected to add a couple players to 40, even with the R5 uncertainty. SP Nolan Perry seems like a lock add, then decisions on guys like Gage Stanifer, Josh Kasevich, Daniel Guerra, Jay Harry, RJ Schreck etc",
+     "url": "https://bsky.app/profile/mitchbannon.bsky.social/post/3n2gux74t7s2u",
+     "sourceId": "bsky-mitchbannon.bsky.social",
+     "sourceName": "Mitch Bannon",
+     "sourceKind": "reporter",
+     "author": "Mitch Bannon",
+     "publishedAt": "2026-11-16T15:49:49.092Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "b5fccf75b28c8f2b",
      "title": "Sunday Baseball Notes are now posted. This week: Notes and quotes from the GM Meetings. David Ortiz on Yordan Alvarez doing what he never did and some Sox observations: www.bostonglobe.com/2026/11/14/s...",
@@ -13774,8 +14215,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "44aba6105d543fe7",
+     "title": "The Moments that Made the 2026 Red Sox: The Sox get knocked down but they get up again, again, again, again, and again",
+     "url": "https://sports.yahoo.com/articles/moments-made-2026-red-sox-170000770.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e8a3310545b07cc1",
      "title": "Red Sox roster moves: Activated Triston Casas, Kutter Crawford, Zack Kelly, Johan Oviedo, Eduardo Rivera, Justin Slaten, and Eli White off the 60-day IL. Then DFA'd Kelly and Rivera. The 40-man roster is at 40.",
@@ -14388,8 +14844,21 @@
    "status": "Linked",
    "statusAt": "2026-11-13T21:58:51.235Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "1b558b5906cc8082",
+     "title": "Potential trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/potential-trade-target-jarren-duran-150155170.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:01:55.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "e65e524c2610708e",
      "title": "Chicago Cubs news — PCA MVP, Happ, Suzuki, free agent pitching targets",
@@ -15570,8 +16039,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "054d75de0541d41e",
+     "title": "Washington Nationals in the mix for two pitching targets",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-mix-two-pitching-155500951.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:55:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "eb13d8de1adfb065",
      "title": "Will the Washington Nationals make major offensive additions this offseason?",
@@ -16518,8 +17002,22 @@
    "status": "Interest",
    "statusAt": "2026-11-11T02:13:00.180Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "b26fec9ed6497e04",
+     "title": "In the shadow of Tarik Skubal, Trevor Rogers emerges as a free agent to watch. Column, unlocked and free to read: www.nytimes.com/athletic/778...",
+     "url": "https://bsky.app/profile/ken-rosenthal.bsky.social/post/3n2gmdsz5qs2h",
+     "sourceId": "bsky-ken-rosenthal.bsky.social",
+     "sourceName": "Ken Rosenthal",
+     "sourceKind": "reporter",
+     "author": "Ken Rosenthal",
+     "publishedAt": "2026-11-16T13:15:48.917Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e65e524c2610708e",
      "title": "Chicago Cubs news — PCA MVP, Happ, Suzuki, free agent pitching targets",
@@ -16903,8 +17401,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "2816edf4195a7ecf",
+     "title": "Detroit Tigers News: Kevin McGonigle, free agency, MLB hot stove, Ryan Walker, Shohei Ohtani, Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-140000208.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "af5255386081edf6",
      "title": "Detroit Tigers News: Kevin McGonigle Rookie of the Year, Bob Boone, MLB Manager of the Year",
@@ -18425,8 +18938,21 @@
    "status": "Linked",
    "statusAt": "2026-11-10T17:50:09.058Z",
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "505ed2516b72fbf7",
+     "title": "Notes on Alex Vesia and an Outfield Idea",
+     "url": "https://sports.yahoo.com/articles/notes-alex-vesia-outfield-idea-160000780.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T16:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "dd4423ce0accc9a4",
      "title": "St. Louis Cardinals Center Field Target: Luis Robert Jr",
@@ -19695,8 +20221,24 @@
    "status": "Interest",
    "statusAt": "2026-11-15T17:39:41.045Z",
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "4ed4edc2f69ef144",
+     "title": "Braves News: Raisel Iglesias Interest, Trade Chips, more",
+     "url": "https://www.batterypower.com/atlanta-braves-analysis/142328/braves-news-raisel-iglesias-interest-trade-chips-more",
+     "sourceId": "sbn-atl",
+     "sourceName": "Battery Power",
+     "sourceKind": "fansite",
+     "author": "Shawn Coleman",
+     "publishedAt": "2026-11-16T11:53:21.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "92de8782aa5eae21",
      "title": "Braves reportedly interested in bringing back Raisel Iglesias",
@@ -19924,8 +20466,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-09T19:44:35.174Z",
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "76141aab70f4c7b8",
+     "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/mlb-news-outside-confines-red-130000340.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8b08691f41c96c62",
      "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
@@ -23938,8 +24495,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "44aba6105d543fe7",
+     "title": "The Moments that Made the 2026 Red Sox: The Sox get knocked down but they get up again, again, again, again, and again",
+     "url": "https://sports.yahoo.com/articles/moments-made-2026-red-sox-170000770.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "42ee87876961b178",
      "title": "How the looming lockout might affect the Red Sox offseason plans",
@@ -25278,8 +25850,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T02:25:25.124Z",
-   "lastActivityAt": "2026-11-11T23:32:23.064Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "2816edf4195a7ecf",
+     "title": "Detroit Tigers News: Kevin McGonigle, free agency, MLB hot stove, Ryan Walker, Shohei Ohtani, Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-140000208.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1b16607923454dc6",
      "title": "Giants to hire former Yankees hitting coach in newly created offensive role",
@@ -26007,8 +26594,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "88644f1e8a1d81b7",
+     "title": "What would Alec Burleson get back in a trade?",
+     "url": "https://sports.yahoo.com/articles/alec-burleson-back-trade-130000575.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8432596f35aefd57",
      "title": "Mets reportedly interested in Ty France, Alec Bohm as potential first baseman",
@@ -26078,13 +26678,77 @@
    "subject": "Ketel Marte",
    "mlbamId": 606466,
    "teams": [
-    "ARI"
+    "ARI",
+    "BAL"
    ],
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "fb096102e36706ae",
+     "title": "Arizona Diamondbacks News, 11/16: Ketel Marte rumors edition",
+     "url": "https://www.azsnakepit.com/arizona-diamondbacks-news/99157/arizona-diamondbacks-news-ketel-marte-rumors",
+     "sourceId": "sbn-ari",
+     "sourceName": "AZ Snake Pit",
+     "sourceKind": "fansite",
+     "author": "Jim McLennan",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "ARI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "76141aab70f4c7b8",
+     "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/mlb-news-outside-confines-red-130000340.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "18a145f23d25b8ac",
+     "title": "Phillies news: Max Kranick, payroll, Ketel Marte",
+     "url": "https://www.thegoodphight.com/philadelphia-phillies-news/89399/phillies-news-max-kranick-payroll-ketel-marte",
+     "sourceId": "sbn-phi",
+     "sourceName": "The Good Phight",
+     "sourceKind": "fansite",
+     "author": "Ethan Witte",
+     "publishedAt": "2026-11-16T12:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "702e87ef6a9d23d5",
+     "title": "Orioles have reported interest in Arizona’s Ketel Marte #Orioles",
+     "url": "https://bsky.app/profile/richdubroffmlb.bsky.social/post/3n2ge5nwq722q",
+     "sourceId": "bsky-richdubroffmlb.bsky.social",
+     "sourceName": "Rich Dubroff",
+     "sourceKind": "reporter",
+     "author": "Rich Dubroff",
+     "publishedAt": "2026-11-16T10:49:12.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "63c9531c7e9e9665",
      "title": "Mariners News: J.P. Crawford, Ketel Marte, and Kris Bubic",
@@ -27115,8 +27779,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T22:35:18.324Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "1b558b5906cc8082",
+     "title": "Potential trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/potential-trade-target-jarren-duran-150155170.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:01:55.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4e184749502df4eb",
      "title": "Looking for starter-to-reliever conversion candidates for the Mets",
@@ -28017,8 +28694,38 @@
    "status": "Linked",
    "statusAt": "2026-11-11T09:27:02.687Z",
    "firstSeenAt": "2026-11-11T09:27:02.687Z",
-   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "054d75de0541d41e",
+     "title": "Washington Nationals in the mix for two pitching targets",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-mix-two-pitching-155500951.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:55:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "76141aab70f4c7b8",
+     "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/mlb-news-outside-confines-red-130000340.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "92de8782aa5eae21",
      "title": "Braves reportedly interested in bringing back Raisel Iglesias",
@@ -28968,8 +29675,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "49e71768bb2a0304",
+     "title": "Cubs free agent target: Ryan Jeffers",
+     "url": "https://sports.yahoo.com/articles/cubs-free-agent-target-ryan-150000718.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b7278648ac57cf71",
      "title": "Cubs trade target: Reid Detmers",
@@ -30410,8 +31132,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-12T12:34:47.764Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-15T10:57:39.948Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "505ed2516b72fbf7",
+     "title": "Notes on Alex Vesia and an Outfield Idea",
+     "url": "https://sports.yahoo.com/articles/notes-alex-vesia-outfield-idea-160000780.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T16:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "54896898affaaabe",
      "title": "Dodgers may have something to worry about as Padres make top free-agency priority clear",
@@ -30554,8 +31289,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "76141aab70f4c7b8",
+     "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/mlb-news-outside-confines-red-130000340.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "81c7e5430bace83a",
      "title": "Yankees reportedly re-sign lefty reliever Tim Hill to 1-year, $2.25 million deal",
@@ -31097,8 +31847,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T12:34:47.764Z",
    "firstSeenAt": "2026-11-12T12:34:47.764Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "054d75de0541d41e",
+     "title": "Washington Nationals in the mix for two pitching targets",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-mix-two-pitching-155500951.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:55:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "316bd91d02259717",
      "title": "A.J. Minter did his job well and then got traded",
@@ -31894,8 +32659,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-12T20:23:24.566Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "505ed2516b72fbf7",
+     "title": "Notes on Alex Vesia and an Outfield Idea",
+     "url": "https://sports.yahoo.com/articles/notes-alex-vesia-outfield-idea-160000780.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T16:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1159d1b22173e609",
      "title": "Notes from GM Meetings with Will Sammon: — Alec Bohm/NY teams — Rays trade possibilities — Randal Grichuk — Teruaki Sato/Rangers — Jarren Duran www.nytimes.com/athletic/777...",
@@ -32044,8 +32822,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "2816edf4195a7ecf",
+     "title": "Detroit Tigers News: Kevin McGonigle, free agency, MLB hot stove, Ryan Walker, Shohei Ohtani, Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-140000208.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8939eb46781406ed",
      "title": "Tigers checking in on veteran closer RHP Raisel Iglesias, per report",
@@ -32729,8 +33522,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T16:11:10.798Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "88644f1e8a1d81b7",
+     "title": "What would Alec Burleson get back in a trade?",
+     "url": "https://sports.yahoo.com/articles/alec-burleson-back-trade-130000575.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "68553d48792f595b",
      "title": "Elephant Rumblings: Calm Before the Labor and Free Agency Storm",
@@ -34206,8 +35012,54 @@
    "status": "Unclassified",
    "statusAt": "2026-11-16T01:56:40.964Z",
    "firstSeenAt": "2026-11-16T01:56:40.964Z",
-   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
    "items": [
+    {
+     "id": "12160c293a86919c",
+     "title": "Mariners News: Troy Watson, Ryan Walker, and Pablo Sandoval",
+     "url": "https://www.lookoutlanding.com/seattle-mariners-news/151046/mariners-news-troy-watson-ryan-walker-and-pablo-sandoval",
+     "sourceId": "sbn-sea",
+     "sourceName": "Lookout Landing",
+     "sourceKind": "fansite",
+     "author": "Connor Donovan",
+     "publishedAt": "2026-11-16T15:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "2816edf4195a7ecf",
+     "title": "Detroit Tigers News: Kevin McGonigle, free agency, MLB hot stove, Ryan Walker, Shohei Ohtani, Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-140000208.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "76141aab70f4c7b8",
+     "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/mlb-news-outside-confines-red-130000340.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "081e2a7532c6b430",
      "title": "Ryan Walker traded to the Brewers for a couple of pitching prospects",
@@ -34537,6 +35389,951 @@
      ]
     }
    ]
+  },
+  "player-800522": {
+   "id": "player-800522",
+   "type": "player",
+   "subject": "Josue Briceño",
+   "mlbamId": 800522,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "313cf831f2705bc8",
+     "title": "The Tigers need to open three spots on their 40-man roster by Tuesday",
+     "url": "https://sports.yahoo.com/articles/tigers-open-three-spots-40-170000192.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-801194": {
+   "id": "player-801194",
+   "type": "player",
+   "subject": "Max Anderson",
+   "mlbamId": 801194,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "313cf831f2705bc8",
+     "title": "The Tigers need to open three spots on their 40-man roster by Tuesday",
+     "url": "https://sports.yahoo.com/articles/tigers-open-three-spots-40-170000192.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "2816edf4195a7ecf",
+     "title": "Detroit Tigers News: Kevin McGonigle, free agency, MLB hot stove, Ryan Walker, Shohei Ohtani, Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-140000208.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-800508": {
+   "id": "player-800508",
+   "type": "player",
+   "subject": "Franyerber Montilla",
+   "mlbamId": 800508,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "313cf831f2705bc8",
+     "title": "The Tigers need to open three spots on their 40-man roster by Tuesday",
+     "url": "https://sports.yahoo.com/articles/tigers-open-three-spots-40-170000192.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-669724": {
+   "id": "player-669724",
+   "type": "player",
+   "subject": "Brenan Hanifee",
+   "mlbamId": 669724,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "313cf831f2705bc8",
+     "title": "The Tigers need to open three spots on their 40-man roster by Tuesday",
+     "url": "https://sports.yahoo.com/articles/tigers-open-three-spots-40-170000192.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-680744": {
+   "id": "player-680744",
+   "type": "player",
+   "subject": "Ty Madden",
+   "mlbamId": 680744,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "313cf831f2705bc8",
+     "title": "The Tigers need to open three spots on their 40-man roster by Tuesday",
+     "url": "https://sports.yahoo.com/articles/tigers-open-three-spots-40-170000192.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-646241": {
+   "id": "player-646241",
+   "type": "player",
+   "subject": "Enmanuel De Jesus",
+   "mlbamId": 646241,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "313cf831f2705bc8",
+     "title": "The Tigers need to open three spots on their 40-man roster by Tuesday",
+     "url": "https://sports.yahoo.com/articles/tigers-open-three-spots-40-170000192.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-690291": {
+   "id": "player-690291",
+   "type": "player",
+   "subject": "Jace Jung",
+   "mlbamId": 690291,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "313cf831f2705bc8",
+     "title": "The Tigers need to open three spots on their 40-man roster by Tuesday",
+     "url": "https://sports.yahoo.com/articles/tigers-open-three-spots-40-170000192.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-657136": {
+   "id": "player-657136",
+   "type": "player",
+   "subject": "Connor Wong",
+   "mlbamId": 657136,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "44aba6105d543fe7",
+     "title": "The Moments that Made the 2026 Red Sox: The Sox get knocked down but they get up again, again, again, again, and again",
+     "url": "https://sports.yahoo.com/articles/moments-made-2026-red-sox-170000770.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-547973": {
+   "id": "player-547973",
+   "type": "player",
+   "subject": "Aroldis Chapman",
+   "mlbamId": 547973,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "44aba6105d543fe7",
+     "title": "The Moments that Made the 2026 Red Sox: The Sox get knocked down but they get up again, again, again, again, and again",
+     "url": "https://sports.yahoo.com/articles/moments-made-2026-red-sox-170000770.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-805367": {
+   "id": "player-805367",
+   "type": "player",
+   "subject": "Chase Meidroth",
+   "mlbamId": 805367,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "44aba6105d543fe7",
+     "title": "The Moments that Made the 2026 Red Sox: The Sox get knocked down but they get up again, again, again, again, and again",
+     "url": "https://sports.yahoo.com/articles/moments-made-2026-red-sox-170000770.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-663330": {
+   "id": "player-663330",
+   "type": "player",
+   "subject": "Jahmai Jones",
+   "mlbamId": 663330,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "44aba6105d543fe7",
+     "title": "The Moments that Made the 2026 Red Sox: The Sox get knocked down but they get up again, again, again, again, and again",
+     "url": "https://sports.yahoo.com/articles/moments-made-2026-red-sox-170000770.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T17:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666969": {
+   "id": "player-666969",
+   "type": "player",
+   "subject": "Adolis García",
+   "mlbamId": 666969,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "505ed2516b72fbf7",
+     "title": "Notes on Alex Vesia and an Outfield Idea",
+     "url": "https://sports.yahoo.com/articles/notes-alex-vesia-outfield-idea-160000780.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T16:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-621438": {
+   "id": "player-621438",
+   "type": "player",
+   "subject": "Tyrone Taylor",
+   "mlbamId": 621438,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "505ed2516b72fbf7",
+     "title": "Notes on Alex Vesia and an Outfield Idea",
+     "url": "https://sports.yahoo.com/articles/notes-alex-vesia-outfield-idea-160000780.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T16:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-662139": {
+   "id": "player-662139",
+   "type": "player",
+   "subject": "Daulton Varsho",
+   "mlbamId": 662139,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "505ed2516b72fbf7",
+     "title": "Notes on Alex Vesia and an Outfield Idea",
+     "url": "https://sports.yahoo.com/articles/notes-alex-vesia-outfield-idea-160000780.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T16:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666142": {
+   "id": "player-666142",
+   "type": "player",
+   "subject": "Cole Ragans",
+   "mlbamId": 666142,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "1b558b5906cc8082",
+     "title": "Potential trade target: Jarren Duran",
+     "url": "https://sports.yahoo.com/articles/potential-trade-target-jarren-duran-150155170.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:01:55.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-665804": {
+   "id": "player-665804",
+   "type": "player",
+   "subject": "Miguel Amaya",
+   "mlbamId": 665804,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "49e71768bb2a0304",
+     "title": "Cubs free agent target: Ryan Jeffers",
+     "url": "https://sports.yahoo.com/articles/cubs-free-agent-target-ryan-150000718.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T15:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-690993": {
+   "id": "player-690993",
+   "type": "player",
+   "subject": "Colt Keith",
+   "mlbamId": 690993,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "2816edf4195a7ecf",
+     "title": "Detroit Tigers News: Kevin McGonigle, free agency, MLB hot stove, Ryan Walker, Shohei Ohtani, Jake Bauers",
+     "url": "https://sports.yahoo.com/articles/detroit-tigers-news-kevin-mcgonigle-140000208.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T14:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-676475": {
+   "id": "player-676475",
+   "type": "player",
+   "subject": "Alec Burleson",
+   "mlbamId": 676475,
+   "teams": [],
+   "status": "Unclassified",
+   "statusAt": "2026-11-16T19:30:11.951Z",
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "88644f1e8a1d81b7",
+     "title": "What would Alec Burleson get back in a trade?",
+     "url": "https://sports.yahoo.com/articles/alec-burleson-back-trade-130000575.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "player-806191": {
+   "id": "player-806191",
+   "type": "player",
+   "subject": "Tai Peete",
+   "mlbamId": 806191,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "88644f1e8a1d81b7",
+     "title": "What would Alec Burleson get back in a trade?",
+     "url": "https://sports.yahoo.com/articles/alec-burleson-back-trade-130000575.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-693409": {
+   "id": "player-693409",
+   "type": "player",
+   "subject": "César Prieto",
+   "mlbamId": 693409,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "88644f1e8a1d81b7",
+     "title": "What would Alec Burleson get back in a trade?",
+     "url": "https://sports.yahoo.com/articles/alec-burleson-back-trade-130000575.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-826536": {
+   "id": "player-826536",
+   "type": "player",
+   "subject": "Brian Curley",
+   "mlbamId": 826536,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "88644f1e8a1d81b7",
+     "title": "What would Alec Burleson get back in a trade?",
+     "url": "https://sports.yahoo.com/articles/alec-burleson-back-trade-130000575.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-663457": {
+   "id": "player-663457",
+   "type": "player",
+   "subject": "Lars Nootbaar",
+   "mlbamId": 663457,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "88644f1e8a1d81b7",
+     "title": "What would Alec Burleson get back in a trade?",
+     "url": "https://sports.yahoo.com/articles/alec-burleson-back-trade-130000575.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-836587": {
+   "id": "player-836587",
+   "type": "player",
+   "subject": "Emanuel Luna",
+   "mlbamId": 836587,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "88644f1e8a1d81b7",
+     "title": "What would Alec Burleson get back in a trade?",
+     "url": "https://sports.yahoo.com/articles/alec-burleson-back-trade-130000575.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-701762": {
+   "id": "player-701762",
+   "type": "player",
+   "subject": "Nick Kurtz",
+   "mlbamId": 701762,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "88644f1e8a1d81b7",
+     "title": "What would Alec Burleson get back in a trade?",
+     "url": "https://sports.yahoo.com/articles/alec-burleson-back-trade-130000575.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T13:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-681890": {
+   "id": "player-681890",
+   "type": "player",
+   "subject": "Troy Watson",
+   "mlbamId": 681890,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "12160c293a86919c",
+     "title": "Mariners News: Troy Watson, Ryan Walker, and Pablo Sandoval",
+     "url": "https://www.lookoutlanding.com/seattle-mariners-news/151046/mariners-news-troy-watson-ryan-walker-and-pablo-sandoval",
+     "sourceId": "sbn-sea",
+     "sourceName": "Lookout Landing",
+     "sourceKind": "fansite",
+     "author": "Connor Donovan",
+     "publishedAt": "2026-11-16T15:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-467055": {
+   "id": "player-467055",
+   "type": "player",
+   "subject": "Pablo Sandoval",
+   "mlbamId": 467055,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "12160c293a86919c",
+     "title": "Mariners News: Troy Watson, Ryan Walker, and Pablo Sandoval",
+     "url": "https://www.lookoutlanding.com/seattle-mariners-news/151046/mariners-news-troy-watson-ryan-walker-and-pablo-sandoval",
+     "sourceId": "sbn-sea",
+     "sourceName": "Lookout Landing",
+     "sourceKind": "fansite",
+     "author": "Connor Donovan",
+     "publishedAt": "2026-11-16T15:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-668820": {
+   "id": "player-668820",
+   "type": "player",
+   "subject": "Max Kranick",
+   "mlbamId": 668820,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "18a145f23d25b8ac",
+     "title": "Phillies news: Max Kranick, payroll, Ketel Marte",
+     "url": "https://www.thegoodphight.com/philadelphia-phillies-news/89399/phillies-news-max-kranick-payroll-ketel-marte",
+     "sourceId": "sbn-phi",
+     "sourceName": "The Good Phight",
+     "sourceKind": "fansite",
+     "author": "Ethan Witte",
+     "publishedAt": "2026-11-16T12:00:00.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "team-col": {
+   "id": "team-col",
+   "type": "team",
+   "subject": "Colorado Rockies offseason notes",
+   "mlbamId": null,
+   "teams": [
+    "COL"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "bcfcbde6eab4934c",
+     "title": "MLB Transactions Tracker, November 2026",
+     "url": "https://www.purplerow.com/colorado-rockies-news/111668/mlb-transactions-tracker-november-2026",
+     "sourceId": "sbn-col",
+     "sourceName": "Purple Row",
+     "sourceKind": "fansite",
+     "author": "Renee Dechert",
+     "publishedAt": "2026-11-16T17:34:53.000Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [
+      "COL"
+     ],
+     "role": "primary",
+     "status": null
+    }
+   ]
+  },
+  "player-804526": {
+   "id": "player-804526",
+   "type": "player",
+   "subject": "Nolan Perry",
+   "mlbamId": 804526,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "7baaadb57b12c955",
+     "title": "Tomorrow is the QO deadline and 40-man add deadline. #BlueJays expected to add a couple players to 40, even with the R5 uncertainty. SP Nolan Perry seems like a lock add, then decisions on guys like Gage Stanifer, Josh Kasevich, Daniel Guerra, Jay Harry, RJ Schreck etc",
+     "url": "https://bsky.app/profile/mitchbannon.bsky.social/post/3n2gux74t7s2u",
+     "sourceId": "bsky-mitchbannon.bsky.social",
+     "sourceName": "Mitch Bannon",
+     "sourceKind": "reporter",
+     "author": "Mitch Bannon",
+     "publishedAt": "2026-11-16T15:49:49.092Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-804948": {
+   "id": "player-804948",
+   "type": "player",
+   "subject": "Gage Stanifer",
+   "mlbamId": 804948,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "7baaadb57b12c955",
+     "title": "Tomorrow is the QO deadline and 40-man add deadline. #BlueJays expected to add a couple players to 40, even with the R5 uncertainty. SP Nolan Perry seems like a lock add, then decisions on guys like Gage Stanifer, Josh Kasevich, Daniel Guerra, Jay Harry, RJ Schreck etc",
+     "url": "https://bsky.app/profile/mitchbannon.bsky.social/post/3n2gux74t7s2u",
+     "sourceId": "bsky-mitchbannon.bsky.social",
+     "sourceName": "Mitch Bannon",
+     "sourceKind": "reporter",
+     "author": "Mitch Bannon",
+     "publishedAt": "2026-11-16T15:49:49.092Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-688460": {
+   "id": "player-688460",
+   "type": "player",
+   "subject": "Josh Kasevich",
+   "mlbamId": 688460,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "7baaadb57b12c955",
+     "title": "Tomorrow is the QO deadline and 40-man add deadline. #BlueJays expected to add a couple players to 40, even with the R5 uncertainty. SP Nolan Perry seems like a lock add, then decisions on guys like Gage Stanifer, Josh Kasevich, Daniel Guerra, Jay Harry, RJ Schreck etc",
+     "url": "https://bsky.app/profile/mitchbannon.bsky.social/post/3n2gux74t7s2u",
+     "sourceId": "bsky-mitchbannon.bsky.social",
+     "sourceName": "Mitch Bannon",
+     "sourceKind": "reporter",
+     "author": "Mitch Bannon",
+     "publishedAt": "2026-11-16T15:49:49.092Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-806413": {
+   "id": "player-806413",
+   "type": "player",
+   "subject": "Daniel Guerra",
+   "mlbamId": 806413,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "7baaadb57b12c955",
+     "title": "Tomorrow is the QO deadline and 40-man add deadline. #BlueJays expected to add a couple players to 40, even with the R5 uncertainty. SP Nolan Perry seems like a lock add, then decisions on guys like Gage Stanifer, Josh Kasevich, Daniel Guerra, Jay Harry, RJ Schreck etc",
+     "url": "https://bsky.app/profile/mitchbannon.bsky.social/post/3n2gux74t7s2u",
+     "sourceId": "bsky-mitchbannon.bsky.social",
+     "sourceName": "Mitch Bannon",
+     "sourceKind": "reporter",
+     "author": "Mitch Bannon",
+     "publishedAt": "2026-11-16T15:49:49.092Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-803385": {
+   "id": "player-803385",
+   "type": "player",
+   "subject": "Jay Harry",
+   "mlbamId": 803385,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "7baaadb57b12c955",
+     "title": "Tomorrow is the QO deadline and 40-man add deadline. #BlueJays expected to add a couple players to 40, even with the R5 uncertainty. SP Nolan Perry seems like a lock add, then decisions on guys like Gage Stanifer, Josh Kasevich, Daniel Guerra, Jay Harry, RJ Schreck etc",
+     "url": "https://bsky.app/profile/mitchbannon.bsky.social/post/3n2gux74t7s2u",
+     "sourceId": "bsky-mitchbannon.bsky.social",
+     "sourceName": "Mitch Bannon",
+     "sourceKind": "reporter",
+     "author": "Mitch Bannon",
+     "publishedAt": "2026-11-16T15:49:49.092Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-702302": {
+   "id": "player-702302",
+   "type": "player",
+   "subject": "RJ Schreck",
+   "mlbamId": 702302,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "items": [
+    {
+     "id": "7baaadb57b12c955",
+     "title": "Tomorrow is the QO deadline and 40-man add deadline. #BlueJays expected to add a couple players to 40, even with the R5 uncertainty. SP Nolan Perry seems like a lock add, then decisions on guys like Gage Stanifer, Josh Kasevich, Daniel Guerra, Jay Harry, RJ Schreck etc",
+     "url": "https://bsky.app/profile/mitchbannon.bsky.social/post/3n2gux74t7s2u",
+     "sourceId": "bsky-mitchbannon.bsky.social",
+     "sourceName": "Mitch Bannon",
+     "sourceKind": "reporter",
+     "author": "Mitch Bannon",
+     "publishedAt": "2026-11-16T15:49:49.092Z",
+     "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
   }
  },
  "deals": [],
@@ -34544,414 +36341,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"c9b70e7a4e81229551efc9d3b7bc4d88\""
+   "etag": "W/\"fb320a122c6be91931baeaf3cfc33e75\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"796d8173db3929add89315638a2d8497\""
+   "etag": "W/\"37ecb38d8188076e0286515c757b4e07\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"8b70fac815e7e6d820ba8ffd9830334c\""
+   "etag": "W/\"64814ffe38d5bc17cfc57471d239c529\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"0c884d254b1346206d583cf3cf0c6993\""
+   "etag": "W/\"68b851618f1008e0a5dc60f3fd71d263\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"370efdaa8d0535c7299cc6451da29ab8\""
+   "etag": "W/\"f324242c8823ebbfb7a51eb72ed13053\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"262b4e06566f86b74b09928668a103b1\""
+   "etag": "W/\"18c4302b6e4cf09242a780c6aa07efc0\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"84c1cd24fbab0845ba5d5961b8e9f2d3\""
+   "etag": "W/\"cd041f68f2cfc870aeebcb4aae930ad2\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"84adb027ce98e809d6bc7ff1e3a2a269\""
+   "etag": "W/\"10d9da7f8423a2cbd761b338246feec5\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"087cc701b8d73433670d841a1a0de507\""
+   "etag": "W/\"873d02bb30b45522705d2b0bda0a8ffd\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
    "etag": "W/\"0388c4a535f44074b49cd2bf0eb4743c\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"42bdfb0567f8fa1fee477273955139b3\""
+   "etag": "W/\"718ccf3564428d24958d6fc5123db832\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
    "etag": "W/\"4704ee51e116d3cae9ab1c4608661539\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"e59c9299fba744600525872d276699d2\""
+   "etag": "W/\"035cef3ed83a084a02a7a849146bbcc9\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"5fcb6d95cea5cdb9b0d413d5d968f2a9\""
+   "etag": "W/\"ff3cacbc2df98c649681f22493f5496e\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"830a7c0860734bff0462c4874b9b25fc\""
+   "etag": "W/\"c04790d41462439f916302345bbea558\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"d181a95dcb36a354c089b73969ab48a9\""
+   "etag": "W/\"d3bda69c7fa69622bd12966ae01a978f\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"8105d8ce548ab8427c01b9d1d6e9b370\""
+   "etag": "W/\"eeee184ca691f62a93459cbba1005e57\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"5bad7457337b9fe9255e2e9c5b76701b\""
+   "etag": "W/\"528da21f9377304592ee1d8153e512ab\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"683ee3fb30d1de93a1dfc7243e4630c9\""
+   "etag": "W/\"80d75dbb170253b9bc2a226fb9be673c\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"738c192b789eeb34631d0fba1cf0c100\""
+   "etag": "W/\"d89efd83694ec0cd1f1c55d2b464037d\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"d2bc67cfeb1b3da0cf867216f0d2b559\""
+   "etag": "W/\"004069340e33b590e73075028c1502f4\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"f591d87791f73528e5fe6cbad0285221\""
+   "etag": "W/\"ae577d55f79e15d6589e76ba97ec7c65\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"c6c28892b9dcf76b4c339187d58e4f33\""
+   "etag": "W/\"5b5780b09c86c969d274a890d81e3296\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"bfd2fe496532ad219b4dde4300f0f713\""
+   "etag": "W/\"9a2d49e6a0399d3c066564742fca6f8f\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"6872394acddfd20efe9caebe03f44388\""
+   "etag": "W/\"8ad4040895083d0dbe34727f2d97e086\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"1e3150e6f7c091efa895898b80fde6ed\""
+   "etag": "W/\"2f5267fed80fe743f82499b26190ad7c\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"794f94d46048e28b73bd1c47c77f8722\""
+   "etag": "W/\"a32146d3e4e4299b714576a4e4a31044\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "etag": "W/\"b765d306e34ef0840b6b2673e60e2bb8\""
+   "etag": "W/\"b0973e9af8587409b06232e2ad750778\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null,
-   "lastModified": "Mon, 16 Nov 2026 08:59:10 GMT"
+   "lastModified": "Mon, 16 Nov 2026 19:30:13 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
+   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
    "lastError": null
   }
  }
