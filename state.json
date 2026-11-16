@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-15T22:06:06.829Z",
+ "updatedAt": "2026-11-16T01:56:40.964Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -2616,8 +2616,24 @@
    "status": "Linked",
    "statusAt": "2026-11-10T17:50:09.058Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "81c7e5430bace83a",
+     "title": "Yankees reportedly re-sign lefty reliever Tim Hill to 1-year, $2.25 million deal",
+     "url": "https://sports.yahoo.com/mlb/article/yankees-reportedly-re-sign-lefty-reliever-tim-hill-to-1-year-225-million-deal-221804576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Ian Casselberry",
+     "publishedAt": "2026-11-15T22:18:04.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b511e7dc4711abe4",
      "title": "Tigers showing interest in LHP Shota Imanaga, per report",
@@ -5109,8 +5125,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "92de8782aa5eae21",
+     "title": "Braves reportedly interested in bringing back Raisel Iglesias",
+     "url": "https://sports.yahoo.com/articles/braves-reportedly-interested-bringing-back-012024353.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:20:24.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4b18ce97b4c5b6fe",
      "title": "Braves once again pay premium price on relief pitching with Evan Phillips signing",
@@ -6525,8 +6556,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-15T10:57:39.948Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "0992733f8b4bab74",
+     "title": "Offseason open chat and discussion: November 15",
+     "url": "https://www.batterypower.com/atlanta-braves-discussion/142217/offseason-open-chat-and-discussion-november-15",
+     "sourceId": "sbn-atl",
+     "sourceName": "Battery Power",
+     "sourceKind": "fansite",
+     "author": "Gracelyn N.",
+     "publishedAt": "2026-11-15T23:00:00.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "0488b68d0ce1a7e7",
      "title": "Braves News: Players reviews, offseason marches on, more",
@@ -19642,13 +19689,29 @@
    "subject": "Raisel Iglesias",
    "mlbamId": 628452,
    "teams": [
-    "DET"
+    "DET",
+    "ATL"
    ],
    "status": "Interest",
    "statusAt": "2026-11-15T17:39:41.045Z",
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "92de8782aa5eae21",
+     "title": "Braves reportedly interested in bringing back Raisel Iglesias",
+     "url": "https://sports.yahoo.com/articles/braves-reportedly-interested-bringing-back-012024353.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:20:24.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "8939eb46781406ed",
      "title": "Tigers checking in on veteran closer RHP Raisel Iglesias, per report",
@@ -23033,11 +23096,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T19:14:51.000Z",
      "firstSeenAt": "2026-11-15T22:06:06.829Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "3e8566b6b1c0b301",
@@ -27547,8 +27610,39 @@
    "status": "Interest",
    "statusAt": "2026-11-11T02:13:00.180Z",
    "firstSeenAt": "2026-11-11T02:13:00.180Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "081e2a7532c6b430",
+     "title": "Ryan Walker traded to the Brewers for a couple of pitching prospects",
+     "url": "https://sports.yahoo.com/articles/ryan-walker-traded-brewers-couple-010438375.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:04:38.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "71da3c2b1791ac1d",
+     "title": "Giants trade former closer Ryan Walker to Brewers for two minor-league pitchers",
+     "url": "https://sports.yahoo.com/articles/giants-trade-former-closer-ryan-154057260.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T15:40:57.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "SF",
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2b5c8c2934884f14",
      "title": "Giants hire James Rowson as new offensive coordinator under manager Tony Vitello",
@@ -27923,8 +28017,23 @@
    "status": "Linked",
    "statusAt": "2026-11-11T09:27:02.687Z",
    "firstSeenAt": "2026-11-11T09:27:02.687Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "92de8782aa5eae21",
+     "title": "Braves reportedly interested in bringing back Raisel Iglesias",
+     "url": "https://sports.yahoo.com/articles/braves-reportedly-interested-bringing-back-012024353.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:20:24.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8939eb46781406ed",
      "title": "Tigers checking in on veteran closer RHP Raisel Iglesias, per report",
@@ -28301,8 +28410,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T09:27:02.687Z",
-   "lastActivityAt": "2026-11-11T09:27:02.687Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "92de8782aa5eae21",
+     "title": "Braves reportedly interested in bringing back Raisel Iglesias",
+     "url": "https://sports.yahoo.com/articles/braves-reportedly-interested-bringing-back-012024353.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:20:24.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "30de2baa9c0ede04",
      "title": "RHP Evan Phillips is a prime relief target for the Tigers in free agency",
@@ -29667,8 +29791,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-15T22:06:06.829Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "81c7e5430bace83a",
+     "title": "Yankees reportedly re-sign lefty reliever Tim Hill to 1-year, $2.25 million deal",
+     "url": "https://sports.yahoo.com/mlb/article/yankees-reportedly-re-sign-lefty-reliever-tim-hill-to-1-year-225-million-deal-221804576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Ian Casselberry",
+     "publishedAt": "2026-11-15T22:18:04.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d124f9627fd8cb8e",
      "title": "Yankees bring back Tim Hill on a one-year contract",
@@ -29693,11 +29833,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T16:23:42.000Z",
      "firstSeenAt": "2026-11-15T22:06:06.829Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b511e7dc4711abe4",
@@ -30414,8 +30554,24 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-15T22:06:06.829Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "81c7e5430bace83a",
+     "title": "Yankees reportedly re-sign lefty reliever Tim Hill to 1-year, $2.25 million deal",
+     "url": "https://sports.yahoo.com/mlb/article/yankees-reportedly-re-sign-lefty-reliever-tim-hill-to-1-year-225-million-deal-221804576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Ian Casselberry",
+     "publishedAt": "2026-11-15T22:18:04.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "674b867e989e0c50",
      "title": "Report: Yankees, Tim Hill agree to one-year, $2.25 million deal",
@@ -30425,11 +30581,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T19:14:51.000Z",
      "firstSeenAt": "2026-11-15T22:06:06.829Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d124f9627fd8cb8e",
@@ -30455,11 +30611,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T16:23:42.000Z",
      "firstSeenAt": "2026-11-15T22:06:06.829Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "5e1ac9c65cd5d3bb",
@@ -31799,8 +31955,24 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-12T20:23:24.566Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "81c7e5430bace83a",
+     "title": "Yankees reportedly re-sign lefty reliever Tim Hill to 1-year, $2.25 million deal",
+     "url": "https://sports.yahoo.com/mlb/article/yankees-reportedly-re-sign-lefty-reliever-tim-hill-to-1-year-225-million-deal-221804576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Ian Casselberry",
+     "publishedAt": "2026-11-15T22:18:04.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5e1ac9c65cd5d3bb",
      "title": "Dodgers notes: Jonathan Loaisiga, Tim Hill, Shohei Ohtani",
@@ -33642,11 +33814,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T16:23:42.000Z",
      "firstSeenAt": "2026-11-15T22:06:06.829Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -33659,8 +33831,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-15T17:39:41.045Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "81c7e5430bace83a",
+     "title": "Yankees reportedly re-sign lefty reliever Tim Hill to 1-year, $2.25 million deal",
+     "url": "https://sports.yahoo.com/mlb/article/yankees-reportedly-re-sign-lefty-reliever-tim-hill-to-1-year-225-million-deal-221804576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Ian Casselberry",
+     "publishedAt": "2026-11-15T22:18:04.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d124f9627fd8cb8e",
      "title": "Yankees bring back Tim Hill on a one-year contract",
@@ -33687,8 +33875,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-15T17:39:41.045Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "81c7e5430bace83a",
+     "title": "Yankees reportedly re-sign lefty reliever Tim Hill to 1-year, $2.25 million deal",
+     "url": "https://sports.yahoo.com/mlb/article/yankees-reportedly-re-sign-lefty-reliever-tim-hill-to-1-year-225-million-deal-221804576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Ian Casselberry",
+     "publishedAt": "2026-11-15T22:18:04.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d124f9627fd8cb8e",
      "title": "Yankees bring back Tim Hill on a one-year contract",
@@ -33715,8 +33919,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-15T17:39:41.045Z",
-   "lastActivityAt": "2026-11-15T17:39:41.045Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
    "items": [
+    {
+     "id": "81c7e5430bace83a",
+     "title": "Yankees reportedly re-sign lefty reliever Tim Hill to 1-year, $2.25 million deal",
+     "url": "https://sports.yahoo.com/mlb/article/yankees-reportedly-re-sign-lefty-reliever-tim-hill-to-1-year-225-million-deal-221804576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Ian Casselberry",
+     "publishedAt": "2026-11-15T22:18:04.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d124f9627fd8cb8e",
      "title": "Yankees bring back Tim Hill on a one-year contract",
@@ -33973,6 +34193,350 @@
      ]
     }
    ]
+  },
+  "player-676254": {
+   "id": "player-676254",
+   "type": "player",
+   "subject": "Ryan Walker",
+   "mlbamId": 676254,
+   "teams": [
+    "MIL",
+    "SF"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-16T01:56:40.964Z",
+   "firstSeenAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "items": [
+    {
+     "id": "081e2a7532c6b430",
+     "title": "Ryan Walker traded to the Brewers for a couple of pitching prospects",
+     "url": "https://sports.yahoo.com/articles/ryan-walker-traded-brewers-couple-010438375.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:04:38.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "ce89e2e745766a39",
+     "title": "Brewers trade for reliever Ryan Walker",
+     "url": "https://sports.yahoo.com/articles/brewers-trade-reliever-ryan-walker-004901107.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T00:49:01.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "8a2d9d7b22a7f3be",
+     "title": "Brewers acquire pitcher Ryan Walker from Giants for two minor league prospects",
+     "url": "https://sports.yahoo.com/articles/brewers-acquire-pitcher-ryan-walker-001015402.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T00:10:15.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL",
+      "SF"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "23946aa95c7a996b",
+     "title": "The Giants traded RHP Ryan Walker to the Brewers in exchange for Minor League RHPs Blake Holub and Gavin Perry.",
+     "url": "https://bsky.app/profile/miguardado.bsky.social/post/3n2f5pkzrgk26",
+     "sourceId": "bsky-miguardado.bsky.social",
+     "sourceName": "Maria Guardado",
+     "sourceKind": "reporter",
+     "author": "Maria Guardado",
+     "publishedAt": "2026-11-15T23:21:17.337Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "SF",
+      "MIL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "71da3c2b1791ac1d",
+     "title": "Giants trade former closer Ryan Walker to Brewers for two minor-league pitchers",
+     "url": "https://sports.yahoo.com/articles/giants-trade-former-closer-ryan-154057260.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T15:40:57.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "SF",
+      "MIL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "player-700183": {
+   "id": "player-700183",
+   "type": "player",
+   "subject": "Blake Holub",
+   "mlbamId": 700183,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "items": [
+    {
+     "id": "081e2a7532c6b430",
+     "title": "Ryan Walker traded to the Brewers for a couple of pitching prospects",
+     "url": "https://sports.yahoo.com/articles/ryan-walker-traded-brewers-couple-010438375.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:04:38.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "ce89e2e745766a39",
+     "title": "Brewers trade for reliever Ryan Walker",
+     "url": "https://sports.yahoo.com/articles/brewers-trade-reliever-ryan-walker-004901107.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T00:49:01.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "8a2d9d7b22a7f3be",
+     "title": "Brewers acquire pitcher Ryan Walker from Giants for two minor league prospects",
+     "url": "https://sports.yahoo.com/articles/brewers-acquire-pitcher-ryan-walker-001015402.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T00:10:15.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL",
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "23946aa95c7a996b",
+     "title": "The Giants traded RHP Ryan Walker to the Brewers in exchange for Minor League RHPs Blake Holub and Gavin Perry.",
+     "url": "https://bsky.app/profile/miguardado.bsky.social/post/3n2f5pkzrgk26",
+     "sourceId": "bsky-miguardado.bsky.social",
+     "sourceName": "Maria Guardado",
+     "sourceKind": "reporter",
+     "author": "Maria Guardado",
+     "publishedAt": "2026-11-15T23:21:17.337Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "SF",
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "71da3c2b1791ac1d",
+     "title": "Giants trade former closer Ryan Walker to Brewers for two minor-league pitchers",
+     "url": "https://sports.yahoo.com/articles/giants-trade-former-closer-ryan-154057260.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T15:40:57.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "SF",
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-690986": {
+   "id": "player-690986",
+   "type": "player",
+   "subject": "Kyle Harrison",
+   "mlbamId": 690986,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "items": [
+    {
+     "id": "081e2a7532c6b430",
+     "title": "Ryan Walker traded to the Brewers for a couple of pitching prospects",
+     "url": "https://sports.yahoo.com/articles/ryan-walker-traded-brewers-couple-010438375.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:04:38.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-592192": {
+   "id": "player-592192",
+   "type": "player",
+   "subject": "Mark Canha",
+   "mlbamId": 592192,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "items": [
+    {
+     "id": "081e2a7532c6b430",
+     "title": "Ryan Walker traded to the Brewers for a couple of pitching prospects",
+     "url": "https://sports.yahoo.com/articles/ryan-walker-traded-brewers-couple-010438375.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:04:38.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666808": {
+   "id": "player-666808",
+   "type": "player",
+   "subject": "Camilo Doval",
+   "mlbamId": 666808,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "items": [
+    {
+     "id": "081e2a7532c6b430",
+     "title": "Ryan Walker traded to the Brewers for a couple of pitching prospects",
+     "url": "https://sports.yahoo.com/articles/ryan-walker-traded-brewers-couple-010438375.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T01:04:38.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "71da3c2b1791ac1d",
+     "title": "Giants trade former closer Ryan Walker to Brewers for two minor-league pitchers",
+     "url": "https://sports.yahoo.com/articles/giants-trade-former-closer-ryan-154057260.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-15T15:40:57.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "SF",
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-681982": {
+   "id": "player-681982",
+   "type": "player",
+   "subject": "Grant Anderson",
+   "mlbamId": 681982,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "items": [
+    {
+     "id": "ce89e2e745766a39",
+     "title": "Brewers trade for reliever Ryan Walker",
+     "url": "https://sports.yahoo.com/articles/brewers-trade-reliever-ryan-walker-004901107.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T00:49:01.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "MIL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-605242": {
+   "id": "player-605242",
+   "type": "player",
+   "subject": "Michael Fulmer",
+   "mlbamId": 605242,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-16T01:56:40.964Z",
+   "lastActivityAt": "2026-11-16T01:56:40.964Z",
+   "items": [
+    {
+     "id": "81c7e5430bace83a",
+     "title": "Yankees reportedly re-sign lefty reliever Tim Hill to 1-year, $2.25 million deal",
+     "url": "https://sports.yahoo.com/mlb/article/yankees-reportedly-re-sign-lefty-reliever-tim-hill-to-1-year-225-million-deal-221804576.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Ian Casselberry",
+     "publishedAt": "2026-11-15T22:18:04.000Z",
+     "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
   }
  },
  "deals": [],
@@ -33980,414 +34544,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"c9b70e7a4e81229551efc9d3b7bc4d88\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"796d8173db3929add89315638a2d8497\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
-   "etag": "W/\"e29263801de7191c4c9bd3178431bf66\""
+   "etag": "W/\"41c4ddcb49a23b856aa5b380adf83177\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"0c884d254b1346206d583cf3cf0c6993\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"370efdaa8d0535c7299cc6451da29ab8\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
-   "etag": "W/\"e95d20ad3a3037b45c1a2c41d03b6636\""
+   "etag": "W/\"6625eb33ebb68bccc2ba20ac504794cc\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"84c1cd24fbab0845ba5d5961b8e9f2d3\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"b6689d550e644fb3e9b7f0141b8ae942\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
-   "etag": "W/\"80e6bf660594a7581b493452041ae51f\""
+   "etag": "W/\"087cc701b8d73433670d841a1a0de507\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"0388c4a535f44074b49cd2bf0eb4743c\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"42bdfb0567f8fa1fee477273955139b3\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"4704ee51e116d3cae9ab1c4608661539\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"e59c9299fba744600525872d276699d2\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"5fcb6d95cea5cdb9b0d413d5d968f2a9\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
-   "etag": "W/\"c9274c58db36cb589c13f03236e36acc\""
+   "etag": "W/\"830a7c0860734bff0462c4874b9b25fc\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"d181a95dcb36a354c089b73969ab48a9\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"8105d8ce548ab8427c01b9d1d6e9b370\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"5bad7457337b9fe9255e2e9c5b76701b\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"683ee3fb30d1de93a1dfc7243e4630c9\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"738c192b789eeb34631d0fba1cf0c100\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
-   "etag": "W/\"bba26b431ac531e295b85b36ff6200f4\""
+   "etag": "W/\"295226683b6846646d9bb4190068cfaa\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"f591d87791f73528e5fe6cbad0285221\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"c6c28892b9dcf76b4c339187d58e4f33\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
-   "etag": "W/\"71373600b384a5d3a196726e2a5ca9ba\""
+   "etag": "W/\"bfd2fe496532ad219b4dde4300f0f713\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"484542ffae32f9df3de7e28fb21d27e5\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
    "etag": "W/\"ed582e419462a919b1179b40e7affdd4\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
-   "etag": "W/\"1b749a15ddf17a04b357eb3c22ee6bfb\""
+   "etag": "W/\"794f94d46048e28b73bd1c47c77f8722\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
-   "etag": "W/\"eb5a98c1802d207044672c07eae75197\""
+   "etag": "W/\"c34b6e809947ba6567cee1de561e67d0\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null,
-   "lastModified": "Sun, 15 Nov 2026 22:06:08 GMT"
+   "lastModified": "Mon, 16 Nov 2026 01:56:42 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-15T22:06:06.829Z",
+   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
    "lastError": null
   }
  }
