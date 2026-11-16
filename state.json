@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-16T01:56:40.964Z",
+ "updatedAt": "2026-11-16T08:59:10.063Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -2628,11 +2628,11 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-15T22:18:04.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b511e7dc4711abe4",
@@ -5136,11 +5136,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:20:24.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4b18ce97b4c5b6fe",
@@ -6568,11 +6568,11 @@
      "author": "Gracelyn N.",
      "publishedAt": "2026-11-15T23:00:00.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "0488b68d0ce1a7e7",
@@ -19706,11 +19706,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:20:24.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "primary",
+     "status": "Interest",
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": "Interest"
+     ]
     },
     {
      "id": "8939eb46781406ed",
@@ -27621,11 +27621,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:04:38.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "71da3c2b1791ac1d",
@@ -27636,12 +27636,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T15:40:57.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2b5c8c2934884f14",
@@ -28028,11 +28028,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:20:24.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8939eb46781406ed",
@@ -28421,11 +28421,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:20:24.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "30de2baa9c0ede04",
@@ -29803,11 +29803,11 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-15T22:18:04.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d124f9627fd8cb8e",
@@ -30566,11 +30566,11 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-15T22:18:04.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "674b867e989e0c50",
@@ -31967,11 +31967,11 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-15T22:18:04.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5e1ac9c65cd5d3bb",
@@ -33843,11 +33843,11 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-15T22:18:04.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d124f9627fd8cb8e",
@@ -33887,11 +33887,11 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-15T22:18:04.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d124f9627fd8cb8e",
@@ -33931,11 +33931,11 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-15T22:18:04.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d124f9627fd8cb8e",
@@ -34217,11 +34217,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:04:38.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "ce89e2e745766a39",
@@ -34232,11 +34232,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T00:49:01.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "8a2d9d7b22a7f3be",
@@ -34247,12 +34247,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T00:10:15.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "MIL",
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "23946aa95c7a996b",
@@ -34264,12 +34264,12 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-15T23:21:17.337Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SF",
       "MIL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "71da3c2b1791ac1d",
@@ -34280,12 +34280,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T15:40:57.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SF",
       "MIL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -34309,11 +34309,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:04:38.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ce89e2e745766a39",
@@ -34324,11 +34324,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T00:49:01.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8a2d9d7b22a7f3be",
@@ -34339,12 +34339,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T00:10:15.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL",
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "23946aa95c7a996b",
@@ -34356,12 +34356,12 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-15T23:21:17.337Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "71da3c2b1791ac1d",
@@ -34372,12 +34372,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T15:40:57.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -34401,11 +34401,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:04:38.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -34429,11 +34429,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:04:38.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -34457,11 +34457,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T01:04:38.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "71da3c2b1791ac1d",
@@ -34472,12 +34472,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-15T15:40:57.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF",
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -34501,11 +34501,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T00:49:01.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -34530,11 +34530,11 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-15T22:18:04.000Z",
      "firstSeenAt": "2026-11-16T01:56:40.964Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   }
@@ -34544,414 +34544,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"c9b70e7a4e81229551efc9d3b7bc4d88\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"796d8173db3929add89315638a2d8497\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
-   "etag": "W/\"41c4ddcb49a23b856aa5b380adf83177\""
+   "etag": "W/\"8b70fac815e7e6d820ba8ffd9830334c\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"0c884d254b1346206d583cf3cf0c6993\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"370efdaa8d0535c7299cc6451da29ab8\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
-   "etag": "W/\"6625eb33ebb68bccc2ba20ac504794cc\""
+   "etag": "W/\"262b4e06566f86b74b09928668a103b1\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"84c1cd24fbab0845ba5d5961b8e9f2d3\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
-   "etag": "W/\"b6689d550e644fb3e9b7f0141b8ae942\""
+   "etag": "W/\"84adb027ce98e809d6bc7ff1e3a2a269\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"087cc701b8d73433670d841a1a0de507\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"0388c4a535f44074b49cd2bf0eb4743c\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"42bdfb0567f8fa1fee477273955139b3\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"4704ee51e116d3cae9ab1c4608661539\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"e59c9299fba744600525872d276699d2\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"5fcb6d95cea5cdb9b0d413d5d968f2a9\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"830a7c0860734bff0462c4874b9b25fc\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"d181a95dcb36a354c089b73969ab48a9\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"8105d8ce548ab8427c01b9d1d6e9b370\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"5bad7457337b9fe9255e2e9c5b76701b\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"683ee3fb30d1de93a1dfc7243e4630c9\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"738c192b789eeb34631d0fba1cf0c100\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
-   "etag": "W/\"295226683b6846646d9bb4190068cfaa\""
+   "etag": "W/\"d2bc67cfeb1b3da0cf867216f0d2b559\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"f591d87791f73528e5fe6cbad0285221\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"c6c28892b9dcf76b4c339187d58e4f33\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"bfd2fe496532ad219b4dde4300f0f713\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
-   "etag": "W/\"484542ffae32f9df3de7e28fb21d27e5\""
+   "etag": "W/\"6872394acddfd20efe9caebe03f44388\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
-   "etag": "W/\"ed582e419462a919b1179b40e7affdd4\""
+   "etag": "W/\"1e3150e6f7c091efa895898b80fde6ed\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
    "etag": "W/\"794f94d46048e28b73bd1c47c77f8722\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
-   "etag": "W/\"c34b6e809947ba6567cee1de561e67d0\""
+   "etag": "W/\"b765d306e34ef0840b6b2673e60e2bb8\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null,
-   "lastModified": "Mon, 16 Nov 2026 01:56:42 GMT"
+   "lastModified": "Mon, 16 Nov 2026 08:59:10 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-16T01:56:40.964Z",
+   "lastSuccessAt": "2026-11-16T08:59:10.063Z",
    "lastError": null
   }
  }
