@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-16T19:30:11.951Z",
+ "updatedAt": "2026-11-17T02:35:48.691Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -1020,11 +1020,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2ad7b104810c14e8",
@@ -1156,11 +1156,11 @@
      "author": "Ethan Witte",
      "publishedAt": "2026-11-16T12:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "89fd010581f5c028",
@@ -2103,11 +2103,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:55:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5f21a4eb1dddecbc",
@@ -2391,11 +2391,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:55:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "14d4ae1ab2c151a1",
@@ -2630,11 +2630,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:55:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -2863,9 +2863,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T16:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "5af214ff78abad95",
@@ -3175,11 +3175,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "37e0a8a0d93ab9be",
@@ -3430,8 +3430,23 @@
    "status": "Linked",
    "statusAt": "2026-11-13T16:11:10.798Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "4654b6f13f942fc8",
+     "title": "Where the projections say the Mariners should upgrade",
+     "url": "https://sports.yahoo.com/articles/where-projections-mariners-upgrade-191456266.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T19:14:56.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "76141aab70f4c7b8",
      "title": "MLB News Outside The Confines: The Red Sox sign Jake Bauers",
@@ -3441,11 +3456,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c285cbb20ce5a7af",
@@ -4001,8 +4016,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "4654b6f13f942fc8",
+     "title": "Where the projections say the Mariners should upgrade",
+     "url": "https://sports.yahoo.com/articles/where-projections-mariners-upgrade-191456266.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T19:14:56.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "12160c293a86919c",
      "title": "Mariners News: Troy Watson, Ryan Walker, and Pablo Sandoval",
@@ -4013,11 +4043,11 @@
      "author": "Connor Donovan",
      "publishedAt": "2026-11-16T15:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "63c9531c7e9e9665",
@@ -4800,11 +4830,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1b558b5906cc8082",
@@ -4815,9 +4845,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:01:55.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "39cd52d99c8f5338",
@@ -4932,11 +4962,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "47dc4868e6c73e8d",
@@ -4976,9 +5006,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:01:55.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "39cd52d99c8f5338",
@@ -5202,9 +5232,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T16:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "173b39b3403f60cb",
@@ -5552,11 +5582,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "2816edf4195a7ecf",
@@ -5567,11 +5597,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "af5255386081edf6",
@@ -5756,11 +5786,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "eb70bb7b176f4697",
@@ -6806,8 +6836,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "2a4a52988969de11",
+     "title": "Offseason open chat and discussion: November 16th",
+     "url": "https://www.batterypower.com/atlanta-braves-discussion/142332/offseason-open-chat-and-discussion-november-16th",
+     "sourceId": "sbn-atl",
+     "sourceName": "Battery Power",
+     "sourceKind": "fansite",
+     "author": "Sam Peebles",
+     "publishedAt": "2026-11-16T23:30:00.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "4ed4edc2f69ef144",
      "title": "Braves News: Raisel Iglesias Interest, Trade Chips, more",
@@ -6818,11 +6864,11 @@
      "author": "Shawn Coleman",
      "publishedAt": "2026-11-16T11:53:21.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "0992733f8b4bab74",
@@ -7589,11 +7635,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8939eb46781406ed",
@@ -8059,8 +8105,24 @@
    "status": "Interest",
    "statusAt": "2026-11-13T21:58:51.235Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "25f10ebfa205e651",
+     "title": "Red Sox strike big in free agency with Jake Bauers + one big question for every American League team",
+     "url": "https://sports.yahoo.com/mlb/article/red-sox-strike-big-in-free-agency-with-jake-bauers--one-big-question-for-every-american-league-team-211420668.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Yahoo Sports Staff,Jordan Shusterman,Jake Mintz",
+     "publishedAt": "2026-11-16T21:14:20.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "054d75de0541d41e",
      "title": "Washington Nationals in the mix for two pitching targets",
@@ -8070,11 +8132,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:55:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1b558b5906cc8082",
@@ -8085,9 +8147,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:01:55.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2816edf4195a7ecf",
@@ -8098,11 +8160,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "76141aab70f4c7b8",
@@ -8113,11 +8175,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "1aaf9a338a26c5c8",
@@ -8523,8 +8585,23 @@
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "3a71377d9393a299",
+     "title": "MLB free agents: Who should San Francisco Giants target?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-san-francisco-225043061.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T22:50:43.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b26fec9ed6497e04",
      "title": "In the shadow of Tarik Skubal, Trevor Rogers emerges as a free agent to watch. Column, unlocked and free to read: www.nytimes.com/athletic/778...",
@@ -8535,9 +8612,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-16T13:15:48.917Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "76141aab70f4c7b8",
@@ -8548,11 +8625,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1aaf9a338a26c5c8",
@@ -9402,11 +9479,11 @@
      "author": "Jim McLennan",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "1c9ca696eca8a19d",
@@ -9633,11 +9710,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5e1ac9c65cd5d3bb",
@@ -10687,11 +10764,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:55:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1aaf9a338a26c5c8",
@@ -11580,9 +11657,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T16:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "7baaadb57b12c955",
@@ -11594,9 +11671,9 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-16T15:49:49.092Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "b5fccf75b28c8f2b",
@@ -14226,11 +14303,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e8a3310545b07cc1",
@@ -14308,8 +14385,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "3a71377d9393a299",
+     "title": "MLB free agents: Who should San Francisco Giants target?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-san-francisco-225043061.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T22:50:43.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "99b8a46f83abcca9",
      "title": "The Giants’ 40-man roster shuffling has begun. Jason Foley, Matt Gage and Osleivis Basabe were outrighted to Triple-A Sacramento, and Grant McCray and Braxton Roxby were claimed off waivers.",
@@ -14855,9 +14947,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:01:55.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "e65e524c2610708e",
@@ -16050,11 +16142,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:55:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "eb13d8de1adfb065",
@@ -17014,9 +17106,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-16T13:15:48.917Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e65e524c2610708e",
@@ -17412,11 +17504,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "af5255386081edf6",
@@ -18949,9 +19041,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T16:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "dd4423ce0accc9a4",
@@ -19096,11 +19188,25 @@
    "teams": [
     "WSH"
    ],
-   "status": "Linked",
-   "statusAt": "2026-11-07T18:16:15.660Z",
+   "status": "Interest",
+   "statusAt": "2026-11-17T02:35:48.691Z",
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "c1c82d3b468ef019",
+     "title": "Paul Toboni first noticed Jacob Young in 2021, when he admittedly was scouting some far-more-touted prospects at the University of Florida. Five years later, they shared a dais to discuss Young’s first MLB contract extension. natsjournal.com/p/with-exten...",
+     "url": "https://bsky.app/profile/markzuckerman.bsky.social/post/3n2hq57lxqs2i",
+     "sourceId": "bsky-markzuckerman.bsky.social",
+     "sourceName": "Mark Zuckerman",
+     "sourceKind": "reporter",
+     "author": "Mark Zuckerman",
+     "publishedAt": "2026-11-16T23:56:21.938Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "99f52db7e2733ca6",
      "title": "Mariners trade winds: what if Dylan Crews the ship?",
@@ -20233,11 +20339,11 @@
      "author": "Shawn Coleman",
      "publishedAt": "2026-11-16T11:53:21.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "92de8782aa5eae21",
@@ -20477,11 +20583,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8b08691f41c96c62",
@@ -22461,8 +22567,23 @@
    "status": "Linked",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "4654b6f13f942fc8",
+     "title": "Where the projections say the Mariners should upgrade",
+     "url": "https://sports.yahoo.com/articles/where-projections-mariners-upgrade-191456266.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T19:14:56.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "99f52db7e2733ca6",
      "title": "Mariners trade winds: what if Dylan Crews the ship?",
@@ -24506,11 +24627,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "42ee87876961b178",
@@ -25861,11 +25982,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1b16607923454dc6",
@@ -26605,9 +26726,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "8432596f35aefd57",
@@ -26696,11 +26817,11 @@
      "author": "Jim McLennan",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "76141aab70f4c7b8",
@@ -26711,11 +26832,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "18a145f23d25b8ac",
@@ -26727,11 +26848,11 @@
      "author": "Ethan Witte",
      "publishedAt": "2026-11-16T12:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "702e87ef6a9d23d5",
@@ -26743,11 +26864,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-16T10:49:12.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": "Interest",
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": "Interest"
+     ]
     },
     {
      "id": "63c9531c7e9e9665",
@@ -27233,8 +27354,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "25f10ebfa205e651",
+     "title": "Red Sox strike big in free agency with Jake Bauers + one big question for every American League team",
+     "url": "https://sports.yahoo.com/mlb/article/red-sox-strike-big-in-free-agency-with-jake-bauers--one-big-question-for-every-american-league-team-211420668.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Yahoo Sports Staff,Jordan Shusterman,Jake Mintz",
+     "publishedAt": "2026-11-16T21:14:20.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "BOS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "dd4423ce0accc9a4",
      "title": "St. Louis Cardinals Center Field Target: Luis Robert Jr",
@@ -27790,9 +27927,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:01:55.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4e184749502df4eb",
@@ -28229,8 +28366,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-11T02:13:00.180Z",
    "firstSeenAt": "2026-11-11T02:13:00.180Z",
-   "lastActivityAt": "2026-11-11T23:32:23.064Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "3a71377d9393a299",
+     "title": "MLB free agents: Who should San Francisco Giants target?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-san-francisco-225043061.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T22:50:43.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "152c75c17b573827",
      "title": "The San Francisco Giants are the model for MLB’s salary cap",
@@ -28705,11 +28857,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:55:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "76141aab70f4c7b8",
@@ -28720,11 +28872,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "92de8782aa5eae21",
@@ -29246,8 +29398,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T09:27:02.687Z",
-   "lastActivityAt": "2026-11-11T09:27:02.687Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "3a71377d9393a299",
+     "title": "MLB free agents: Who should San Francisco Giants target?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-san-francisco-225043061.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T22:50:43.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "22fe2096c786c9c5",
      "title": "Giants, MLB to release joint statement on Harrison Bader’s scooter crash",
@@ -29686,11 +29853,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7278648ac57cf71",
@@ -30717,8 +30884,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "4654b6f13f942fc8",
+     "title": "Where the projections say the Mariners should upgrade",
+     "url": "https://sports.yahoo.com/articles/where-projections-mariners-upgrade-191456266.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T19:14:56.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "66c1619306ad8ce2",
      "title": "Bullpen Options in Free Agency for the St Louis Cardinals Bullpen Quandary",
@@ -31078,8 +31260,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-11T23:32:23.064Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "3a71377d9393a299",
+     "title": "MLB free agents: Who should San Francisco Giants target?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-san-francisco-225043061.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T22:50:43.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "152c75c17b573827",
      "title": "The San Francisco Giants are the model for MLB’s salary cap",
@@ -31143,9 +31340,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T16:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "54896898affaaabe",
@@ -31300,11 +31497,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "81c7e5430bace83a",
@@ -31858,11 +32055,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:55:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "316bd91d02259717",
@@ -32670,9 +32867,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T16:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1159d1b22173e609",
@@ -32833,11 +33030,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8939eb46781406ed",
@@ -33224,8 +33421,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-13T21:58:51.235Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "3a71377d9393a299",
+     "title": "MLB free agents: Who should San Francisco Giants target?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-san-francisco-225043061.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T22:50:43.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8b08691f41c96c62",
      "title": "MLB lockout watch: Will free agency and trades speed up before Dec. 1?",
@@ -33266,8 +33478,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-13T01:15:53.666Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "3a71377d9393a299",
+     "title": "MLB free agents: Who should San Francisco Giants target?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-san-francisco-225043061.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T22:50:43.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2b5c8c2934884f14",
      "title": "Giants hire James Rowson as new offensive coordinator under manager Tony Vitello",
@@ -33533,9 +33760,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "68553d48792f595b",
@@ -34090,8 +34317,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-14T15:43:44.040Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "4654b6f13f942fc8",
+     "title": "Where the projections say the Mariners should upgrade",
+     "url": "https://sports.yahoo.com/articles/where-projections-mariners-upgrade-191456266.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T19:14:56.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "99f52db7e2733ca6",
      "title": "Mariners trade winds: what if Dylan Crews the ship?",
@@ -34232,8 +34474,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-14T15:43:44.040Z",
-   "lastActivityAt": "2026-11-14T15:43:44.040Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
    "items": [
+    {
+     "id": "4654b6f13f942fc8",
+     "title": "Where the projections say the Mariners should upgrade",
+     "url": "https://sports.yahoo.com/articles/where-projections-mariners-upgrade-191456266.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T19:14:56.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0773f6de08411fc4",
      "title": "Phillies news: Justin Crawford, outfield, Jake Bauers",
@@ -35024,11 +35281,11 @@
      "author": "Connor Donovan",
      "publishedAt": "2026-11-16T15:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2816edf4195a7ecf",
@@ -35039,11 +35296,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "76141aab70f4c7b8",
@@ -35054,11 +35311,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "081e2a7532c6b430",
@@ -35410,11 +35667,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35438,11 +35695,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2816edf4195a7ecf",
@@ -35453,11 +35710,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35481,11 +35738,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35509,11 +35766,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35537,11 +35794,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35565,11 +35822,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35593,11 +35850,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35621,11 +35878,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35649,11 +35906,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35677,11 +35934,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35705,11 +35962,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T17:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35733,9 +35990,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T16:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -35759,9 +36016,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T16:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -35785,9 +36042,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T16:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -35811,9 +36068,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:01:55.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -35837,11 +36094,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T15:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35865,11 +36122,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T14:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -35893,9 +36150,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -35919,9 +36176,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -35945,9 +36202,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -35971,9 +36228,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -35997,9 +36254,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -36023,9 +36280,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -36049,9 +36306,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-16T13:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -36076,11 +36333,11 @@
      "author": "Connor Donovan",
      "publishedAt": "2026-11-16T15:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -36105,11 +36362,11 @@
      "author": "Connor Donovan",
      "publishedAt": "2026-11-16T15:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -36134,11 +36391,11 @@
      "author": "Ethan Witte",
      "publishedAt": "2026-11-16T12:00:00.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -36165,11 +36422,11 @@
      "author": "Renee Dechert",
      "publishedAt": "2026-11-16T17:34:53.000Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -36194,9 +36451,9 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-16T15:49:49.092Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -36221,9 +36478,9 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-16T15:49:49.092Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -36248,9 +36505,9 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-16T15:49:49.092Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -36275,9 +36532,9 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-16T15:49:49.092Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -36302,9 +36559,9 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-16T15:49:49.092Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -36329,7 +36586,147 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-16T15:49:49.092Z",
      "firstSeenAt": "2026-11-16T19:30:11.951Z",
-     "teams": [],
+     "role": "mention",
+     "status": null,
+     "teams": []
+    }
+   ]
+  },
+  "player-646240": {
+   "id": "player-646240",
+   "type": "player",
+   "subject": "Rafael Devers",
+   "mlbamId": 646240,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-17T02:35:48.691Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
+   "items": [
+    {
+     "id": "3a71377d9393a299",
+     "title": "MLB free agents: Who should San Francisco Giants target?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-san-francisco-225043061.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T22:50:43.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-805811": {
+   "id": "player-805811",
+   "type": "player",
+   "subject": "Bryce Eldridge",
+   "mlbamId": 805811,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-17T02:35:48.691Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
+   "items": [
+    {
+     "id": "3a71377d9393a299",
+     "title": "MLB free agents: Who should San Francisco Giants target?",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agents-san-francisco-225043061.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T22:50:43.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-680977": {
+   "id": "player-680977",
+   "type": "player",
+   "subject": "Brendan Donovan",
+   "mlbamId": 680977,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-17T02:35:48.691Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
+   "items": [
+    {
+     "id": "4654b6f13f942fc8",
+     "title": "Where the projections say the Mariners should upgrade",
+     "url": "https://sports.yahoo.com/articles/where-projections-mariners-upgrade-191456266.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T19:14:56.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666374": {
+   "id": "player-666374",
+   "type": "player",
+   "subject": "Matt Brash",
+   "mlbamId": 666374,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-17T02:35:48.691Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
+   "items": [
+    {
+     "id": "4654b6f13f942fc8",
+     "title": "Where the projections say the Mariners should upgrade",
+     "url": "https://sports.yahoo.com/articles/where-projections-mariners-upgrade-191456266.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T19:14:56.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SEA"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-703197": {
+   "id": "player-703197",
+   "type": "player",
+   "subject": "Michael Arroyo",
+   "mlbamId": 703197,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-17T02:35:48.691Z",
+   "lastActivityAt": "2026-11-17T02:35:48.691Z",
+   "items": [
+    {
+     "id": "4654b6f13f942fc8",
+     "title": "Where the projections say the Mariners should upgrade",
+     "url": "https://sports.yahoo.com/articles/where-projections-mariners-upgrade-191456266.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-16T19:14:56.000Z",
+     "firstSeenAt": "2026-11-17T02:35:48.691Z",
+     "teams": [
+      "SEA"
+     ],
      "role": "mention",
      "status": null
     }
@@ -36341,414 +36738,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"fb320a122c6be91931baeaf3cfc33e75\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"37ecb38d8188076e0286515c757b4e07\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"64814ffe38d5bc17cfc57471d239c529\""
+   "etag": "W/\"6c303a7a6ec1af954d92c9f95e1b189b\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"68b851618f1008e0a5dc60f3fd71d263\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"f324242c8823ebbfb7a51eb72ed13053\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"18c4302b6e4cf09242a780c6aa07efc0\""
+   "etag": "W/\"c401e557409b34f92b150d8c34ce9a6d\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"cd041f68f2cfc870aeebcb4aae930ad2\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"10d9da7f8423a2cbd761b338246feec5\""
+   "etag": "W/\"1d6f5f2d81995a7f44e435ad9c4861f0\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"873d02bb30b45522705d2b0bda0a8ffd\""
+   "etag": "W/\"5a7821ca648356daff6c87ede626fe98\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"0388c4a535f44074b49cd2bf0eb4743c\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"718ccf3564428d24958d6fc5123db832\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"4704ee51e116d3cae9ab1c4608661539\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"035cef3ed83a084a02a7a849146bbcc9\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"ff3cacbc2df98c649681f22493f5496e\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"c04790d41462439f916302345bbea558\""
+   "etag": "W/\"16b152192f97bd9bf4009a2ee769f9d4\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"d3bda69c7fa69622bd12966ae01a978f\""
+   "etag": "W/\"27cff72e691e2c76e615ac26e7533f61\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
    "etag": "W/\"eeee184ca691f62a93459cbba1005e57\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"528da21f9377304592ee1d8153e512ab\""
+   "etag": "W/\"e903f9b55290e403363adf5b06904f8c\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"80d75dbb170253b9bc2a226fb9be673c\""
+   "etag": "W/\"82e4dd42c70f4256c88ac6a22662ae70\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"d89efd83694ec0cd1f1c55d2b464037d\""
+   "etag": "W/\"7c927f5ce0707fdca95a4b529eecb467\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"004069340e33b590e73075028c1502f4\""
+   "etag": "W/\"3dd04cece12f65996138bae5c6bbbb24\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"ae577d55f79e15d6589e76ba97ec7c65\""
+   "etag": "W/\"b0dd47279578fafe5aaa7b181dc391f6\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"5b5780b09c86c969d274a890d81e3296\""
+   "etag": "W/\"6ca74b368afa61039c7f747d902c39a3\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"9a2d49e6a0399d3c066564742fca6f8f\""
+   "etag": "W/\"c62e236b281da3fd89c19cdc30044b24\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"8ad4040895083d0dbe34727f2d97e086\""
+   "etag": "W/\"90d125cc8bfca8e14e29b590206cef94\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"2f5267fed80fe743f82499b26190ad7c\""
+   "etag": "W/\"0a1045e0773a165ea62e7c9e24c5a1a7\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"a32146d3e4e4299b714576a4e4a31044\""
+   "etag": "W/\"2ab3c5aee7d61ae2505182a2bce355d9\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "etag": "W/\"b0973e9af8587409b06232e2ad750778\""
+   "etag": "W/\"1a95319836c7fcde818f7559ca943318\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null,
-   "lastModified": "Mon, 16 Nov 2026 19:30:13 GMT"
+   "lastModified": "Tue, 17 Nov 2026 02:35:50 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-16T19:30:11.951Z",
+   "lastSuccessAt": "2026-11-17T02:35:48.691Z",
    "lastError": null
   }
  }
