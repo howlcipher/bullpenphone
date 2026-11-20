@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-19T23:18:19.580Z",
+ "updatedAt": "2026-11-20T04:04:38.581Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -228,8 +228,22 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-19T16:50:31.434Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
    "items": [
+    {
+     "id": "99dd3c8aa5b1e551",
+     "title": "MLB Insider … Peculiar paradox: No deal happening anytime soon in labor negotiations but plenty of pre-lockout deals expected between teams and players nypost.com/2026/11/19/s...",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3n2pkqxbomk2m",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-11-20T02:41:19.757Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "0f96921d998af85e",
      "title": "MLB owners apparently not backing down from salary cap",
@@ -5515,9 +5529,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T18:00:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "39cd52d99c8f5338",
@@ -5631,9 +5645,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T18:00:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "44aba6105d543fe7",
@@ -5820,9 +5834,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T18:00:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1b558b5906cc8082",
@@ -7092,11 +7106,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:15:54.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "93ddb6a18fdd9b9e",
@@ -7108,11 +7122,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-19T18:35:29.429Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "48cfd943f25a2cee",
@@ -7565,11 +7579,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:42:42.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "53bc3a488f4c62c2",
@@ -8127,8 +8141,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-18T18:15:01.035Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
    "items": [
+    {
+     "id": "a56a78cf78307767",
+     "title": "Offseason open chat and discussion: November 19",
+     "url": "https://www.batterypower.com/atlanta-braves-discussion/142464/offseason-open-chat-and-discussion-november-19",
+     "sourceId": "sbn-atl",
+     "sourceName": "Battery Power",
+     "sourceKind": "fansite",
+     "author": "Gracelyn N.",
+     "publishedAt": "2026-11-20T00:00:00.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "ATL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "9ad67a409408198f",
      "title": "Offseason needs for Braves are made clear by 2027 ZiPS projections",
@@ -9591,9 +9621,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T18:00:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6b34ab5cb002f5ba",
@@ -10367,11 +10397,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:04:15.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ea5d1e92c61a885a",
@@ -11583,11 +11613,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T20:07:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "05ceb242609e29fb",
@@ -11598,11 +11628,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:04:15.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "3daad6cef5c77aec",
@@ -11828,11 +11858,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:04:15.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c810281730e8ba05",
@@ -12438,11 +12468,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:42:42.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": "Interest",
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": "Interest"
+     ]
     },
     {
      "id": "725442947c2a8bc7",
@@ -13126,8 +13156,24 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-19T00:26:34.472Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
    "items": [
+    {
+     "id": "0a9a5f24cd85712b",
+     "title": "Making sense of Rockies trade for Davis Martin, Luis Castillo with White Sox",
+     "url": "https://sports.yahoo.com/articles/making-sense-rockies-trade-davis-011642054.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:16:42.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8857d7a395ec916d",
      "title": "Two surprising qualifying offers accepted, White Sox sign Dustin May & a big question for every NL team",
@@ -17916,9 +17962,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T18:00:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "22f2e51feb43399b",
@@ -18633,11 +18679,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:15:54.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "48cfd943f25a2cee",
@@ -19163,11 +19209,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:42:42.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a6d8deb9e3feecbd",
@@ -21977,11 +22023,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:04:15.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6f1f155e047d8fa6",
@@ -22111,11 +22157,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:04:15.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c810281730e8ba05",
@@ -23271,11 +23317,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:42:42.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cc7342446e7547a1",
@@ -23356,11 +23402,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:42:42.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2d177acb51e09cc3",
@@ -23617,9 +23663,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T18:00:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6b34ab5cb002f5ba",
@@ -26607,11 +26653,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:04:15.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c810281730e8ba05",
@@ -27163,9 +27209,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T18:00:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6b34ab5cb002f5ba",
@@ -28434,11 +28480,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:04:15.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c810281730e8ba05",
@@ -30550,12 +30596,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T21:02:42.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "TOR",
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "ebb54709bdcb5976",
@@ -30567,11 +30613,11 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-19T20:53:23.443Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "cdb374c23e6c2cdf",
@@ -30953,11 +30999,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:04:15.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9ee5debd8bb276a7",
@@ -33216,11 +33262,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T20:07:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9c57f6c8ba79f3b6",
@@ -34578,11 +34624,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T21:39:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "58fcda7894816649",
@@ -37305,13 +37351,60 @@
    "subject": "Darwinzon Hernández",
    "mlbamId": 650382,
    "teams": [
-    "BOS"
+    "BOS",
+    "NYM"
    ],
    "status": "Talks",
    "statusAt": "2026-11-11T23:32:23.064Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-11T23:32:23.064Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
    "items": [
+    {
+     "id": "37df4f6c64f26b20",
+     "title": "Mets sign southpaw Darwinzon Hernandez to three-year deal after stint in Japan",
+     "url": "https://sports.yahoo.com/articles/mets-sign-southpaw-darwinzon-hernandez-030647489.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T03:06:47.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "3c942cc3d6b6cc1a",
+     "title": "Mets sign reliever Darwinzon Hernandez to three-year, $12 million deal",
+     "url": "https://sports.yahoo.com/articles/mets-sign-reliever-darwinzon-hernandez-025254465.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T02:52:54.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "a798b62ed82ee644",
+     "title": "Can now confirm Mets and Darwinzon Hernandez are in agreement on a 3yr deal worth $12M, according to a person familiar with the deal. Great numbers, won title, averaged more than a K/inning while seemingly getting his walks down in NBP. Need new arms to cover a lot of innings. Should help.",
+     "url": "https://bsky.app/profile/chelseajanes.bsky.social/post/3n2pjflhgos2b",
+     "sourceId": "bsky-chelseajanes.bsky.social",
+     "sourceName": "Chelsea Janes",
+     "sourceKind": "reporter",
+     "author": "Chelsea Janes",
+     "publishedAt": "2026-11-20T02:17:04.523Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "2e7f4e6c54a4771d",
      "title": "Darwinzon Hernández, a lefty reliever for the Red Sox from 2019-22, pitched for the past 4 seasons for the Fukuoka Softbank Hawks and is negotiating to return to MLB. The Mets are among the teams that have checked in. Last year: 1.41 ERA/55 Ks in 44.2IP",
@@ -38529,11 +38622,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T20:07:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3ed9026080318195",
@@ -39426,8 +39519,40 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T16:11:10.798Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
    "items": [
+    {
+     "id": "22cceba21f90c645",
+     "title": "Rockies reportedly acquire pitchers Luis Castillo and Davis Martin from White Sox",
+     "url": "https://sports.yahoo.com/articles/rockies-reportedly-acquire-pitchers-luis-011937040.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:19:37.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "fc9c3630409ecfa4",
+     "title": "Breaking: White Sox trade Davis Martin and Luis Castillo to the Rockies",
+     "url": "https://sports.yahoo.com/articles/breaking-white-sox-trade-davis-011239099.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:12:39.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "CWS",
+      "COL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "11b1ddb3dd249270",
      "title": "Scaling the Rocks: Goodman rumors still simmering on hot stove",
@@ -43228,8 +43353,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-17T19:47:04.141Z",
-   "lastActivityAt": "2026-11-19T16:50:31.434Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
    "items": [
+    {
+     "id": "0a9a5f24cd85712b",
+     "title": "Making sense of Rockies trade for Davis Martin, Luis Castillo with White Sox",
+     "url": "https://sports.yahoo.com/articles/making-sense-rockies-trade-davis-011642054.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:16:42.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "cc7342446e7547a1",
      "title": "Three White Sox free-agent targets to round out the rotation",
@@ -46651,9 +46792,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T18:00:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "d5e6be1b4bfe3ae0",
@@ -47739,11 +47880,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T21:39:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -47767,11 +47908,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T20:07:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -47795,11 +47936,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T20:07:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -47823,11 +47964,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T20:07:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -47851,11 +47992,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T20:07:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -47879,11 +48020,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T20:07:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -47907,11 +48048,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T20:07:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -47935,11 +48076,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:42:42.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -47963,11 +48104,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T19:42:42.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -47991,9 +48132,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-19T18:00:00.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -48020,11 +48161,11 @@
      "author": "Adam Sanford",
      "publishedAt": "2026-11-19T16:02:04.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -48049,11 +48190,11 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-19T20:53:23.443Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -48081,12 +48222,12 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-19T19:22:25.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL",
       "TEX"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -48111,9 +48252,402 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-19T19:22:25.000Z",
      "firstSeenAt": "2026-11-19T23:18:19.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL",
       "TEX"
+     ]
+    }
+   ]
+  },
+  "player-663436": {
+   "id": "player-663436",
+   "type": "player",
+   "subject": "Davis Martin",
+   "mlbamId": 663436,
+   "teams": [
+    "COL",
+    "CWS"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-20T04:04:38.581Z",
+   "firstSeenAt": "2026-11-20T04:04:38.581Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
+   "items": [
+    {
+     "id": "1523b433681054ce",
+     "title": "Rockies acquire pitchers Luis Castillo and Davis Martin in trade with the White Sox",
+     "url": "https://sports.yahoo.com/articles/rockies-acquire-pitchers-luis-castillo-024939175.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T02:49:39.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "22cceba21f90c645",
+     "title": "Rockies reportedly acquire pitchers Luis Castillo and Davis Martin from White Sox",
+     "url": "https://sports.yahoo.com/articles/rockies-reportedly-acquire-pitchers-luis-011937040.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:19:37.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "0a9a5f24cd85712b",
+     "title": "Making sense of Rockies trade for Davis Martin, Luis Castillo with White Sox",
+     "url": "https://sports.yahoo.com/articles/making-sense-rockies-trade-davis-011642054.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:16:42.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "fc9c3630409ecfa4",
+     "title": "Breaking: White Sox trade Davis Martin and Luis Castillo to the Rockies",
+     "url": "https://sports.yahoo.com/articles/breaking-white-sox-trade-davis-011239099.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:12:39.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "CWS",
+      "COL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "eb82922ec9989c85",
+     "title": "Rockies reportedly acquiring RHPs Luis Castillo, Davis Martin in trade that sends White Sox pair of prospects",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/rockies-reportedly-acquiring-rhps-luis-castillo-davis-martin-in-trade-that-sends-white-sox-pair-of-prospects-004514867.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Andy Backstrom",
+     "publishedAt": "2026-11-20T00:45:14.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "player-837624": {
+   "id": "player-837624",
+   "type": "player",
+   "subject": "Douglas Veliz",
+   "mlbamId": 837624,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-20T04:04:38.581Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
+   "items": [
+    {
+     "id": "1523b433681054ce",
+     "title": "Rockies acquire pitchers Luis Castillo and Davis Martin in trade with the White Sox",
+     "url": "https://sports.yahoo.com/articles/rockies-acquire-pitchers-luis-castillo-024939175.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T02:49:39.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "22cceba21f90c645",
+     "title": "Rockies reportedly acquire pitchers Luis Castillo and Davis Martin from White Sox",
+     "url": "https://sports.yahoo.com/articles/rockies-reportedly-acquire-pitchers-luis-011937040.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:19:37.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "0a9a5f24cd85712b",
+     "title": "Making sense of Rockies trade for Davis Martin, Luis Castillo with White Sox",
+     "url": "https://sports.yahoo.com/articles/making-sense-rockies-trade-davis-011642054.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:16:42.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-622554": {
+   "id": "player-622554",
+   "type": "player",
+   "subject": "Seranthony Domínguez",
+   "mlbamId": 622554,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-20T04:04:38.581Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
+   "items": [
+    {
+     "id": "22cceba21f90c645",
+     "title": "Rockies reportedly acquire pitchers Luis Castillo and Davis Martin from White Sox",
+     "url": "https://sports.yahoo.com/articles/rockies-reportedly-acquire-pitchers-luis-011937040.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:19:37.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "fc9c3630409ecfa4",
+     "title": "Breaking: White Sox trade Davis Martin and Luis Castillo to the Rockies",
+     "url": "https://sports.yahoo.com/articles/breaking-white-sox-trade-davis-011239099.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:12:39.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "CWS",
+      "COL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-695722": {
+   "id": "player-695722",
+   "type": "player",
+   "subject": "Boston Smith",
+   "mlbamId": 695722,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-20T04:04:38.581Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
+   "items": [
+    {
+     "id": "22cceba21f90c645",
+     "title": "Rockies reportedly acquire pitchers Luis Castillo and Davis Martin from White Sox",
+     "url": "https://sports.yahoo.com/articles/rockies-reportedly-acquire-pitchers-luis-011937040.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:19:37.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "fc9c3630409ecfa4",
+     "title": "Breaking: White Sox trade Davis Martin and Luis Castillo to the Rockies",
+     "url": "https://sports.yahoo.com/articles/breaking-white-sox-trade-davis-011239099.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:12:39.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "CWS",
+      "COL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-821015": {
+   "id": "player-821015",
+   "type": "player",
+   "subject": "Christian Saez",
+   "mlbamId": 821015,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-20T04:04:38.581Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
+   "items": [
+    {
+     "id": "22cceba21f90c645",
+     "title": "Rockies reportedly acquire pitchers Luis Castillo and Davis Martin from White Sox",
+     "url": "https://sports.yahoo.com/articles/rockies-reportedly-acquire-pitchers-luis-011937040.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:19:37.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-687312": {
+   "id": "player-687312",
+   "type": "player",
+   "subject": "Gabriel Hughes",
+   "mlbamId": 687312,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-20T04:04:38.581Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
+   "items": [
+    {
+     "id": "0a9a5f24cd85712b",
+     "title": "Making sense of Rockies trade for Davis Martin, Luis Castillo with White Sox",
+     "url": "https://sports.yahoo.com/articles/making-sense-rockies-trade-davis-011642054.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:16:42.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-690279": {
+   "id": "player-690279",
+   "type": "player",
+   "subject": "Mason Adams",
+   "mlbamId": 690279,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-20T04:04:38.581Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
+   "items": [
+    {
+     "id": "0a9a5f24cd85712b",
+     "title": "Making sense of Rockies trade for Davis Martin, Luis Castillo with White Sox",
+     "url": "https://sports.yahoo.com/articles/making-sense-rockies-trade-davis-011642054.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:16:42.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-685299": {
+   "id": "player-685299",
+   "type": "player",
+   "subject": "Tanner Gordon",
+   "mlbamId": 685299,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-20T04:04:38.581Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
+   "items": [
+    {
+     "id": "0a9a5f24cd85712b",
+     "title": "Making sense of Rockies trade for Davis Martin, Luis Castillo with White Sox",
+     "url": "https://sports.yahoo.com/articles/making-sense-rockies-trade-davis-011642054.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:16:42.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-641743": {
+   "id": "player-641743",
+   "type": "player",
+   "subject": "Anthony Kay",
+   "mlbamId": 641743,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-20T04:04:38.581Z",
+   "lastActivityAt": "2026-11-20T04:04:38.581Z",
+   "items": [
+    {
+     "id": "0a9a5f24cd85712b",
+     "title": "Making sense of Rockies trade for Davis Martin, Luis Castillo with White Sox",
+     "url": "https://sports.yahoo.com/articles/making-sense-rockies-trade-davis-011642054.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-20T01:16:42.000Z",
+     "firstSeenAt": "2026-11-20T04:04:38.581Z",
+     "teams": [
+      "COL",
+      "CWS"
      ],
      "role": "mention",
      "status": null
@@ -48126,414 +48660,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"43a438bf5c94b05ee8cddcc0579c1076\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"646165ef8678782ca27f9a200eb2f915\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
-   "etag": "W/\"a7d57bce90c6ca20a19fe49abed41033\""
+   "etag": "W/\"1aa089d3ac40c89354c66c3ee7b45ef8\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"45301b3c54d1e119f0383b178702c613\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"fcc8171ccbe5703acea3e2da552e559e\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
-   "etag": "W/\"3410c2ed0b7a42dc05c433e7c12dbde2\""
+   "etag": "W/\"3e773f0fd804a1417ba3b0291a2634f8\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"309569d45ff38b0ac87492988f8e2999\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"cb929215e1cf8fd61b60c83eb22e1b73\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"65cae584dc49d00c34686fc168954f4a\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"d7481aa338ab493745b7ad34a66f2519\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"ef90a7e893c2ccdf8e1065e97cfc4b6d\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"5c7ae21b452283e98b5968b3f3881143\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"57d0fcebf72ca362c31c4139c7bf5b70\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"268633293cf19a32f62787b05f7cbb07\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
-   "etag": "W/\"8a823f5f60f4db639e1772b3f83c6a24\""
+   "etag": "W/\"f75ce9bf22740181ec97488f771150fe\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
-   "etag": "W/\"0cc7818f10fcf6fafb490249a50aabef\""
+   "etag": "W/\"fd388bd671cd4d66f5c4d9fe59df6dcc\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"2c52c5977a254164c41dfddbfcc9ffd3\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"144a94917fab820ab1d44578e7944790\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
-   "etag": "W/\"a5af91833afba04d55a0b183a4f99536\""
+   "etag": "W/\"88afec5b09cc1520bebddef745597e1c\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"6df7265d021b34d809ec6bcb05c4b47c\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"e3785aec32c1ec73977c4f4b6badfa78\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"120ca9e666614734c5e7ce8bf5390646\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"e822bf2e6ab48d8a1700b0530701b21a\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"654a3cc5eb7ab73237898f64797eeba0\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"8f069b40df219d5c6341957d0648d4f1\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"ecbdb7be07cab3932f1ff12b474290ff\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
-   "etag": "W/\"e54d66f6ec5fb3a1d02ca9c44276e2ee\""
+   "etag": "W/\"6960cde75001caaa2f7c631e92cb27de\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
    "etag": "W/\"2bf128a7d9daa35461cfc651c8957667\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null,
-   "lastModified": "Thu, 19 Nov 2026 23:18:58 GMT"
+   "lastModified": "Fri, 20 Nov 2026 04:04:40 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-19T23:18:19.580Z",
+   "lastSuccessAt": "2026-11-20T04:04:38.581Z",
    "lastError": null
   }
  }
