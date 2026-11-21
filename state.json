@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-21T01:48:16.080Z",
+ "updatedAt": "2026-11-21T08:53:04.320Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -228,8 +228,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-20T20:45:38.370Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "8cd0717618ef9281",
+     "title": "MLBPA rejects international draft proposal in latest volley in CBA fight",
+     "url": "https://sports.yahoo.com/articles/mlbpa-rejects-international-draft-proposal-051016544.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:10:16.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "db9153b29f17bd32",
      "title": "MLB spokesman Glen Caplin says MLB dropped its proposal to eliminate draft eligibility for high school players as part of bargaining today. Reiterates MLB’s continued preference for an international draft. (Ctrl+c, ctrl+V) MLB did not drop its proposal for a salary cap.",
@@ -3642,9 +3655,9 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-20T22:34:58.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2f89533d728a2cd9",
@@ -3914,11 +3927,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-21T00:54:55.060Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "0e58f584426eebec",
@@ -4424,11 +4437,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-20T23:39:56.489Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "52bcd7331aa23465",
@@ -4498,9 +4511,9 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-20T22:34:58.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "c33f8043c24de1c1",
@@ -6830,11 +6843,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:33:14.554Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "3286a06135ac66e0",
@@ -7086,8 +7099,21 @@
    "status": "Linked",
    "statusAt": "2026-11-16T19:30:11.951Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-19T00:26:34.472Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "b4e8edb063e078e1",
+     "title": "MLB free agency: Here's a list of the top players available for 2027 season",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agency-heres-list-174514662.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:17:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8857d7a395ec916d",
      "title": "Two surprising qualifying offers accepted, White Sox sign Dustin May & a big question for every NL team",
@@ -8186,11 +8212,11 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-21T00:15:15.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "56811a91b7dfb8cb",
@@ -8201,9 +8227,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T21:16:49.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "b0de4c3bdc70b263",
@@ -8587,11 +8613,11 @@
      "author": "Curt Weiler",
      "publishedAt": "2026-11-20T21:49:39.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f5d70c21f5c1c27e",
@@ -9502,8 +9528,21 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-18T01:53:23.659Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "b4e8edb063e078e1",
+     "title": "MLB free agency: Here's a list of the top players available for 2027 season",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agency-heres-list-174514662.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:17:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1dcf4e83809bcb38",
      "title": "Tigers sign Emilio Pagán, protect three players from the Rule 5 draft",
@@ -10107,8 +10146,21 @@
    "status": "Interest",
    "statusAt": "2026-11-13T21:58:51.235Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "b4e8edb063e078e1",
+     "title": "MLB free agency: Here's a list of the top players available for 2027 season",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agency-heres-list-174514662.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:17:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "37d686b8259ace22",
      "title": "MLB free agency news, live updates: Tarik Skubal remains a hefty prize ($400M?); Dodgers acquire Royce Lewis from Twins",
@@ -10119,11 +10171,11 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-21T00:15:15.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6b10842f172b2fe2",
@@ -10899,8 +10951,36 @@
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "237814e833802f0e",
+     "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
+     "url": "https://sports.yahoo.com/articles/yankees-news-lo-isiga-back-050000078.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:00:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "b4e8edb063e078e1",
+     "title": "MLB free agency: Here's a list of the top players available for 2027 season",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agency-heres-list-174514662.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:17:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "37d686b8259ace22",
      "title": "MLB free agency news, live updates: Tarik Skubal remains a hefty prize ($400M?); Dodgers acquire Royce Lewis from Twins",
@@ -10911,11 +10991,11 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-21T00:15:15.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b635d5b4ca95a37",
@@ -10926,9 +11006,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:13:55.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "c971c7143e64b92b",
@@ -10940,11 +11020,11 @@
      "author": "Kari Anderson",
      "publishedAt": "2026-11-20T21:40:18.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "014b7e35a41b53ae",
@@ -12217,11 +12297,11 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-21T00:15:15.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "2f89533d728a2cd9",
@@ -12493,12 +12573,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:11:23.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "385cc07ee740fbb3",
@@ -12509,9 +12589,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T21:26:17.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "3b78794bf885be00",
@@ -12522,9 +12602,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T20:46:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "46831e6f74fb3849",
@@ -13449,11 +13529,11 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-21T00:15:15.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5ee347b785393d5a",
@@ -13905,8 +13985,21 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "b4e8edb063e078e1",
+     "title": "MLB free agency: Here's a list of the top players available for 2027 season",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agency-heres-list-174514662.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:17:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "37d686b8259ace22",
      "title": "MLB free agency news, live updates: Tarik Skubal remains a hefty prize ($400M?); Dodgers acquire Royce Lewis from Twins",
@@ -13917,11 +14010,11 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-21T00:15:15.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0a9a5f24cd85712b",
@@ -14185,8 +14278,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-19T16:50:31.434Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "b4e8edb063e078e1",
+     "title": "MLB free agency: Here's a list of the top players available for 2027 season",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agency-heres-list-174514662.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:17:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "18cc00661e682408",
      "title": "Sifting through possible free-agent starters for Orioles #Orioles",
@@ -15956,8 +16062,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "9537af475094422a",
+     "title": "Padres, Gavin Sheets agree to multi-year contract extension",
+     "url": "https://sports.yahoo.com/articles/padres-gavin-sheets-agree-multi-014826735.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T01:48:26.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ac161ab41b34bfc9",
      "title": "Padres need starting pitching",
@@ -17806,11 +17927,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-21T00:54:55.060Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "39cd52d99c8f5338",
@@ -17971,11 +18092,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-21T00:54:55.060Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "306f8ee78f54770d",
@@ -17986,11 +18107,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:43:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "ARI"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "c8f94dbb9f2f2ed6",
@@ -18002,11 +18123,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-20T23:51:57.358Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BOS"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "82f38c8cc2911639",
@@ -18018,11 +18139,11 @@
      "author": "Jim McLennan",
      "publishedAt": "2026-11-20T23:42:43.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "42ee87876961b178",
@@ -18230,11 +18351,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-21T01:06:10.059Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f641f24cea0f93de",
@@ -18486,11 +18607,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-21T01:06:10.059Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f641f24cea0f93de",
@@ -18859,12 +18980,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-21T00:41:04.584Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "WSH",
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "cf7920bb8629869e",
@@ -18955,11 +19076,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-21T00:54:55.060Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b2e2091ccb5e86f",
@@ -18971,9 +19092,9 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-20T22:34:58.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "5ee347b785393d5a",
@@ -19150,8 +19271,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-07T00:50:47.030Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "b4e8edb063e078e1",
+     "title": "MLB free agency: Here's a list of the top players available for 2027 season",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agency-heres-list-174514662.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:17:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "37d686b8259ace22",
      "title": "MLB free agency news, live updates: Tarik Skubal remains a hefty prize ($400M?); Dodgers acquire Royce Lewis from Twins",
@@ -19162,11 +19296,11 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-21T00:15:15.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b2e2091ccb5e86f",
@@ -19178,9 +19312,9 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-20T22:34:58.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "78433c5aff644ccb",
@@ -19616,11 +19750,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T22:04:10.069Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "3063cf7493f0b814",
@@ -20536,11 +20670,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:52:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "3b635d5b4ca95a37",
@@ -20551,9 +20685,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:13:55.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "970b5885852f3ab1",
@@ -20565,11 +20699,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T22:07:40.036Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "c971c7143e64b92b",
@@ -20581,11 +20715,11 @@
      "author": "Kari Anderson",
      "publishedAt": "2026-11-20T21:40:18.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "508a0a3382915371",
@@ -20597,11 +20731,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-20T21:39:03.884Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "1e89d1414622b0e7",
@@ -20676,11 +20810,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-20T23:39:56.489Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "297a7c749950b7c5",
@@ -21422,11 +21556,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-20T22:22:13.099Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "da828541f3005024",
@@ -22506,11 +22640,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-20T22:09:52.005Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f3573e1444b5bc6f",
@@ -22874,9 +23008,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T20:46:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "de9ef92e9dd7edb2",
@@ -23212,11 +23346,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:20:00.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3daad6cef5c77aec",
@@ -24258,8 +24392,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-06T15:34:02.667Z",
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "237814e833802f0e",
+     "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
+     "url": "https://sports.yahoo.com/articles/yankees-news-lo-isiga-back-050000078.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:00:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d1312b13486fbeab",
      "title": "Yankees non-tender Fernando Cruz, Luis Gil",
@@ -24269,11 +24418,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:03:06.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "299cd935a582d0a5",
@@ -24285,11 +24434,11 @@
      "author": "Mark W. Sanchez",
      "publishedAt": "2026-11-20T22:24:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "719c3820a5dce0cb",
@@ -25990,9 +26139,9 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-20T22:34:58.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "b0de4c3bdc70b263",
@@ -26796,11 +26945,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:03:06.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "299cd935a582d0a5",
@@ -26812,11 +26961,11 @@
      "author": "Mark W. Sanchez",
      "publishedAt": "2026-11-20T22:24:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c8bcc3f9a8e373b2",
@@ -26927,11 +27076,11 @@
      "author": "Mark W. Sanchez",
      "publishedAt": "2026-11-20T22:24:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c8bcc3f9a8e373b2",
@@ -27014,11 +27163,11 @@
      "author": "Kate Preusser",
      "publishedAt": "2026-11-20T22:50:04.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6b7265569a96c658",
@@ -27148,9 +27297,9 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-20T22:34:58.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2b2ce26e7367af92",
@@ -27256,11 +27405,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:03:06.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "299cd935a582d0a5",
@@ -27272,11 +27421,11 @@
      "author": "Mark W. Sanchez",
      "publishedAt": "2026-11-20T22:24:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d124f9627fd8cb8e",
@@ -27614,8 +27763,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T13:34:48.860Z",
-   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "afb5433b1923eb7b",
+     "title": "Rafael Devers trade fits: Who could make deal with Giants?",
+     "url": "https://sports.yahoo.com/articles/rafael-devers-trade-fits-could-022712839.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:27:12.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "96dcccb2e00fbca2",
      "title": "Phillies news: Carlos Mendoza, prospects, Jacob Young",
@@ -27742,11 +27906,11 @@
      "author": "Kari Anderson",
      "publishedAt": "2026-11-20T21:40:18.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3063cf7493f0b814",
@@ -28030,12 +28194,29 @@
    "type": "player",
    "subject": "Jake Cousins",
    "mlbamId": 664776,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "LAD"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-21T08:53:04.320Z",
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "6412f41119fae765",
+     "title": "Jake Cousins non-tendered by Dodgers, now a free agent",
+     "url": "https://sports.yahoo.com/articles/jake-cousins-non-tendered-dodgers-044210913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T04:42:10.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "LAD"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "8d99452e8f4ed8d2",
      "title": "Dodgers sign Alex Call, avoid salary arbitration",
@@ -28045,11 +28226,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:20:00.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cdb374c23e6c2cdf",
@@ -29514,11 +29695,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:33:14.554Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "19fa584ff9ae7604",
@@ -29754,8 +29935,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-20T12:44:57.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "237814e833802f0e",
+     "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
+     "url": "https://sports.yahoo.com/articles/yankees-news-lo-isiga-back-050000078.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:00:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "719c3820a5dce0cb",
      "title": "Yankees offseason not resting for Brian Cashman’s annual Sleep Out",
@@ -29946,9 +30142,9 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-20T22:34:58.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "cdb374c23e6c2cdf",
@@ -30047,9 +30243,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:13:55.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "05ceb242609e29fb",
@@ -30766,11 +30962,11 @@
      "author": "Kate Preusser",
      "publishedAt": "2026-11-20T22:50:04.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "25f595aeee97cc46",
@@ -32208,11 +32404,11 @@
      "author": "Renee Dechert",
      "publishedAt": "2026-11-20T21:33:53.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3bf2eea46f1aa6b0",
@@ -32486,8 +32682,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T02:25:25.124Z",
-   "lastActivityAt": "2026-11-18T18:15:01.035Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "8cd0717618ef9281",
+     "title": "MLBPA rejects international draft proposal in latest volley in CBA fight",
+     "url": "https://sports.yahoo.com/articles/mlbpa-rejects-international-draft-proposal-051016544.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:10:16.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2d177acb51e09cc3",
      "title": "Japan's Next Wave of MLB Talent: Who are Teruaki Sato, Kaima Taira, and Hiromi Itoh?",
@@ -32787,12 +32996,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:11:23.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9ee5debd8bb276a7",
@@ -33026,8 +33235,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-10T17:50:09.058Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "9537af475094422a",
+     "title": "Padres, Gavin Sheets agree to multi-year contract extension",
+     "url": "https://sports.yahoo.com/articles/padres-gavin-sheets-agree-multi-014826735.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T01:48:26.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ac161ab41b34bfc9",
      "title": "Padres need starting pitching",
@@ -33393,9 +33617,9 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-20T22:34:58.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "fb096102e36706ae",
@@ -34482,12 +34706,12 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-20T22:38:01.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ba256d695c0973cd",
@@ -35055,11 +35279,11 @@
      "author": "Kate Preusser",
      "publishedAt": "2026-11-20T22:50:04.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "9c57f6c8ba79f3b6",
@@ -35229,11 +35453,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:25:20.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "081e2a7532c6b430",
@@ -35640,8 +35864,21 @@
    "status": "Linked",
    "statusAt": "2026-11-11T09:27:02.687Z",
    "firstSeenAt": "2026-11-11T09:27:02.687Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "b4e8edb063e078e1",
+     "title": "MLB free agency: Here's a list of the top players available for 2027 season",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agency-heres-list-174514662.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:17:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "37d686b8259ace22",
      "title": "MLB free agency news, live updates: Tarik Skubal remains a hefty prize ($400M?); Dodgers acquire Royce Lewis from Twins",
@@ -35652,11 +35889,11 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-21T00:15:15.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "25a538655bfb05ff",
@@ -36222,11 +36459,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-21T01:06:10.059Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "fb12b5fb89ee3c69",
@@ -36325,11 +36562,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-21T01:06:10.059Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "22fe2096c786c9c5",
@@ -36499,11 +36736,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:20:00.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e4dce69389ecd4be",
@@ -36557,11 +36794,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:20:00.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e4dce69389ecd4be",
@@ -37676,8 +37913,36 @@
    "status": "Unclassified",
    "statusAt": "2026-11-17T11:04:41.964Z",
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-20T20:45:38.370Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "237814e833802f0e",
+     "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
+     "url": "https://sports.yahoo.com/articles/yankees-news-lo-isiga-back-050000078.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:00:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "b4e8edb063e078e1",
+     "title": "MLB free agency: Here's a list of the top players available for 2027 season",
+     "url": "https://sports.yahoo.com/articles/mlb-free-agency-heres-list-174514662.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:17:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b51e53896b6376db",
      "title": "RP Jonathan Loáisiga returns to Yankees on reported 2-year, $18M deal",
@@ -38555,11 +38820,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:51:19.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3a71377d9393a299",
@@ -38800,8 +39065,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-20T20:45:38.370Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "237814e833802f0e",
+     "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
+     "url": "https://sports.yahoo.com/articles/yankees-news-lo-isiga-back-050000078.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:00:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b51e53896b6376db",
      "title": "RP Jonathan Loáisiga returns to Yankees on reported 2-year, $18M deal",
@@ -39187,11 +39467,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:20:00.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "7581d50e59f0f847",
@@ -39798,12 +40078,12 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-20T22:38:01.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ba256d695c0973cd",
@@ -40295,11 +40575,11 @@
      "author": "Quincy Wheeler",
      "publishedAt": "2026-11-20T22:36:42.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "93b324b580081c04",
@@ -40311,11 +40591,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-20T22:09:52.005Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "947c7d663176e0d3",
@@ -40629,8 +40909,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-12T20:23:24.566Z",
-   "lastActivityAt": "2026-11-20T20:45:38.370Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "237814e833802f0e",
+     "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
+     "url": "https://sports.yahoo.com/articles/yankees-news-lo-isiga-back-050000078.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:00:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b51e53896b6376db",
      "title": "RP Jonathan Loáisiga returns to Yankees on reported 2-year, $18M deal",
@@ -41151,11 +41446,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:20:00.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5b1029986511209c",
@@ -41194,11 +41489,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:03:06.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "299cd935a582d0a5",
@@ -41210,11 +41505,11 @@
      "author": "Mark W. Sanchez",
      "publishedAt": "2026-11-20T22:24:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2ad7b104810c14e8",
@@ -41359,8 +41654,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-13T01:15:53.666Z",
    "firstSeenAt": "2026-11-13T01:15:53.666Z",
-   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "afb5433b1923eb7b",
+     "title": "Rafael Devers trade fits: Who could make deal with Giants?",
+     "url": "https://sports.yahoo.com/articles/rafael-devers-trade-fits-could-022712839.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:27:12.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b5fccf75b28c8f2b",
      "title": "Sunday Baseball Notes are now posted. This week: Notes and quotes from the GM Meetings. David Ortiz on Yordan Alvarez doing what he never did and some Sox observations: www.bostonglobe.com/2026/11/14/s...",
@@ -41818,11 +42128,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:33:14.554Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b511e7dc4711abe4",
@@ -42225,9 +42535,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:13:55.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "39b14f3acb304318",
@@ -42239,11 +42549,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-20T22:22:13.099Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "8416ebff2f417fd8",
@@ -42406,9 +42716,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T21:16:49.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4a8da5d3ea4a17a3",
@@ -42815,9 +43125,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T21:16:49.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4a8da5d3ea4a17a3",
@@ -43325,8 +43635,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-15T17:39:41.045Z",
-   "lastActivityAt": "2026-11-18T01:53:23.659Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "237814e833802f0e",
+     "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
+     "url": "https://sports.yahoo.com/articles/yankees-news-lo-isiga-back-050000078.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:00:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0bd596e8992e5e17",
      "title": "David Bednar returns to Yankees on qualifying offer",
@@ -43727,11 +44052,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:51:19.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "935673721cafaf14",
@@ -43742,11 +44067,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:25:20.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f641f24cea0f93de",
@@ -43910,11 +44235,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:51:19.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "TB"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "081e2a7532c6b430",
@@ -44076,11 +44401,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-21T01:06:10.059Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "935673721cafaf14",
@@ -44091,11 +44416,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:25:20.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SF"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "081e2a7532c6b430",
@@ -45194,11 +45519,11 @@
      "author": "Jim McLennan",
      "publishedAt": "2026-11-20T23:42:43.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "88644f1e8a1d81b7",
@@ -45377,11 +45702,11 @@
      "author": "Cory Cohen",
      "publishedAt": "2026-11-20T20:45:31.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "bcfcbde6eab4934c",
@@ -45652,12 +45977,29 @@
    "type": "player",
    "subject": "Rafael Devers",
    "mlbamId": 646240,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "SF"
+   ],
+   "status": "Linked",
+   "statusAt": "2026-11-21T08:53:04.320Z",
    "firstSeenAt": "2026-11-17T02:35:48.691Z",
-   "lastActivityAt": "2026-11-17T02:35:48.691Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "afb5433b1923eb7b",
+     "title": "Rafael Devers trade fits: Who could make deal with Giants?",
+     "url": "https://sports.yahoo.com/articles/rafael-devers-trade-fits-could-022712839.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:27:12.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    },
     {
      "id": "3a71377d9393a299",
      "title": "MLB free agents: Who should San Francisco Giants target?",
@@ -45724,11 +46066,11 @@
      "author": "Kate Preusser",
      "publishedAt": "2026-11-20T22:50:04.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "56811a91b7dfb8cb",
@@ -45739,9 +46081,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T21:16:49.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4654b6f13f942fc8",
@@ -45809,11 +46151,11 @@
      "author": "Kate Preusser",
      "publishedAt": "2026-11-20T22:50:04.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4654b6f13f942fc8",
@@ -46543,11 +46885,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-20T23:39:56.489Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a5b57463fc498863",
@@ -46768,12 +47110,12 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-20T22:37:41.421Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM",
       "WSH"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "cf7920bb8629869e",
@@ -46829,11 +47171,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-20T23:39:56.489Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cf7920bb8629869e",
@@ -47114,11 +47456,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:51:19.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "TB"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "177e5e1266a14955",
@@ -47130,12 +47472,12 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-20T23:02:06.831Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SF",
       "TB"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "f641f24cea0f93de",
@@ -47190,11 +47532,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:03:06.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "299cd935a582d0a5",
@@ -47206,11 +47548,11 @@
      "author": "Mark W. Sanchez",
      "publishedAt": "2026-11-20T22:24:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f641f24cea0f93de",
@@ -47469,11 +47811,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:52:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3f910f07bcbac9a3",
@@ -47485,11 +47827,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:21:57.244Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "1dcf4e83809bcb38",
@@ -48646,11 +48988,11 @@
      "author": "Kate Preusser",
      "publishedAt": "2026-11-20T22:50:04.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b2e2091ccb5e86f",
@@ -48662,9 +49004,9 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-20T22:34:58.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "56811a91b7dfb8cb",
@@ -48675,9 +49017,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T21:16:49.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "78433c5aff644ccb",
@@ -49209,9 +49551,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T21:16:49.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4a8da5d3ea4a17a3",
@@ -49776,11 +50118,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:43:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bd8bce47fadb4e51",
@@ -50815,11 +51157,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:20:00.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e8665919600e5763",
@@ -50875,8 +51217,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-19T23:18:19.580Z",
-   "lastActivityAt": "2026-11-19T23:18:19.580Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "afb5433b1923eb7b",
+     "title": "Rafael Devers trade fits: Who could make deal with Giants?",
+     "url": "https://sports.yahoo.com/articles/rafael-devers-trade-fits-could-022712839.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:27:12.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "35a29fe50c21c514",
      "title": "Should Astros Be Interested in Teruaki Sato?",
@@ -50903,8 +51260,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-19T23:18:19.580Z",
-   "lastActivityAt": "2026-11-19T23:18:19.580Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "afb5433b1923eb7b",
+     "title": "Rafael Devers trade fits: Who could make deal with Giants?",
+     "url": "https://sports.yahoo.com/articles/rafael-devers-trade-fits-could-022712839.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:27:12.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "35a29fe50c21c514",
      "title": "Should Astros Be Interested in Teruaki Sato?",
@@ -51002,11 +51374,11 @@
      "author": "Renee Dechert",
      "publishedAt": "2026-11-20T21:33:53.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "b3c87ffe405a99dd",
@@ -51018,11 +51390,11 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-20T21:02:23.760Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "ebb54709bdcb5976",
@@ -51848,11 +52220,11 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-21T00:15:15.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b635d5b4ca95a37",
@@ -51863,9 +52235,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:13:55.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "aa71b902bfb7c8af",
@@ -51876,12 +52248,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:11:23.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "dd08905301cc4371",
@@ -51892,12 +52264,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:04:22.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "5c2fc353ae13192a",
@@ -51909,9 +52281,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-20T22:48:29.493Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "70c91798d54f7982",
@@ -51923,12 +52295,12 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-20T22:38:01.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "d281d23ba6a81716",
@@ -51940,11 +52312,11 @@
      "author": "Matthew Leach",
      "publishedAt": "2026-11-20T22:32:39.356Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "716e37a812ad1424",
@@ -51956,11 +52328,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-20T22:25:41.842Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "5ee347b785393d5a",
@@ -52186,8 +52558,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-20T20:45:38.370Z",
    "firstSeenAt": "2026-11-20T20:45:38.370Z",
-   "lastActivityAt": "2026-11-20T20:45:38.370Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "9537af475094422a",
+     "title": "Padres, Gavin Sheets agree to multi-year contract extension",
+     "url": "https://sports.yahoo.com/articles/padres-gavin-sheets-agree-multi-014826735.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T01:48:26.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "128b3662ba13e6fb",
      "title": "Gavin Sheets and Padres have a deal: $11M, 3 years",
@@ -52333,11 +52720,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:52:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52361,11 +52748,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:52:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52389,11 +52776,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:43:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52417,11 +52804,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:43:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52445,11 +52832,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:43:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52473,11 +52860,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:43:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52501,11 +52888,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:43:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52530,11 +52917,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-21T00:54:55.060Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "306f8ee78f54770d",
@@ -52545,11 +52932,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:43:38.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c8f94dbb9f2f2ed6",
@@ -52561,11 +52948,11 @@
      "author": "Jen McCaffrey",
      "publishedAt": "2026-11-20T23:51:57.358Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52589,9 +52976,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:13:55.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "aa71b902bfb7c8af",
@@ -52602,12 +52989,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:11:23.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "dd08905301cc4371",
@@ -52618,12 +53005,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:04:22.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5c2fc353ae13192a",
@@ -52635,9 +53022,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-20T22:48:29.493Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "70c91798d54f7982",
@@ -52649,12 +53036,12 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-20T22:38:01.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52678,9 +53065,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:13:55.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "aa71b902bfb7c8af",
@@ -52691,12 +53078,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:11:23.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "dd08905301cc4371",
@@ -52707,12 +53094,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:04:22.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "70c91798d54f7982",
@@ -52724,12 +53111,12 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-20T22:38:01.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52753,9 +53140,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:13:55.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -52779,9 +53166,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-21T00:13:55.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "70c91798d54f7982",
@@ -52793,12 +53180,12 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-20T22:38:01.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52824,11 +53211,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:57:51.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -52852,11 +53239,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:57:51.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52880,11 +53267,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:57:51.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52908,11 +53295,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:57:51.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52939,11 +53326,11 @@
      "author": "Jim McLennan",
      "publishedAt": "2026-11-20T23:42:43.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "ARI"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -52968,11 +53355,11 @@
      "author": "Jim McLennan",
      "publishedAt": "2026-11-20T23:42:43.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -52997,11 +53384,11 @@
      "author": "Jim McLennan",
      "publishedAt": "2026-11-20T23:42:43.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53026,11 +53413,11 @@
      "author": "Jim McLennan",
      "publishedAt": "2026-11-20T23:42:43.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ARI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53056,11 +53443,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:16:05.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -53084,11 +53471,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:16:05.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53101,8 +53488,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-21T01:48:16.080Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "237814e833802f0e",
+     "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
+     "url": "https://sports.yahoo.com/articles/yankees-news-lo-isiga-back-050000078.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:00:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d1312b13486fbeab",
      "title": "Yankees non-tender Fernando Cruz, Luis Gil",
@@ -53112,11 +53514,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:03:06.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "299cd935a582d0a5",
@@ -53128,11 +53530,11 @@
      "author": "Mark W. Sanchez",
      "publishedAt": "2026-11-20T22:24:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53145,8 +53547,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-21T01:48:16.080Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
    "items": [
+    {
+     "id": "237814e833802f0e",
+     "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
+     "url": "https://sports.yahoo.com/articles/yankees-news-lo-isiga-back-050000078.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T05:00:00.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d1312b13486fbeab",
      "title": "Yankees non-tender Fernando Cruz, Luis Gil",
@@ -53156,11 +53573,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:03:06.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "299cd935a582d0a5",
@@ -53172,11 +53589,11 @@
      "author": "Mark W. Sanchez",
      "publishedAt": "2026-11-20T22:24:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53200,11 +53617,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:03:06.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53228,11 +53645,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T23:03:06.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53257,11 +53674,11 @@
      "author": "Kate Preusser",
      "publishedAt": "2026-11-20T22:50:04.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53286,11 +53703,11 @@
      "author": "Kate Preusser",
      "publishedAt": "2026-11-20T22:50:04.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53317,9 +53734,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-20T23:30:05.940Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "e444e0a6dbe8b42e",
@@ -53330,11 +53747,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:46:32.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "TOR"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "2ff2354b7800d3a6",
@@ -53346,9 +53763,9 @@
      "author": "Keegan Matheson",
      "publishedAt": "2026-11-20T22:23:02.177Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     }
    ]
   },
@@ -53373,12 +53790,12 @@
      "author": "Ian Casselberry",
      "publishedAt": "2026-11-20T22:38:01.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "MIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53403,11 +53820,11 @@
      "author": "Mark W. Sanchez",
      "publishedAt": "2026-11-20T22:24:57.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53431,11 +53848,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:20:00.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53459,11 +53876,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T22:20:00.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53488,11 +53905,11 @@
      "author": "Renee Dechert",
      "publishedAt": "2026-11-20T21:33:53.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53516,9 +53933,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-20T21:26:17.000Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -53545,11 +53962,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-20T23:19:49.269Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "887f0caf99cdd008",
@@ -53561,11 +53978,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-20T22:23:48.666Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -53590,11 +54007,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-20T23:19:49.269Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53621,11 +54038,11 @@
      "author": "Mark Sheldon",
      "publishedAt": "2026-11-21T00:21:02.084Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -53650,11 +54067,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-21T01:06:10.059Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53679,11 +54096,11 @@
      "author": "Maria Guardado",
      "publishedAt": "2026-11-21T01:06:10.059Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SF"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53710,9 +54127,9 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T22:35:53.404Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "b17ba6818bd924a0",
@@ -53724,11 +54141,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T22:04:10.069Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d88105817b79a157",
@@ -53740,11 +54157,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T21:30:42.620Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -53769,11 +54186,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T22:04:10.069Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53798,11 +54215,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T22:04:10.069Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53827,11 +54244,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T22:04:10.069Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53856,11 +54273,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T22:04:10.069Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53885,11 +54302,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T22:04:10.069Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53914,11 +54331,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-20T22:04:10.069Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53943,11 +54360,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:33:14.554Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -53972,11 +54389,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:33:14.554Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54001,11 +54418,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:33:14.554Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54030,11 +54447,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:33:14.554Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54059,11 +54476,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:33:14.554Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54088,11 +54505,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-20T23:33:14.554Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54117,11 +54534,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-20T23:39:56.489Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54146,11 +54563,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-20T23:39:56.489Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54175,11 +54592,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-20T23:39:56.489Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54204,11 +54621,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-20T22:09:52.005Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54233,11 +54650,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-20T22:09:52.005Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -54262,8 +54679,260 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-20T22:09:52.005Z",
      "firstSeenAt": "2026-11-21T01:48:16.080Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
+     ]
+    }
+   ]
+  },
+  "player-650490": {
+   "id": "player-650490",
+   "type": "player",
+   "subject": "Yandy Díaz",
+   "mlbamId": 650490,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "items": [
+    {
+     "id": "afb5433b1923eb7b",
+     "title": "Rafael Devers trade fits: Who could make deal with Giants?",
+     "url": "https://sports.yahoo.com/articles/rafael-devers-trade-fits-could-022712839.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:27:12.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666018": {
+   "id": "player-666018",
+   "type": "player",
+   "subject": "Jonathan Aranda",
+   "mlbamId": 666018,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "items": [
+    {
+     "id": "afb5433b1923eb7b",
+     "title": "Rafael Devers trade fits: Who could make deal with Giants?",
+     "url": "https://sports.yahoo.com/articles/rafael-devers-trade-fits-could-022712839.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:27:12.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-514888": {
+   "id": "player-514888",
+   "type": "player",
+   "subject": "José Altuve",
+   "mlbamId": 514888,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "items": [
+    {
+     "id": "afb5433b1923eb7b",
+     "title": "Rafael Devers trade fits: Who could make deal with Giants?",
+     "url": "https://sports.yahoo.com/articles/rafael-devers-trade-fits-could-022712839.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:27:12.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-701358": {
+   "id": "player-701358",
+   "type": "player",
+   "subject": "Cam Smith",
+   "mlbamId": 701358,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "items": [
+    {
+     "id": "afb5433b1923eb7b",
+     "title": "Rafael Devers trade fits: Who could make deal with Giants?",
+     "url": "https://sports.yahoo.com/articles/rafael-devers-trade-fits-could-022712839.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T02:27:12.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SF"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-663773": {
+   "id": "player-663773",
+   "type": "player",
+   "subject": "Bryan Hoeing",
+   "mlbamId": 663773,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "items": [
+    {
+     "id": "9537af475094422a",
+     "title": "Padres, Gavin Sheets agree to multi-year contract extension",
+     "url": "https://sports.yahoo.com/articles/padres-gavin-sheets-agree-multi-014826735.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T01:48:26.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-669093": {
+   "id": "player-669093",
+   "type": "player",
+   "subject": "Jeremiah Estrada",
+   "mlbamId": 669093,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "items": [
+    {
+     "id": "9537af475094422a",
+     "title": "Padres, Gavin Sheets agree to multi-year contract extension",
+     "url": "https://sports.yahoo.com/articles/padres-gavin-sheets-agree-multi-014826735.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T01:48:26.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-669134": {
+   "id": "player-669134",
+   "type": "player",
+   "subject": "Luis Campusano",
+   "mlbamId": 669134,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "items": [
+    {
+     "id": "9537af475094422a",
+     "title": "Padres, Gavin Sheets agree to multi-year contract extension",
+     "url": "https://sports.yahoo.com/articles/padres-gavin-sheets-agree-multi-014826735.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T01:48:26.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666023": {
+   "id": "player-666023",
+   "type": "player",
+   "subject": "Freddy Fermin",
+   "mlbamId": 666023,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "items": [
+    {
+     "id": "9537af475094422a",
+     "title": "Padres, Gavin Sheets agree to multi-year contract extension",
+     "url": "https://sports.yahoo.com/articles/padres-gavin-sheets-agree-multi-014826735.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T01:48:26.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SD"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-678184": {
+   "id": "player-678184",
+   "type": "player",
+   "subject": "Garrett Hawkins",
+   "mlbamId": 678184,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "items": [
+    {
+     "id": "9537af475094422a",
+     "title": "Padres, Gavin Sheets agree to multi-year contract extension",
+     "url": "https://sports.yahoo.com/articles/padres-gavin-sheets-agree-multi-014826735.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-21T01:48:26.000Z",
+     "firstSeenAt": "2026-11-21T08:53:04.320Z",
+     "teams": [
+      "SD"
      ],
      "role": "mention",
      "status": null
@@ -54276,414 +54945,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"cc13837721741522252706ce31ce434b\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"c244d7653b50412d8afa673b3dfb1288\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
-   "etag": "W/\"ad21173c6066f2f350359e2d9a72c517\""
+   "etag": "W/\"41cb680b5ce4b7971e44b237bf67f4e9\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"4fa480b6fe9ae353527bb6c6c4cc6910\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"53bc3a1004ac662206deb4854335d6f4\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"94fb02320fbaa52565e26c8ab9ac4759\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"8b21b7f4c24f5254f7cbd6c57cf1bce6\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
-   "etag": "W/\"9a207d442c004427aaf114579897d2a5\""
+   "etag": "W/\"fad69f7e4bf51d4f64a87877da26370f\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"4bec480f858e5db0a8fa0d030e94db51\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"8660fdbacf9036b2dc75447d26907471\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"8b6b874378b72320810a73a23a791b80\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"e896dbefeacff7ad6cdf4227d317290f\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"5d6d0b7f8279e2b00513816bb0faa7f2\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"5a704ef4907632d9c4594e20833276c3\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"690510da12287b1bdee6965345c15075\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"b1fca97bc64b7571cb3aff81387fe412\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"a6dbfba063ecad473290d46b81b3368f\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"b236aa9975a403b7deea8cef062a28ff\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"fc2e68c04697b15212002d15f24d32c3\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"ebceb6c887bb64705a95250985d66842\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"dd01539f22dca283f01766abaf678b42\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"7973414801eccbc0839dc20ad6e66f5c\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"7dde791e71168f7a83364949d250c5f6\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"20157bb2f3f79f691cc9df0ec8ea2b20\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
-   "etag": "W/\"706306fcc6a46d8320c341a37aa52d47\""
+   "etag": "W/\"10758976ec5c17ca5500c90ab05a1296\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
-   "etag": "W/\"c05d94dfdc27f48572c341dc515def64\""
+   "etag": "W/\"cbd1104a041b671c428bc0c32169940d\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
    "etag": "W/\"e4f1b6fb2fcf1bc238ba77d24eef2196\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
-   "etag": "W/\"16961e0e6a2722ca2ad6df21404e3457\""
+   "etag": "W/\"a3e796ba079b386bfebbe2805ae38b1c\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null,
-   "lastModified": "Sat, 21 Nov 2026 01:48:17 GMT"
+   "lastModified": "Sat, 21 Nov 2026 08:53:05 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
    "lastSuccessAt": "2026-11-21T01:48:16.080Z",
-   "lastError": null
+   "lastError": "fetch failed"
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-21T01:48:16.080Z",
+   "lastSuccessAt": "2026-11-21T08:53:04.320Z",
    "lastError": null
   }
  }
