@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-23T02:39:28.580Z",
+ "updatedAt": "2026-11-23T11:17:52.412Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -240,9 +240,9 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-23T02:02:47.034Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "81868844d1be3b61",
@@ -253,9 +253,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:13:09.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "7303fb6936fb1a53",
@@ -267,9 +267,9 @@
      "author": "Jayson Stark",
      "publishedAt": "2026-11-22T22:15:15.672Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2db40cb721e448c3",
@@ -281,9 +281,9 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-22T22:10:13.169Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "d56fdb1fbbde96b3",
@@ -2970,8 +2970,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "3661f82cb2e4a2e4",
+     "title": "Phillies could find value in these newly available free agents",
+     "url": "https://sports.yahoo.com/articles/phillies-could-value-newly-available-060000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e894310cc702867b",
      "title": "Phillies don't extend qualifying offer to Alec Bohm as free agency opens",
@@ -5134,12 +5147,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:28:23.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "81868844d1be3b61",
@@ -5150,9 +5163,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:13:09.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "a7af8823142df6ae",
@@ -5163,11 +5176,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:58:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "55d81c5ccf614188",
@@ -6083,8 +6096,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-21T16:27:47.728Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "6f277204106d1c44",
+     "title": "Orioles looking for a happier and healthier 2027 season #Orioles",
+     "url": "https://bsky.app/profile/richdubroffmlb.bsky.social/post/3n2xxetuug42k",
+     "sourceId": "bsky-richdubroffmlb.bsky.social",
+     "sourceName": "Rich Dubroff",
+     "sourceKind": "reporter",
+     "author": "Rich Dubroff",
+     "publishedAt": "2026-11-23T10:48:30.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "47c1fb212eddd5bb",
      "title": "Orioles news: Bautista agrees to deal, three others tendered contracts",
@@ -8591,8 +8620,24 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-22T16:43:36.119Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "e3e503516666422f",
+     "title": "Yankees news: Luis Gil signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/yankees-news-luis-gil-signs-050000890.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T05:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYY",
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "76eefa6532d99ba1",
      "title": "Mariners News: Jason Kanzler, Logan Webb, and AJ Ewing",
@@ -9687,8 +9732,39 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "7353aaceee6eeb8c",
+     "title": "Tarik Skubal signs megadeal with Mets: Fantasy baseball fallout",
+     "url": "https://sports.yahoo.com/articles/tarik-skubal-signs-megadeal-mets-074429300.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T07:44:29.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "5c3444281f6a4817",
+     "title": "Mets land Tarik Skubal: How will Phillies, NL East counter historic deal?",
+     "url": "https://sports.yahoo.com/articles/mets-land-tarik-skubal-phillies-194439864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "60062e3378ce63a4",
      "title": "For the Mets, signing Tarik Skubal is a loud reminder of their financial might and an expensive step back toward contention",
@@ -9699,11 +9775,11 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-23T02:19:04.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9727087eed4938e7",
@@ -11471,13 +11547,76 @@
     "LAD",
     "NYM",
     "SD",
-    "TOR"
+    "TOR",
+    "PHI"
    ],
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "7353aaceee6eeb8c",
+     "title": "Tarik Skubal signs megadeal with Mets: Fantasy baseball fallout",
+     "url": "https://sports.yahoo.com/articles/tarik-skubal-signs-megadeal-mets-074429300.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T07:44:29.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "5c3444281f6a4817",
+     "title": "Mets land Tarik Skubal: How will Phillies, NL East counter historic deal?",
+     "url": "https://sports.yahoo.com/articles/mets-land-tarik-skubal-phillies-194439864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "PHI"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    },
+    {
+     "id": "e3e503516666422f",
+     "title": "Yankees news: Luis Gil signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/yankees-news-luis-gil-signs-050000890.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T05:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYY",
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "f7e334eea5f1f0f0",
+     "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
+     "url": "https://sports.yahoo.com/articles/whats-next-mets-reportedly-signing-032853913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T03:28:53.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    },
     {
      "id": "60062e3378ce63a4",
      "title": "For the Mets, signing Tarik Skubal is a loud reminder of their financial might and an expensive step back toward contention",
@@ -11488,11 +11627,11 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-23T02:19:04.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "08748a2bd8fc60fc",
@@ -11504,11 +11643,11 @@
      "author": "Ryan Young",
      "publishedAt": "2026-11-23T01:38:00.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "d1453bbea4c2a6ec",
@@ -11519,11 +11658,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:48:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "d193d38e8d3ad1ae",
@@ -11534,12 +11673,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:28:23.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "888e87cfac4332ce",
@@ -11551,11 +11690,11 @@
      "author": "Fabian Ardaya",
      "publishedAt": "2026-11-23T00:24:16.590Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "2aa9434bbf54b0c1",
@@ -11566,11 +11705,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:23:53.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "81868844d1be3b61",
@@ -11581,9 +11720,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:13:09.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2fd8e9043b235ab9",
@@ -11595,12 +11734,12 @@
      "author": "tom dakers",
      "publishedAt": "2026-11-22T23:02:45.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM",
       "TOR"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "a7af8823142df6ae",
@@ -11611,11 +11750,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:58:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "7ad85345ec880812",
@@ -11626,11 +11765,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:49:17.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8439a86cb76cf1f8",
@@ -11641,11 +11780,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:25:02.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "cf1c6e37da4fa332",
@@ -11656,12 +11795,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:18:26.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "234009551a7e8e2b",
@@ -11672,11 +11811,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:05:53.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "351d0a5ef6bae0c9",
@@ -11704,8 +11843,25 @@
      "author": "Kari Anderson",
      "publishedAt": "2026-11-22T22:03:14.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
+     ]
+    },
+    {
+     "id": "ae26c51b56db08a9",
+     "title": "Tarik Skubal reportedly joins Mets on record-breaking, 9-year, $450 million deal that topped Blue Jays' offer",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/tarik-skubal-reportedly-joins-mets-on-record-breaking-9-year-450-million-deal-that-topped-blue-jays-offer-030504929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Kari Anderson",
+     "publishedAt": "2026-11-22T22:03:14.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "TOR"
      ],
      "role": "primary",
      "status": "Unclassified"
@@ -11719,11 +11875,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:00:07.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "97c9c7d1a8511236",
@@ -11777,11 +11933,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T17:07:25.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "0a2d142c2089e7a9",
@@ -12887,78 +13043,6 @@
      "teams": [
       "LAD"
      ]
-    },
-    {
-     "id": "77779208982f14d3",
-     "title": "Red Sox News & Links: Craig Breslow needs to beef up the front office",
-     "url": "https://sports.yahoo.com/articles/red-sox-news-links-craig-144127234.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-09T14:41:27.000Z",
-     "firstSeenAt": "2026-11-09T19:44:35.174Z",
-     "role": "mention",
-     "status": null,
-     "teams": [
-      "BOS"
-     ]
-    },
-    {
-     "id": "6da97763b68b3bca",
-     "title": "From last week: The #BlueJays will be in on the big names, because that's just how this works now. Are they realistic suitors for Tarik Skubal and the top tier of pitching, though, or are there more realistic targets? Story: www.mlb.com/bluejays/new...",
-     "url": "https://bsky.app/profile/keeganmatheson.bsky.social/post/3mzv2gsq6gs2l",
-     "sourceId": "bsky-keeganmatheson.bsky.social",
-     "sourceName": "Keegan Matheson",
-     "sourceKind": "reporter",
-     "author": "Keegan Matheson",
-     "publishedAt": "2026-11-09T13:40:06.383Z",
-     "firstSeenAt": "2026-11-09T19:44:35.174Z",
-     "role": "mention",
-     "status": null,
-     "teams": []
-    },
-    {
-     "id": "54d7281ef6d45145",
-     "title": "Dodgers notes: Tarik Skubal, Josue De Paula",
-     "url": "https://sports.yahoo.com/articles/dodgers-notes-tarik-skubal-josue-130700072.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-08T13:07:00.000Z",
-     "firstSeenAt": "2026-11-08T14:17:24.999Z",
-     "role": "mention",
-     "status": null,
-     "teams": [
-      "LAD"
-     ]
-    },
-    {
-     "id": "695a2d1886ea3184",
-     "title": "Chicago Cubs news: Pete Crow-Armstrong Platinum Glove, Gold Glove, hot stove rumors",
-     "url": "https://sports.yahoo.com/articles/chicago-cubs-news-pete-crow-130000911.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-08T13:00:00.000Z",
-     "firstSeenAt": "2026-11-08T14:17:24.999Z",
-     "role": "mention",
-     "status": null,
-     "teams": []
-    },
-    {
-     "id": "359248ec61d69f54",
-     "title": "A’s First 2 Off-Season Additions Bode Well",
-     "url": "https://sports.yahoo.com/articles/first-2-off-season-additions-163333745.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-07T16:33:33.000Z",
-     "firstSeenAt": "2026-11-07T18:16:15.660Z",
-     "role": "mention",
-     "status": null,
-     "teams": [
-      "ATH"
-     ]
     }
    ]
   },
@@ -13386,11 +13470,11 @@
      "author": "Ryan Young",
      "publishedAt": "2026-11-23T01:38:00.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d193d38e8d3ad1ae",
@@ -13401,12 +13485,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:28:23.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cf1c6e37da4fa332",
@@ -13417,12 +13501,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:18:26.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2ae1d2c4059afb4b",
@@ -14115,8 +14199,24 @@
    "status": "Interest",
    "statusAt": "2026-11-19T23:18:19.580Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-22T16:43:36.119Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "5c3444281f6a4817",
+     "title": "Mets land Tarik Skubal: How will Phillies, NL East counter historic deal?",
+     "url": "https://sports.yahoo.com/articles/mets-land-tarik-skubal-phillies-194439864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "a93077dafaf44275",
      "title": "What is your dream move for the Cardinals this offseason?",
@@ -14929,9 +15029,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:13:09.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "acc2b23ee4a9376c",
@@ -15250,8 +15350,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-21T16:27:47.728Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "3661f82cb2e4a2e4",
+     "title": "Phillies could find value in these newly available free agents",
+     "url": "https://sports.yahoo.com/articles/phillies-could-value-newly-available-060000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "4f63aaa7bb121921",
      "title": "Mets Morning News: Non-tender deadline shakes up free agency",
@@ -15989,8 +16102,38 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "7353aaceee6eeb8c",
+     "title": "Tarik Skubal signs megadeal with Mets: Fantasy baseball fallout",
+     "url": "https://sports.yahoo.com/articles/tarik-skubal-signs-megadeal-mets-074429300.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T07:44:29.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "f7e334eea5f1f0f0",
+     "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
+     "url": "https://sports.yahoo.com/articles/whats-next-mets-reportedly-signing-032853913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T03:28:53.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8432596f35aefd57",
      "title": "Mets reportedly interested in Ty France, Alec Bohm as potential first baseman",
@@ -16117,8 +16260,54 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "7353aaceee6eeb8c",
+     "title": "Tarik Skubal signs megadeal with Mets: Fantasy baseball fallout",
+     "url": "https://sports.yahoo.com/articles/tarik-skubal-signs-megadeal-mets-074429300.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T07:44:29.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "5c3444281f6a4817",
+     "title": "Mets land Tarik Skubal: How will Phillies, NL East counter historic deal?",
+     "url": "https://sports.yahoo.com/articles/mets-land-tarik-skubal-phillies-194439864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "f7e334eea5f1f0f0",
+     "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
+     "url": "https://sports.yahoo.com/articles/whats-next-mets-reportedly-signing-032853913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T03:28:53.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "08748a2bd8fc60fc",
      "title": "Tarik Skubal by the numbers: Mets strike record deal, will spend massive amount of money after landing star pitcher",
@@ -16129,11 +16318,11 @@
      "author": "Ryan Young",
      "publishedAt": "2026-11-23T01:38:00.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "81868844d1be3b61",
@@ -16144,9 +16333,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:13:09.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "29dadd770d140fc3",
@@ -16157,11 +16346,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T17:07:25.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "48edf032297bd7e7",
@@ -17700,12 +17889,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:28:23.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "81868844d1be3b61",
@@ -17716,9 +17905,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:13:09.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "55d81c5ccf614188",
@@ -18080,8 +18269,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "7353aaceee6eeb8c",
+     "title": "Tarik Skubal signs megadeal with Mets: Fantasy baseball fallout",
+     "url": "https://sports.yahoo.com/articles/tarik-skubal-signs-megadeal-mets-074429300.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T07:44:29.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "11b1ddb3dd249270",
      "title": "Scaling the Rocks: Goodman rumors still simmering on hot stove",
@@ -20503,9 +20707,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:13:09.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "c013e8cdd1a47f53",
@@ -23149,11 +23353,11 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-23T02:19:04.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a7af8823142df6ae",
@@ -23164,11 +23368,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:58:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d2c0a4fde68d8a6d",
@@ -23179,11 +23383,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:00:07.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "29dadd770d140fc3",
@@ -23194,11 +23398,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T17:07:25.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9727087eed4938e7",
@@ -23374,11 +23578,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:58:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "29dadd770d140fc3",
@@ -23389,11 +23593,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T17:07:25.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "acc2b23ee4a9376c",
@@ -25000,8 +25204,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "5c3444281f6a4817",
+     "title": "Mets land Tarik Skubal: How will Phillies, NL East counter historic deal?",
+     "url": "https://sports.yahoo.com/articles/mets-land-tarik-skubal-phillies-194439864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d193d38e8d3ad1ae",
      "title": "What's next for Dodgers? Top free agent targets after Tarik Skubal signs with Mets",
@@ -25011,12 +25231,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:28:23.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "05ceb242609e29fb",
@@ -25150,8 +25370,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "3661f82cb2e4a2e4",
+     "title": "Phillies could find value in these newly available free agents",
+     "url": "https://sports.yahoo.com/articles/phillies-could-value-newly-available-060000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d193d38e8d3ad1ae",
      "title": "What's next for Dodgers? Top free agent targets after Tarik Skubal signs with Mets",
@@ -25161,12 +25394,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:28:23.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "05ceb242609e29fb",
@@ -25781,11 +26014,11 @@
      "author": "Ryan Young",
      "publishedAt": "2026-11-23T01:38:00.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e69067757e533750",
@@ -26020,8 +26253,24 @@
    "status": "Interest",
    "statusAt": "2026-11-22T22:06:47.104Z",
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "e3e503516666422f",
+     "title": "Yankees news: Luis Gil signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/yankees-news-luis-gil-signs-050000890.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T05:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYY",
+      "DET"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "97aa077db3f1996c",
      "title": "Tigers sign right-hander Luis Gil to a one-year deal, per report",
@@ -26031,11 +26280,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:02:30.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "97c9c7d1a8511236",
@@ -26562,8 +26811,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-19T23:18:19.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "5c3444281f6a4817",
+     "title": "Mets land Tarik Skubal: How will Phillies, NL East counter historic deal?",
+     "url": "https://sports.yahoo.com/articles/mets-land-tarik-skubal-phillies-194439864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "35a29fe50c21c514",
      "title": "Should Astros Be Interested in Teruaki Sato?",
@@ -26704,8 +26969,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-22T22:06:47.104Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "7353aaceee6eeb8c",
+     "title": "Tarik Skubal signs megadeal with Mets: Fantasy baseball fallout",
+     "url": "https://sports.yahoo.com/articles/tarik-skubal-signs-megadeal-mets-074429300.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T07:44:29.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d56fdb1fbbde96b3",
      "title": "Yankees Social Media Spotlight: Last week before the lockout",
@@ -28134,11 +28414,11 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-23T02:19:04.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2aa9434bbf54b0c1",
@@ -28149,11 +28429,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:23:53.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d2c0a4fde68d8a6d",
@@ -28164,11 +28444,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:00:07.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5cb1f9764cec6ae8",
@@ -28206,11 +28486,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T17:07:25.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cf7920bb8629869e",
@@ -28334,8 +28614,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-22T22:06:47.104Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "f7e334eea5f1f0f0",
+     "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
+     "url": "https://sports.yahoo.com/articles/whats-next-mets-reportedly-signing-032853913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T03:28:53.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "55d81c5ccf614188",
      "title": "Tarik Skubal decision nears, and a dozen free-agent pitchers wait",
@@ -28553,11 +28848,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:58:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d2c0a4fde68d8a6d",
@@ -28568,11 +28863,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:00:07.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "29dadd770d140fc3",
@@ -28583,11 +28878,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T17:07:25.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d136c0819aa6f3d1",
@@ -28700,11 +28995,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:58:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d2c0a4fde68d8a6d",
@@ -28715,11 +29010,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:00:07.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "29dadd770d140fc3",
@@ -28730,11 +29025,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T17:07:25.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d136c0819aa6f3d1",
@@ -28875,8 +29170,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "f7e334eea5f1f0f0",
+     "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
+     "url": "https://sports.yahoo.com/articles/whats-next-mets-reportedly-signing-032853913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T03:28:53.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "a7af8823142df6ae",
      "title": "Mets reportedly sign Tarik Skubal for nine years, $450 million: Breaking down the record-setting deal",
@@ -28886,11 +29196,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:58:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d2c0a4fde68d8a6d",
@@ -28901,11 +29211,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:00:07.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d136c0819aa6f3d1",
@@ -30489,12 +30799,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:28:23.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "05ceb242609e29fb",
@@ -32028,8 +32338,24 @@
    "status": "Unclassified",
    "statusAt": "2026-11-07T18:16:15.660Z",
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-19T16:50:31.434Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "5c3444281f6a4817",
+     "title": "Mets land Tarik Skubal: How will Phillies, NL East counter historic deal?",
+     "url": "https://sports.yahoo.com/articles/mets-land-tarik-skubal-phillies-194439864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "22da9759b9425576",
      "title": "The Phillies are reportedly interested in Jonathan Loáisiga. Are you?",
@@ -32470,7 +32796,7 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-08T14:17:24.999Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
     {
      "id": "60062e3378ce63a4",
@@ -32482,11 +32808,11 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-23T02:19:04.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "08748a2bd8fc60fc",
@@ -32498,11 +32824,11 @@
      "author": "Ryan Young",
      "publishedAt": "2026-11-23T01:38:00.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d193d38e8d3ad1ae",
@@ -32513,12 +32839,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:28:23.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2aa9434bbf54b0c1",
@@ -32529,11 +32855,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:23:53.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "81868844d1be3b61",
@@ -32544,9 +32870,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:13:09.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "a7af8823142df6ae",
@@ -32557,11 +32883,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:58:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8439a86cb76cf1f8",
@@ -32572,11 +32898,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:25:02.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cf1c6e37da4fa332",
@@ -32587,12 +32913,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:18:26.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3c7ad644cba6a88f",
@@ -32604,8 +32930,25 @@
      "author": "Kari Anderson",
      "publishedAt": "2026-11-22T22:03:14.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
+     ]
+    },
+    {
+     "id": "ae26c51b56db08a9",
+     "title": "Tarik Skubal reportedly joins Mets on record-breaking, 9-year, $450 million deal that topped Blue Jays' offer",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/tarik-skubal-reportedly-joins-mets-on-record-breaking-9-year-450-million-deal-that-topped-blue-jays-offer-030504929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Kari Anderson",
+     "publishedAt": "2026-11-22T22:03:14.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "TOR"
      ],
      "role": "mention",
      "status": null
@@ -32619,11 +32962,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:00:07.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "55d81c5ccf614188",
@@ -32647,11 +32990,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T17:07:25.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b635d5b4ca95a37",
@@ -33536,11 +33879,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:58:06.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "55d81c5ccf614188",
@@ -35170,12 +35513,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T00:28:23.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8cd0717618ef9281",
@@ -36422,8 +36765,24 @@
    "status": "Unclassified",
    "statusAt": "2026-11-21T21:50:50.554Z",
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "5c3444281f6a4817",
+     "title": "Mets land Tarik Skubal: How will Phillies, NL East counter historic deal?",
+     "url": "https://sports.yahoo.com/articles/mets-land-tarik-skubal-phillies-194439864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "60062e3378ce63a4",
      "title": "For the Mets, signing Tarik Skubal is a loud reminder of their financial might and an expensive step back toward contention",
@@ -36434,11 +36793,11 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-23T02:19:04.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "76eefa6532d99ba1",
@@ -37814,8 +38173,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-11T09:27:02.687Z",
    "firstSeenAt": "2026-11-11T02:13:00.180Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "f7e334eea5f1f0f0",
+     "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
+     "url": "https://sports.yahoo.com/articles/whats-next-mets-reportedly-signing-032853913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T03:28:53.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d2c0a4fde68d8a6d",
      "title": "Tarik Skubal signing with Mets in $450 million stunner as sweepstakes end with latest mega-deal",
@@ -37825,11 +38199,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:00:07.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d136c0819aa6f3d1",
@@ -42247,8 +42621,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-17T11:04:41.964Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "f7e334eea5f1f0f0",
+     "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
+     "url": "https://sports.yahoo.com/articles/whats-next-mets-reportedly-signing-032853913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T03:28:53.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d6f7fc5c5f7b96be",
      "title": "David Bednar’s looming $23 million decision comes with few Yankees backup options",
@@ -42412,11 +42801,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-22T22:09:56.772Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "8432596f35aefd57",
@@ -42508,8 +42897,24 @@
    "status": "Talks",
    "statusAt": "2026-11-11T23:32:23.064Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-21T16:27:47.728Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "5c3444281f6a4817",
+     "title": "Mets land Tarik Skubal: How will Phillies, NL East counter historic deal?",
+     "url": "https://sports.yahoo.com/articles/mets-land-tarik-skubal-phillies-194439864.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM",
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "195f90064d26169d",
      "title": "Phillies news: Aidan Miller, Teruaki Sato, Jonathan Loaisiga",
@@ -44059,12 +44464,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:18:26.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e8665919600e5763",
@@ -44118,12 +44523,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:18:26.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2816edf4195a7ecf",
@@ -44917,11 +45322,11 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-23T02:19:04.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6f1f155e047d8fa6",
@@ -45056,8 +45461,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-13T16:11:10.798Z",
-   "lastActivityAt": "2026-11-20T20:45:38.370Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "e3e503516666422f",
+     "title": "Yankees news: Luis Gil signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/yankees-news-luis-gil-signs-050000890.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T05:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYY",
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "81dd57d00b29b571",
      "title": "Mariners News: Luis Castillo, Darwinzon Hernández, and Jonathan Loáisiga",
@@ -45675,8 +46096,38 @@
    "status": "Unclassified",
    "statusAt": "2026-11-23T02:39:28.580Z",
    "firstSeenAt": "2026-11-14T09:00:54.551Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "7353aaceee6eeb8c",
+     "title": "Tarik Skubal signs megadeal with Mets: Fantasy baseball fallout",
+     "url": "https://sports.yahoo.com/articles/tarik-skubal-signs-megadeal-mets-074429300.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T07:44:29.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "f7e334eea5f1f0f0",
+     "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
+     "url": "https://sports.yahoo.com/articles/whats-next-mets-reportedly-signing-032853913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T03:28:53.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "08748a2bd8fc60fc",
      "title": "Tarik Skubal by the numbers: Mets strike record deal, will spend massive amount of money after landing star pitcher",
@@ -45687,11 +46138,11 @@
      "author": "Ryan Young",
      "publishedAt": "2026-11-23T01:38:00.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "81868844d1be3b61",
@@ -45702,9 +46153,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:13:09.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "7ad85345ec880812",
@@ -45715,11 +46166,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:49:17.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "3644f2da487f9846",
@@ -46379,8 +46830,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-14T20:06:20.189Z",
-   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "e3e503516666422f",
+     "title": "Yankees news: Luis Gil signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/yankees-news-luis-gil-signs-050000890.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T05:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYY",
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3e8566b6b1c0b301",
      "title": "Yankees Arizona Fall League Week 6 Recap",
@@ -48347,8 +48814,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-16T19:30:11.951Z",
-   "lastActivityAt": "2026-11-16T19:30:11.951Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "3661f82cb2e4a2e4",
+     "title": "Phillies could find value in these newly available free agents",
+     "url": "https://sports.yahoo.com/articles/phillies-could-value-newly-available-060000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "505ed2516b72fbf7",
      "title": "Notes on Alex Vesia and an Outfield Idea",
@@ -57505,8 +57985,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-21T01:48:16.080Z",
    "firstSeenAt": "2026-11-21T01:48:16.080Z",
-   "lastActivityAt": "2026-11-21T21:50:50.554Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "3661f82cb2e4a2e4",
+     "title": "Phillies could find value in these newly available free agents",
+     "url": "https://sports.yahoo.com/articles/phillies-could-value-newly-available-060000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0f0ab7e1827b3977",
      "title": "Former Rookie of the Year Luis Gil and 2023 All-Star Josiah Gray among 44 non-tender free agents",
@@ -59128,8 +59621,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-21T16:27:47.728Z",
-   "lastActivityAt": "2026-11-21T16:27:47.728Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "3661f82cb2e4a2e4",
+     "title": "Phillies could find value in these newly available free agents",
+     "url": "https://sports.yahoo.com/articles/phillies-could-value-newly-available-060000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4f63aaa7bb121921",
      "title": "Mets Morning News: Non-tender deadline shakes up free agency",
@@ -59467,8 +59973,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-21T16:27:47.728Z",
-   "lastActivityAt": "2026-11-21T16:27:47.728Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
    "items": [
+    {
+     "id": "e3e503516666422f",
+     "title": "Yankees news: Luis Gil signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/yankees-news-luis-gil-signs-050000890.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T05:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYY",
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2d4048860f6b1eb2",
      "title": "Latest notes with Will Sammon, unlocked and free to read: — Details/analysis on the White Sox recent trade — Freddy Peralta's market taking shape — The kind of deal Ty France is eyeing — Nolan Arenado increasing Arizona’s options www.nytimes.com/athletic/779...",
@@ -60008,11 +60530,11 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-23T02:19:04.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d2c0a4fde68d8a6d",
@@ -60023,11 +60545,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:00:07.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5cb1f9764cec6ae8",
@@ -60052,11 +60574,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T17:07:25.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -60081,11 +60603,11 @@
      "author": "Jordan Shusterman",
      "publishedAt": "2026-11-23T02:19:04.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -60110,11 +60632,11 @@
      "author": "Ryan Young",
      "publishedAt": "2026-11-23T01:38:00.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -60138,11 +60660,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T23:02:30.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -60166,8 +60688,228 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-22T22:18:26.000Z",
      "firstSeenAt": "2026-11-23T02:39:28.580Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD",
+      "NYM"
+     ]
+    }
+   ]
+  },
+  "player-682626": {
+   "id": "player-682626",
+   "type": "player",
+   "subject": "Francisco Álvarez",
+   "mlbamId": 682626,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-23T11:17:52.412Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
+   "items": [
+    {
+     "id": "7353aaceee6eeb8c",
+     "title": "Tarik Skubal signs megadeal with Mets: Fantasy baseball fallout",
+     "url": "https://sports.yahoo.com/articles/tarik-skubal-signs-megadeal-mets-074429300.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T07:44:29.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-683146": {
+   "id": "player-683146",
+   "type": "player",
+   "subject": "Brett Baty",
+   "mlbamId": 683146,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-23T11:17:52.412Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
+   "items": [
+    {
+     "id": "7353aaceee6eeb8c",
+     "title": "Tarik Skubal signs megadeal with Mets: Fantasy baseball fallout",
+     "url": "https://sports.yahoo.com/articles/tarik-skubal-signs-megadeal-mets-074429300.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T07:44:29.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-691330": {
+   "id": "player-691330",
+   "type": "player",
+   "subject": "Moisés Chace",
+   "mlbamId": 691330,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-23T11:17:52.412Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
+   "items": [
+    {
+     "id": "3661f82cb2e4a2e4",
+     "title": "Phillies could find value in these newly available free agents",
+     "url": "https://sports.yahoo.com/articles/phillies-could-value-newly-available-060000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-694851": {
+   "id": "player-694851",
+   "type": "player",
+   "subject": "Andrew Hoffmann",
+   "mlbamId": 694851,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-23T11:17:52.412Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
+   "items": [
+    {
+     "id": "3661f82cb2e4a2e4",
+     "title": "Phillies could find value in these newly available free agents",
+     "url": "https://sports.yahoo.com/articles/phillies-could-value-newly-available-060000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-673929": {
+   "id": "player-673929",
+   "type": "player",
+   "subject": "Jordan Leasure",
+   "mlbamId": 673929,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-23T11:17:52.412Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
+   "items": [
+    {
+     "id": "3661f82cb2e4a2e4",
+     "title": "Phillies could find value in these newly available free agents",
+     "url": "https://sports.yahoo.com/articles/phillies-could-value-newly-available-060000482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T06:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-801739": {
+   "id": "player-801739",
+   "type": "player",
+   "subject": "Carlos Lagrange",
+   "mlbamId": 801739,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-23T11:17:52.412Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
+   "items": [
+    {
+     "id": "e3e503516666422f",
+     "title": "Yankees news: Luis Gil signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/yankees-news-luis-gil-signs-050000890.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T05:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYY",
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-701480": {
+   "id": "player-701480",
+   "type": "player",
+   "subject": "Bryce Cunningham",
+   "mlbamId": 701480,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-23T11:17:52.412Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
+   "items": [
+    {
+     "id": "e3e503516666422f",
+     "title": "Yankees news: Luis Gil signs with Detroit Tigers",
+     "url": "https://sports.yahoo.com/articles/yankees-news-luis-gil-signs-050000890.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T05:00:00.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
+      "NYY",
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-620443": {
+   "id": "player-620443",
+   "type": "player",
+   "subject": "Luis Torrens",
+   "mlbamId": 620443,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-23T11:17:52.412Z",
+   "lastActivityAt": "2026-11-23T11:17:52.412Z",
+   "items": [
+    {
+     "id": "f7e334eea5f1f0f0",
+     "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
+     "url": "https://sports.yahoo.com/articles/whats-next-mets-reportedly-signing-032853913.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T03:28:53.000Z",
+     "firstSeenAt": "2026-11-23T11:17:52.412Z",
+     "teams": [
       "NYM"
      ],
      "role": "mention",
@@ -60181,414 +60923,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"0f84fb63d4f644ec0fc06f1147c790d6\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"fc6ef5b8b8e3f1b6de9261a2ce55c6a0\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
-   "etag": "W/\"ccbd6b76e2e69627877baa9baa42f5c1\""
+   "etag": "W/\"6f2ad3ba6155903c1d69822f0ec0dc10\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"4fa480b6fe9ae353527bb6c6c4cc6910\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"e85840c811a16f05e43b8946d7b89159\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
-   "etag": "W/\"18174d5272b42413552c7c4aff73431c\""
+   "etag": "W/\"29716db6365445a61611cee7c85ea693\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"80018da7fea445adfb0014dd6eeadf50\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"f34e4af2b197619b19b1943a268d5a59\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"a2a19a450ec0554c92f3aa9f839477ba\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"8660fdbacf9036b2dc75447d26907471\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"43b41490fe98719aa268da6488ea0c35\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"76289e92a73a0c51bf655daf852cc13d\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"b0f86d46941c9df270f4dc40c7e39b9d\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"1e79e3f459996689e3a2b1fa2f6f20ec\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"3189036edd8c56f40e73f61e78167b77\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"bf85f0d580c9580bd88a1d6e37b62974\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"21ac876e1989be4a4ee4e2ec073515c9\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
-   "etag": "W/\"eb16e7ce2250929ada1bc85cee71e029\""
+   "etag": "W/\"144a94917fab820ab1d44578e7944790\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
-   "etag": "W/\"0e9ee811d3a3eccc8be7f2aaf4501839\""
+   "etag": "W/\"441311102c5ff8c48ceb1746e663f1e8\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
-   "etag": "W/\"ebceb6c887bb64705a95250985d66842\""
+   "etag": "W/\"6df7265d021b34d809ec6bcb05c4b47c\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"a2be74149d2dd8651f4edb324a590962\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"7973414801eccbc0839dc20ad6e66f5c\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"40d026227638d80316153b6c3988baf3\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"e5d770591fdeaf0df8a583db03533c68\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
-   "etag": "W/\"b379679f46a05036747b3791c34e3559\""
+   "etag": "W/\"0fdc9ea4e7859e2f169aa4d570426113\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"495c992d3503879dd0b5f3123b01c3b1\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
    "etag": "W/\"9c2149ebacc8bb0249a54654ee3a1e1d\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
-   "etag": "W/\"b324fb6862092dac45188ddd34dd3cbd\""
+   "etag": "W/\"8f2e9dad60c2d07fa8584fcd9c9302da\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null,
-   "lastModified": "Mon, 23 Nov 2026 02:39:29 GMT"
+   "lastModified": "Mon, 23 Nov 2026 11:17:54 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-23T02:39:28.580Z",
+   "lastSuccessAt": "2026-11-23T11:17:52.412Z",
    "lastError": null
   }
  }
