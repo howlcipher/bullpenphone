@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-23T22:46:03.100Z",
+ "updatedAt": "2026-11-24T06:28:58.851Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -239,9 +239,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T19:53:55.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "165763fc89dbc5c7",
@@ -252,9 +252,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:20:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "5768060f9b11f858",
@@ -266,9 +266,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-23T13:29:35.423Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "f900d7ac038d9f70",
@@ -1445,11 +1445,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:35:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a5b01228a7f7b669",
@@ -1734,11 +1734,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-11-23T13:26:15.607Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "4eccef1b5e6425be",
@@ -1750,11 +1750,11 @@
      "author": "Ethan Witte",
      "publishedAt": "2026-11-23T12:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "0a2d142c2089e7a9",
@@ -3583,11 +3583,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:33:14.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8464d07616a4d80c",
@@ -3598,11 +3598,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "731c12a9ded8ce18",
@@ -5089,12 +5089,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:03:30.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6b34ab5cb002f5ba",
@@ -5163,12 +5163,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:03:30.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5ee347b785393d5a",
@@ -5235,12 +5235,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:03:30.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0e58f584426eebec",
@@ -5313,11 +5313,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:06:48.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "70f21274647ae782",
@@ -5328,11 +5328,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:35:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d193d38e8d3ad1ae",
@@ -5621,11 +5621,11 @@
      "author": "Becca Weinberg",
      "publishedAt": "2026-11-23T15:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "76eefa6532d99ba1",
@@ -8130,8 +8130,56 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T22:46:03.100Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "2bacbeda76f88a50",
+     "title": "Full story on the Astros' hiring of J.P. Martinez as their new pitching coach and Aaron Bates as their new hitting coach - www.nytimes.com/athletic/780...",
+     "url": "https://bsky.app/profile/chandlerrome.bsky.social/post/3n2zixcrw6sv3",
+     "sourceId": "bsky-chandlerrome.bsky.social",
+     "sourceName": "Chandler Rome",
+     "sourceKind": "reporter",
+     "author": "Chandler Rome",
+     "publishedAt": "2026-11-24T01:35:43.055Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "dd4b72ce62b301a2",
+     "title": "The Astros are hiring Aaron Bates as their hitting coach, sources tell @theathletic.com. Bates spent the past 12 seasons as the Los Angeles Dodgers' hitting coach, but parted ways with the team after the season when the two sides could not come to a contract agreement.",
+     "url": "https://bsky.app/profile/chandlerrome.bsky.social/post/3n2zdwsfj2kv3",
+     "sourceId": "bsky-chandlerrome.bsky.social",
+     "sourceName": "Chandler Rome",
+     "sourceKind": "reporter",
+     "author": "Chandler Rome",
+     "publishedAt": "2026-11-24T00:05:57.162Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "024cbd152170b360",
+     "title": "The Astros are hiring J.P. Martinez as their new pitching coach, sources tell @theathletic.com. Quick story with @ken-rosenthal.bsky.social - www.nytimes.com/athletic/780...",
+     "url": "https://bsky.app/profile/chandlerrome.bsky.social/post/3n2zctznptkv3",
+     "sourceId": "bsky-chandlerrome.bsky.social",
+     "sourceName": "Chandler Rome",
+     "sourceKind": "reporter",
+     "author": "Chandler Rome",
+     "publishedAt": "2026-11-23T23:46:30.366Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "144239b74ae2e0be",
      "title": "Longtime Astros pitching coach Josh Miller will not return next season, a source tells @theathletic.com. The team had previously announced that Miller would return, but that was before Brad Ausmus was hired. First: MLB.com",
@@ -8142,11 +8190,11 @@
      "author": "Chandler Rome",
      "publishedAt": "2026-11-23T17:50:59.712Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "2c56da4b7fd50d5f",
@@ -9292,11 +9340,11 @@
      "author": "Shawn Coleman",
      "publishedAt": "2026-11-23T13:21:46.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "38b56876cf278f72",
@@ -9773,11 +9821,11 @@
      "author": "Richard Staff",
      "publishedAt": "2026-11-23T13:30:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "014b7e35a41b53ae",
@@ -11815,8 +11863,38 @@
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T22:46:03.100Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "1ab366516cfa301a",
+     "title": "Trevor Rogers, Cubs agree to five-year, $120 million deal | Report",
+     "url": "https://sports.yahoo.com/articles/trevor-rogers-cubs-agree-five-045029968.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:50:29.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "a7e744bfd1db9d03",
+     "title": "Cubs sign Trevor Rogers to multi-year deal",
+     "url": "https://sports.yahoo.com/articles/cubs-sign-trevor-rogers-multi-040500416.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:05:00.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "2dff65b21cfa8570",
      "title": "The Dodgers had neither the roster need nor the financial appetite to acquire Tarik Skubal",
@@ -11827,11 +11905,11 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-23T21:05:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "e3c2c047735acacc",
@@ -11843,12 +11921,12 @@
      "author": "Yahoo Sports Staff,Jordan Shusterman,Jake Mintz",
      "publishedAt": "2026-11-23T19:39:12.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM",
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "b9e08ce53fe160f1",
@@ -11859,11 +11937,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:27:46.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b584a3b6c2d6aab",
@@ -11874,11 +11952,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a1d2f4a17df7fcb2",
@@ -11889,11 +11967,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:06:53.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "ae3edb233b418d4d",
@@ -11904,11 +11982,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:06:48.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "a20e7d35dbb8bdf7",
@@ -11919,12 +11997,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "PIT",
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "a7a4aeec1439a6f5",
@@ -11936,11 +12014,11 @@
      "author": "Ben Fawkes",
      "publishedAt": "2026-11-23T16:40:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "415c536e476ba5a7",
@@ -11951,11 +12029,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:43:23.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1318fb16bb275e67",
@@ -11967,11 +12045,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-23T15:41:25.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "70f21274647ae782",
@@ -11982,11 +12060,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:35:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3ee2be55c127e163",
@@ -11997,11 +12075,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:25:11.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b9d8456fa2097760",
@@ -12013,11 +12091,11 @@
      "author": "Becca Weinberg",
      "publishedAt": "2026-11-23T15:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "80615ef2aed1acb9",
@@ -12029,11 +12107,11 @@
      "author": "Richard Staff",
      "publishedAt": "2026-11-23T13:30:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5768060f9b11f858",
@@ -12045,9 +12123,9 @@
      "author": "Ken Rosenthal",
      "publishedAt": "2026-11-23T13:29:35.423Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "56dd889adab4fe6b",
@@ -12059,11 +12137,11 @@
      "author": "Todd Zolecki",
      "publishedAt": "2026-11-23T13:26:15.607Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f424a6ad3850e4f7",
@@ -12075,13 +12153,13 @@
      "author": "Brady Klopfer",
      "publishedAt": "2026-11-23T13:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD",
       "NYM",
       "SF"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "4eccef1b5e6425be",
@@ -12093,11 +12171,11 @@
      "author": "Ethan Witte",
      "publishedAt": "2026-11-23T12:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7353aaceee6eeb8c",
@@ -13289,34 +13367,6 @@
      "teams": [
       "NYM"
      ]
-    },
-    {
-     "id": "fcce0b98e0474bf6",
-     "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
-     "url": "https://sports.yahoo.com/articles/mariners-news-j-p-crawford-150000249.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-11T15:00:00.000Z",
-     "firstSeenAt": "2026-11-11T17:21:50.204Z",
-     "role": "mention",
-     "status": null,
-     "teams": [
-      "SEA"
-     ]
-    },
-    {
-     "id": "d288e812d05d0fa9",
-     "title": "Rumors are many, signings are few as GM Meetings continue",
-     "url": "https://sports.yahoo.com/articles/rumors-many-signings-few-gm-143000363.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-11T14:30:00.000Z",
-     "firstSeenAt": "2026-11-11T17:21:50.204Z",
-     "role": "mention",
-     "status": null,
-     "teams": []
     }
    ]
   },
@@ -13744,11 +13794,11 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-23T21:05:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b584a3b6c2d6aab",
@@ -13759,11 +13809,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a1d2f4a17df7fcb2",
@@ -13774,11 +13824,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:06:53.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "08748a2bd8fc60fc",
@@ -14530,11 +14580,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7321cae4b5d8e3b",
@@ -14545,9 +14595,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T16:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "3ee2be55c127e163",
@@ -14558,11 +14608,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:25:11.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4eccef1b5e6425be",
@@ -14574,11 +14624,11 @@
      "author": "Ethan Witte",
      "publishedAt": "2026-11-23T12:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5c3444281f6a4817",
@@ -14925,9 +14975,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T16:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "76eefa6532d99ba1",
@@ -15753,9 +15803,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T16:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "3661f82cb2e4a2e4",
@@ -16518,11 +16568,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:27:46.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "415c536e476ba5a7",
@@ -16533,11 +16583,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:43:23.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3ee2be55c127e163",
@@ -16548,11 +16598,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:25:11.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7353aaceee6eeb8c",
@@ -16868,9 +16918,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:45:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "57b4c75fd9c2e349",
@@ -17322,11 +17372,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7321cae4b5d8e3b",
@@ -17337,9 +17387,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T16:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "2d177acb51e09cc3",
@@ -17768,11 +17818,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0678aa1d454de520",
@@ -17813,11 +17863,11 @@
      "author": "Cheri Bell",
      "publishedAt": "2026-11-23T14:30:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "0f0ab7e1827b3977",
@@ -18298,8 +18348,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "e9bdc54ba5a443a3",
+     "title": "Cubs signing Trevor Rogers to five year, $120 million contract",
+     "url": "https://sports.yahoo.com/articles/cubs-signing-trevor-rogers-five-045927659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:59:27.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d40c9c31adc568d0",
      "title": "Another note from the Cubs’ contract option decisions: Righty Javier Assad’s $3.3 million team option was declined, but he remains under club control.",
@@ -18402,8 +18467,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "6d44f0674140f501",
+     "title": "Cubs bolster thin rotation, reportedly agree with Trevor Rogers on $120M deal",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/cubs-bolster-thin-rotation-reportedly-agree-with-trevor-rogers-on-120m-deal-051456180.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jason Owens",
+     "publishedAt": "2026-11-24T05:14:56.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "d193d38e8d3ad1ae",
      "title": "What's next for Dodgers? Top free agent targets after Tarik Skubal signs with Mets",
@@ -18634,12 +18715,29 @@
    "type": "player",
    "subject": "Caleb Thielbar",
    "mlbamId": 573204,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "KC"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-24T06:28:58.851Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "c75b789f7862892c",
+     "title": "Royals sign lefty reliever Caleb Thielbar",
+     "url": "https://sports.yahoo.com/articles/royals-sign-lefty-reliever-caleb-235953958.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T23:59:53.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "6a5c12e88428ead2",
      "title": "Four more Cubs hit free agency: Hunter Harvey Clay Holmes Colin Rea Caleb Thielbar",
@@ -18680,11 +18778,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:35:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "b81f70df7405fedb",
@@ -19797,12 +19895,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:03:30.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "390d6ccf79862887",
@@ -21055,11 +21153,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:35:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "390d6ccf79862887",
@@ -22507,11 +22605,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7321cae4b5d8e3b",
@@ -22522,9 +22620,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T16:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "35a29fe50c21c514",
@@ -22751,12 +22849,12 @@
      "author": "Yahoo Sports Staff,Jordan Shusterman,Jake Mintz",
      "publishedAt": "2026-11-23T19:39:12.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM",
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cf09dce63bc39174",
@@ -23513,9 +23611,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:20:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "bc09916b9e5a5f23",
@@ -24190,13 +24288,108 @@
    "subject": "Trevor Rogers",
    "mlbamId": 669432,
    "teams": [
-    "BAL"
+    "BAL",
+    "CHC"
    ],
    "status": "Interest",
    "statusAt": "2026-11-11T02:13:00.180Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "6d44f0674140f501",
+     "title": "Cubs bolster thin rotation, reportedly agree with Trevor Rogers on $120M deal",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/cubs-bolster-thin-rotation-reportedly-agree-with-trevor-rogers-on-120m-deal-051456180.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jason Owens",
+     "publishedAt": "2026-11-24T05:14:56.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "e9bdc54ba5a443a3",
+     "title": "Cubs signing Trevor Rogers to five year, $120 million contract",
+     "url": "https://sports.yahoo.com/articles/cubs-signing-trevor-rogers-five-045927659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:59:27.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "1ab366516cfa301a",
+     "title": "Trevor Rogers, Cubs agree to five-year, $120 million deal | Report",
+     "url": "https://sports.yahoo.com/articles/trevor-rogers-cubs-agree-five-045029968.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:50:29.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "e77cc29c2808f66a",
+     "title": "Reports: Cubs in agreement with Trevor Rogers on 5-year contract #Orioles",
+     "url": "https://bsky.app/profile/richdubroffmlb.bsky.social/post/3n2zrxe3ulp2c",
+     "sourceId": "bsky-richdubroffmlb.bsky.social",
+     "sourceName": "Rich Dubroff",
+     "sourceKind": "reporter",
+     "author": "Rich Dubroff",
+     "publishedAt": "2026-11-24T04:16:47.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC",
+      "BAL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "a7e744bfd1db9d03",
+     "title": "Cubs sign Trevor Rogers to multi-year deal",
+     "url": "https://sports.yahoo.com/articles/cubs-sign-trevor-rogers-multi-040500416.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:05:00.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "6af91ce9fb3a737e",
+     "title": "Cubs have an agreement in place on a multi-year deal with LHP Trevor Rogers, pending physical, per sources. Jon Morosi was on it first.",
+     "url": "https://bsky.app/profile/bastianmlb.bsky.social/post/3n2zqxovzjs2p",
+     "sourceId": "bsky-bastianmlb.bsky.social",
+     "sourceName": "Jordan Bastian",
+     "sourceKind": "reporter",
+     "author": "Jordan Bastian",
+     "publishedAt": "2026-11-24T03:59:05.707Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "a7af8823142df6ae",
      "title": "Mets reportedly sign Tarik Skubal for nine years, $450 million: Breaking down the record-setting deal",
@@ -25844,11 +26037,11 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-23T21:05:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5c3444281f6a4817",
@@ -26026,11 +26219,11 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-23T21:05:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3661f82cb2e4a2e4",
@@ -26424,9 +26617,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:45:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e95911bdfb5cf026",
@@ -26686,9 +26879,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:45:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "ae3edb233b418d4d",
@@ -26699,11 +26892,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:06:48.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "08748a2bd8fc60fc",
@@ -26966,12 +27159,12 @@
      "author": "Yahoo Sports Staff,Jordan Shusterman,Jake Mintz",
      "publishedAt": "2026-11-23T19:39:12.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM",
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b9d8456fa2097760",
@@ -26983,11 +27176,11 @@
      "author": "Becca Weinberg",
      "publishedAt": "2026-11-23T15:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e3e503516666422f",
@@ -27556,9 +27749,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T16:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "5c3444281f6a4817",
@@ -27670,9 +27863,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T16:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "35a29fe50c21c514",
@@ -30802,12 +30995,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:03:30.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "376aaa89e7782816",
@@ -31576,11 +31769,11 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-23T21:05:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d193d38e8d3ad1ae",
@@ -33257,11 +33450,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-23T20:06:21.630Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "3b584a3b6c2d6aab",
@@ -33272,11 +33465,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "415c536e476ba5a7",
@@ -33287,11 +33480,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:43:23.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "718a1893e38518ef",
@@ -33303,11 +33496,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-23T15:09:31.368Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "8a067392eb820241",
@@ -33662,11 +33855,11 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-23T21:05:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b584a3b6c2d6aab",
@@ -33677,11 +33870,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a1d2f4a17df7fcb2",
@@ -33692,11 +33885,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:06:53.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7321cae4b5d8e3b",
@@ -33707,9 +33900,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T16:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "60062e3378ce63a4",
@@ -34225,8 +34418,39 @@
    "status": "Interest",
    "statusAt": "2026-11-13T16:11:10.798Z",
    "firstSeenAt": "2026-11-08T14:17:24.999Z",
-   "lastActivityAt": "2026-11-13T16:11:10.798Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "6d44f0674140f501",
+     "title": "Cubs bolster thin rotation, reportedly agree with Trevor Rogers on $120M deal",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/cubs-bolster-thin-rotation-reportedly-agree-with-trevor-rogers-on-120m-deal-051456180.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jason Owens",
+     "publishedAt": "2026-11-24T05:14:56.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "1ab366516cfa301a",
+     "title": "Trevor Rogers, Cubs agree to five-year, $120 million deal | Report",
+     "url": "https://sports.yahoo.com/articles/trevor-rogers-cubs-agree-five-045029968.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:50:29.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b511e7dc4711abe4",
      "title": "Tigers showing interest in LHP Shota Imanaga, per report",
@@ -34781,8 +35005,39 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-23T02:39:28.580Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "6d44f0674140f501",
+     "title": "Cubs bolster thin rotation, reportedly agree with Trevor Rogers on $120M deal",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/cubs-bolster-thin-rotation-reportedly-agree-with-trevor-rogers-on-120m-deal-051456180.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jason Owens",
+     "publishedAt": "2026-11-24T05:14:56.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "1ab366516cfa301a",
+     "title": "Trevor Rogers, Cubs agree to five-year, $120 million deal | Report",
+     "url": "https://sports.yahoo.com/articles/trevor-rogers-cubs-agree-five-045029968.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:50:29.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "a7af8823142df6ae",
      "title": "Mets reportedly sign Tarik Skubal for nine years, $450 million: Breaking down the record-setting deal",
@@ -36426,11 +36681,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d193d38e8d3ad1ae",
@@ -36615,11 +36870,11 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-23T21:05:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "05ceb242609e29fb",
@@ -37336,9 +37591,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:45:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "b9e08ce53fe160f1",
@@ -37349,11 +37604,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:27:46.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1318fb16bb275e67",
@@ -37365,11 +37620,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-23T15:41:25.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "acc2b23ee4a9376c",
@@ -37734,11 +37989,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2269457acc618ee9",
@@ -37779,11 +38034,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:27:46.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "70f21274647ae782",
@@ -37794,11 +38049,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:35:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5c3444281f6a4817",
@@ -38054,8 +38309,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "6d44f0674140f501",
+     "title": "Cubs bolster thin rotation, reportedly agree with Trevor Rogers on $120M deal",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/cubs-bolster-thin-rotation-reportedly-agree-with-trevor-rogers-on-120m-deal-051456180.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jason Owens",
+     "publishedAt": "2026-11-24T05:14:56.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "fcce0b98e0474bf6",
      "title": "Mariners News: J.P. Crawford, Will Venable, and Pat Murphy",
@@ -38805,11 +39076,11 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-23T21:05:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "50d9b28aae1a144c",
@@ -38820,9 +39091,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:45:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "70c91798d54f7982",
@@ -41139,8 +41410,39 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-11T17:21:50.204Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "6d44f0674140f501",
+     "title": "Cubs bolster thin rotation, reportedly agree with Trevor Rogers on $120M deal",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/cubs-bolster-thin-rotation-reportedly-agree-with-trevor-rogers-on-120m-deal-051456180.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jason Owens",
+     "publishedAt": "2026-11-24T05:14:56.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "1ab366516cfa301a",
+     "title": "Trevor Rogers, Cubs agree to five-year, $120 million deal | Report",
+     "url": "https://sports.yahoo.com/articles/trevor-rogers-cubs-agree-five-045029968.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:50:29.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "990ae2a657124bb4",
      "title": "Potential Guardians’ Free Agent Targets: Soroka and Pivetta",
@@ -42153,11 +42455,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:33:14.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f235eeecaa31dadd",
@@ -42168,11 +42470,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:24:48.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "57b4c75fd9c2e349",
@@ -43124,11 +43426,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:35:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "76eefa6532d99ba1",
@@ -43284,11 +43586,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3daad6cef5c77aec",
@@ -43471,11 +43773,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:33:14.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f235eeecaa31dadd",
@@ -43486,11 +43788,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:24:48.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "487bf829596b3123",
@@ -43502,11 +43804,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-23T20:06:21.630Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "415c536e476ba5a7",
@@ -43517,11 +43819,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:43:23.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "237814e833802f0e",
@@ -43983,11 +44285,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:27:46.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "415c536e476ba5a7",
@@ -43998,11 +44300,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:43:23.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1318fb16bb275e67",
@@ -44014,11 +44316,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-23T15:41:25.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3ee2be55c127e163",
@@ -44029,11 +44331,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:25:11.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2b2d70518c5b3c87",
@@ -44719,11 +45021,11 @@
      "author": "Russell Dorsey",
      "publishedAt": "2026-11-23T21:05:57.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5b1029986511209c",
@@ -45559,11 +45861,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:33:14.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f235eeecaa31dadd",
@@ -45574,11 +45876,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:24:48.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "d56fdb1fbbde96b3",
@@ -47153,9 +47455,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T16:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "203f0465f3defade",
@@ -47568,12 +47870,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PIT",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "99f52db7e2733ca6",
@@ -48483,11 +48785,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:24:48.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "487bf829596b3123",
@@ -48499,11 +48801,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-23T20:06:21.630Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b51e53896b6376db",
@@ -48632,11 +48934,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:33:14.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "237814e833802f0e",
@@ -50615,9 +50917,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:45:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "88644f1e8a1d81b7",
@@ -51079,9 +51381,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:45:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "3a71377d9393a299",
@@ -52072,9 +52374,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:20:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "cf7920bb8629869e",
@@ -52129,9 +52431,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:20:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "cf7920bb8629869e",
@@ -52594,12 +52896,12 @@
      "author": "Adam Sanford",
      "publishedAt": "2026-11-23T15:44:40.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "TB",
       "SF"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "986d112e54575b5b",
@@ -54210,8 +54512,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-18T18:15:01.035Z",
    "firstSeenAt": "2026-11-18T18:15:01.035Z",
-   "lastActivityAt": "2026-11-21T16:27:47.728Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
    "items": [
+    {
+     "id": "c75b789f7862892c",
+     "title": "Royals sign lefty reliever Caleb Thielbar",
+     "url": "https://sports.yahoo.com/articles/royals-sign-lefty-reliever-caleb-235953958.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T23:59:53.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3c3ac10efff36c76",
      "title": "Kansas City Royals news: Anthony Gose is non-tendered",
@@ -54990,9 +55307,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:45:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6b7265569a96c658",
@@ -55191,12 +55508,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:03:30.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6b10842f172b2fe2",
@@ -55251,12 +55568,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:03:30.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BOS",
       "KC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "d5e6be1b4bfe3ae0",
@@ -57532,12 +57849,12 @@
      "author": "Yahoo Sports Staff,Jordan Shusterman,Jake Mintz",
      "publishedAt": "2026-11-23T19:39:12.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM",
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2ae1d2c4059afb4b",
@@ -58605,12 +58922,12 @@
      "author": "Yahoo Sports Staff,Jordan Shusterman,Jake Mintz",
      "publishedAt": "2026-11-23T19:39:12.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM",
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2ae1d2c4059afb4b",
@@ -58755,12 +59072,12 @@
      "author": "Yahoo Sports Staff,Jordan Shusterman,Jake Mintz",
      "publishedAt": "2026-11-23T19:39:12.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM",
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2ae1d2c4059afb4b",
@@ -59814,11 +60131,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:43:23.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1318fb16bb275e67",
@@ -59830,11 +60147,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-23T15:41:25.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4f63aaa7bb121921",
@@ -60448,11 +60765,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-23T16:06:13.495Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "WSH"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "5f77e4f023af78b4",
@@ -60492,9 +60809,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:20:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "5f77e4f023af78b4",
@@ -60935,11 +61252,11 @@
      "author": "Cheri Bell",
      "publishedAt": "2026-11-23T14:30:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "731c12a9ded8ce18",
@@ -62036,9 +62353,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:45:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "d56fdb1fbbde96b3",
@@ -62369,11 +62686,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:43:23.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7353aaceee6eeb8c",
@@ -62578,11 +62895,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:33:14.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "f235eeecaa31dadd",
@@ -62593,11 +62910,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T20:24:48.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "bf14c602eb78e840",
@@ -62609,11 +62926,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-11-23T20:19:00.218Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "487bf829596b3123",
@@ -62625,11 +62942,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-23T20:06:21.630Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "415c536e476ba5a7",
@@ -62640,11 +62957,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:43:23.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -62671,11 +62988,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-11-23T21:01:41.143Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "e3c2c047735acacc",
@@ -62687,12 +63004,12 @@
      "author": "Yahoo Sports Staff,Jordan Shusterman,Jake Mintz",
      "publishedAt": "2026-11-23T19:39:12.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM",
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b9e08ce53fe160f1",
@@ -62703,11 +63020,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:27:46.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "415c536e476ba5a7",
@@ -62718,11 +63035,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:43:23.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1318fb16bb275e67",
@@ -62734,11 +63051,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-23T15:41:25.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "70f21274647ae782",
@@ -62749,11 +63066,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:35:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3ee2be55c127e163",
@@ -62764,11 +63081,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:25:11.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "3adaa64eeeeb6097",
@@ -62780,11 +63097,11 @@
      "author": "Chelsea Janes",
      "publishedAt": "2026-11-23T15:00:30.576Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -62810,11 +63127,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T19:15:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -62838,11 +63155,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -62866,11 +63183,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -62894,11 +63211,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T18:00:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -62922,12 +63239,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T17:03:30.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BOS",
       "KC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -62951,11 +63268,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:35:21.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -62979,9 +63296,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:20:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -63005,9 +63322,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:20:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -63031,9 +63348,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:20:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -63057,9 +63374,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-23T15:20:00.000Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -63084,11 +63401,11 @@
      "author": "Mark Zuckerman",
      "publishedAt": "2026-11-23T16:06:13.495Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "WSH"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -63115,11 +63432,253 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-23T19:03:51.894Z",
      "firstSeenAt": "2026-11-23T22:46:03.100Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CLE"
+     ]
+    }
+   ]
+  },
+  "player-690990": {
+   "id": "player-690990",
+   "type": "player",
+   "subject": "Cade Horton",
+   "mlbamId": 690990,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "items": [
+    {
+     "id": "6d44f0674140f501",
+     "title": "Cubs bolster thin rotation, reportedly agree with Trevor Rogers on $120M deal",
+     "url": "https://sports.yahoo.com/mlb/breaking-news/article/cubs-bolster-thin-rotation-reportedly-agree-with-trevor-rogers-on-120m-deal-051456180.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jason Owens",
+     "publishedAt": "2026-11-24T05:14:56.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
      ],
-     "role": "primary",
-     "status": "Unclassified"
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-657006": {
+   "id": "player-657006",
+   "type": "player",
+   "subject": "Justin Steele",
+   "mlbamId": 657006,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "items": [
+    {
+     "id": "e9bdc54ba5a443a3",
+     "title": "Cubs signing Trevor Rogers to five year, $120 million contract",
+     "url": "https://sports.yahoo.com/articles/cubs-signing-trevor-rogers-five-045927659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:59:27.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-665795": {
+   "id": "player-665795",
+   "type": "player",
+   "subject": "Edward Cabrera",
+   "mlbamId": 665795,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "items": [
+    {
+     "id": "e9bdc54ba5a443a3",
+     "title": "Cubs signing Trevor Rogers to five year, $120 million contract",
+     "url": "https://sports.yahoo.com/articles/cubs-signing-trevor-rogers-five-045927659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:59:27.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-666129": {
+   "id": "player-666129",
+   "type": "player",
+   "subject": "Braxton Garrett",
+   "mlbamId": 666129,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "items": [
+    {
+     "id": "e9bdc54ba5a443a3",
+     "title": "Cubs signing Trevor Rogers to five year, $120 million contract",
+     "url": "https://sports.yahoo.com/articles/cubs-signing-trevor-rogers-five-045927659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:59:27.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-669065": {
+   "id": "player-669065",
+   "type": "player",
+   "subject": "Kyle Stowers",
+   "mlbamId": 669065,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "items": [
+    {
+     "id": "1ab366516cfa301a",
+     "title": "Trevor Rogers, Cubs agree to five-year, $120 million deal | Report",
+     "url": "https://sports.yahoo.com/articles/trevor-rogers-cubs-agree-five-045029968.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:50:29.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-605135": {
+   "id": "player-605135",
+   "type": "player",
+   "subject": "Chris Bassitt",
+   "mlbamId": 605135,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "items": [
+    {
+     "id": "1ab366516cfa301a",
+     "title": "Trevor Rogers, Cubs agree to five-year, $120 million deal | Report",
+     "url": "https://sports.yahoo.com/articles/trevor-rogers-cubs-agree-five-045029968.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T04:50:29.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-663738": {
+   "id": "player-663738",
+   "type": "player",
+   "subject": "Daniel Lynch",
+   "mlbamId": 663738,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "items": [
+    {
+     "id": "c75b789f7862892c",
+     "title": "Royals sign lefty reliever Caleb Thielbar",
+     "url": "https://sports.yahoo.com/articles/royals-sign-lefty-reliever-caleb-235953958.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-23T23:59:53.000Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "KC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-679881": {
+   "id": "player-679881",
+   "type": "player",
+   "subject": "J. P. Martínez",
+   "mlbamId": 679881,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "items": [
+    {
+     "id": "2bacbeda76f88a50",
+     "title": "Full story on the Astros' hiring of J.P. Martinez as their new pitching coach and Aaron Bates as their new hitting coach - www.nytimes.com/athletic/780...",
+     "url": "https://bsky.app/profile/chandlerrome.bsky.social/post/3n2zixcrw6sv3",
+     "sourceId": "bsky-chandlerrome.bsky.social",
+     "sourceName": "Chandler Rome",
+     "sourceKind": "reporter",
+     "author": "Chandler Rome",
+     "publishedAt": "2026-11-24T01:35:43.055Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "024cbd152170b360",
+     "title": "The Astros are hiring J.P. Martinez as their new pitching coach, sources tell @theathletic.com. Quick story with @ken-rosenthal.bsky.social - www.nytimes.com/athletic/780...",
+     "url": "https://bsky.app/profile/chandlerrome.bsky.social/post/3n2zctznptkv3",
+     "sourceId": "bsky-chandlerrome.bsky.social",
+     "sourceName": "Chandler Rome",
+     "sourceKind": "reporter",
+     "author": "Chandler Rome",
+     "publishedAt": "2026-11-23T23:46:30.366Z",
+     "firstSeenAt": "2026-11-24T06:28:58.851Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "mention",
+     "status": null
     }
    ]
   }
@@ -63129,414 +63688,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"8e639a3a13ff6030ec6cb41f32b372b7\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"5c2a4baa0787d47368500449a97cd3db\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
-   "etag": "W/\"bfdeb4d9d69aa7f63560cbe27c5e6b84\""
+   "etag": "W/\"ff84d828e5d539a6e65e1cb9dbc1fe01\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"c58d0a28a68a8ce9fdba56d267d06d59\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"6a229d0528991206bd3fa849213950ac\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
-   "etag": "W/\"b1b09667a074f54f66fc4f926d155bc0\""
+   "etag": "W/\"991b55a5104400c270e826391da5dfc6\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"4eec86c9cf6d024c1fd0da6bfcc52cfc\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"3a6bec1e1076a8013c7a6213c10f9843\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
-   "etag": "W/\"3a5e8e60aebbbdc36b5eb7dab87340c9\""
+   "etag": "W/\"141ba4f6650c1d607fa53ac13535f42a\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"7fa8b161831a75bc1d21c1bd68632edb\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"19f8f50bb9723f49d3522ce334e77cca\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"1e6b99607410fa710a5ada257f823860\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
-   "etag": "W/\"57a82084df8d4e71d437e709ee49ef51\""
+   "etag": "W/\"d5acccbf7a4e97b684262bc6ab10b897\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"91a5f5d9f02775cc8603383f9ef73eec\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
-   "etag": "W/\"eba46bc26bd1180fb8cfe829f27e90d2\""
+   "etag": "W/\"4df374b957a1ee6a2d58e8115f21817a\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"7f6c8aac836030a22c77565a9dec4adf\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"4a120ffa2959356eddc38b9b53715cd4\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"951278db6c0d43f22630fec7954a5f1f\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"2714b5746af3594035cb3d6e97a44944\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"908a6aefbc24be69ebc0cd19035646dc\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"95f3b9698e7881894f2a9ac0fbc43e62\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"ddec898ecc0cef27d1ceb6662529a913\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"784ee8310dea3ff6eafb374fbcc5d9a4\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"d66a06cf37b61d97f5b35283d3b7e716\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
-   "etag": "W/\"b12d80d72d7da039dbcd1f2f21908fcb\""
+   "etag": "W/\"ceb1a5b96c310f01bbf3375fd5c422dc\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"23806d4b3c745b9d1b858c9e9bb49f25\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
-   "etag": "W/\"b0301f1ab37dea9e166a147ad07fea01\""
+   "etag": "W/\"579f147ad21124eb7fef60acbeb308e8\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
    "etag": "W/\"a113598ef6c1a51d19d62ad56c578e7c\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null,
-   "lastModified": "Mon, 23 Nov 2026 22:46:04 GMT"
+   "lastModified": "Tue, 24 Nov 2026 06:28:59 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-23T22:46:03.100Z",
+   "lastSuccessAt": "2026-11-24T06:28:58.851Z",
    "lastError": null
   }
  }
