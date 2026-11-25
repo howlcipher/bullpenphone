@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-24T18:11:50.744Z",
+ "updatedAt": "2026-11-25T02:28:21.850Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -13,8 +13,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-06T15:34:02.667Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "9343f56818d0c483",
+     "title": "Source: Nate Irving, who was the hitting coach for the AAA Syracuse Mets, is being hired by the Astros to be their assistant hitting coach.",
+     "url": "https://bsky.app/profile/joelsherman.bsky.social/post/3n33cbsv66s2o",
+     "sourceId": "bsky-joelsherman.bsky.social",
+     "sourceName": "Joel Sherman",
+     "sourceKind": "reporter",
+     "author": "Joel Sherman",
+     "publishedAt": "2026-11-24T18:41:38.766Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "8d933eccaa618131",
      "title": "Mets Morning News: Mets hire another hitting coach",
@@ -228,8 +244,36 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T22:46:03.100Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "803a9dc61030662a",
+     "title": "In other words: MLB making changes in the weeds (important weeds, fwiw!) of a salary cap proposal the union has said it will not accept.",
+     "url": "https://bsky.app/profile/chelseajanes.bsky.social/post/3n33csqjwms2u",
+     "sourceId": "bsky-chelseajanes.bsky.social",
+     "sourceName": "Chelsea Janes",
+     "sourceKind": "reporter",
+     "author": "Chelsea Janes",
+     "publishedAt": "2026-11-24T18:51:06.727Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "303db6342ace1c6f",
+     "title": "MLB says it has withdrawn the part of its salary cap proposal wherein portion of player salaries would be held in escrow in case revenue projections fall short and the players end up with more than 50 percent of it in a given year.",
+     "url": "https://bsky.app/profile/chelseajanes.bsky.social/post/3n33cokscf22u",
+     "sourceId": "bsky-chelseajanes.bsky.social",
+     "sourceName": "Chelsea Janes",
+     "sourceKind": "reporter",
+     "author": "Chelsea Janes",
+     "publishedAt": "2026-11-24T18:48:46.489Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "a378455d61f2a595",
      "title": "MLB offers $1 million minimum salary, earlier free agency in push for salary cap",
@@ -1034,13 +1078,61 @@
    "subject": "Ha-Seong Kim",
    "mlbamId": 673490,
    "teams": [
-    "PHI"
+    "PHI",
+    "DET"
    ],
    "status": "Interest",
    "statusAt": "2026-11-09T19:44:35.174Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-10T22:35:18.324Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "4b37e963f0e7429c",
+     "title": "Tigers sign SS Ha-Seong Kim to a one-year deal, per report",
+     "url": "https://sports.yahoo.com/articles/tigers-sign-ss-seong-kim-183841558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T18:38:41.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "a6c629c96fe78bfa",
+     "title": "Shortstop Ha-Seong Kim fills the infield defense part of this Scott Harris. He and Tigers agree to terms on a 1-yr, $5m deal pending physical, per source. @jeffpassanbot.bsky.social had first report.",
+     "url": "https://bsky.app/profile/jasonbeck.bsky.social/post/3n33bglapls2h",
+     "sourceId": "bsky-jasonbeck.bsky.social",
+     "sourceName": "Jason Beck",
+     "sourceKind": "reporter",
+     "author": "Jason Beck",
+     "publishedAt": "2026-11-24T18:26:24.786Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "de53f68cf9188865",
+     "title": "Confirming ESPN report: Tigers have agreed to a $5 million, one-year deal with infielder Ha-Seong Kim.",
+     "url": "https://bsky.app/profile/cmccosky.bsky.social/post/3n33b3pudxk2x",
+     "sourceId": "bsky-cmccosky.bsky.social",
+     "sourceName": "Chris McCosky",
+     "sourceKind": "reporter",
+     "author": "Chris McCosky",
+     "publishedAt": "2026-11-24T18:20:20.526Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "27a33e24f642d37f",
      "title": "Taking stock of the current rumors surrounding the Atlanta Braves",
@@ -1734,11 +1826,11 @@
      "author": "Jason Polinsky",
      "publishedAt": "2026-11-24T12:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "56dd889adab4fe6b",
@@ -2594,11 +2686,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:42:28.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0a2d142c2089e7a9",
@@ -2908,11 +3000,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:42:28.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "054d75de0541d41e",
@@ -3239,11 +3331,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:42:28.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2d177acb51e09cc3",
@@ -3384,11 +3476,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:42:28.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e819f8847fcb9cd3",
@@ -3481,11 +3573,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bd8bce47fadb4e51",
@@ -3675,11 +3767,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0d5febf75d8cd6d3",
@@ -3691,9 +3783,9 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-24T16:59:34.183Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "c3401ef6720b3371",
@@ -3704,9 +3796,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4c6d04be705122d0",
@@ -3717,11 +3809,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "2945eb19910f1698",
@@ -4840,11 +4932,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:52:45.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b2486d688b35e566",
@@ -4962,8 +5054,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-21T01:48:16.080Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "cabc6fcac78cc56d",
+     "title": "Washington Nationals interested in big name infielder Jazz Chisholm",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-interested-big-name-202500355.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:25:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5f77e4f023af78b4",
      "title": "The Nationals non-tendered LHP Jared Simpson as well as RHP Josiah Gray and LHP Carson Palmquist (who were both DFA'd earlier this week). All other unsigned players were tendered a 2027 contract, including the 3 arbitration-eligible guys: CJ Abrams, Jake Irvin and Jake Bird.",
@@ -5468,8 +5575,66 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "a5e439ceb9059521",
+     "title": "The Trevor Rogers signing by the numbers",
+     "url": "https://sports.yahoo.com/mlb/articles/trevor-rogers-signing-numbers-220000428.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T22:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "48b522baa5dab9dd",
+     "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
+     "url": "https://sports.yahoo.com/mlb/article/baltimore-orioles-finally-spend-big-on-a-free-agent-pitcher-signing-freddy-peralta-for-125-million-205204038.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T20:52:04.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "482af237ff60f6a6",
+     "title": "Fantasy baseball fallout from Freddy Peralta, Trevor Rogers, Kris Bubic signings",
+     "url": "https://sports.yahoo.com/articles/fantasy-baseball-fallout-freddy-peralta-193447307.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:34:47.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "c94b4e8a1221aa18",
+     "title": "Peter Schmuck: Peralta acquisition answers one big question as the Orioles try to get a jump on this strange offseason #Orioles",
+     "url": "https://bsky.app/profile/richdubroffmlb.bsky.social/post/3n33eesqcuf2g",
+     "sourceId": "bsky-richdubroffmlb.bsky.social",
+     "sourceName": "Rich Dubroff",
+     "sourceKind": "reporter",
+     "author": "Rich Dubroff",
+     "publishedAt": "2026-11-24T19:19:06.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "9fffee0f2f3abc22",
      "title": "Orioles reportedly sign Freddy Peralta to five-year, $125 million deal",
@@ -5479,11 +5644,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:37:09.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "69e5a0d78f0f953a",
@@ -5494,9 +5659,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:03:30.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e372a38f422c684b",
@@ -5507,11 +5672,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a8dc5ac37d55f5d5",
@@ -5522,11 +5687,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:26:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6d20a89de398e283",
@@ -5537,9 +5702,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:31.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "ef0970ca8de80469",
@@ -5550,12 +5715,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:05.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL",
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "b1a754852217312d",
@@ -5566,11 +5731,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:12:53.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ef35e8bbad912a95",
@@ -5582,11 +5747,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-24T16:10:11.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "316dd7581aa9d98b",
@@ -5598,11 +5763,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-24T15:52:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "ae3edb233b418d4d",
@@ -5920,11 +6085,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "b9d8456fa2097760",
@@ -6623,8 +6788,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "c94b4e8a1221aa18",
+     "title": "Peter Schmuck: Peralta acquisition answers one big question as the Orioles try to get a jump on this strange offseason #Orioles",
+     "url": "https://bsky.app/profile/richdubroffmlb.bsky.social/post/3n33eesqcuf2g",
+     "sourceId": "bsky-richdubroffmlb.bsky.social",
+     "sourceName": "Rich Dubroff",
+     "sourceKind": "reporter",
+     "author": "Rich Dubroff",
+     "publishedAt": "2026-11-24T19:19:06.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "a8dc5ac37d55f5d5",
      "title": "Orioles news: Freddy Peralta signed for five years, $125 million",
@@ -6634,11 +6815,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:26:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "6f277204106d1c44",
@@ -8460,8 +8641,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "4bf0ab832fb0cbe4",
+     "title": "The Astros are hiring Nate Irving as an assistant hitting coach, source tells @theathletic.com.Irving, 34, has spent the past two seasons in the New York Mets organization and was Triple-A Syracuse's hitting coach last year. First: @joelsherman.bsky.social",
+     "url": "https://bsky.app/profile/chandlerrome.bsky.social/post/3n33g4hbgkcv3",
+     "sourceId": "bsky-chandlerrome.bsky.social",
+     "sourceName": "Chandler Rome",
+     "sourceKind": "reporter",
+     "author": "Chandler Rome",
+     "publishedAt": "2026-11-24T19:50:13.781Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "HOU"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "2bacbeda76f88a50",
      "title": "Full story on the Astros' hiring of J.P. Martinez as their new pitching coach and Aaron Bates as their new hitting coach - www.nytimes.com/athletic/780...",
@@ -9226,8 +9423,24 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "48b522baa5dab9dd",
+     "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
+     "url": "https://sports.yahoo.com/mlb/article/baltimore-orioles-finally-spend-big-on-a-free-agent-pitcher-signing-freddy-peralta-for-125-million-205204038.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T20:52:04.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e372a38f422c684b",
      "title": "Teruaki Sato signs with Cubs, Freddy Peralta heads to Baltimore, and the Troy Melton extension is official",
@@ -9237,11 +9450,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3a569548533aec77",
@@ -9252,11 +9465,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:14:39.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e3e503516666422f",
@@ -9700,11 +9913,11 @@
      "author": "Shawn Coleman",
      "publishedAt": "2026-11-24T12:41:43.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "ATL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "f70778831567163e",
@@ -10197,11 +10410,11 @@
      "author": "Vasilis Drimalitis",
      "publishedAt": "2026-11-24T13:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "80615ef2aed1acb9",
@@ -11330,8 +11543,22 @@
    "status": "Linked",
    "statusAt": "2026-11-13T01:15:53.666Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "de575b5f2f723b08",
+     "title": "For William Contreras, Jackson Chourio and Antonio Senzatela, there was a second championship parade this week. www.mlb.com/world-baseba...",
+     "url": "https://bsky.app/profile/adammccalvy.bsky.social/post/3n33i56noas25",
+     "sourceId": "bsky-adammccalvy.bsky.social",
+     "sourceName": "Adam McCalvy",
+     "sourceKind": "reporter",
+     "author": "Adam McCalvy",
+     "publishedAt": "2026-11-24T20:26:25.783Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "a864ae87d5dfaf0e",
      "title": "Report: William Contreras is seeking long-term contract extension with Brewers",
@@ -11342,11 +11569,11 @@
      "author": "Dave Gasper",
      "publishedAt": "2026-11-24T11:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "aa419a147d1e21af",
@@ -12271,8 +12498,81 @@
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "a5e439ceb9059521",
+     "title": "The Trevor Rogers signing by the numbers",
+     "url": "https://sports.yahoo.com/mlb/articles/trevor-rogers-signing-numbers-220000428.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T22:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "48b522baa5dab9dd",
+     "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
+     "url": "https://sports.yahoo.com/mlb/article/baltimore-orioles-finally-spend-big-on-a-free-agent-pitcher-signing-freddy-peralta-for-125-million-205204038.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T20:52:04.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "85eb3da4ccc74e7f",
+     "title": "Yankees Potential Free Agent Target: Hiromi Itoh",
+     "url": "https://sports.yahoo.com/articles/yankees-potential-free-agent-target-200000779.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "482af237ff60f6a6",
+     "title": "Fantasy baseball fallout from Freddy Peralta, Trevor Rogers, Kris Bubic signings",
+     "url": "https://sports.yahoo.com/articles/fantasy-baseball-fallout-freddy-peralta-193447307.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:34:47.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "c94b4e8a1221aa18",
+     "title": "Peter Schmuck: Peralta acquisition answers one big question as the Orioles try to get a jump on this strange offseason #Orioles",
+     "url": "https://bsky.app/profile/richdubroffmlb.bsky.social/post/3n33eesqcuf2g",
+     "sourceId": "bsky-richdubroffmlb.bsky.social",
+     "sourceName": "Rich Dubroff",
+     "sourceKind": "reporter",
+     "author": "Rich Dubroff",
+     "publishedAt": "2026-11-24T19:19:06.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "69e5a0d78f0f953a",
      "title": "Early Free Agency Round-Up",
@@ -12282,9 +12582,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:03:30.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e372a38f422c684b",
@@ -12295,11 +12595,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6d20a89de398e283",
@@ -12310,9 +12610,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:31.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "0348deac12678415",
@@ -12323,11 +12623,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "93615d7a3d7b141e",
@@ -12338,11 +12638,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "316dd7581aa9d98b",
@@ -12354,11 +12654,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-24T15:52:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "deeafe1cb1a2bcc5",
@@ -12370,11 +12670,11 @@
      "author": "Joel Sherman",
      "publishedAt": "2026-11-24T14:57:46.603Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "c3401ef6720b3371",
@@ -12385,9 +12685,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "8570e68a2a5d8fcd",
@@ -12399,11 +12699,11 @@
      "author": "Vasilis Drimalitis",
      "publishedAt": "2026-11-24T13:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1ab366516cfa301a",
@@ -13700,79 +14000,6 @@
      "teams": [
       "NYM"
      ]
-    },
-    {
-     "id": "7b2681b8384830ca",
-     "title": "Dodger notes: Shohei Ohtani plans, Scott Boras talks Tarik Skubal",
-     "url": "https://sports.yahoo.com/articles/dodger-notes-shohei-ohtani-plans-130600717.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-12T13:06:00.000Z",
-     "firstSeenAt": "2026-11-12T20:23:24.566Z",
-     "role": "mention",
-     "status": null,
-     "teams": []
-    },
-    {
-     "id": "b75eceec6173b342",
-     "title": "Dodgers’ spending spree becomes unlikely weapon in fight against MLB salary cap",
-     "url": "https://sports.yahoo.com/articles/dodgers-spending-spree-becomes-unlikely-130000716.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-12T13:00:00.000Z",
-     "firstSeenAt": "2026-11-12T20:23:24.566Z",
-     "role": "mention",
-     "status": null,
-     "teams": []
-    },
-    {
-     "id": "1538317c25d1ff97",
-     "title": "Padres sign RHP Ryan Weiss to major league contract",
-     "url": "https://sports.yahoo.com/articles/padres-sign-rhp-ryan-weiss-030000103.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-12T03:00:00.000Z",
-     "firstSeenAt": "2026-11-12T04:05:55.451Z",
-     "role": "mention",
-     "status": null,
-     "teams": [
-      "SD"
-     ]
-    },
-    {
-     "id": "58fcda7894816649",
-     "title": "Dodgers, Mets, Padres, Blue Jays emerge as Tarik Skubal suitors as market for top MLB free agent takes shape",
-     "url": "https://sports.yahoo.com/mlb/article/dodgers-mets-padres-blue-jays-emerge-as-tarik-skubal-suitors-as-market-for-top-mlb-free-agent-takes-shape-233934893.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "author": "Russell Dorsey",
-     "publishedAt": "2026-11-11T23:39:34.000Z",
-     "firstSeenAt": "2026-11-12T04:05:55.451Z",
-     "role": "primary",
-     "status": "Interest",
-     "teams": [
-      "LAD",
-      "NYM"
-     ]
-    },
-    {
-     "id": "0bb304790a9c69a2",
-     "title": "Owners ‘begging’ agent to meet Tarik Skubal, threatening Dodgers’ free agency pursuit",
-     "url": "https://sports.yahoo.com/articles/owners-begging-agent-meet-tarik-233906656.html",
-     "sourceId": "yahoo",
-     "sourceName": "Yahoo Sports",
-     "sourceKind": "news",
-     "publishedAt": "2026-11-11T23:39:06.000Z",
-     "firstSeenAt": "2026-11-12T04:05:55.451Z",
-     "role": "primary",
-     "status": "Interest",
-     "teams": [
-      "LAD"
-     ]
     }
    ]
   },
@@ -14188,8 +14415,23 @@
    "status": "Interest",
    "statusAt": "2026-11-14T02:14:58.875Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "85eb3da4ccc74e7f",
+     "title": "Yankees Potential Free Agent Target: Hiromi Itoh",
+     "url": "https://sports.yahoo.com/articles/yankees-potential-free-agent-target-200000779.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8cae82433d68ed48",
      "title": "Teruaki Sato scouting report: What Cubs are getting in Japanese star",
@@ -14199,11 +14441,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:04:37.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "93615d7a3d7b141e",
@@ -14214,11 +14456,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2dff65b21cfa8570",
@@ -15006,8 +15248,64 @@
    "status": "Interest",
    "statusAt": "2026-11-19T23:18:19.580Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "a5e439ceb9059521",
+     "title": "The Trevor Rogers signing by the numbers",
+     "url": "https://sports.yahoo.com/mlb/articles/trevor-rogers-signing-numbers-220000428.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T22:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "3100d1b56848ed31",
+     "title": "Cubs land slugger Teruaki Sato in blockbuster free agent signing",
+     "url": "https://sports.yahoo.com/articles/cubs-land-slugger-teruaki-sato-133639552.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T21:17:20.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "85eb3da4ccc74e7f",
+     "title": "Yankees Potential Free Agent Target: Hiromi Itoh",
+     "url": "https://sports.yahoo.com/articles/yankees-potential-free-agent-target-200000779.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "482af237ff60f6a6",
+     "title": "Fantasy baseball fallout from Freddy Peralta, Trevor Rogers, Kris Bubic signings",
+     "url": "https://sports.yahoo.com/articles/fantasy-baseball-fallout-freddy-peralta-193447307.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:34:47.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "8ca9ac02bf9e7d61",
      "title": "Corey Seager willing to waive no-trade clause for Phillies as MLB hot stove picks up",
@@ -15017,11 +15315,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:42:28.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8cae82433d68ed48",
@@ -15032,11 +15330,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:04:37.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Interest",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Interest"
+     ]
     },
     {
      "id": "e372a38f422c684b",
@@ -15047,11 +15345,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6d20a89de398e283",
@@ -15062,9 +15360,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:31.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "b1a754852217312d",
@@ -15075,11 +15373,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:12:53.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "476e0c4226071170",
@@ -15090,9 +15388,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:40:16.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "b75cdee1569a932f",
@@ -15103,11 +15401,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:25:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "c3976c589364efe2",
@@ -15119,11 +15417,11 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-11-24T15:21:14.780Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "3a569548533aec77",
@@ -15134,11 +15432,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:14:39.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "edf8fa89067c8af5",
@@ -15150,11 +15448,11 @@
      "author": "Sean Leahy",
      "publishedAt": "2026-11-24T15:11:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "3b584a3b6c2d6aab",
@@ -15549,8 +15847,39 @@
    "status": "Linked",
    "statusAt": "2026-11-10T17:50:09.058Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "3100d1b56848ed31",
+     "title": "Cubs land slugger Teruaki Sato in blockbuster free agent signing",
+     "url": "https://sports.yahoo.com/articles/cubs-land-slugger-teruaki-sato-133639552.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T21:17:20.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "48b522baa5dab9dd",
+     "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
+     "url": "https://sports.yahoo.com/mlb/article/baltimore-orioles-finally-spend-big-on-a-free-agent-pitcher-signing-freddy-peralta-for-125-million-205204038.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T20:52:04.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e372a38f422c684b",
      "title": "Teruaki Sato signs with Cubs, Freddy Peralta heads to Baltimore, and the Troy Melton extension is official",
@@ -15560,11 +15889,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b1a754852217312d",
@@ -15575,11 +15904,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:12:53.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "476e0c4226071170",
@@ -15590,9 +15919,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:40:16.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "b75cdee1569a932f",
@@ -15603,11 +15932,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:25:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3a569548533aec77",
@@ -15618,11 +15947,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:14:39.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "edf8fa89067c8af5",
@@ -15634,11 +15963,11 @@
      "author": "Sean Leahy",
      "publishedAt": "2026-11-24T15:11:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7321cae4b5d8e3b",
@@ -16145,9 +16474,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:03:30.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "81868844d1be3b61",
@@ -16490,9 +16819,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:03:30.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "0d5febf75d8cd6d3",
@@ -16504,9 +16833,9 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-24T16:59:34.183Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6d20a89de398e283",
@@ -16517,9 +16846,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:31.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "c3401ef6720b3371",
@@ -16530,9 +16859,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "f6bca1fba17fc2b2",
@@ -16544,9 +16873,9 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-24T10:49:22.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "b7321cae4b5d8e3b",
@@ -17081,13 +17410,45 @@
    "mlbamId": 665862,
    "teams": [
     "NYY",
-    "CIN"
+    "CIN",
+    "WSH"
    ],
    "status": "Interest",
    "statusAt": "2026-11-13T01:15:53.666Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "e90361ec7ea70a12",
+     "title": "Paul Toboni keeps saying the Nationals can't assume their offense will continue to be great in '27, especially after the trades of Curtis Mead and Luis Garcia Jr. Reports by FanSided and @spencernusbaum.bsky.social of interest in Jazz Chisholm fit that theory. natsjournal.com/p/nats-still...",
+     "url": "https://bsky.app/profile/markzuckerman.bsky.social/post/3n33pgwgs2k22",
+     "sourceId": "bsky-markzuckerman.bsky.social",
+     "sourceName": "Mark Zuckerman",
+     "sourceKind": "reporter",
+     "author": "Mark Zuckerman",
+     "publishedAt": "2026-11-24T22:37:08.906Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "cabc6fcac78cc56d",
+     "title": "Washington Nationals interested in big name infielder Jazz Chisholm",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-interested-big-name-202500355.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:25:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "93e64033ac0ff1c2",
      "title": "In a just world the Cincinnati Reds would sign Jazz Chisholm, Jr. this winter",
@@ -17097,11 +17458,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:52:45.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "CIN"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "3a569548533aec77",
@@ -17112,11 +17473,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:14:39.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b0de4c3bdc70b263",
@@ -17692,8 +18053,35 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "de575b5f2f723b08",
+     "title": "For William Contreras, Jackson Chourio and Antonio Senzatela, there was a second championship parade this week. www.mlb.com/world-baseba...",
+     "url": "https://bsky.app/profile/adammccalvy.bsky.social/post/3n33i56noas25",
+     "sourceId": "bsky-adammccalvy.bsky.social",
+     "sourceName": "Adam McCalvy",
+     "sourceKind": "reporter",
+     "author": "Adam McCalvy",
+     "publishedAt": "2026-11-24T20:26:25.783Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
+    {
+     "id": "482af237ff60f6a6",
+     "title": "Fantasy baseball fallout from Freddy Peralta, Trevor Rogers, Kris Bubic signings",
+     "url": "https://sports.yahoo.com/articles/fantasy-baseball-fallout-freddy-peralta-193447307.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:34:47.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "83b9fe0f390788de",
      "title": "MLB train rumors",
@@ -17704,9 +18092,9 @@
      "author": "Mike Petriello",
      "publishedAt": "2026-11-24T14:32:54.092Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "50d9b28aae1a144c",
@@ -18155,13 +18543,29 @@
    "subject": "Hiromi Itoh",
    "mlbamId": 808955,
    "teams": [
-    "NYM"
+    "NYM",
+    "NYY"
    ],
-   "status": "Unclassified",
-   "statusAt": "2026-11-10T17:50:09.058Z",
+   "status": "Linked",
+   "statusAt": "2026-11-25T02:28:21.850Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T22:46:03.100Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "85eb3da4ccc74e7f",
+     "title": "Yankees Potential Free Agent Target: Hiromi Itoh",
+     "url": "https://sports.yahoo.com/articles/yankees-potential-free-agent-target-200000779.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "primary",
+     "status": "Linked"
+    },
     {
      "id": "3b584a3b6c2d6aab",
      "title": "Yankees Potential Free Agent Target: Kaima Taira",
@@ -18445,11 +18849,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9719a286fb1b493e",
@@ -19162,8 +19566,24 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "76e61ab887516a43",
+     "title": "Chicago Cubs begin rotation rebuild with signing of Trevor Rogers",
+     "url": "https://sports.yahoo.com/mlb/article/chicago-cubs-begin-rotation-rebuild-with-signing-of-trevor-rogers-181345704.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T18:11:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e9bdc54ba5a443a3",
      "title": "Cubs signing Trevor Rogers to five year, $120 million contract",
@@ -19219,11 +19639,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "7dc81c5bec0bec2b",
@@ -19296,8 +19716,52 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "65fbeb81bcc40094",
+     "title": "White Sox land Tyrone Taylor on reported two-year, $17 million deal",
+     "url": "https://sports.yahoo.com/mlb/articles/white-sox-land-tyrone-taylor-003028044.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-25T00:30:28.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CWS"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "a5e439ceb9059521",
+     "title": "The Trevor Rogers signing by the numbers",
+     "url": "https://sports.yahoo.com/mlb/articles/trevor-rogers-signing-numbers-220000428.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T22:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "76e61ab887516a43",
+     "title": "Chicago Cubs begin rotation rebuild with signing of Trevor Rogers",
+     "url": "https://sports.yahoo.com/mlb/article/chicago-cubs-begin-rotation-rebuild-with-signing-of-trevor-rogers-181345704.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T18:11:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0348deac12678415",
      "title": "Report: Cubs add Trevor Rogers to their rotation with 5-year, $120 million contract",
@@ -19307,11 +19771,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6d44f0674140f501",
@@ -19534,8 +19998,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "76e61ab887516a43",
+     "title": "Chicago Cubs begin rotation rebuild with signing of Trevor Rogers",
+     "url": "https://sports.yahoo.com/mlb/article/chicago-cubs-begin-rotation-rebuild-with-signing-of-trevor-rogers-181345704.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T18:11:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "6a5c12e88428ead2",
      "title": "Four more Cubs hit free agency: Hunter Harvey Clay Holmes Colin Rea Caleb Thielbar",
@@ -19576,9 +20056,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "c75b789f7862892c",
@@ -20243,11 +20723,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:52:45.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5549b3f2f3a46518",
@@ -20509,12 +20989,30 @@
    "type": "player",
    "subject": "Tyler Stephenson",
    "mlbamId": 663886,
-   "teams": [],
+   "teams": [
+    "CIN"
+   ],
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-05T21:49:44.651Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "6c7b971a371313a9",
+     "title": "Cincinnati Reds to re-sign catcher Tyler Stephenson to three-year contract",
+     "url": "https://www.redreporter.com/cincinnati-reds-rumors/24480768/cincinnati-reds-to-re-sign-catcher-tyler-stephenson-to-three-year-contract",
+     "sourceId": "sbn-cin",
+     "sourceName": "Red Reporter",
+     "sourceKind": "fansite",
+     "author": "Wick Terrell",
+     "publishedAt": "2026-11-25T02:13:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CIN"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "56b46228069de257",
      "title": "Finding a catcher this offseason is a #reds priority. www.mlb.com/news/reds-ca...",
@@ -20555,11 +21053,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:52:45.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a98e1bedfb8651d2",
@@ -20615,11 +21113,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:14:39.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "14f844d87167195e",
@@ -22266,8 +22764,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-07T00:50:47.030Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "a5e439ceb9059521",
+     "title": "The Trevor Rogers signing by the numbers",
+     "url": "https://sports.yahoo.com/mlb/articles/trevor-rogers-signing-numbers-220000428.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T22:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "69e5a0d78f0f953a",
      "title": "Early Free Agency Round-Up",
@@ -22277,9 +22788,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:03:30.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "6d20a89de398e283",
@@ -22290,9 +22801,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:31.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "81868844d1be3b61",
@@ -23522,8 +24033,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-23T22:46:03.100Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "85eb3da4ccc74e7f",
+     "title": "Yankees Potential Free Agent Target: Hiromi Itoh",
+     "url": "https://sports.yahoo.com/articles/yankees-potential-free-agent-target-200000779.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3b584a3b6c2d6aab",
      "title": "Yankees Potential Free Agent Target: Kaima Taira",
@@ -23765,8 +24291,23 @@
    "status": "Linked",
    "statusAt": "2026-11-21T01:48:16.080Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "4b37e963f0e7429c",
+     "title": "Tigers sign SS Ha-Seong Kim to a one-year deal, per report",
+     "url": "https://sports.yahoo.com/articles/tigers-sign-ss-seong-kim-183841558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T18:38:41.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e93420359f97d787",
      "title": "Right-hander Troy Melton, Detroit Tigers finalize six-year, $46.5M deal",
@@ -23776,11 +24317,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:50:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "b82facf5000a5d77",
@@ -23792,9 +24333,9 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-24T17:46:09.594Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "cd44b2d2fbfc8ad2",
@@ -23806,9 +24347,9 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-24T17:39:52.759Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "e372a38f422c684b",
@@ -23819,11 +24360,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e3c2c047735acacc",
@@ -25280,8 +25821,81 @@
    "status": "Interest",
    "statusAt": "2026-11-11T02:13:00.180Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "a5e439ceb9059521",
+     "title": "The Trevor Rogers signing by the numbers",
+     "url": "https://sports.yahoo.com/mlb/articles/trevor-rogers-signing-numbers-220000428.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T22:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "3100d1b56848ed31",
+     "title": "Cubs land slugger Teruaki Sato in blockbuster free agent signing",
+     "url": "https://sports.yahoo.com/articles/cubs-land-slugger-teruaki-sato-133639552.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T21:17:20.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "48b522baa5dab9dd",
+     "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
+     "url": "https://sports.yahoo.com/mlb/article/baltimore-orioles-finally-spend-big-on-a-free-agent-pitcher-signing-freddy-peralta-for-125-million-205204038.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T20:52:04.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "482af237ff60f6a6",
+     "title": "Fantasy baseball fallout from Freddy Peralta, Trevor Rogers, Kris Bubic signings",
+     "url": "https://sports.yahoo.com/articles/fantasy-baseball-fallout-freddy-peralta-193447307.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:34:47.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "76e61ab887516a43",
+     "title": "Chicago Cubs begin rotation rebuild with signing of Trevor Rogers",
+     "url": "https://sports.yahoo.com/mlb/article/chicago-cubs-begin-rotation-rebuild-with-signing-of-trevor-rogers-181345704.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T18:11:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "9fffee0f2f3abc22",
      "title": "Orioles reportedly sign Freddy Peralta to five-year, $125 million deal",
@@ -25291,11 +25905,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:37:09.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "69e5a0d78f0f953a",
@@ -25306,9 +25920,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:03:30.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "a8dc5ac37d55f5d5",
@@ -25319,11 +25933,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:26:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6d20a89de398e283",
@@ -25334,9 +25948,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:31.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "0348deac12678415",
@@ -25347,11 +25961,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CHC"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "b1a754852217312d",
@@ -25362,11 +25976,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:12:53.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ef35e8bbad912a95",
@@ -25378,11 +25992,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-24T16:10:11.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "316dd7581aa9d98b",
@@ -25394,11 +26008,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-24T15:52:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b75cdee1569a932f",
@@ -25409,11 +26023,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:25:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c3976c589364efe2",
@@ -25425,11 +26039,11 @@
      "author": "Jordan Bastian",
      "publishedAt": "2026-11-24T15:21:14.780Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "edf8fa89067c8af5",
@@ -25441,11 +26055,11 @@
      "author": "Sean Leahy",
      "publishedAt": "2026-11-24T15:11:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "57e7ec93ec9ebc38",
@@ -25456,11 +26070,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c3401ef6720b3371",
@@ -25471,9 +26085,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4507e452ada34ab7",
@@ -25485,12 +26099,12 @@
      "author": "Paul Folkemer",
      "publishedAt": "2026-11-24T12:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BAL",
       "CHC"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "5dd58b1326cac189",
@@ -25502,11 +26116,11 @@
      "author": "Jason Polinsky",
      "publishedAt": "2026-11-24T12:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6d44f0674140f501",
@@ -26138,8 +26752,36 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "7c39e68d373b8a70",
+     "title": "Report: Kris Bubic, Guardians agree to 1-year deal worth $17.5 million",
+     "url": "https://sports.yahoo.com/articles/report-kris-bubic-guardians-agree-201852482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:18:52.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "482af237ff60f6a6",
+     "title": "Fantasy baseball fallout from Freddy Peralta, Trevor Rogers, Kris Bubic signings",
+     "url": "https://sports.yahoo.com/articles/fantasy-baseball-fallout-freddy-peralta-193447307.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:34:47.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bec8c915713f4337",
      "title": "Kris Bubic returns to the AL Central, signing with the Guardians",
@@ -26149,11 +26791,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "400ea218f43d385f",
@@ -26164,11 +26806,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:37:46.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "dc8e0d97a0663dde",
@@ -26180,11 +26822,11 @@
      "author": "Andy Backstrom",
      "publishedAt": "2026-11-24T15:59:11.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "947c7d663176e0d3",
@@ -26668,8 +27310,36 @@
    "status": "Unclassified",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "7c39e68d373b8a70",
+     "title": "Report: Kris Bubic, Guardians agree to 1-year deal worth $17.5 million",
+     "url": "https://sports.yahoo.com/articles/report-kris-bubic-guardians-agree-201852482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:18:52.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "482af237ff60f6a6",
+     "title": "Fantasy baseball fallout from Freddy Peralta, Trevor Rogers, Kris Bubic signings",
+     "url": "https://sports.yahoo.com/articles/fantasy-baseball-fallout-freddy-peralta-193447307.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:34:47.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "bec8c915713f4337",
      "title": "Kris Bubic returns to the AL Central, signing with the Guardians",
@@ -26679,11 +27349,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "dc8e0d97a0663dde",
@@ -26695,11 +27365,11 @@
      "author": "Andy Backstrom",
      "publishedAt": "2026-11-24T15:59:11.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f7e352fb6328d802",
@@ -26858,8 +27528,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "76e61ab887516a43",
+     "title": "Chicago Cubs begin rotation rebuild with signing of Trevor Rogers",
+     "url": "https://sports.yahoo.com/mlb/article/chicago-cubs-begin-rotation-rebuild-with-signing-of-trevor-rogers-181345704.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T18:11:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b1a754852217312d",
      "title": "Cubs agree to six-year deal with Japanese slugger Teruaki Sato: Where he fits in Chicago’s 2027 lineup",
@@ -26869,11 +27555,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:12:53.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3b78794bf885be00",
@@ -27921,9 +28607,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:40:16.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "50d9b28aae1a144c",
@@ -28464,8 +29150,23 @@
    "status": "Interest",
    "statusAt": "2026-11-22T22:06:47.104Z",
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "4b37e963f0e7429c",
+     "title": "Tigers sign SS Ha-Seong Kim to a one-year deal, per report",
+     "url": "https://sports.yahoo.com/articles/tigers-sign-ss-seong-kim-183841558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T18:38:41.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "c47292520b3b34a8",
      "title": "No announcement from Tigers on Luis Gil deal yet, but Scott Harris said: “We've made some moves that haven't been announced yet. So we're going to continue to add arms. We also want to protect these arms. We want to make sure that we tighten up our infield defense.”",
@@ -28476,11 +29177,11 @@
      "author": "Jason Beck",
      "publishedAt": "2026-11-24T17:58:37.457Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "e3c2c047735acacc",
@@ -29082,11 +29783,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:04:37.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b1a754852217312d",
@@ -29097,11 +29798,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:12:53.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b75cdee1569a932f",
@@ -29112,11 +29813,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:25:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7321cae4b5d8e3b",
@@ -29241,11 +29942,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:04:37.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b7321cae4b5d8e3b",
@@ -29923,8 +30624,52 @@
    "status": "Unclassified",
    "statusAt": "2026-11-24T18:11:50.744Z",
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "48b522baa5dab9dd",
+     "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
+     "url": "https://sports.yahoo.com/mlb/article/baltimore-orioles-finally-spend-big-on-a-free-agent-pitcher-signing-freddy-peralta-for-125-million-205204038.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T20:52:04.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "7c39e68d373b8a70",
+     "title": "Report: Kris Bubic, Guardians agree to 1-year deal worth $17.5 million",
+     "url": "https://sports.yahoo.com/articles/report-kris-bubic-guardians-agree-201852482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:18:52.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "482af237ff60f6a6",
+     "title": "Fantasy baseball fallout from Freddy Peralta, Trevor Rogers, Kris Bubic signings",
+     "url": "https://sports.yahoo.com/articles/fantasy-baseball-fallout-freddy-peralta-193447307.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:34:47.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "69e5a0d78f0f953a",
      "title": "Early Free Agency Round-Up",
@@ -29934,9 +30679,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:03:30.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e372a38f422c684b",
@@ -29947,11 +30692,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "bec8c915713f4337",
@@ -29962,11 +30707,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "400ea218f43d385f",
@@ -29977,11 +30722,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:37:46.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "6d20a89de398e283",
@@ -29992,9 +30737,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:31.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "dc8e0d97a0663dde",
@@ -30006,11 +30751,11 @@
      "author": "Andy Backstrom",
      "publishedAt": "2026-11-24T15:59:11.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "13af0e20d67b22ca",
@@ -30022,11 +30767,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-24T15:58:03.006Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "a93077dafaf44275",
@@ -30568,8 +31313,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T00:50:47.030Z",
-   "lastActivityAt": "2026-11-13T08:04:42.743Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "a5e439ceb9059521",
+     "title": "The Trevor Rogers signing by the numbers",
+     "url": "https://sports.yahoo.com/mlb/articles/trevor-rogers-signing-numbers-220000428.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T22:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1c31ebb9a951645b",
      "title": "What I'm hearing on Tarik Skubal and the biggest MLB rumors at GM Meetings",
@@ -30651,11 +31409,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:42:28.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "55d81c5ccf614188",
@@ -30880,11 +31638,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "60062e3378ce63a4",
@@ -32109,8 +32867,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T13:34:48.860Z",
-   "lastActivityAt": "2026-11-07T13:34:48.860Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "55164c7a8367a778",
+     "title": "Rockies officially announce hires for five senior positions",
+     "url": "https://sports.yahoo.com/articles/rockies-officially-announce-hires-five-185210784.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T18:52:10.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "COL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "037baa1fabd3f6a5",
      "title": "Dodgers hire Caroline Perry as chief operating officer",
@@ -33241,11 +34014,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3263ff665535025b",
@@ -33885,12 +34658,30 @@
    "type": "player",
    "subject": "Curtis Mead",
    "mlbamId": 678554,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "WSH"
+   ],
+   "status": "Interest",
+   "statusAt": "2026-11-25T02:28:21.850Z",
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-19T23:18:19.580Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "e90361ec7ea70a12",
+     "title": "Paul Toboni keeps saying the Nationals can't assume their offense will continue to be great in '27, especially after the trades of Curtis Mead and Luis Garcia Jr. Reports by FanSided and @spencernusbaum.bsky.social of interest in Jazz Chisholm fit that theory. natsjournal.com/p/nats-still...",
+     "url": "https://bsky.app/profile/markzuckerman.bsky.social/post/3n33pgwgs2k22",
+     "sourceId": "bsky-markzuckerman.bsky.social",
+     "sourceName": "Mark Zuckerman",
+     "sourceKind": "reporter",
+     "author": "Mark Zuckerman",
+     "publishedAt": "2026-11-24T22:37:08.906Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "6b10842f172b2fe2",
      "title": "What is Jarren Duran’s trade value after the Jake Bauers signing?",
@@ -34336,8 +35127,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-17T19:47:04.141Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "48b522baa5dab9dd",
+     "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
+     "url": "https://sports.yahoo.com/mlb/article/baltimore-orioles-finally-spend-big-on-a-free-agent-pitcher-signing-freddy-peralta-for-125-million-205204038.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T20:52:04.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "a6d8deb9e3feecbd",
      "title": "NPB standout Kaima Taira would upgrade the Orioles’ rotation",
@@ -34982,8 +35789,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-07T18:16:15.660Z",
-   "lastActivityAt": "2026-11-23T22:46:03.100Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "4134b85a51b88989",
+     "title": "nypost.com/2026/11/24/s... What I think the strategy is with the Yankees trying to stockpile pitching this offseason.",
+     "url": "https://bsky.app/profile/joelsherman.bsky.social/post/3n33ybaz7dc2h",
+     "sourceId": "bsky-joelsherman.bsky.social",
+     "sourceName": "Joel Sherman",
+     "sourceKind": "reporter",
+     "author": "Joel Sherman",
+     "publishedAt": "2026-11-25T01:15:02.343Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "487bf829596b3123",
      "title": "Yankees and veteran lefty Brent Suter are in agreement on a deal, according to a person with direct knowledge of it. Another soft-tosser with a unique delivery to go with Tim Hill. Brent Headrick the other lefty in the mix. Interesting. Jeff Passan first.",
@@ -35387,8 +36210,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-08T14:17:24.999Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "85eb3da4ccc74e7f",
+     "title": "Yankees Potential Free Agent Target: Hiromi Itoh",
+     "url": "https://sports.yahoo.com/articles/yankees-potential-free-agent-target-200000779.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "93615d7a3d7b141e",
      "title": "Grading the Mets’ Tarik Skubal signing",
@@ -35398,11 +36236,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2dff65b21cfa8570",
@@ -35977,8 +36815,24 @@
    "status": "Interest",
    "statusAt": "2026-11-13T16:11:10.798Z",
    "firstSeenAt": "2026-11-08T14:17:24.999Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "76e61ab887516a43",
+     "title": "Chicago Cubs begin rotation rebuild with signing of Trevor Rogers",
+     "url": "https://sports.yahoo.com/mlb/article/chicago-cubs-begin-rotation-rebuild-with-signing-of-trevor-rogers-181345704.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T18:11:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0348deac12678415",
      "title": "Report: Cubs add Trevor Rogers to their rotation with 5-year, $120 million contract",
@@ -35988,11 +36842,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6d44f0674140f501",
@@ -36579,8 +37433,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "76e61ab887516a43",
+     "title": "Chicago Cubs begin rotation rebuild with signing of Trevor Rogers",
+     "url": "https://sports.yahoo.com/mlb/article/chicago-cubs-begin-rotation-rebuild-with-signing-of-trevor-rogers-181345704.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T18:11:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0348deac12678415",
      "title": "Report: Cubs add Trevor Rogers to their rotation with 5-year, $120 million contract",
@@ -36590,11 +37460,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6d44f0674140f501",
@@ -36764,8 +37634,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-09T19:44:35.174Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "2808a3764c3a7182",
+     "title": "Report: Right-hander Kaima Taira, Toronto Blue Jays agree to 5-year, $80M deal",
+     "url": "https://sports.yahoo.com/articles/report-hander-kaima-taira-toronto-202844097.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:28:44.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "TOR"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "64884f13870ae3ef",
      "title": "Monday Bantering: Jays Notes",
@@ -37684,11 +38569,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:37:09.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ef0970ca8de80469",
@@ -37699,12 +38584,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:05.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a03c7471cde32ebf",
@@ -38290,8 +39175,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T02:25:25.124Z",
-   "lastActivityAt": "2026-11-23T22:46:03.100Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "85eb3da4ccc74e7f",
+     "title": "Yankees Potential Free Agent Target: Hiromi Itoh",
+     "url": "https://sports.yahoo.com/articles/yankees-potential-free-agent-target-200000779.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3b584a3b6c2d6aab",
      "title": "Yankees Potential Free Agent Target: Kaima Taira",
@@ -38821,8 +39721,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-15T10:57:39.948Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "a5e439ceb9059521",
+     "title": "The Trevor Rogers signing by the numbers",
+     "url": "https://sports.yahoo.com/mlb/articles/trevor-rogers-signing-numbers-220000428.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T22:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "54896898affaaabe",
      "title": "Dodgers may have something to worry about as Padres make top free-agency priority clear",
@@ -39056,8 +39969,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-24T18:11:50.744Z",
    "firstSeenAt": "2026-11-10T17:50:09.058Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "3100d1b56848ed31",
+     "title": "Cubs land slugger Teruaki Sato in blockbuster free agent signing",
+     "url": "https://sports.yahoo.com/articles/cubs-land-slugger-teruaki-sato-133639552.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T21:17:20.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "476e0c4226071170",
      "title": "Potential free agent target: Ian Happ",
@@ -39067,9 +39995,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:40:16.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "primary",
-     "status": "Unclassified"
+     "status": "Unclassified",
+     "teams": []
     },
     {
      "id": "5ee347b785393d5a",
@@ -39181,11 +40109,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:37:09.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ef0970ca8de80469",
@@ -39196,12 +40124,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:05.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a03c7471cde32ebf",
@@ -39255,12 +40183,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:05.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "50d9b28aae1a144c",
@@ -40349,9 +41277,9 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-24T10:49:22.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "dd4423ce0accc9a4",
@@ -40974,9 +41902,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:40:16.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "1b558b5906cc8082",
@@ -41213,8 +42141,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-11T09:27:02.687Z",
    "firstSeenAt": "2026-11-11T02:13:00.180Z",
-   "lastActivityAt": "2026-11-23T11:17:52.412Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "85eb3da4ccc74e7f",
+     "title": "Yankees Potential Free Agent Target: Hiromi Itoh",
+     "url": "https://sports.yahoo.com/articles/yankees-potential-free-agent-target-200000779.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "f7e334eea5f1f0f0",
      "title": "What's next for the Mets after reportedly signing Tarik Skubal to record-setting contract?",
@@ -42853,11 +43796,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "42b8d17fbc6e6bdf",
@@ -43132,8 +44075,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "76e61ab887516a43",
+     "title": "Chicago Cubs begin rotation rebuild with signing of Trevor Rogers",
+     "url": "https://sports.yahoo.com/mlb/article/chicago-cubs-begin-rotation-rebuild-with-signing-of-trevor-rogers-181345704.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T18:11:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0348deac12678415",
      "title": "Report: Cubs add Trevor Rogers to their rotation with 5-year, $120 million contract",
@@ -43143,11 +44102,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6d44f0674140f501",
@@ -44022,11 +44981,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:37:09.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ef0970ca8de80469",
@@ -44037,12 +44996,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:05.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a03c7471cde32ebf",
@@ -44081,12 +45040,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:05.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a6d8deb9e3feecbd",
@@ -44239,11 +45198,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:11:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4c6d04be705122d0",
@@ -44254,11 +45213,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2945eb19910f1698",
@@ -45400,11 +46359,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "8464d07616a4d80c",
@@ -45602,11 +46561,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:11:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4c6d04be705122d0",
@@ -45617,11 +46576,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2945eb19910f1698",
@@ -46562,11 +47521,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:52:45.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "410e405ef570e0bb",
@@ -47306,8 +48265,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-12T20:23:24.566Z",
-   "lastActivityAt": "2026-11-12T20:23:24.566Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "7c39e68d373b8a70",
+     "title": "Report: Kris Bubic, Guardians agree to 1-year deal worth $17.5 million",
+     "url": "https://sports.yahoo.com/articles/report-kris-bubic-guardians-agree-201852482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:18:52.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "947c7d663176e0d3",
      "title": "Guardians News: In the Mix for Tim Hill Season",
@@ -47735,11 +48709,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:11:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4c6d04be705122d0",
@@ -47750,11 +48724,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2945eb19910f1698",
@@ -48817,9 +49791,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:03:30.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "60062e3378ce63a4",
@@ -49182,11 +50156,11 @@
      "author": "Jason Polinsky",
      "publishedAt": "2026-11-24T12:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "PHI"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "751a3a5c99f0669b",
@@ -49645,11 +50619,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "7353aaceee6eeb8c",
@@ -49807,8 +50781,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-14T15:43:44.040Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "482af237ff60f6a6",
+     "title": "Fantasy baseball fallout from Freddy Peralta, Trevor Rogers, Kris Bubic signings",
+     "url": "https://sports.yahoo.com/articles/fantasy-baseball-fallout-freddy-peralta-193447307.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:34:47.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "93615d7a3d7b141e",
      "title": "Grading the Mets’ Tarik Skubal signing",
@@ -49818,11 +50805,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a20e7d35dbb8bdf7",
@@ -52309,11 +53296,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "9719a286fb1b493e",
@@ -52495,13 +53482,29 @@
    "subject": "Tyrone Taylor",
    "mlbamId": 621438,
    "teams": [
-    "TB"
+    "TB",
+    "CWS"
    ],
    "status": "Interest",
    "statusAt": "2026-11-18T01:53:23.659Z",
    "firstSeenAt": "2026-11-16T19:30:11.951Z",
-   "lastActivityAt": "2026-11-18T01:53:23.659Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "65fbeb81bcc40094",
+     "title": "White Sox land Tyrone Taylor on reported two-year, $17 million deal",
+     "url": "https://sports.yahoo.com/mlb/articles/white-sox-land-tyrone-taylor-003028044.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-25T00:30:28.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CWS"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "c4254f0389b83dc1",
      "title": "Could the Tampa Bay Rays be interested in Tyrone Taylor?",
@@ -53619,11 +54622,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f68ecd31ad3f2659",
@@ -54032,12 +55035,12 @@
      "author": "Dan Secatore",
      "publishedAt": "2026-11-24T17:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "BOS",
       "ATH"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "d5e6be1b4bfe3ae0",
@@ -56452,11 +57455,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:12:53.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "3a569548533aec77",
@@ -56467,11 +57470,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:14:39.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b0de4c3bdc70b263",
@@ -56509,11 +57512,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:12:53.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2d177acb51e09cc3",
@@ -56581,9 +57584,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:40:16.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "c75b789f7862892c",
@@ -58289,11 +59292,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "0cafc5f24cf65aab",
@@ -60816,11 +61819,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:26:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "306f8ee78f54770d",
@@ -62076,9 +63079,9 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-24T10:49:22.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "47c1fb212eddd5bb",
@@ -64585,11 +65588,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "60062e3378ce63a4",
@@ -64673,11 +65676,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "60062e3378ce63a4",
@@ -65040,11 +66043,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:11:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYY"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "57e7ec93ec9ebc38",
@@ -65055,11 +66058,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c3401ef6720b3371",
@@ -65070,9 +66073,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4c6d04be705122d0",
@@ -65083,11 +66086,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYY"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "2945eb19910f1698",
@@ -65190,9 +66193,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:31.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "57e7ec93ec9ebc38",
@@ -65203,11 +66206,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c3401ef6720b3371",
@@ -65218,9 +66221,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "8570e68a2a5d8fcd",
@@ -65232,11 +66235,11 @@
      "author": "Vasilis Drimalitis",
      "publishedAt": "2026-11-24T13:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "22d80aab325fccc0",
@@ -65404,8 +66407,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-23T22:46:03.100Z",
-   "lastActivityAt": "2026-11-23T22:46:03.100Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "85eb3da4ccc74e7f",
+     "title": "Yankees Potential Free Agent Target: Hiromi Itoh",
+     "url": "https://sports.yahoo.com/articles/yankees-potential-free-agent-target-200000779.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3b584a3b6c2d6aab",
      "title": "Yankees Potential Free Agent Target: Kaima Taira",
@@ -65738,8 +66756,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-24T06:28:58.851Z",
-   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "a5e439ceb9059521",
+     "title": "The Trevor Rogers signing by the numbers",
+     "url": "https://sports.yahoo.com/mlb/articles/trevor-rogers-signing-numbers-220000428.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T22:00:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e9bdc54ba5a443a3",
      "title": "Cubs signing Trevor Rogers to five year, $120 million contract",
@@ -65766,8 +66797,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-24T06:28:58.851Z",
-   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "76e61ab887516a43",
+     "title": "Chicago Cubs begin rotation rebuild with signing of Trevor Rogers",
+     "url": "https://sports.yahoo.com/mlb/article/chicago-cubs-begin-rotation-rebuild-with-signing-of-trevor-rogers-181345704.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T18:11:51.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e9bdc54ba5a443a3",
      "title": "Cubs signing Trevor Rogers to five year, $120 million contract",
@@ -65833,11 +66880,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1ab366516cfa301a",
@@ -65865,8 +66912,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-24T06:28:58.851Z",
-   "lastActivityAt": "2026-11-24T06:28:58.851Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "48b522baa5dab9dd",
+     "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
+     "url": "https://sports.yahoo.com/mlb/article/baltimore-orioles-finally-spend-big-on-a-free-agent-pitcher-signing-freddy-peralta-for-125-million-205204038.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T20:52:04.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "1ab366516cfa301a",
      "title": "Trevor Rogers, Cubs agree to five-year, $120 million deal | Report",
@@ -65977,11 +67040,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:52:45.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66005,11 +67068,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:52:45.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66033,11 +67096,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:52:45.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66061,11 +67124,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:52:45.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CIN"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66089,11 +67152,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:37:09.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "316dd7581aa9d98b",
@@ -66105,11 +67168,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-24T15:52:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66133,11 +67196,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:37:09.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a8dc5ac37d55f5d5",
@@ -66148,11 +67211,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:26:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "316dd7581aa9d98b",
@@ -66164,11 +67227,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-24T15:52:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66192,11 +67255,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:37:09.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "a8dc5ac37d55f5d5",
@@ -66207,11 +67270,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:26:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "316dd7581aa9d98b",
@@ -66223,11 +67286,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-24T15:52:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66251,11 +67314,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:04:37.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66279,9 +67342,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T17:03:30.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -66294,8 +67357,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-24T18:11:50.744Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "7c39e68d373b8a70",
+     "title": "Report: Kris Bubic, Guardians agree to 1-year deal worth $17.5 million",
+     "url": "https://sports.yahoo.com/articles/report-kris-bubic-guardians-agree-201852482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:18:52.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "400ea218f43d385f",
      "title": "Guardians Sign Kris Bubic",
@@ -66305,11 +67383,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:37:46.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CLE"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66333,11 +67411,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:26:19.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "ef0970ca8de80469",
@@ -66348,12 +67426,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:05.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL",
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66377,11 +67455,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:16:29.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66405,11 +67483,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T16:12:53.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "CHC"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66434,11 +67512,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-24T15:52:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66463,11 +67541,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-24T15:52:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66492,11 +67570,11 @@
      "author": "Teddy Ricketson",
      "publishedAt": "2026-11-24T15:52:17.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66520,11 +67598,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SEA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66539,8 +67617,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-24T18:11:50.744Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
    "items": [
+    {
+     "id": "55164c7a8367a778",
+     "title": "Rockies officially announce hires for five senior positions",
+     "url": "https://sports.yahoo.com/articles/rockies-officially-announce-hires-five-185210784.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T18:52:10.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "COL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "100b26b4f9362ea3",
      "title": "Tuesday Rockpile: Colorado Rockies hire Scott Servais as senior director of baseball operations",
@@ -66550,11 +67643,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "432ef3985352404a",
@@ -66566,11 +67659,11 @@
      "author": "Renee Dechert",
      "publishedAt": "2026-11-24T15:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -66594,11 +67687,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T15:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -66622,9 +67715,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:30:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -66650,11 +67743,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-24T14:00:00.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "PHI"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     }
    ]
   },
@@ -66679,6 +67772,259 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-24T10:49:22.000Z",
      "firstSeenAt": "2026-11-24T18:11:50.744Z",
+     "role": "mention",
+     "status": null,
+     "teams": []
+    }
+   ]
+  },
+  "player-450203": {
+   "id": "player-450203",
+   "type": "player",
+   "subject": "Charlie Morton",
+   "mlbamId": 450203,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "items": [
+    {
+     "id": "48b522baa5dab9dd",
+     "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
+     "url": "https://sports.yahoo.com/mlb/article/baltimore-orioles-finally-spend-big-on-a-free-agent-pitcher-signing-freddy-peralta-for-125-million-205204038.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "author": "Jake Mintz",
+     "publishedAt": "2026-11-24T20:52:04.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-650402": {
+   "id": "player-650402",
+   "type": "player",
+   "subject": "Gleyber Torres",
+   "mlbamId": 650402,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "items": [
+    {
+     "id": "cabc6fcac78cc56d",
+     "title": "Washington Nationals interested in big name infielder Jazz Chisholm",
+     "url": "https://sports.yahoo.com/articles/washington-nationals-interested-big-name-202500355.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:25:00.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-676440": {
+   "id": "player-676440",
+   "type": "player",
+   "subject": "Tanner Bibee",
+   "mlbamId": 676440,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "items": [
+    {
+     "id": "7c39e68d373b8a70",
+     "title": "Report: Kris Bubic, Guardians agree to 1-year deal worth $17.5 million",
+     "url": "https://sports.yahoo.com/articles/report-kris-bubic-guardians-agree-201852482.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T20:18:52.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-678760": {
+   "id": "player-678760",
+   "type": "player",
+   "subject": "Eddys Leonard",
+   "mlbamId": 678760,
+   "teams": [
+    "NYM"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-25T02:28:21.850Z",
+   "firstSeenAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "items": [
+    {
+     "id": "7ecbffb7e20a6a66",
+     "title": "Mets sign Eddys Leonard to a minor league deal",
+     "url": "https://sports.yahoo.com/articles/mets-sign-eddys-leonard-minor-195553712.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:55:53.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    }
+   ]
+  },
+  "player-674003": {
+   "id": "player-674003",
+   "type": "player",
+   "subject": "Cody Bradford",
+   "mlbamId": 674003,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "items": [
+    {
+     "id": "7ecbffb7e20a6a66",
+     "title": "Mets sign Eddys Leonard to a minor league deal",
+     "url": "https://sports.yahoo.com/articles/mets-sign-eddys-leonard-minor-195553712.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T19:55:53.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-802703": {
+   "id": "player-802703",
+   "type": "player",
+   "subject": "Glenn Miller",
+   "mlbamId": 802703,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "items": [
+    {
+     "id": "55164c7a8367a778",
+     "title": "Rockies officially announce hires for five senior positions",
+     "url": "https://sports.yahoo.com/articles/rockies-officially-announce-hires-five-185210784.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T18:52:10.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "COL"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-807726": {
+   "id": "player-807726",
+   "type": "player",
+   "subject": "John Peck",
+   "mlbamId": 807726,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "items": [
+    {
+     "id": "4b37e963f0e7429c",
+     "title": "Tigers sign SS Ha-Seong Kim to a one-year deal, per report",
+     "url": "https://sports.yahoo.com/articles/tigers-sign-ss-seong-kim-183841558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-24T18:38:41.000Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-694192": {
+   "id": "player-694192",
+   "type": "player",
+   "subject": "Jackson Chourio",
+   "mlbamId": 694192,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "items": [
+    {
+     "id": "de575b5f2f723b08",
+     "title": "For William Contreras, Jackson Chourio and Antonio Senzatela, there was a second championship parade this week. www.mlb.com/world-baseba...",
+     "url": "https://bsky.app/profile/adammccalvy.bsky.social/post/3n33i56noas25",
+     "sourceId": "bsky-adammccalvy.bsky.social",
+     "sourceName": "Adam McCalvy",
+     "sourceKind": "reporter",
+     "author": "Adam McCalvy",
+     "publishedAt": "2026-11-24T20:26:25.783Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-622608": {
+   "id": "player-622608",
+   "type": "player",
+   "subject": "Antonio Senzatela",
+   "mlbamId": 622608,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "items": [
+    {
+     "id": "de575b5f2f723b08",
+     "title": "For William Contreras, Jackson Chourio and Antonio Senzatela, there was a second championship parade this week. www.mlb.com/world-baseba...",
+     "url": "https://bsky.app/profile/adammccalvy.bsky.social/post/3n33i56noas25",
+     "sourceId": "bsky-adammccalvy.bsky.social",
+     "sourceName": "Adam McCalvy",
+     "sourceKind": "reporter",
+     "author": "Adam McCalvy",
+     "publishedAt": "2026-11-24T20:26:25.783Z",
+     "firstSeenAt": "2026-11-25T02:28:21.850Z",
      "teams": [],
      "role": "mention",
      "status": null
@@ -66691,414 +68037,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
    "etag": "W/\"b1050274c04ed0e76decd45b183fb9be\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"adaec6b7070886858e46e10775157696\""
+   "etag": "W/\"cb06e01e5a33af9f5b0519b60adf1ad0\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"4323abdf99b90fc701779f2b7f376ba6\""
+   "etag": "W/\"30b810b0d1b042874b8bd214d14004f0\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"c58d0a28a68a8ce9fdba56d267d06d59\""
+   "etag": "W/\"3ec5f0290733eb4920b5690df88d8ee8\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"6a229d0528991206bd3fa849213950ac\""
+   "etag": "W/\"d111476f79c692f0ba137e52820e358a\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"65a20285532785e55cb94ece4803f0e4\""
+   "etag": "W/\"0e38fa9e1e56c9f8f0e736f46a38515c\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
    "etag": "W/\"a5b2f916b9cc9bc5766a53339542406d\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"3a6bec1e1076a8013c7a6213c10f9843\""
+   "etag": "W/\"1ee765ad617328d59687840942d1beff\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
    "etag": "W/\"b84e3e718450ff9d894aa216b15303af\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"7fa8b161831a75bc1d21c1bd68632edb\""
+   "etag": "W/\"cd8ba40f0ef043c53d47d58890ca06e5\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"19f8f50bb9723f49d3522ce334e77cca\""
+   "etag": "W/\"58e53924d13f94167d694a26cfc78532\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"1e6b99607410fa710a5ada257f823860\""
+   "etag": "W/\"ed344abace6ae6fdf3bec596ad9c8e44\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"a890360c678fc724f4aef3ef69952da7\""
+   "etag": "W/\"daa22b71605a1bc66afee6412ad94475\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
    "etag": "W/\"41f764fb825be37ebeda7d8b5ce8662b\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"5587bb010c7ba2f7bbce32e4c3ddbb7d\""
+   "etag": "W/\"5f29ba66d4a24ae8b4faf88ea38230d6\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"91f55a662a2a81b99648322b7e7ae863\""
+   "etag": "W/\"3afeffadf39de48b1dd68869d327ca4b\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"013a7e6c8e2c7d5b2c8ca0f25570348d\""
+   "etag": "W/\"3ffacca64f515e363de7572aa66181d3\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"951278db6c0d43f22630fec7954a5f1f\""
+   "etag": "W/\"d58e4fd6418156149607e2c95511379b\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"03c1d077882a7b30b6c450f25f28ae89\""
+   "etag": "W/\"790762ec4bd3933f991db3a2d875d3dd\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"908a6aefbc24be69ebc0cd19035646dc\""
+   "etag": "W/\"47db9a6acb892db36880ff4495d78dbf\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"bc28c624b4969570f3fa0f558489c32f\""
+   "etag": "W/\"beb39273cd8a9b92a8a8650683d450e6\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
    "etag": "W/\"acdf6253d4857e720a831bb325dffaf0\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"38acd1c62dec18027c03f3cdfbd0f5ea\""
+   "etag": "W/\"65164c8fc3167941d0d14a71ce067eee\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"57c12e9fea5d404ba9a73f6ba0afcec2\""
+   "etag": "W/\"8c1040115e7902051a261c90ef25f648\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"4a18cbe532ebcc1977749a4c53cd5d08\""
+   "etag": "W/\"d6fc457ff94acea73acedffa53ab2706\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"e4ffc25ac17685cb54996be0fb27d31b\""
+   "etag": "W/\"07148f8f3389f71b66e454b5e16dc590\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "etag": "W/\"57c3bca13fb27e47fb19fd360c01803c\""
+   "etag": "W/\"037b34a38ccc7b0184c1564cbc42fe92\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
    "etag": "W/\"99c62ab27d6a44d6731edae3acf32690\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null,
-   "lastModified": "Tue, 24 Nov 2026 18:11:52 GMT"
+   "lastModified": "Wed, 25 Nov 2026 02:28:22 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-24T18:11:50.744Z",
+   "lastSuccessAt": "2026-11-25T02:28:21.850Z",
    "lastError": null
   }
  }
