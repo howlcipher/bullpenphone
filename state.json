@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-26T03:08:23.624Z",
+ "updatedAt": "2026-11-26T12:33:06.010Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -255,9 +255,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:00:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "f7cdab1987f1db7f",
@@ -269,9 +269,9 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-25T21:38:34.076Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "f2425f79865bba53",
@@ -3955,8 +3955,23 @@
    "status": "Linked",
    "statusAt": "2026-11-10T17:50:09.058Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "ce003b1952180186",
+     "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+     "url": "https://sports.yahoo.com/mlb/articles/yankees-news-yanks-eyeing-more-050000929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T05:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "e735a39bf7cedd4d",
      "title": "Padres sign Adrian Morejon replacement to $21 million deal in first big move",
@@ -3966,11 +3981,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:31:59.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "SD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "e372a38f422c684b",
@@ -5162,9 +5177,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:18:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "93e64033ac0ff1c2",
@@ -5818,8 +5833,23 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "af89be5ecb515048",
+     "title": "Orioles news: Busy Thanksgiving week, more still to come?",
+     "url": "https://sports.yahoo.com/mlb/articles/orioles-news-busy-thanksgiving-week-120000558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T12:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "9b03d0d0e4844c37",
      "title": "Orioles bringing back Luis Robert Jr. on $12 million, 1-year deal, AP source says",
@@ -5829,11 +5859,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:56:59.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e735a39bf7cedd4d",
@@ -5844,11 +5874,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:31:59.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "350c61f733a815c2",
@@ -5860,9 +5890,9 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-25T21:56:44.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "f64eff18dc4c8fb8",
@@ -7196,8 +7226,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-25T11:39:42.065Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "af89be5ecb515048",
+     "title": "Orioles news: Busy Thanksgiving week, more still to come?",
+     "url": "https://sports.yahoo.com/mlb/articles/orioles-news-busy-thanksgiving-week-120000558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T12:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "75c6b7964a5220f6",
      "title": "Peralta’s signing an impressive start for Orioles’ offseason #Orioles",
@@ -8347,11 +8392,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:57:12.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b511e7dc4711abe4",
@@ -8697,8 +8742,23 @@
    "status": "Linked",
    "statusAt": "2026-11-16T19:30:11.951Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-21T08:53:04.320Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "dcb7bc04eac750ce",
+     "title": "Twins sign RP Kevin Ginkel to two year deal",
+     "url": "https://sports.yahoo.com/mlb/articles/twins-sign-rp-kevin-ginkel-041233659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T04:12:33.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "b4e8edb063e078e1",
      "title": "MLB free agency: Here's a list of the top players available for 2027 season",
@@ -9893,8 +9953,23 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-25T02:28:21.850Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "af89be5ecb515048",
+     "title": "Orioles news: Busy Thanksgiving week, more still to come?",
+     "url": "https://sports.yahoo.com/mlb/articles/orioles-news-busy-thanksgiving-week-120000558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T12:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "48b522baa5dab9dd",
      "title": "Baltimore Orioles finally spend big on a free-agent pitcher, signing Freddy Peralta for $125 million",
@@ -12187,9 +12262,9 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-25T21:56:44.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e2e0e058b517ebc5",
@@ -13038,7 +13113,7 @@
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
     {
      "id": "423a098837d6fb70",
@@ -13049,11 +13124,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:52:26.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "f614a43e13901577",
@@ -13064,11 +13139,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:10:45.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "e735a39bf7cedd4d",
@@ -13079,11 +13154,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:31:59.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b46c9e063c14988b",
@@ -13094,11 +13169,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:28:35.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "f2425f79865bba53",
@@ -13154,11 +13229,11 @@
      "author": "Fabian Ardaya",
      "publishedAt": "2026-11-25T15:32:16.766Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f17f0d6bd5e1aab4",
@@ -14987,11 +15062,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:10:45.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6dfc56fc75f00419",
@@ -15002,9 +15077,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:18:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e2e0e058b517ebc5",
@@ -16503,13 +16578,45 @@
    "mlbamId": 673548,
    "teams": [
     "CHC",
-    "BOS"
+    "BOS",
+    "SD"
    ],
-   "status": "Linked",
-   "statusAt": "2026-11-10T17:50:09.058Z",
+   "status": "Interest",
+   "statusAt": "2026-11-26T12:33:06.010Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-25T20:40:10.325Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "af89be5ecb515048",
+     "title": "Orioles news: Busy Thanksgiving week, more still to come?",
+     "url": "https://sports.yahoo.com/mlb/articles/orioles-news-busy-thanksgiving-week-120000558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T12:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "7a2cc1ed7bfb132a",
+     "title": "Padres pursue Cubs FA Seiya Suzuki",
+     "url": "https://sports.yahoo.com/mlb/articles/padres-pursue-cubs-fa-seiya-061500711.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T06:15:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "SD",
+      "CHC"
+     ],
+     "role": "primary",
+     "status": "Interest"
+    },
     {
      "id": "f64eff18dc4c8fb8",
      "title": "Mariners News: Carlos Santana, Teruaki Sato, and Kaima Taira",
@@ -17524,9 +17631,9 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-25T21:56:44.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "69e5a0d78f0f953a",
@@ -18083,9 +18190,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:18:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "primary",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "ef9e00c2bd91de34",
@@ -21088,9 +21195,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:18:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "7353aaceee6eeb8c",
@@ -21421,11 +21528,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:31:59.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "SD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "5b10dc2cfd516543",
@@ -23701,8 +23808,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-07T00:50:47.030Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-25T20:40:10.325Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "dcb7bc04eac750ce",
+     "title": "Twins sign RP Kevin Ginkel to two year deal",
+     "url": "https://sports.yahoo.com/mlb/articles/twins-sign-rp-kevin-ginkel-041233659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T04:12:33.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5b10dc2cfd516543",
      "title": "2027 St. Louis Cardinals Need Roster Additions with the Subtractions",
@@ -25012,11 +25134,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:19:52.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "85eb3da4ccc74e7f",
@@ -25285,11 +25407,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:57:12.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b9eaa8ed51fcd77e",
@@ -26631,11 +26753,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:52:26.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f614a43e13901577",
@@ -26646,11 +26768,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:10:45.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b46c9e063c14988b",
@@ -26661,11 +26783,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:28:35.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6f111f01524767ac",
@@ -26907,8 +27029,23 @@
    "status": "Interest",
    "statusAt": "2026-11-11T02:13:00.180Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-25T20:40:10.325Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "af89be5ecb515048",
+     "title": "Orioles news: Busy Thanksgiving week, more still to come?",
+     "url": "https://sports.yahoo.com/mlb/articles/orioles-news-busy-thanksgiving-week-120000558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T12:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "22f85f4a290e525f",
      "title": "Elephant Rumblings: Hot Stove On Fire, but A’s Still Sidelined",
@@ -28213,9 +28350,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:18:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "192abe107ba224f4",
@@ -28726,9 +28863,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:18:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "76e61ab887516a43",
@@ -29891,9 +30028,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:18:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "e95911bdfb5cf026",
@@ -30095,11 +30232,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:10:45.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e2e0e058b517ebc5",
@@ -30316,8 +30453,23 @@
    "status": "Linked",
    "statusAt": "2026-11-10T17:50:09.058Z",
    "firstSeenAt": "2026-11-06T15:34:02.667Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "af89be5ecb515048",
+     "title": "Orioles news: Busy Thanksgiving week, more still to come?",
+     "url": "https://sports.yahoo.com/mlb/articles/orioles-news-busy-thanksgiving-week-120000558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T12:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "9b03d0d0e4844c37",
      "title": "Orioles bringing back Luis Robert Jr. on $12 million, 1-year deal, AP source says",
@@ -30327,11 +30479,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:56:59.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "86f139aec37589d1",
@@ -30343,11 +30495,11 @@
      "author": "Rich Dubroff",
      "publishedAt": "2026-11-26T00:53:51.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "da5194de8089142a",
@@ -30359,11 +30511,11 @@
      "author": "Jon Heyman",
      "publishedAt": "2026-11-26T00:26:54.521Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "BAL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "d081882d8836190c",
@@ -30450,11 +30602,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:57:12.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "350c61f733a815c2",
@@ -30466,9 +30618,9 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-25T21:56:44.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "4b37e963f0e7429c",
@@ -33018,11 +33170,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:10:45.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "e2e0e058b517ebc5",
@@ -33511,11 +33663,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:52:26.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f614a43e13901577",
@@ -33526,11 +33678,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:10:45.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b46c9e063c14988b",
@@ -33541,11 +33693,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:28:35.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6f111f01524767ac",
@@ -33718,11 +33870,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:28:35.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6f111f01524767ac",
@@ -33934,11 +34086,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:10:45.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b46c9e063c14988b",
@@ -33949,11 +34101,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:28:35.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f7e334eea5f1f0f0",
@@ -35003,9 +35155,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:18:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "afb5433b1923eb7b",
@@ -37808,11 +37960,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:10:45.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6f111f01524767ac",
@@ -39052,8 +39204,39 @@
    "status": "Unclassified",
    "statusAt": "2026-11-26T03:08:23.624Z",
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "af89be5ecb515048",
+     "title": "Orioles news: Busy Thanksgiving week, more still to come?",
+     "url": "https://sports.yahoo.com/mlb/articles/orioles-news-busy-thanksgiving-week-120000558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T12:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "946aeede833cdd3a",
+     "title": "Kevin Gausman agrees to Tigers deal, $25M, 1 year",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3n36qdl37nk2v",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-11-26T03:31:09.287Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "DET"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "5a517495f020e772",
      "title": "Tigers to sign RHP Kevin Gausman to one-year deal, per report",
@@ -39063,11 +39246,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:57:12.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "DET"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "76e61ab887516a43",
@@ -39280,11 +39463,11 @@
      "author": "Mitch Bannon",
      "publishedAt": "2026-11-25T22:25:01.386Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "TOR"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "2808a3764c3a7182",
@@ -42941,11 +43124,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:56:59.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f6bca1fba17fc2b2",
@@ -43336,11 +43519,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:28:35.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "6f111f01524767ac",
@@ -43877,11 +44060,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T22:28:35.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "85eb3da4ccc74e7f",
@@ -45818,8 +46001,24 @@
    "status": "Unclassified",
    "statusAt": "2026-11-26T03:08:23.624Z",
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "3465f2883817e439",
+     "title": "Foster Griffin agrees to Guardians deal, $48M, 3 years.",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3n36qjsmvh22v",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-11-26T03:34:38.533Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "CLE"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "448f2d34bf944771",
      "title": "The Guardians' rotation shopping continues. They've agreed to a three-year, $48 million deal with Foster Griffin, MLB.com's Mark Feinsand reports.",
@@ -45830,11 +46029,11 @@
      "author": "Tim Stebbins",
      "publishedAt": "2026-11-25T23:32:48.712Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "CLE"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "990ae2a657124bb4",
@@ -45876,11 +46075,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:54:17.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "c7dcea83dde25f25",
@@ -45891,11 +46090,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:49:34.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "2006809779ed7b3e",
@@ -45906,12 +46105,12 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:36:08.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "NYM",
       "COL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "4f4e86459166516b",
@@ -45923,11 +46122,11 @@
      "author": "Evan Lang",
      "publishedAt": "2026-11-26T00:20:56.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     },
     {
      "id": "22f85f4a290e525f",
@@ -46896,8 +47095,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "af89be5ecb515048",
+     "title": "Orioles news: Busy Thanksgiving week, more still to come?",
+     "url": "https://sports.yahoo.com/mlb/articles/orioles-news-busy-thanksgiving-week-120000558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T12:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ef0970ca8de80469",
      "title": "Freddy Peralta signs $125 million Orioles deal after reviving season that started with Mets disaster",
@@ -47054,8 +47268,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-17T11:04:41.964Z",
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "ce003b1952180186",
+     "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+     "url": "https://sports.yahoo.com/mlb/articles/yankees-news-yanks-eyeing-more-050000929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T05:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "350c61f733a815c2",
      "title": "MLB free agency: Team-by-team tracker; who's in and who's out on all 30 rosters",
@@ -47066,9 +47295,9 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-25T21:56:44.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "671bb2f8e41b03bf",
@@ -47625,12 +47854,61 @@
    "type": "player",
    "subject": "Kevin Ginkel",
    "mlbamId": 656464,
-   "teams": [],
-   "status": null,
-   "statusAt": null,
+   "teams": [
+    "MIN"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-26T12:33:06.010Z",
    "firstSeenAt": "2026-11-11T17:21:50.204Z",
-   "lastActivityAt": "2026-11-17T02:35:48.691Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "dcb7bc04eac750ce",
+     "title": "Twins sign RP Kevin Ginkel to two year deal",
+     "url": "https://sports.yahoo.com/mlb/articles/twins-sign-rp-kevin-ginkel-041233659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T04:12:33.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "abd1f0867cdb02a5",
+     "title": "Sources confirm to @feinsand.bsky.social and me that Twins have agreed with RHRP Kevin Ginkel on a two year deal.",
+     "url": "https://bsky.app/profile/matthewhleach.bsky.social/post/3n36qzsohdk2q",
+     "sourceId": "bsky-matthewhleach.bsky.social",
+     "sourceName": "Matthew Leach",
+     "sourceKind": "reporter",
+     "author": "Matthew Leach",
+     "publishedAt": "2026-11-26T03:43:35.451Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
+    {
+     "id": "43ecf043812aa949",
+     "title": "Kevin Ginkel, righty reliever, agrees to Twins deal. Two years. Close to $20M",
+     "url": "https://bsky.app/profile/jonheyman.bsky.social/post/3n36q5plfj22v",
+     "sourceId": "bsky-jonheyman.bsky.social",
+     "sourceName": "Jon Heyman",
+     "sourceKind": "reporter",
+     "author": "Jon Heyman",
+     "publishedAt": "2026-11-26T03:27:52.684Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
+    },
     {
      "id": "4654b6f13f942fc8",
      "title": "Where the projections say the Mariners should upgrade",
@@ -48244,8 +48522,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-12T12:34:47.764Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "ce003b1952180186",
+     "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+     "url": "https://sports.yahoo.com/mlb/articles/yankees-news-yanks-eyeing-more-050000929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T05:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4c6d04be705122d0",
      "title": "Yankees Potential Free Agent Target: Adrián Morejón",
@@ -48446,8 +48739,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-11T23:32:23.064Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "ce003b1952180186",
+     "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+     "url": "https://sports.yahoo.com/mlb/articles/yankees-news-yanks-eyeing-more-050000929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T05:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "350c61f733a815c2",
      "title": "MLB free agency: Team-by-team tracker; who's in and who's out on all 30 rosters",
@@ -48458,9 +48766,9 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-25T21:56:44.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "671bb2f8e41b03bf",
@@ -49524,8 +49832,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T12:34:47.764Z",
    "firstSeenAt": "2026-11-12T12:34:47.764Z",
-   "lastActivityAt": "2026-11-17T19:47:04.141Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "dcb7bc04eac750ce",
+     "title": "Twins sign RP Kevin Ginkel to two year deal",
+     "url": "https://sports.yahoo.com/mlb/articles/twins-sign-rp-kevin-ginkel-041233659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T04:12:33.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "030033c0151aacb4",
      "title": "Which Risks Are Worth Taking for the Kansas City Royals This Offseason?",
@@ -50655,8 +50978,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-12T20:23:24.566Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "ce003b1952180186",
+     "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+     "url": "https://sports.yahoo.com/mlb/articles/yankees-news-yanks-eyeing-more-050000929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T05:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "350c61f733a815c2",
      "title": "MLB free agency: Team-by-team tracker; who's in and who's out on all 30 rosters",
@@ -50667,9 +51005,9 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-25T21:56:44.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "671bb2f8e41b03bf",
@@ -50964,11 +51302,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:57:12.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cf1c6e37da4fa332",
@@ -53311,8 +53649,23 @@
    "status": "Linked",
    "statusAt": "2026-11-26T03:08:23.624Z",
    "firstSeenAt": "2026-11-14T15:43:44.040Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "ce003b1952180186",
+     "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+     "url": "https://sports.yahoo.com/mlb/articles/yankees-news-yanks-eyeing-more-050000929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T05:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "5c5bc1011ba0df89",
      "title": "Marlins add catcher Gary Sánchez on 1-year deal that could be worth up to $6.5M, AP source says",
@@ -53322,11 +53675,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T02:02:27.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Linked",
      "teams": [
       "MIA"
-     ],
-     "role": "primary",
-     "status": "Linked"
+     ]
     },
     {
      "id": "870a4129504f4f5b",
@@ -53337,11 +53690,11 @@
      "sourceKind": "fansite",
      "publishedAt": "2026-11-26T00:08:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "MIA"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     },
     {
      "id": "aa419a147d1e21af",
@@ -53552,8 +53905,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-14T20:06:20.189Z",
-   "lastActivityAt": "2026-11-14T20:06:20.189Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "ce003b1952180186",
+     "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+     "url": "https://sports.yahoo.com/mlb/articles/yankees-news-yanks-eyeing-more-050000929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T05:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3e8566b6b1c0b301",
      "title": "Yankees Arizona Fall League Week 6 Recap",
@@ -61601,8 +61969,24 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-19T00:26:34.472Z",
-   "lastActivityAt": "2026-11-19T00:26:34.472Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "7a2cc1ed7bfb132a",
+     "title": "Padres pursue Cubs FA Seiya Suzuki",
+     "url": "https://sports.yahoo.com/mlb/articles/padres-pursue-cubs-fa-seiya-061500711.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T06:15:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "SD",
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0cafc5f24cf65aab",
      "title": "Fernando Tatis Jr. infield buzz opens path for Padres to make free agency splash",
@@ -62566,11 +62950,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:49:34.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "4f4e86459166516b",
@@ -62582,11 +62966,11 @@
      "author": "Evan Lang",
      "publishedAt": "2026-11-26T00:20:56.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "COL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "78433c5aff644ccb",
@@ -64057,11 +64441,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:57:12.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cf09dce63bc39174",
@@ -65488,11 +65872,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:56:59.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "BAL"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "f6bca1fba17fc2b2",
@@ -65972,11 +66356,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:19:52.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b17ba6818bd924a0",
@@ -66045,11 +66429,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:19:52.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b17ba6818bd924a0",
@@ -66089,11 +66473,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:19:52.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "b17ba6818bd924a0",
@@ -66307,11 +66691,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:57:12.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "db55196143d7d020",
@@ -67690,11 +68074,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:57:12.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "cf09dce63bc39174",
@@ -68148,11 +68532,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:10:45.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "NYM"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "93615d7a3d7b141e",
@@ -68622,8 +69006,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-23T22:46:03.100Z",
    "firstSeenAt": "2026-11-23T22:46:03.100Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "ce003b1952180186",
+     "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+     "url": "https://sports.yahoo.com/mlb/articles/yankees-news-yanks-eyeing-more-050000929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T05:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "NYY"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "350c61f733a815c2",
      "title": "MLB free agency: Team-by-team tracker; who's in and who's out on all 30 rosters",
@@ -68634,9 +69033,9 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-25T21:56:44.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "671bb2f8e41b03bf",
@@ -68799,9 +69198,9 @@
      "author": "Yahoo Sports Staff",
      "publishedAt": "2026-11-25T21:56:44.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     },
     {
      "id": "71621bab15a5677c",
@@ -70410,8 +70809,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-24T18:11:50.744Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
    "items": [
+    {
+     "id": "af89be5ecb515048",
+     "title": "Orioles news: Busy Thanksgiving week, more still to come?",
+     "url": "https://sports.yahoo.com/mlb/articles/orioles-news-busy-thanksgiving-week-120000558.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T12:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "BAL"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "f6bca1fba17fc2b2",
      "title": "Some free-agent outfield options for the Orioles #Orioles",
@@ -71040,11 +71454,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T02:02:27.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "MIA"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -71070,11 +71484,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T01:54:17.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "COL"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -71098,11 +71512,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T00:57:12.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "DET"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -71128,11 +71542,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:19:52.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -71156,11 +71570,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:19:52.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -71184,11 +71598,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:19:52.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -71212,11 +71626,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:19:52.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -71240,11 +71654,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:19:52.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "HOU"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -71268,9 +71682,9 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-25T23:18:00.000Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
-     "teams": [],
      "role": "mention",
-     "status": null
+     "status": null,
+     "teams": []
     }
    ]
   },
@@ -71297,11 +71711,11 @@
      "author": "Jeff Jones",
      "publishedAt": "2026-11-26T00:03:36.326Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "STL"
-     ],
-     "role": "primary",
-     "status": null
+     ]
     }
    ]
   },
@@ -71328,11 +71742,241 @@
      "author": "Fabian Ardaya",
      "publishedAt": "2026-11-25T15:32:16.766Z",
      "firstSeenAt": "2026-11-26T03:08:23.624Z",
+     "role": "primary",
+     "status": null,
      "teams": [
       "LAD"
+     ]
+    }
+   ]
+  },
+  "player-687957": {
+   "id": "player-687957",
+   "type": "player",
+   "subject": "Dustin Harris",
+   "mlbamId": 687957,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "items": [
+    {
+     "id": "7a2cc1ed7bfb132a",
+     "title": "Padres pursue Cubs FA Seiya Suzuki",
+     "url": "https://sports.yahoo.com/mlb/articles/padres-pursue-cubs-fa-seiya-061500711.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T06:15:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "SD",
+      "CHC"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "team-nyy-bullpen": {
+   "id": "team-nyy-bullpen",
+   "type": "team",
+   "subject": "New York Yankees: bullpen",
+   "mlbamId": null,
+   "teams": [
+    "NYY"
+   ],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "items": [
+    {
+     "id": "ce003b1952180186",
+     "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+     "url": "https://sports.yahoo.com/mlb/articles/yankees-news-yanks-eyeing-more-050000929.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T05:00:00.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "NYY"
      ],
      "role": "primary",
      "status": null
+    }
+   ]
+  },
+  "player-667297": {
+   "id": "player-667297",
+   "type": "player",
+   "subject": "Tommy Nance",
+   "mlbamId": 667297,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "items": [
+    {
+     "id": "dcb7bc04eac750ce",
+     "title": "Twins sign RP Kevin Ginkel to two year deal",
+     "url": "https://sports.yahoo.com/mlb/articles/twins-sign-rp-kevin-ginkel-041233659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T04:12:33.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-672782": {
+   "id": "player-672782",
+   "type": "player",
+   "subject": "Yoendrys Gómez",
+   "mlbamId": 672782,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "items": [
+    {
+     "id": "dcb7bc04eac750ce",
+     "title": "Twins sign RP Kevin Ginkel to two year deal",
+     "url": "https://sports.yahoo.com/mlb/articles/twins-sign-rp-kevin-ginkel-041233659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T04:12:33.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-702193": {
+   "id": "player-702193",
+   "type": "player",
+   "subject": "Andrew Morris",
+   "mlbamId": 702193,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "items": [
+    {
+     "id": "dcb7bc04eac750ce",
+     "title": "Twins sign RP Kevin Ginkel to two year deal",
+     "url": "https://sports.yahoo.com/mlb/articles/twins-sign-rp-kevin-ginkel-041233659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T04:12:33.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-701519": {
+   "id": "player-701519",
+   "type": "player",
+   "subject": "Travis Adams",
+   "mlbamId": 701519,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "items": [
+    {
+     "id": "dcb7bc04eac750ce",
+     "title": "Twins sign RP Kevin Ginkel to two year deal",
+     "url": "https://sports.yahoo.com/mlb/articles/twins-sign-rp-kevin-ginkel-041233659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T04:12:33.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-681892": {
+   "id": "player-681892",
+   "type": "player",
+   "subject": "Kody Funderburk",
+   "mlbamId": 681892,
+   "teams": [],
+   "status": null,
+   "statusAt": null,
+   "firstSeenAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "items": [
+    {
+     "id": "dcb7bc04eac750ce",
+     "title": "Twins sign RP Kevin Ginkel to two year deal",
+     "url": "https://sports.yahoo.com/mlb/articles/twins-sign-rp-kevin-ginkel-041233659.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-26T04:12:33.000Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "MIN"
+     ],
+     "role": "mention",
+     "status": null
+    }
+   ]
+  },
+  "player-640462": {
+   "id": "player-640462",
+   "type": "player",
+   "subject": "A. J. Puk",
+   "mlbamId": 640462,
+   "teams": [
+    "WSH"
+   ],
+   "status": "Unclassified",
+   "statusAt": "2026-11-26T12:33:06.010Z",
+   "firstSeenAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "items": [
+    {
+     "id": "4dbee051ade96fbc",
+     "title": "Nationals have a deal with LHP A.J. Puk for 1 year, $5 million, source confirms. 31-year-old reliever hasn't pitched in majors since early 2025 due to elbow surgery and then shoulder injury while rehabbing, but has strong track record when healthy. (ESPN's Jeff Passan reported first)",
+     "url": "https://bsky.app/profile/markzuckerman.bsky.social/post/3n36v5ryj6222",
+     "sourceId": "bsky-markzuckerman.bsky.social",
+     "sourceName": "Mark Zuckerman",
+     "sourceKind": "reporter",
+     "author": "Mark Zuckerman",
+     "publishedAt": "2026-11-26T04:57:23.920Z",
+     "firstSeenAt": "2026-11-26T12:33:06.010Z",
+     "teams": [
+      "WSH"
+     ],
+     "role": "primary",
+     "status": "Unclassified"
     }
    ]
   }
@@ -71342,414 +71986,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "etag": "W/\"d123db00d08a0fc7c07153af738caec7\""
+   "etag": "W/\"3a182d509eef1b4835a9d08fc66d5340\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"9ba35eb5adc3a2b4369aee6a88c81885\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "etag": "W/\"69229a28ead11bf73438e5057cb345cf\""
+   "etag": "W/\"ba2e845302e5cde73121c52629caefa5\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"7289a2dad31c6dcf574a608c576e66fe\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"59cd1168f37174b4c1ab45a84922eedb\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"81a5c843d7a18651b64ee50ed234195a\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"f364a8f641936564bf9e77e0d4f24e2f\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "etag": "W/\"663268db5af2887a1b7e409fecd88035\""
+   "etag": "W/\"c1c747f72314891ffdd1a38592480bb5\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"a999c147b3120e6baaae2e0764a08929\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "etag": "W/\"074a707f1f98cea1b768c6fd969bc377\""
+   "etag": "W/\"d19b4c55b10005255c93195ba080bfbe\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "etag": "W/\"54c764bf95d520d63d5c2091a392d1df\""
+   "etag": "W/\"e73013e455ca377c9aec2057cb8710ce\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"6c5bfc3ea84291185e4a5a516a65e657\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"63ed8f28737fb4998eb69b272c9946c1\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"140add835a6531677b99e931c03d8f5f\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"579d299a4ac2ea843a485c179cff6fbd\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"72c9c51af04b262d62cda3923aa38745\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "etag": "W/\"a44f998a4fa652b85dfede920fe19767\""
+   "etag": "W/\"d9902ce3c188f7fc8da06f4d0f702b9d\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"283198f425e991e43ac9e43621210b31\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"9cc5a6b4bc47fbee48e9efa5ef57c3fd\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"47db9a6acb892db36880ff4495d78dbf\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "etag": "W/\"51db39a070dca17ed89ea9957491d0aa\""
+   "etag": "W/\"fb3e47e1de7bb3ac677225c3d773f480\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"fd802f189def7acf6d2ab297ac0c3b58\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"ebdb9fe4b071d2ac0f784dce221b9fd1\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"4fc7027d1ca5f47346ac66752ea16993\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "etag": "W/\"bed8ab766f5e3eeda2e1e67de14390f4\""
+   "etag": "W/\"a272b50f52e517359c1ca573c0ffa582\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"29b8db35fadc710bf2998bcb28566a5c\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "etag": "W/\"205be5778a83c1f6911f9ad69a3a3ecd\""
+   "etag": "W/\"99de3a15d742dcae3730f064b28acad7\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
    "etag": "W/\"c47479f774a1322cbf3cbcad1e137e28\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null,
-   "lastModified": "Thu, 26 Nov 2026 03:08:25 GMT"
+   "lastModified": "Thu, 26 Nov 2026 12:33:07 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-26T03:08:23.624Z",
+   "lastSuccessAt": "2026-11-26T12:33:06.010Z",
    "lastError": null
   }
  }
