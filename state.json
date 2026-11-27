@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-27T03:50:31.419Z",
+ "updatedAt": "2026-11-27T13:13:57.083Z",
  "threads": {
   "staff-nym": {
    "id": "staff-nym",
@@ -244,8 +244,21 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-26T21:53:06.536Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "6016da09e2f9647a",
+     "title": "MLB News: CBA negotiations, free agency, Freddy Peralta, Shohei Ohtani, Thanksgiving",
+     "url": "https://sports.yahoo.com/mlb/articles/mlb-news-cba-negotiations-free-130000132.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "daa9e0e9eecd4b2a",
      "title": "This Thanksgiving gives us one final chance to reflect before the lockout",
@@ -1962,8 +1975,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-25T20:40:10.325Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "94adb2afab449928",
+     "title": "Phillies News: Alec Bohm, the Rotation, Prospects",
+     "url": "https://sports.yahoo.com/mlb/articles/phillies-news-alec-bohm-rotation-120000365.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T12:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "621d4c8539e83bdb",
      "title": "Phillies news: Teruaki Sato, Corey Seager, Freddy Peralta",
@@ -2988,8 +3016,23 @@
    "status": "Interest",
    "statusAt": "2026-11-12T20:23:24.566Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-26T21:53:06.536Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "94adb2afab449928",
+     "title": "Phillies News: Alec Bohm, the Rotation, Prospects",
+     "url": "https://sports.yahoo.com/mlb/articles/phillies-news-alec-bohm-rotation-120000365.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T12:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "f4daf1b99635a27c",
      "title": "How the Mets’ plans at first base look after signing Paul Goldschmidt",
@@ -3376,8 +3419,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-21T16:27:47.728Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "94adb2afab449928",
+     "title": "Phillies News: Alec Bohm, the Rotation, Prospects",
+     "url": "https://sports.yahoo.com/mlb/articles/phillies-news-alec-bohm-rotation-120000365.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T12:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "195f90064d26169d",
      "title": "Phillies news: Aidan Miller, Teruaki Sato, Jonathan Loaisiga",
@@ -5934,8 +5992,21 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "6016da09e2f9647a",
+     "title": "MLB News: CBA negotiations, free agency, Freddy Peralta, Shohei Ohtani, Thanksgiving",
+     "url": "https://sports.yahoo.com/mlb/articles/mlb-news-cba-negotiations-free-130000132.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "af89be5ecb515048",
      "title": "Orioles news: Busy Thanksgiving week, more still to come?",
@@ -10084,8 +10155,21 @@
    "status": "Linked",
    "statusAt": "2026-11-05T21:49:44.651Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-26T12:33:06.010Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "6016da09e2f9647a",
+     "title": "MLB News: CBA negotiations, free agency, Freddy Peralta, Shohei Ohtani, Thanksgiving",
+     "url": "https://sports.yahoo.com/mlb/articles/mlb-news-cba-negotiations-free-130000132.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "af89be5ecb515048",
      "title": "Orioles news: Busy Thanksgiving week, more still to come?",
@@ -11089,8 +11173,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-25T20:40:10.325Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "e8e366eab4b5fc4f",
+     "title": "Mets Morning News: Senger returns, Wagaman signs with Dodgers",
+     "url": "https://sports.yahoo.com/mlb/articles/mets-morning-news-senger-returns-130000116.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "primary",
+     "status": null
+    },
     {
      "id": "6f111f01524767ac",
      "title": "Reaction roundup: Mets sign ace Tarik Skubal to historic contract",
@@ -13259,8 +13358,21 @@
    "status": "Interest",
    "statusAt": "2026-11-10T02:25:25.124Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-27T03:50:31.419Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "6016da09e2f9647a",
+     "title": "MLB News: CBA negotiations, free agency, Freddy Peralta, Shohei Ohtani, Thanksgiving",
+     "url": "https://sports.yahoo.com/mlb/articles/mlb-news-cba-negotiations-free-130000132.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "daa9e0e9eecd4b2a",
      "title": "This Thanksgiving gives us one final chance to reflect before the lockout",
@@ -14748,22 +14860,6 @@
      "role": "mention",
      "status": null,
      "teams": []
-    },
-    {
-     "id": "759b6fda758a068e",
-     "title": "The Mets indeed met with Tarik Skubal yesterday, according to multiple people with knowledge of the meeting. Cohen, Stearns among those involved. Skubal, of course, has more meetings to come this week. @JonHeyman first reported.",
-     "url": "https://bsky.app/profile/chelseajanes.bsky.social/post/3n2ja3loxts2g",
-     "sourceId": "bsky-chelseajanes.bsky.social",
-     "sourceName": "Chelsea Janes",
-     "sourceKind": "reporter",
-     "author": "Chelsea Janes",
-     "publishedAt": "2026-11-17T14:14:27.121Z",
-     "firstSeenAt": "2026-11-17T19:47:04.141Z",
-     "role": "primary",
-     "status": "Interest",
-     "teams": [
-      "NYM"
-     ]
     }
    ]
   },
@@ -15195,8 +15291,21 @@
    "status": "Interest",
    "statusAt": "2026-11-14T02:14:58.875Z",
    "firstSeenAt": "2026-11-05T21:49:44.651Z",
-   "lastActivityAt": "2026-11-26T03:08:23.624Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "6016da09e2f9647a",
+     "title": "MLB News: CBA negotiations, free agency, Freddy Peralta, Shohei Ohtani, Thanksgiving",
+     "url": "https://sports.yahoo.com/mlb/articles/mlb-news-cba-negotiations-free-130000132.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "f614a43e13901577",
      "title": "Tarik Skubal and New York Mets finalize $450 million, 9-year contract, record for a pitcher",
@@ -32460,8 +32569,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-24T18:11:50.744Z",
    "firstSeenAt": "2026-11-06T21:02:19.929Z",
-   "lastActivityAt": "2026-11-25T20:40:10.325Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "6016da09e2f9647a",
+     "title": "MLB News: CBA negotiations, free agency, Freddy Peralta, Shohei Ohtani, Thanksgiving",
+     "url": "https://sports.yahoo.com/mlb/articles/mlb-news-cba-negotiations-free-130000132.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "ba5f6dc4b76b0e98",
      "title": "The Guardians have made Kris Bubic's deal official.",
@@ -39555,8 +39677,21 @@
    "status": "Unclassified",
    "statusAt": "2026-11-26T03:08:23.624Z",
    "firstSeenAt": "2026-11-09T19:44:35.174Z",
-   "lastActivityAt": "2026-11-26T21:53:06.536Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "6016da09e2f9647a",
+     "title": "MLB News: CBA negotiations, free agency, Freddy Peralta, Shohei Ohtani, Thanksgiving",
+     "url": "https://sports.yahoo.com/mlb/articles/mlb-news-cba-negotiations-free-130000132.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "7c778c21b60f73cc",
      "title": "Mariners News: Alec Bohm, Kevin Gausman, and Foster Griffin",
@@ -64240,11 +64375,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T21:54:15.000Z",
      "firstSeenAt": "2026-11-27T03:50:31.419Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     },
     {
      "id": "1242f19756862dfa",
@@ -68095,8 +68230,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-21T16:27:47.728Z",
-   "lastActivityAt": "2026-11-21T16:27:47.728Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "e8e366eab4b5fc4f",
+     "title": "Mets Morning News: Senger returns, Wagaman signs with Dodgers",
+     "url": "https://sports.yahoo.com/mlb/articles/mets-morning-news-senger-returns-130000116.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "4f63aaa7bb121921",
      "title": "Mets Morning News: Non-tender deadline shakes up free agency",
@@ -69756,8 +69906,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-23T22:46:03.100Z",
    "firstSeenAt": "2026-11-23T22:46:03.100Z",
-   "lastActivityAt": "2026-11-26T21:53:06.536Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "e8e366eab4b5fc4f",
+     "title": "Mets Morning News: Senger returns, Wagaman signs with Dodgers",
+     "url": "https://sports.yahoo.com/mlb/articles/mets-morning-news-senger-returns-130000116.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "f4daf1b99635a27c",
      "title": "How the Mets’ plans at first base look after signing Paul Goldschmidt",
@@ -70503,8 +70668,23 @@
    "status": null,
    "statusAt": null,
    "firstSeenAt": "2026-11-24T06:28:58.851Z",
-   "lastActivityAt": "2026-11-24T18:11:50.744Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "e8e366eab4b5fc4f",
+     "title": "Mets Morning News: Senger returns, Wagaman signs with Dodgers",
+     "url": "https://sports.yahoo.com/mlb/articles/mets-morning-news-senger-returns-130000116.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "0348deac12678415",
      "title": "Report: Cubs add Trevor Rogers to their rotation with 5-year, $120 million contract",
@@ -72622,8 +72802,38 @@
    "status": "Unclassified",
    "statusAt": "2026-11-26T12:33:06.010Z",
    "firstSeenAt": "2026-11-26T12:33:06.010Z",
-   "lastActivityAt": "2026-11-26T21:53:06.536Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "e8e366eab4b5fc4f",
+     "title": "Mets Morning News: Senger returns, Wagaman signs with Dodgers",
+     "url": "https://sports.yahoo.com/mlb/articles/mets-morning-news-senger-returns-130000116.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
+    {
+     "id": "94adb2afab449928",
+     "title": "Phillies News: Alec Bohm, the Rotation, Prospects",
+     "url": "https://sports.yahoo.com/mlb/articles/phillies-news-alec-bohm-rotation-120000365.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T12:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "PHI"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "cdd1c90dfa62c02d",
      "title": "Washington Nationals ink A.J. Puk to a high risk, high reward one-year deal",
@@ -72826,8 +73036,23 @@
    "status": "Unclassified",
    "statusAt": "2026-11-27T03:50:31.419Z",
    "firstSeenAt": "2026-11-27T03:50:31.419Z",
-   "lastActivityAt": "2026-11-27T03:50:31.419Z",
+   "lastActivityAt": "2026-11-27T13:13:57.083Z",
    "items": [
+    {
+     "id": "e8e366eab4b5fc4f",
+     "title": "Mets Morning News: Senger returns, Wagaman signs with Dodgers",
+     "url": "https://sports.yahoo.com/mlb/articles/mets-morning-news-senger-returns-130000116.html",
+     "sourceId": "yahoo",
+     "sourceName": "Yahoo Sports",
+     "sourceKind": "news",
+     "publishedAt": "2026-11-27T13:00:00.000Z",
+     "firstSeenAt": "2026-11-27T13:13:57.083Z",
+     "teams": [
+      "NYM"
+     ],
+     "role": "mention",
+     "status": null
+    },
     {
      "id": "3b1253647abc77ad",
      "title": "Dodgers sign Eric Wagaman to minor-league deal",
@@ -72837,11 +73062,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T21:54:15.000Z",
      "firstSeenAt": "2026-11-27T03:50:31.419Z",
+     "role": "primary",
+     "status": "Unclassified",
      "teams": [
       "LAD"
-     ],
-     "role": "primary",
-     "status": "Unclassified"
+     ]
     }
    ]
   },
@@ -72865,11 +73090,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T21:54:15.000Z",
      "firstSeenAt": "2026-11-27T03:50:31.419Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   },
@@ -72893,11 +73118,11 @@
      "sourceKind": "news",
      "publishedAt": "2026-11-26T21:54:15.000Z",
      "firstSeenAt": "2026-11-27T03:50:31.419Z",
+     "role": "mention",
+     "status": null,
      "teams": [
       "LAD"
-     ],
-     "role": "mention",
-     "status": null
+     ]
     }
    ]
   }
@@ -72907,414 +73132,414 @@
   "yahoo": {
    "id": "yahoo",
    "name": "Yahoo Sports",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "sbn-bal": {
    "id": "sbn-bal",
    "name": "Camden Chat",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "etag": "W/\"76c41fcf2be84bba391437b4d441f58f\""
+   "etag": "W/\"c3c019f19312ee74014fc7b0c09b96e5\""
   },
   "sbn-bos": {
    "id": "sbn-bos",
    "name": "Over the Monster",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"fcd330e2825e616e9ea15554c9aa6a59\""
   },
   "sbn-nyy": {
    "id": "sbn-nyy",
    "name": "Pinstripe Alley",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "etag": "W/\"63104afcb2fdee8758c76bb6e2c03d83\""
+   "etag": "W/\"6f5559ed75f0e7f6131a4f9a3cdd71d0\""
   },
   "sbn-tb": {
    "id": "sbn-tb",
    "name": "DRaysBay",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"7289a2dad31c6dcf574a608c576e66fe\""
   },
   "sbn-tor": {
    "id": "sbn-tor",
    "name": "Bluebird Banter",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"329c5b44793d8d5d1c951f92467e255d\""
   },
   "sbn-cws": {
    "id": "sbn-cws",
    "name": "South Side Sox",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"fa0bc7b4a8f1edd51d2c80bbae42c0fe\""
   },
   "sbn-cle": {
    "id": "sbn-cle",
    "name": "Covering the Corner",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"858e1208faf46d569dbc63b5c9ef91d2\""
   },
   "sbn-det": {
    "id": "sbn-det",
    "name": "Bless You Boys",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"a3b3138bc3dabc952f82bb8568904fe6\""
   },
   "sbn-kc": {
    "id": "sbn-kc",
    "name": "Royals Review",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"8f0239d7fbeef9917aed9b44754fc4aa\""
   },
   "sbn-min": {
    "id": "sbn-min",
    "name": "Twinkie Town",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"8a60a24be1fe562c609c986777b30059\""
   },
   "sbn-ath": {
    "id": "sbn-ath",
    "name": "Athletics Nation",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"5dbbe5eab6231d937468552507f62fe4\""
   },
   "sbn-hou": {
    "id": "sbn-hou",
    "name": "The Crawfish Boxes",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"107b4f4df69401706216c144d1694857\""
   },
   "sbn-sea": {
    "id": "sbn-sea",
    "name": "Lookout Landing",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"6ff1c15b03dcd5bc5eb6ac68139eec7a\""
   },
   "sbn-tex": {
    "id": "sbn-tex",
    "name": "Lone Star Ball",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"b1dd22d9201a9defacd07e8c3688ee4a\""
   },
   "sbn-atl": {
    "id": "sbn-atl",
    "name": "Battery Power",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"f0615eea386016781cc85ac19c43ec10\""
   },
   "sbn-nym": {
    "id": "sbn-nym",
    "name": "Amazin' Avenue",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "etag": "W/\"bcbdb3aecd6c0ca7abd546765f1937a4\""
+   "etag": "W/\"809f359877b6f6aa158a2a2198e20fc1\""
   },
   "sbn-phi": {
    "id": "sbn-phi",
    "name": "The Good Phight",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "etag": "W/\"fc1eb43853bd2059ae2b675e742cd014\""
+   "etag": "W/\"e6f382301dfaf1844353703abb1bcb0a\""
   },
   "sbn-wsh": {
    "id": "sbn-wsh",
    "name": "Federal Baseball",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"02b2e40fef5b22a11853d6384c4ebc84\""
   },
   "sbn-chc": {
    "id": "sbn-chc",
    "name": "Bleed Cubbie Blue",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "etag": "W/\"324b6d40db36c46fbdc8eaa766d0ed4a\""
+   "etag": "W/\"6f5559ed75f0e7f6131a4f9a3cdd71d0\""
   },
   "sbn-cin": {
    "id": "sbn-cin",
    "name": "Red Reporter",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"47db9a6acb892db36880ff4495d78dbf\""
   },
   "sbn-mil": {
    "id": "sbn-mil",
    "name": "Brew Crew Ball",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "etag": "W/\"53ddc4b6099d7b981f2135e296076238\""
+   "etag": "W/\"16119ba126a2f8760a9a0f6289d46b1d\""
   },
   "sbn-pit": {
    "id": "sbn-pit",
    "name": "Bucs Dugout",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"fd802f189def7acf6d2ab297ac0c3b58\""
   },
   "sbn-stl": {
    "id": "sbn-stl",
    "name": "Viva El Birdos",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "etag": "W/\"14d7b318548bb65a7d623d3ab73089f4\""
+   "etag": "W/\"7aade46ab29435a39d82248907562d33\""
   },
   "sbn-ari": {
    "id": "sbn-ari",
    "name": "AZ Snake Pit",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"5aa5cb4a62eac84ac750022bdb0485cb\""
   },
   "sbn-col": {
    "id": "sbn-col",
    "name": "Purple Row",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "etag": "W/\"a1b6af2d6198a5a6c4b2e70283a11f0e\""
+   "etag": "W/\"3074d3c73dff8092aab6742152ff8ba3\""
   },
   "sbn-lad": {
    "id": "sbn-lad",
    "name": "True Blue LA",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"2cea3bb25402f79839c69241d958350b\""
   },
   "sbn-sd": {
    "id": "sbn-sd",
    "name": "Gaslamp Ball",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "etag": "W/\"c14932a87376e42b6401a3b8801b9e3a\""
+   "etag": "W/\"3f4a0036a114d3dd22fdd2db5c4225c6\""
   },
   "sbn-sf": {
    "id": "sbn-sf",
    "name": "McCovey Chronicles",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
    "etag": "W/\"d8a85c3fabf6a1060d4423e220e942ca\""
   },
   "fishonfirst": {
    "id": "fishonfirst",
    "name": "Fish On First",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null,
-   "lastModified": "Fri, 27 Nov 2026 03:50:43 GMT"
+   "lastModified": "Fri, 27 Nov 2026 13:13:58 GMT"
   },
   "bsky-ken-rosenthal.bsky.social": {
    "id": "bsky-ken-rosenthal.bsky.social",
    "name": "Ken Rosenthal",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-jonheyman.bsky.social": {
    "id": "bsky-jonheyman.bsky.social",
    "name": "Jon Heyman",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-busterespn.bsky.social": {
    "id": "bsky-busterespn.bsky.social",
    "name": "Buster Olney",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-kileymcd.bsky.social": {
    "id": "bsky-kileymcd.bsky.social",
    "name": "Kiley McDaniel",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-chelseajanes.bsky.social": {
    "id": "bsky-chelseajanes.bsky.social",
    "name": "Chelsea Janes",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-joelsherman.bsky.social": {
    "id": "bsky-joelsherman.bsky.social",
    "name": "Joel Sherman",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-jaysonst.bsky.social": {
    "id": "bsky-jaysonst.bsky.social",
    "name": "Jayson Stark",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-evandrellich.bsky.social": {
    "id": "bsky-evandrellich.bsky.social",
    "name": "Evan Drellich",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-mikepetriello.bsky.social": {
    "id": "bsky-mikepetriello.bsky.social",
    "name": "Mike Petriello",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-bastianmlb.bsky.social": {
    "id": "bsky-bastianmlb.bsky.social",
    "name": "Jordan Bastian",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-adammccalvy.bsky.social": {
    "id": "bsky-adammccalvy.bsky.social",
    "name": "Adam McCalvy",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-jcmccaffrey.bsky.social": {
    "id": "bsky-jcmccaffrey.bsky.social",
    "name": "Jen McCaffrey",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-msheldon.bsky.social": {
    "id": "bsky-msheldon.bsky.social",
    "name": "Mark Sheldon",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-keeganmatheson.bsky.social": {
    "id": "bsky-keeganmatheson.bsky.social",
    "name": "Keegan Matheson",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-peteabeglobe.bsky.social": {
    "id": "bsky-peteabeglobe.bsky.social",
    "name": "Peter Abraham",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-susanslusser.bsky.social": {
    "id": "bsky-susanslusser.bsky.social",
    "name": "Susan Slusser",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-andrewbaggarly.bsky.social": {
    "id": "bsky-andrewbaggarly.bsky.social",
    "name": "Andrew Baggarly",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-brittghiroli.bsky.social": {
    "id": "bsky-brittghiroli.bsky.social",
    "name": "Britt Ghiroli",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-toddzolecki.bsky.social": {
    "id": "bsky-toddzolecki.bsky.social",
    "name": "Todd Zolecki",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-miguardado.bsky.social": {
    "id": "bsky-miguardado.bsky.social",
    "name": "Maria Guardado",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-lalbanese.bsky.social": {
    "id": "bsky-lalbanese.bsky.social",
    "name": "Laura Albanese",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-mitchbannon.bsky.social": {
    "id": "bsky-mitchbannon.bsky.social",
    "name": "Mitch Bannon",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-timbhealey.bsky.social": {
    "id": "bsky-timbhealey.bsky.social",
    "name": "Tim Healey",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-chandlerrome.bsky.social": {
    "id": "bsky-chandlerrome.bsky.social",
    "name": "Chandler Rome",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-timbritton.bsky.social": {
    "id": "bsky-timbritton.bsky.social",
    "name": "Tim Britton",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-jasonbeck.bsky.social": {
    "id": "bsky-jasonbeck.bsky.social",
    "name": "Jason Beck",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-markzuckerman.bsky.social": {
    "id": "bsky-markzuckerman.bsky.social",
    "name": "Mark Zuckerman",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-cmccosky.bsky.social": {
    "id": "bsky-cmccosky.bsky.social",
    "name": "Chris McCosky",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-jmjones.bsky.social": {
    "id": "bsky-jmjones.bsky.social",
    "name": "Jeff Jones",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-richdubroffmlb.bsky.social": {
    "id": "bsky-richdubroffmlb.bsky.social",
    "name": "Rich Dubroff",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-jefffletcherocr.bsky.social": {
    "id": "bsky-jefffletcherocr.bsky.social",
    "name": "Jeff Fletcher",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-fabianardaya.bsky.social": {
    "id": "bsky-fabianardaya.bsky.social",
    "name": "Fabian Ardaya",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-matthewhleach.bsky.social": {
    "id": "bsky-matthewhleach.bsky.social",
    "name": "Matthew Leach",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   },
   "bsky-timstebbins.bsky.social": {
    "id": "bsky-timstebbins.bsky.social",
    "name": "Tim Stebbins",
-   "lastSuccessAt": "2026-11-27T03:50:31.419Z",
+   "lastSuccessAt": "2026-11-27T13:13:57.083Z",
    "lastError": null
   }
  }
